@@ -1,4 +1,4 @@
 Reference-style:
 ![alt text][logo]
 
-[logo]: (https://gochiusa.com/core_sys/images/main/cont/special/v/2022/chino.png), "C"
+[logo]: (https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/btc_img/a01_GFB.png), "C"
