@@ -9,14 +9,14 @@ $${\textcolor{#00BEFF}{Gaster - Fossil - Blaster}}$$
 
 $${\textcolor{#FFC32B}{Spamor - Jarl - Lance}}$$
 <p align="center">
-  img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/btc_img/a01_GFB.png"
+  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/btc_img/b02_SJL.png">
 </p>
 
 ---
 
-$${\textcolor{#00BEFF}{Accesive - Virtual - Drill}}$$
+$${\textcolor{#FF1B39}{Accesive - Virtual - Drill}}$$
 <p align="center">
-  img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/btc_img/a01_GFB.png"
+  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/btc_img/c03_AVD.png">
 </p>
 
 ---
@@ -37,6 +37,6 @@ $${\textcolor{#FF1B39}{Hunfle - Paperbag - Winchester}}$$
 
 $${\textcolor{#6A96FF}{Clovin - Trickster - Eldritch}}$$
 <p align="center">
-  img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/btc_img/a01_GFB.png"
+  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/btc_img/ff06_CloTriEld.png">
 </p>
 ---
