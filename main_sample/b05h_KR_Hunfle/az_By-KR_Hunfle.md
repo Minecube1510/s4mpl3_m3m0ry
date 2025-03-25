@@ -4,4 +4,4 @@
 
 ---
 
-$${\textcolor{#B651FF}{Proposition - 100}}$$
+$${\textcolor{#B651FF}{Kamen \ Rider \ Hunfle}}$$
