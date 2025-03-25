@@ -4,4 +4,4 @@
 
 ---
 
-$${\textcolor{#6A96FF}{Proposition - 100}}$$
+$${\textcolor{#6A96FF}{Kamen \ Rider \ Clovin}}$$
