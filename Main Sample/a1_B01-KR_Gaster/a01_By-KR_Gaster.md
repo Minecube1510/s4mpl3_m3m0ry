@@ -9,7 +9,8 @@
 # X
 
 >
--
+
+---
 
 # $${\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}$$
 
@@ -41,6 +42,8 @@ Decepticon Megaempress<br>
 Decepticon Lyzack
 
 # X
+
+---
 
 >
 -
