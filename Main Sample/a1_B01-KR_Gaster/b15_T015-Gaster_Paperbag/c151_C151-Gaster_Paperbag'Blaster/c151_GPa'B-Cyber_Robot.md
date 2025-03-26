@@ -100,32 +100,32 @@ Ini si dua muka nih. Yang ternyata dia ikutnya k Quintessons, musuh para Transfo
 Round 1-2
 ------
 
-### x
-- [?]
+### (Autobot Scattershot vs Autobot Optimus Prime)
+- [627 vs 625] ()
 > Optimus Prime sebagai pemimpin yang bijaksana dan kuat memiliki keunggulan strategis dan kekuatan tempur yang lebih besar dibandingkan Scattershot.
 
-### x
-- [?]
+### (Decepticon Onslaught vs Decepticon Motormaster)
+- [638 vs 639] ()
 > Sky Lynx memiliki lebih banyak mode dan fleksibilitas dalam pertempuran, termasuk kemampuan penjelajah luar angkasa, dibandingkan Silverbolt.
 
-### x
-- [?]
+### (Autobot Silverbolt vs Autobot Sky Lynx)
+- [628 vs 630] ()
 > Brainstorm dengan kecerdasan dan inovasinya memberikan keunggulan strategis dan taktis dibandingkan Cliffjumper yang lebih fokus pada rekognisi.
 
-### x
-- [?]
+### (Decepticon Hun-gurrr vs Decepticon Mega-Octane)
+- [641 vs 644] ()
 > Doubledealer dengan tiga mode dan kemampuan terbang memberinya fleksibilitas dan keunggulan tempur yang lebih besar dibandingkan Bludgeon.
 
-### x
-- [?]
+### (Autobot Brainstorm vs Autobot Cliffjumper)
+- [633 vs 634] ()
 > Motormaster memiliki kekuatan fisik dan ketangguhan yang lebih besar serta rivalitasnya dengan Optimus Prime memberinya keunggulan dibandingkan Onslaught.
 
-### x
-- [?]
+### (Autodecept Doubledealer vs Decepticon Bludgeon)
+- [636 vs 645] ()
 > Hun-gurrr dengan mode naga berkepala dua memiliki kekuatan dan keagresifan yang lebih besar dibandingkan Mega-Octane yang lebih strategis.
 
-### x
-- [?]
+### (Decepticon Megaempress vs Autobot Elita-1)
+- [649 vs 647] ()
 > Megaempress dengan kekuatan besar dan peran kepemimpinan yang kuat memiliki keunggulan tempur dibandingkan Elita-1 yang lebih fokus pada kepemimpinan.
 
 ---
@@ -134,7 +134,7 @@ Round 2-1
 ------
 
 ### x
-- [?]
+- [?] ()
 > ?
 
 
@@ -142,7 +142,7 @@ Round 2-2
 ------
 
 ### x
-- [?]
+- [?] ()
 > ?
 
 
@@ -150,7 +150,7 @@ Round 2-3
 ------
 
 ### x
-- [?]
+- [?] ()
 > ?
 
 ---
