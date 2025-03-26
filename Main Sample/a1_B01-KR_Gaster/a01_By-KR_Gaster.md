@@ -5,7 +5,6 @@
 ---
 
 # $${\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}$$
--
 
 Autobot Optimus Prime<br>
 Autobot Hot Spot<br>
@@ -33,6 +32,8 @@ Autobot Elita-1<br>
 Autobot Chromia<br>
 Decepticon Megaempress<br>
 Decepticon Lyzack
+
+[1-5-1]
 -
 
 >
