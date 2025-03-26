@@ -12,7 +12,7 @@
 
 ---
 
-### $${\textcolor{#B651FF}{Kamen \ Rider \ Hunfle}}$$
+### $${\textcolor{#B651FF}{CS}}$$
 
 - $${\textcolor{#00BEFF}{Blaster}}$$
 
