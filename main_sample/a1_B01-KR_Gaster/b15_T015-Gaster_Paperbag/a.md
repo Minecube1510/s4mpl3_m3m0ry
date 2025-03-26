@@ -4,4 +4,4 @@
 
 ---
 
-$${\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}$$
+$${\textcolor{#00BEFF}{Gaster's \ Fossil}}$$
