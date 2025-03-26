@@ -1,2 +1,6 @@
 Disinilah tempat menyimpan sementara para sampel-sampel itu...
-.
+
+---
+
+Add...
+-
