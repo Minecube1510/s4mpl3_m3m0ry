@@ -7,5 +7,5 @@
 ---
 
 $${\textcolor{#00BEFF}{Gaster's}}$$
-$${\textcolor{#00BEFF}{Gaster's}}$$
-$${\textcolor{#00BEFF}{Gaster's}}$$
+$${\textcolor{#B651FF}{Paperbag}}$$
+$${\textcolor{#00BEFF}{Blaster}}$$
