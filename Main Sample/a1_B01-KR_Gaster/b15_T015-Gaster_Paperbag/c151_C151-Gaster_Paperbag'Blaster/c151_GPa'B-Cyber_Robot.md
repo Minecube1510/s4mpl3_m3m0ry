@@ -37,6 +37,64 @@
 
 ---
 
-l
+(Autobot Hot Spot vs Autobot Scattershot)
+------
+- [626 vs 627]
+> ?
+
+(Autobot Silverbolt vs Dinobot Skar)
+------
+- [628 vs 629]
+> ?
+
+(Autobot Sky Lynx vs Autobot Jazz)
+------
+- [630 vs 631]
+> ?
+
+(Autobot Blaster vs Autobot Brainstorm)
+------
+- [632 vs 633]
+> ?
+
+(Autobot Cliffjumper vs Autobot Cosmos)
+------
+- [634 vs 635]
+> ?
+
+(Decepticon Megaempress vs Decepticon Lyzack)
+------
+- [649 vs 650]
+> ?
+
+(Decepticon Hook vs Decepticon Onslaught)
+------
+- [637 vs 638]
+> ?
+
+(Decepticon Motormaster vs Decepticon Leozack)
+------
+- [639 vs 640]
+> ?
+
+(Decepticon Hun-gurrr vs Decepticon Razorclaw)
+------
+- [641 vs 642]
+> ?
+
+(Decepticon Halfshell vs Decepticon Mega-Octane)
+------
+- [643 vs 644]
+> ?
+
+(Decepticon Bludgeon vs Autobot Pyra Magna)
+------
+- [645 vs 646]
+> ?
+
+(Autobot Elita-1 vs Autobot Chromia)
+------
+- [647 vs 648]
+> ?
 
 ---
