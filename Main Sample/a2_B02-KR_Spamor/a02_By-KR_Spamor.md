@@ -6,6 +6,16 @@
 
 ---
 
-$${\textcolor{#FFC32B}{Kamen \ Rider \ Spamor}}$$
+# $${\textcolor{#FFC32B}{Kamen \ Rider \ Spamor}}$$
+
+1. x
+
+---
+
+### $${\textcolor{#FFC32B}{CS}}$$
+
+- $${\textcolor{#00BEFF}{Blaster}}$$
+
+xxx. Add...
 
 ---
