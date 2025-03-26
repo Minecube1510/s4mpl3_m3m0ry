@@ -43,7 +43,7 @@
 
 - $${\textcolor{#00BEFF}{Blaster}}$$
 
-Add...
+xxx. Add...
 
 ---
 
@@ -84,8 +84,6 @@ Add...
 
 - $${\textcolor{#00BEFF}{Blaster}}$$
 
-Add...
-
----
+xxx. Add...
 
 ---
