@@ -10,29 +10,33 @@ $${\textcolor{#00BEFF}{Gaster's}}$$
 $${\textcolor{#B651FF}{Paperbag}}$$
 -
 
-Autobot Optimus Prime
-Autobot Hot Spot
-Autobot Scattershot
-Autobot Silverbolt
-Dinobot Skar
-Autobot Sky Lynx
-Autobot Jazz
-Autobot Blaster
-Autobot Brainstorm
-Autobot Cliffjumper
-Autobot Cosmos
-Autodecept Doubledealer
-Decepticon Hook
-Decepticon Onslaught
-Decepticon Motormaster
-Decepticon Leozack
-Decepticon Hun-gurrr
-Decepticon Razorclaw
-Decepticon Halfshell
-Decepticon Mega-Octane
-Decepticon Bludgeon
-Autobot Pyra Magna
-Autobot Elita-1
-Autobot Chromia
-Decepticon Megaempress
+Autobot Optimus Prime<br>
+Autobot Hot Spot<br>
+Autobot Scattershot<br>
+Autobot Silverbolt<br>
+Dinobot Skar<br>
+Autobot Sky Lynx<br>
+Autobot Jazz<br>
+Autobot Blaster<br>
+Autobot Brainstorm<br>
+Autobot Cliffjumper<br>
+Autobot Cosmos<br>
+Autodecept Doubledealer<br>
+Decepticon Hook<br>
+Decepticon Onslaught<br>
+Decepticon Motormaster<br>
+Decepticon Leozack<br>
+Decepticon Hun-gurrr<br>
+Decepticon Razorclaw<br>
+Decepticon Halfshell<br>
+Decepticon Mega-Octane<br>
+Decepticon Bludgeon<br>
+Autobot Pyra Magna<br>
+Autobot Elita-1<br>
+Autobot Chromia<br>
+Decepticon Megaempress<br>
 Decepticon Lyzack
+
+---
+
+>
