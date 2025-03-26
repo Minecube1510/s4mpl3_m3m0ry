@@ -13,43 +13,43 @@
 
 ### $${\textcolor{#00BEFF}{Blaster}}$$
 
-Autobot Optimus Prime<br>
-Autobot Hot Spot<br>
-Autobot Scattershot<br>
-Autobot Silverbolt<br>
-Dinobot Skar<br>
-Autobot Sky Lynx<br>
-Autobot Jazz<br>
-Autobot Blaster<br>
-Autobot Brainstorm<br>
-Autobot Cliffjumper<br>
-Autobot Cosmos<br>
-Autodecept Doubledealer<br>
-Decepticon Hook<br>
-Decepticon Onslaught<br>
-Decepticon Motormaster<br>
-Decepticon Leozack<br>
-Decepticon Hun-gurrr<br>
-Decepticon Razorclaw<br>
-Decepticon Halfshell<br>
-Decepticon Mega-Octane<br>
-Decepticon Bludgeon<br>
-Autobot Pyra Magna<br>
-Autobot Elita-1<br>
-Autobot Chromia<br>
-Decepticon Megaempress<br>
-Decepticon Lyzack
+625. Autobot Optimus Prime
+626. Autobot Hot Spot
+627. Autobot Scattershot
+628. Autobot Silverbolt
+629. Dinobot Skar
+630. Autobot Sky Lynx
+631. Autobot Jazz
+632. Autobot Blaster
+633. Autobot Brainstorm
+634. Autobot Cliffjumper
+635. Autobot Cosmos
+636. Autodecept Doubledealer
+637. Decepticon Hook
+638. Decepticon Onslaught
+639. Decepticon Motormaster
+640. Decepticon Leozack
+641. Decepticon Hun-gurrr
+642. Decepticon Razorclaw
+643. Decepticon Halfshell
+644. Decepticon Mega-Octane
+645. Decepticon Bludgeon
+646. Autobot Pyra Magna
+647. Autobot Elita-1
+648. Autobot Chromia
+649. Decepticon Megaempress
+650. Decepticon Lyzack
 
 ---
 
 ### $${\textcolor{#00BEFF}{XXX}}$$
 
-x
+651. x
 
 ---
 
 ### $${\textcolor{#00BEFF}{XXX}}$$
 
-x
+xxx. x
 
 ---
