@@ -115,7 +115,7 @@ Round 1-2
 ------
 
 ### (Autobot Scattershot vs Autobot Optimus Prime)
-- [627 vs 625]
+- [625 vs 627]
 - [625] - (Autobot Optimus Prime)
 > Optimus Prime sebagai pemimpin yang bijaksana dan kuat memiliki keunggulan strategis dan kekuatan tempur yang lebih besar dibandingkan Scattershot.
 
