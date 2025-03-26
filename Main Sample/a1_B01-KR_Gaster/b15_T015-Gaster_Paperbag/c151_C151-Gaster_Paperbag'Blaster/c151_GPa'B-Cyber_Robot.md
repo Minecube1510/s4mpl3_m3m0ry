@@ -42,51 +42,51 @@ Round 1-1
 
 ### (Autobot Hot Spot vs Autobot Scattershot)
 - [626 vs 627] (Scattershot)
-> Scattershot dengan keunggulannya sebagai tipe udara, serta jangkauan senjata membuatnya bisa menghindari serangan Hot Spot. Selain itu, Scattershot juga lebih pintar dalam hal perteknologian.
+> Scattershot memiliki keunggulan dengan tiga mode (Humanoid, Pesawat, Meriam) dan lebih fleksibel dalam pertempuran dibandingkan dengan Hot Spot yang hanya memiliki dua mode.
 
 ### (Autobot Silverbolt vs Dinobot Skar)
 - [628 vs 629] (Silverbolt)
-> Serangan udara dari Silverbolt yang sangat tinggi. Daripada Skar yang cuma Dinobot, meski lebih pintar sih, tapi dia mokad oleh "kawanannya sendiri".
+> Silverbolt memiliki kecepatan dan kemampuan udara yang lebih unggul dibandingkan Skar, meskipun Skar memiliki keahlian medis yang jenius dan bentuk Ankylosaurus.
 
 ### (Autobot Sky Lynx vs Autobot Jazz)
 - [630 vs 631] (Sky Lynx)
-> Ukuran dan daya penghancurnya Sky Lynx terlalu besar untuk dihadapi Jazz. Lagi pula Sky Lynx ini memang bijaksana selain hanya sekedar carrier raksasa. Yang mana dia juga mode alter-nya dibilang cukup unik. Sky Lynx bisa berpecah menjadi dua.
+> Sky Lynx dengan berbagai mode dan kemampuan penjelajah luar angkasa membuatnya lebih dominan dibandingkan Jazz yang lebih terfokus pada operasi khusus.
 
 ### (Autobot Blaster vs Autobot Brainstorm)
 - [632 vs 633] (Brainstorm)
-> Brainstorm memiliki lebih pada kecerdikannya daripada Blaster, meski Blaster ini kayak si Soundwave.
+> Brainstorm dengan kecerdasan dan inovasinya memberikan keunggulan strategis dibandingkan Blaster yang lebih fokus pada komunikasi.
 
 ### (Autobot Cliffjumper vs Autobot Cosmos)
 - [634 vs 635] (Cliffjumper)
-> Pertarungan darat menguntungkan gaya serangan cepatnya Cliffjumper, dibandingkan dengan Cosmos yang cuma bisa terbang jadi UFO. Selain itu, Cliffjumper lebih ngikut bersama Optimus Prime.
+> Cliffjumper memiliki kecepatan dan ketangguhan dalam pertempuran jarak dekat, sedangkan Cosmos lebih cocok untuk pengintaian daripada pertempuran langsung.
 
 ### (Decepticon Megaempress vs Decepticon Lyzack)
 - [649 vs 650] (Megaempress)
-> Kekuatan dan otoritasnya Megaempress (satu-satunya leader cewek yang jahat. Pyra Magna rasa Megatron), beda ama Lyzack yang hanya kayak 'rumah tangga'-an doang di rumah.
+> Megaempress memiliki kekuatan besar dan peran kepemimpinan yang lebih kuat dibandingkan Lyzack yang meskipun tangguh, memiliki kekuatan yang lebih rendah, dan juga hanya kayak 'rumah tangga'-an doang di rumah.
 
 ### (Decepticon Hook vs Decepticon Onslaught)
 - [637 vs 638] (Onslaught)
-> Strategi dan persenjataannya Onslaught jauh lebih mematikan daripada Hook yang cuma kuli.
+> Onslaught sebagai pemimpin Combaticons memiliki strategi militer dan kekuatan yang lebih baik dibandingkan Hook yang lebih fokus pada konstruksi.
 
 ### (Decepticon Motormaster vs Decepticon Leozack)
 - [639 vs 640] (Motormaster)
-> Tenaga dan ketahanannya Motormaster, meski Leozack punya partner. Tapi Motormaster lebih ganas daripada Leozack, mungkin Leozack dan partnernya (LionBreast) gak bisa menandingi kehebatannya.
+> Motormaster dengan kekuatan dan perannya sebagai rival Optimus Prime memberikan keunggulan dibandingkan Leozack yang lebih tangguh di udara.
 
 ### (Decepticon Hun-gurrr vs Decepticon Razorclaw)
 - [641 vs 642] (Hun-gurrr)
-> Hun-Gurrr memiliki 3 mode alter (yang satunya terbatalkan), gak seperti Razorclaw.
+> Hun-gurrr dengan mode naga berkepala dua memiliki kekuatan dan keagresifan yang lebih besar dibandingkan Razorclaw. Selain itu, Hun-Gurrr punya mode satu lagi, artinya Hun-Gurrr adalah seorang Triple Changer.
 
 ### (Decepticon Halfshell vs Decepticon Mega-Octane)
 - [643 vs 644] (Mega-Octane)
-> Daya hancur senjatanya Mega-Octane, karena Mega-Octane emang militer (imitasi Bruticus, Onslaught sih). Beda ama Halfshell yang meski Seacon, tapi dia gak sekuat Mega-Octane.
+> Mega-Octane dengan strategi militer dan kekuatan sebagai pemimpin Commandos memberikan keunggulan dibandingkan Halfshell yang lebih fokus pada kombinasi.
 
 ### (Decepticon Bludgeon vs Autobot Pyra Magna)
-- [645 vs 646] (Pyra Magna)
-> Pengalaman tempur dan artileri tanknya Bludgeon memang unggul, terutama tekniknya (Metalliko). Meski Pyra Magna memang gede, kesetiaannya sang 'dewi api', namun Bludgeon adalah villain utama.
+- [645 vs 646] (Bludgeon)
+> Bludgeon dengan kemampuan bela diri (Metallikato) dan kekuatan tank memberikan keunggulan dibandingkan Pyra Magna.
 
 ### (Autobot Elita-1 vs Autobot Chromia)
 - [647 vs 648] (Elita-1)
-> Kepemimpinan dan pengalamannya lebih unggul Elita-1 (ya lah, dia aja MC). Meski Chromia pemenang Iacon 5000 sih.
+> Elita-1 dengan kekuatan kepemimpinannya dan kemampuannya sebagai combiner Orthia memberikan keunggulan dibandingkan Chromia yang lebih fokus pada infiltrasi. Sekaligus juga MCC di TFO. Meski Chromia pemenang Iacon 5000 sih.
 
 
 
