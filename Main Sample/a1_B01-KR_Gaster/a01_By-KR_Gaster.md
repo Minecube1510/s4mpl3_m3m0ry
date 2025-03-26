@@ -31,4 +31,7 @@ Autobot Pyra Magna<br>
 Autobot Elita-1<br>
 Autobot Chromia<br>
 Decepticon Megaempress<br>
-Decepticon Lyzack<br>
+Decepticon Lyzack
+-
+
+>
