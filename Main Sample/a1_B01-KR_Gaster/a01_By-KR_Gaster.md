@@ -7,6 +7,50 @@
 
 # $${\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}$$
 
+1. 001-006
+> GPaB
+
+> GPaL, GPaD, GPaKa, GPaWi, GPa_Eld
+
+2. 007-012
+> xxx
+
+> xxx
+
+3. 013-018
+> xxx
+
+> xxx
+
+4. 019-024
+> xxx
+
+> xxx
+
+5. 025-030
+> xxx
+
+> xxx
+
+6. 031-036
+> xxx
+
+> xxx
+
+---
+
+### $${\textcolor{#00BEFF}{Coming\ Soon}}$$
+
+- $${\textcolor{#00BEFF}{Blaster}}$$
+
+Add...
+
+---
+
+### $${\textcolor{#00BEFF}{Cyber\ Robot}}$$
+
+- $${\textcolor{#00BEFF}{Blaster}}$$
+
 Autobot Optimus Prime<br>
 Autobot Hot Spot<br>
 Autobot Scattershot<br>
@@ -36,8 +80,10 @@ Decepticon Lyzack
 
 ---
 
-# X
+### $${\textcolor{#00BEFF}{Coming\ Soon}}$$
 
-xxx
+- $${\textcolor{#00BEFF}{Blaster}}$$
+
+Add...
 
 ---
