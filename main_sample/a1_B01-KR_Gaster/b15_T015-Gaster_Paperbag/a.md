@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/btc_img/a01_GFB.png", width="100">
+  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/btc_img/e05_HPW.png", width="100">
 </p>
+
 
 ---
 
-$${\textcolor{#00BEFF}{Gaster's \ Fossil}}$$
+$${\textcolor{#00BEFF}{Gaster's}}$$
+$${\textcolor{#00BEFF}{Gaster's}}$$
+$${\textcolor{#00BEFF}{Gaster's}}$$
