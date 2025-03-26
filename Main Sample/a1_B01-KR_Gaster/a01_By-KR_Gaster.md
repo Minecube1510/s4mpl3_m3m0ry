@@ -5,3 +5,7 @@
 ---
 
 $${\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}$$
+
+---
+
+.
