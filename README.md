@@ -20,16 +20,22 @@ Karena:
 > (**MuchOrderyName**) = "**Jumlah Nama Data** (*FuncDataName*)" + "**Jumlah Gelar-Gelar Data** (*FuncDataCodeName*)"<br>
 > (**nnXn**) = **Inisial huruf/angka, karakter awal dari Nama Data** (*Identificicative*)<br>
 > (**nnnX**) = **Tingkat urutan berdasarkan angka** (*TyperListData*)-([***a-z***], yang kecil)
-- Contoh: "***69Oi***"
+- Contoh: "***69Ei***"
 
 > [***69***]<br>
-> (Misalnya panjang namanya kemungkinan sekitar 14), dan (Misalnya panjang semua gelarnya kalo disatuin, jadinya 55).<br>
+> Misalnya panjang namanya kemungkinan sekitar ***14***.<br>
+> |<br>
+> Misalnya panjang semua gelarnya kalo disatuin, jadinya ***55***.<br>
+> Selain namanya, juga punya gelar seperti:<br>
+> "*Smothie yang sejuk*, *Pengenyang Perut*, dan *Nirhabisan*".<br>
+> Gelar itu semua, kurang lebih sekitar **55**.<br>
+> |<br>
 > Maka bila ditambah **(14 + 55)**, maka hasilnya adalah **69**.
 
 > [***E***]<br>
-> (Misalnya namanya '*Elegian Smothie*')
+> Misalnya namanya '*Elegian Smothie*'.
 
 > [***i***]<br>
-> (4)
+> Misalnya, dia berada di 'baris ke-*9*' dalam tampungan BTC-nya, maka dia jadinya di '***i***'.
 
 - Untuk '*FirstList_Sign_QFM*', bisa ditemukan pada [***'Sampel Memori 2'***](https://docs.google.com/spreadsheets/d/1zLfmoWbyX3uObGxpigM-m-7OviPcki7hWT1SjPG9ZI8/edit?usp=sharing).
