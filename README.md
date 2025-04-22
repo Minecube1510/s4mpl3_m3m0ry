@@ -11,8 +11,19 @@
 
 Karena:
 - _**[Bunch] terdiri dari [6] 'Type'**_
+> Bunch sendiri adalah nama **Kamen Rider**. Yakni terdapat 6 Kamen Rider terdaftarkan di sini.
+
+>> ***Gaster***, ***Spamor***, ***Accesive***, ***Mistress***, ***Hunfle***, ***Clovin***
+
 - _**[Type] terdiri dari [6] 'Category'**_
+> Type adalah .
+
+>> ***Fossil***, ***Jarl***, ***Virtual***, ***Raincoat***, ***Paperbag***, ***Trickster***
+
 - _**[Category] terdiri dari [26] 'Sampel'**_
+> Category adalah .
+
+>> ***Blaster***, ***Lance***, ***Drill***, ***Kama***, ***Winchester***, ***Eldritch***
 
 
 ## Aturan
@@ -31,7 +42,9 @@ Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya ber
 >> (**nnnX**) <br>
 >> **Tingkat urutan berdasarkan angka** (*TyperListData*)-([***a-z***], yang kecil)
 
-- Contoh: "***69Ei***"
+- Contoh: <br>
+[ ***69Ei*** ]
+
 > [***69***] <br>
 >> Misalnya panjang namanya kemungkinan sekitar ***14***. <br>
 >> Misalnya panjang semua gelarnya kalo disatuin, jadinya ***55***.
@@ -51,6 +64,11 @@ Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya ber
 > - Untuk '*FirstList_Sign_QFM*', bisa ditemukan pada [***'Sampel Memori 2'***](https://docs.google.com/spreadsheets/d/1zLfmoWbyX3uObGxpigM-m-7OviPcki7hWT1SjPG9ZI8/edit?usp=sharing).
 
 2. **Nama File Depanan** <br>
+Kenapa ini penting? Agar nanti kalo mau masuk ke File Manager, biar gampang ***Auto-Sort***-nya. <br>
+Kenapa harus ada Auto-Sort? Agar enak pas nyarinya.
+  - **Xxx** <br>
+x
+  - **xXX** <br>
 x
 
 3. **Nama File ...** <br>
@@ -62,16 +80,19 @@ x
 5. **Nama File ...** <br>
 x
 
+6. **Nama File ...** <br>
+x
+
 
 ## B. Penamaan Folder...
 Kayak namanya, "**Folder**". Yang artinya, menyimpan banyak file-file, bahkan folder itu sendiri.
 
 1. **Folder Utama** <br>
 Folder utama disini ialah
-- **Main Sample** <br>
-a
-- **Coming Soon** <br>
-a
+- ***"Main Sample"*** <br>
+Isinya adalah tentang para Sampel-Sampel. Jadi folder ini adalah folder utama disini.
+- **File Gambar** <br>
+Ini... Hanya isi gambar doang kok.
 
 
 ## C. Nanti dulu...
