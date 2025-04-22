@@ -15,16 +15,20 @@ Karena:
 
 ***ATURAN***
 ---
-- Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya berdasarkan **'FirstList_Sign_QFM'**!
+1. Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya berdasarkan **'FirstList_Sign_QFM'**!
 > **FirstList_Sign_QFM** itu:<br>
 > (**MuchOrderyName**) = "**Jumlah Nama Data** (*FuncDataName*)" + "**Jumlah Gelar-Gelar Data** (*FuncDataCodeName*)"<br>
 > (**nnXn**) = **Inisial huruf/angka, karakter awal dari Nama Data** (*Identificicative*)<br>
 > (**nnnX**) = **Tingkat urutan berdasarkan angka** (*TyperListData*)-([***a-z***], yang kecil)
+- Contoh: "***69Oi***"
 
-> Contoh:<br>
-> "***69Oi***"<br>
-> [***69***] adalah (12)<br>
-> [***O***] adalah (3)<br>
-> [***i***] adalah (4)
+> [***69***]<br>
+> (Misalnya panjang namanya kemungkinan sekitar 34)
 
-> Untuk '*FirstList_Sign_QFM*', bisa ditemukan pada [***'Sampel Memori 2'***](https://docs.google.com/spreadsheets/d/1zLfmoWbyX3uObGxpigM-m-7OviPcki7hWT1SjPG9ZI8/edit?usp=sharing).
+> [***O***]<br>
+> (3)
+
+> [***i***]<br>
+> (4)
+
+- Untuk '*FirstList_Sign_QFM*', bisa ditemukan pada [***'Sampel Memori 2'***](https://docs.google.com/spreadsheets/d/1zLfmoWbyX3uObGxpigM-m-7OviPcki7hWT1SjPG9ZI8/edit?usp=sharing).
