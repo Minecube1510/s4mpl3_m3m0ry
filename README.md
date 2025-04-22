@@ -17,8 +17,8 @@ Karena:
 ---
 - Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya berdasarkan **'FirstList_Sign_QFM'**!
 > **FirstList_Sign_QFM** itu:<br>
-> (**MuchOrderyName**) = .<br>
-> (**b**) = "**Jumlah Nama Data** (*FuncDataName*)" + "x".<br>
-> (**c**) = "x" + "x'.
+> (**MuchOrderyName**) = "**Jumlah Nama Data** (*FuncDataName*)" + "**Jumlah Gelar-Gelar Data** (*FuncDataCodeName*)"<br>
+> (**nnXn**) = "x"<br>
+> (**nnnX**) = "x"
 
 > Untuk 'FirstList_Sign_QFM', bisa ditemukan pada [*'Sampel Memori 2'*](https://docs.google.com/spreadsheets/d/1zLfmoWbyX3uObGxpigM-m-7OviPcki7hWT1SjPG9ZI8/edit?usp=sharing).
