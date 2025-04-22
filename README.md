@@ -23,10 +23,11 @@ Karena:
 - Contoh: "***69Oi***"
 
 > [***69***]<br>
-> (Misalnya panjang namanya kemungkinan sekitar 34)
+> (Misalnya panjang namanya kemungkinan sekitar 14), dan (Misalnya panjang semua gelarnya kalo disatuin, jadinya 55).<br>
+> Maka bila ditambah **(14 + 55)**, maka hasilnya adalah **69**.
 
-> [***O***]<br>
-> (3)
+> [***E***]<br>
+> (Misalnya namanya '*Elegian Smothie*')
 
 > [***i***]<br>
 > (4)
