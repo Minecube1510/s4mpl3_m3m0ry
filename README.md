@@ -44,10 +44,16 @@ Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya ber
 
 - Untuk '*FirstList_Sign_QFM*', bisa ditemukan pada [***'Sampel Memori 2'***](https://docs.google.com/spreadsheets/d/1zLfmoWbyX3uObGxpigM-m-7OviPcki7hWT1SjPG9ZI8/edit?usp=sharing).
 
-2. **Coming soon** <br>
+2. **Nama File Depanan** <br>
 x
 
-3. **Coming soon** <br>
+3. **Nama File ...** <br>
+x
+
+4. **Nama File ...** <br>
+x
+
+5. **Nama File ...** <br>
 x
 
 
