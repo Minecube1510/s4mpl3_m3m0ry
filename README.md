@@ -17,41 +17,51 @@ Yakni terdapat 6 Kamen Rider terdaftarkan di sini:
 > ***Gaster*** <br>
 ```
 Q: Siapa itu Gaster?
-A: Gaster, dia anaknya Gaster (penggunanya adalah Sans).
+A: Gaster, dia anaknya Gaster (penggunanya adalah Lazybone 'Sans').
  + Kayak mirip-mirip Genm ini, namanya dari Genm Corp. yang mana nama perusahaannya, perusahaannya ini milik ayahnya.
 
-Q: ?
-A: .
+Q: Dia bisa apa?
+A: Kalo kamu tau Sans, seperti itu lah dia. Senjata utama dia adalah pedang, sesekali barengan dengan pistol, tetapi dia lebih utama dengan pedang.
 ```
 
 > ***Spamor*** <br>
 ```
 Q: Siapa itu Spamor?
-A: Spamor, dia adalah .
+A: Spamor, dia adalah si ksatria yang bisa ngurusin uang- Oh! Gak lupa pula, dia adalah vampir. Dia adalah Lazuli Dracire.
+
+.
 ```
 
 > ***Accesive*** <br>
 ```
 Q: Siapa itu Accesive?
-A: Accesive, .
+A: Accesive, dia adalah gadis merah virus (tukang matre). Dia adalah Hanaka "Hanama" Vira.
+
+.
 ```
 
 > ***Mistress*** <br>
 ```
 Q: Siapa itu Mistress?
 A: Mistress, .
+
+.
 ```
 
 > ***Hunfle*** <br>
 ```
 Q: Siapa itu Hunfle?
 A: Hunfle, .
+
+.
 ```
 
 > ***Clovin*** <br>
 ```
 Q: Siapa itu Clovin?
 A: Clovin, .
+
+.
 ```
 
 - _**[Type] terdiri dari [6] 'Category'**_ <br>
