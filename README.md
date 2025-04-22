@@ -21,8 +21,8 @@ A: Gaster, dia anaknya Gaster (penggunanya adalah Lazybone 'Sans').
  + Kayak mirip-mirip Genm ini, namanya dari Genm Corp. yang mana nama perusahaannya, perusahaannya ini milik ayahnya.
 
 [!] Lazybone Sans terbagi 2 didalamnya:
-- Sans: Ini lah sosok tengkorak utama.
-- Scuty: Ini lah sosok manusianya.
+- Lazybone Sans: Dia lah sosok tengkorak utama.
+- UY (Yuwai) Scuty: Dia lah sosok manusianya.
 
 Q: Dia bisa apa?
 A: Kalo kamu tau Sans, seperti itu lah dia. Senjata utama dia adalah pedang, sesekali barengan dengan pistol, tetapi dia lebih utama dengan pedang.
@@ -33,11 +33,12 @@ A: Kalo kamu tau Sans, seperti itu lah dia. Senjata utama dia adalah pedang, ses
 Q: Siapa itu Spamor?
 A: Spamor, dia adalah si ksatria yang bisa ngurusin uang- Oh! Gak lupa pula, dia adalah vampir. Dia adalah Lazuli Dracire.
 
-[!] . terbagi 2 didalamnya:
-- x: .
-- x: .
+[!] Lazuli Dracire terbagi 2 didalamnya:
+- Lazuli: Dia lah sosok manusia ksatria dari dunianya.
+- Dracire: Dia dari .
 
-.
+Q: Dia bisa apa?
+A: .
 ```
 
 > ***Accesive*** <br>
@@ -45,11 +46,12 @@ A: Spamor, dia adalah si ksatria yang bisa ngurusin uang- Oh! Gak lupa pula, dia
 Q: Siapa itu Accesive?
 A: Accesive, dia adalah gadis merah virus (tukang matre). Dia adalah Hanaka "Hanama" Vira.
 
-[!] . terbagi 2 didalamnya:
-- x: .
-- x: .
+[!] Hanama terbagi 2 didalamnya:
+- Hanaka: Dia lah .
+- Vira: Dia lah .
 
-.
+Q: Dia bisa apa?
+A: .
 ```
 
 > ***Mistress*** <br>
@@ -57,7 +59,8 @@ A: Accesive, dia adalah gadis merah virus (tukang matre). Dia adalah Hanaka "Han
 Q: Siapa itu Mistress?
 A: Mistress, .
 
-.
+Q: Dia bisa apa?
+A: .
 ```
 
 > ***Hunfle*** <br>
@@ -65,7 +68,8 @@ A: Mistress, .
 Q: Siapa itu Hunfle?
 A: Hunfle, .
 
-.
+Q: Dia bisa apa?
+A: .
 ```
 
 > ***Clovin*** <br>
@@ -73,7 +77,8 @@ A: Hunfle, .
 Q: Siapa itu Clovin?
 A: Clovin, .
 
-.
+Q: Dia bisa apa?
+A: .
 ```
 
 - _**[Type] terdiri dari [6] 'Category'**_ <br>
