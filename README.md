@@ -1,6 +1,5 @@
 # Sampel Memori
 
-
 ***[!!!] Sebelum kalian membaca ini, saya sangat 'harus sekali' memberikan perhatian, bahwa kalian sudah tepat masuk ke sini. Dengan catatan, kalian tidak akan menyebarkan semua dari apa yang ada didalamnya (didalam sini tentunya terutama)***
 --
 
@@ -12,4 +11,10 @@ Karena:
 - _**[Bunch] terdiri dari [6] 'Type'**_
 - _**[Type] terdiri dari [6] 'Category'**_
 - _**[Category] terdiri dari [26] 'Sampel'**_
+---
 
+***ATURAN***
+---
+- Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya berdasarkan **'FirstList_Sign_QFM'**!
+> Untuk 'FirstList_Sign_QFM', bisa ditemukan pada *'Sampel Memori 2'*
+https://docs.google.com/spreadsheets/d/1zLfmoWbyX3uObGxpigM-m-7OviPcki7hWT1SjPG9ZI8/edit?usp=sharing
