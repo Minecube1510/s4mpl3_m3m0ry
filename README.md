@@ -15,66 +15,120 @@ Karena:
 Yakni terdapat 6 Kamen Rider terdaftarkan di sini:
 
 > ***Gaster*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Spamor*** <br>
-> .
+```
+Q: Siapa itu Spamor?
+A: Spamor, dia adalah .
+```
 
 > ***Accesive*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Mistress*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Hunfle*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Clovin*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 - _**[Type] terdiri dari [6] 'Category'**_ <br>
 **Type** adalah simbol elemennya. Unsur di dalamnya menjadikannya sebagai elemen bagi sang Kamen Rider. <br>
 Berikut 6 elemen-elemen unsur yang telah ada dan diketahui di sini:
 
 > ***Fossil*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Jarl*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Virtual*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Raincoat*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Paperbag*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Trickster*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 - _**[Category] terdiri dari [26] 'Sampel'**_ <br>
 **Category** adalah senjata. Senjata-senjatanya bisa dicocokkan dengan sang Kamen Rider. <br>
 Berikut senjata-senjata yang biasa digunakan oleh sang Kamen Rider:
 
 > ***Blaster*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Lance*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Drill*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Kama*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Winchester*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 > ***Eldritch*** <br>
-> .
+```
+Q: ?
+A: .
+```
 
 
 ## Aturan
