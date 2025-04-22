@@ -20,6 +20,10 @@ Q: Siapa itu Gaster?
 A: Gaster, dia anaknya Gaster (penggunanya adalah Lazybone 'Sans').
  + Kayak mirip-mirip Genm ini, namanya dari Genm Corp. yang mana nama perusahaannya, perusahaannya ini milik ayahnya.
 
+[!] Lazybone Sans terbagi 2 didalamnya:
+- Sans: Ini lah sosok tengkorak utama.
+- Scuty: Ini lah sosok manusianya.
+
 Q: Dia bisa apa?
 A: Kalo kamu tau Sans, seperti itu lah dia. Senjata utama dia adalah pedang, sesekali barengan dengan pistol, tetapi dia lebih utama dengan pedang.
 ```
@@ -29,6 +33,10 @@ A: Kalo kamu tau Sans, seperti itu lah dia. Senjata utama dia adalah pedang, ses
 Q: Siapa itu Spamor?
 A: Spamor, dia adalah si ksatria yang bisa ngurusin uang- Oh! Gak lupa pula, dia adalah vampir. Dia adalah Lazuli Dracire.
 
+[!] . terbagi 2 didalamnya:
+- x: .
+- x: .
+
 .
 ```
 
@@ -36,6 +44,10 @@ A: Spamor, dia adalah si ksatria yang bisa ngurusin uang- Oh! Gak lupa pula, dia
 ```
 Q: Siapa itu Accesive?
 A: Accesive, dia adalah gadis merah virus (tukang matre). Dia adalah Hanaka "Hanama" Vira.
+
+[!] . terbagi 2 didalamnya:
+- x: .
+- x: .
 
 .
 ```
