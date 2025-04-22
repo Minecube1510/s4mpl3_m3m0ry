@@ -20,21 +20,27 @@ Karena:
 
 1. **Nama File Isi Sampel** <br>
 Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya berdasarkan **'FirstList_Sign_QFM'**!
-> **FirstList_Sign_QFM** itu: <br>
-> (**MuchOrderyName**) = "**Jumlah Nama Data** (*FuncDataName*)" + "**Jumlah Gelar-Gelar Data** (*FuncDataCodeName*)" <br>
-> (**nnXn**) = **Inisial huruf/angka, karakter awal dari Nama Data** (*Identificicative*) <br>
-> (**nnnX**) = **Tingkat urutan berdasarkan angka** (*TyperListData*)-([***a-z***], yang kecil)
+> **FirstList_Sign_QFM** itu:
+
+>> (**MuchOrderyName**) <br>
+>> "**Jumlah Nama Data** (*FuncDataName*)" + "**Jumlah Gelar-Gelar Data** (*FuncDataCodeName*)"
+
+>> (**nnXn**) <br>
+>> **Inisial huruf/angka, karakter awal dari Nama Data** (*Identificicative*)
+
+>> (**nnnX**) <br>
+>> **Tingkat urutan berdasarkan angka** (*TyperListData*)-([***a-z***], yang kecil)
 
 - Contoh: "***69Ei***"
 > [***69***] <br>
-> Misalnya panjang namanya kemungkinan sekitar ***14***. <br>
-> | <br>
-> Misalnya panjang semua gelarnya kalo disatuin, jadinya ***55***. <br>
-> Selain namanya, juga punya gelar seperti:<br>
-> "*Smothie yang sejuk*, *Pengenyang Perut*, dan *Nirhabisan*". <br>
-> Gelar itu semua, kurang lebih sekitar **55**. <br>
-> | <br>
-> Maka bila ditambah **(14 + 55)**, maka hasilnya adalah **69**.
+>> Misalnya panjang namanya kemungkinan sekitar ***14***. <br>
+>> Misalnya panjang semua gelarnya kalo disatuin, jadinya ***55***.
+
+>> Selain namanya, juga punya gelar seperti: <br>
+>> "*Smothie yang sejuk*, *Pengenyang Perut*, dan *Nirhabisan*".
+
+>> Gelar itu semua, kurang lebih sekitar **55**. <br>
+>> Maka bila ditambah **(14 + 55)**, maka hasilnya adalah **69**.
 
 > [***E***] <br>
 > Misalnya namanya '***Elegian Smothie***'.
@@ -42,7 +48,7 @@ Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya ber
 > [***i***] <br>
 > Misalnya, dia berada di 'baris ke-*9*' dalam tampungan BTC-nya, maka dia jadinya di '***i***'.
 
-- Untuk '*FirstList_Sign_QFM*', bisa ditemukan pada [***'Sampel Memori 2'***](https://docs.google.com/spreadsheets/d/1zLfmoWbyX3uObGxpigM-m-7OviPcki7hWT1SjPG9ZI8/edit?usp=sharing).
+> - Untuk '*FirstList_Sign_QFM*', bisa ditemukan pada [***'Sampel Memori 2'***](https://docs.google.com/spreadsheets/d/1zLfmoWbyX3uObGxpigM-m-7OviPcki7hWT1SjPG9ZI8/edit?usp=sharing).
 
 2. **Nama File Depanan** <br>
 x
