@@ -57,11 +57,15 @@ x
 x
 
 
-## B. Nanti dulu...
-x
+## B. Penamaan Folder...
+Kayak namanya, "**Folder**". Yang artinya, menyimpan banyak file-file, bahkan folder itu sendiri.
 
-1. **Coming soon** <br>
-x
+1. **Folder Utama** <br>
+Folder utama disini ialah
+- **Main Sample** <br>
+a
+- **Coming Soon** <br>
+a
 
 
 ## C. Nanti dulu...
