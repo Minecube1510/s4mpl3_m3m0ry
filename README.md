@@ -10,20 +10,71 @@
 - Maka artinya, ini akan terdiri dari *'**6**' Bunch*, *'**36**' Type*, *'**216**' Category*.
 
 Karena:
-- _**[Bunch] terdiri dari [6] 'Type'**_
-> Bunch sendiri adalah nama **Kamen Rider**. Yakni terdapat 6 Kamen Rider terdaftarkan di sini.
+- _**[Bunch] terdiri dari [6] 'Type'**_ <br>
+**Bunch** sendiri adalah nama-nama bagi sang **Kamen Rider**. <br>
+Yakni terdapat 6 Kamen Rider terdaftarkan di sini:
 
->> ***Gaster***, ***Spamor***, ***Accesive***, ***Mistress***, ***Hunfle***, ***Clovin***
+> ***Gaster*** <br>
+> .
 
-- _**[Type] terdiri dari [6] 'Category'**_
-> Type adalah .
+> ***Spamor*** <br>
+> .
 
->> ***Fossil***, ***Jarl***, ***Virtual***, ***Raincoat***, ***Paperbag***, ***Trickster***
+> ***Accesive*** <br>
+> .
 
-- _**[Category] terdiri dari [26] 'Sampel'**_
-> Category adalah .
+> ***Mistress*** <br>
+> .
 
->> ***Blaster***, ***Lance***, ***Drill***, ***Kama***, ***Winchester***, ***Eldritch***
+> ***Hunfle*** <br>
+> .
+
+> ***Clovin*** <br>
+> .
+
+- _**[Type] terdiri dari [6] 'Category'**_ <br>
+**Type** adalah simbol elemennya. Unsur di dalamnya menjadikannya sebagai elemen bagi sang Kamen Rider. <br>
+Berikut 6 elemen-elemen unsur yang telah ada dan diketahui di sini:
+
+> ***Fossil*** <br>
+> .
+
+> ***Jarl*** <br>
+> .
+
+> ***Virtual*** <br>
+> .
+
+> ***Raincoat*** <br>
+> .
+
+> ***Paperbag*** <br>
+> .
+
+> ***Trickster*** <br>
+> .
+
+- _**[Category] terdiri dari [26] 'Sampel'**_ <br>
+**Category** adalah senjata. Senjata-senjatanya bisa dicocokkan dengan sang Kamen Rider. <br>
+Berikut senjata-senjata yang biasa digunakan oleh sang Kamen Rider:
+
+> ***Blaster*** <br>
+> .
+
+> ***Lance*** <br>
+> .
+
+> ***Drill*** <br>
+> .
+
+> ***Kama*** <br>
+> .
+
+> ***Winchester*** <br>
+> .
+
+> ***Eldritch*** <br>
+> .
 
 
 ## Aturan
