@@ -16,6 +16,10 @@ Yakni terdapat 6 Kamen Rider terdaftarkan di sini:
 
 > ***Gaster*** <br>
 ```
+Q: Siapa itu Gaster?
+A: Gaster, dia anaknya Gaster (penggunanya adalah Sans).
+ + Kayak mirip-mirip Genm ini, namanya dari Genm Corp. yang mana nama perusahaannya, perusahaannya ini milik ayahnya.
+
 Q: ?
 A: .
 ```
@@ -28,26 +32,26 @@ A: Spamor, dia adalah .
 
 > ***Accesive*** <br>
 ```
-Q: ?
-A: .
+Q: Siapa itu Accesive?
+A: Accesive, .
 ```
 
 > ***Mistress*** <br>
 ```
-Q: ?
-A: .
+Q: Siapa itu Mistress?
+A: Mistress, .
 ```
 
 > ***Hunfle*** <br>
 ```
-Q: ?
-A: .
+Q: Siapa itu Hunfle?
+A: Hunfle, .
 ```
 
 > ***Clovin*** <br>
 ```
-Q: ?
-A: .
+Q: Siapa itu Clovin?
+A: Clovin, .
 ```
 
 - _**[Type] terdiri dari [6] 'Category'**_ <br>
