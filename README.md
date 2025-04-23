@@ -182,9 +182,10 @@ A: Clovin, adalah Rider yang bukan manusia, tetapi Genyr, bernama 'Candy Pop'.
 Candy Pop adalah Genyr yang pernah menang melawan Night Terrors (Daylight). Namun dirinya kini, telah ter-corrupt karena mendengar hasutan dari Night Terrors. Btw, Candy Pop jatuh cinta dengan April Fools.
 
 [!] Hanama terbagi 2 didalamnya:
-- .
-- .
-> .
+- Candy Pop: Sang Genyr yang lahir dari Ayah (Calicifur Zhe Hvedrungr) dan Ibu (Jesterca). Jadi, Candy Pop adalah campuran dari Genyr dan Dhokkalfer.
+ + Btw nama ibunya adalah nama dari si pembuat Candypop (yang kini bernama 'DanceOfAngels')
+- Night Terrors.
+> Awalnya dia malaikat yang agung, bernama 'Daylight'. Namun karena sifat buruknya (iri hati, kecemburaunnuya), sehingga itu membuatnya mengkhianati saudara-saudarinya, maka dia pun dihukum terjatuh ke dalam Abyss. Selama 30.000 tahun disana, dia pun berubah menjadi yang dikenal sekarang sebagai 'Night Terrors'.
 
 Q: Clovin bisa melakukan apa?
 A: Candy Pop bisa .
@@ -200,6 +201,8 @@ A: Candy Pop bisa .
 ```
 > Bisa dilihat pada:
 >> - [**Candy Pop**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Candy-Pop-785688420)
+>> - [**Ibunya**](https://www.deviantart.com/danceofangels/art/Candy-pop-s-genyr-mother-Jesterca-588462555)
+>> - [**Ayahnya**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Calicifur-749822269)
 >> - [**Asal Muasal mereka berdua**](https://www.deviantart.com/danceofangels/art/Umbra-The-story-of-Night-Terrors-and-Candy-Pop-752600746)
 
 - _**[Type] terdiri dari [6] 'Category'**_ <br>
