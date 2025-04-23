@@ -117,6 +117,8 @@ Hidung Hanama sangat tajam, bahkan bisa mencium aura hawa panas sekitaran.
 |
 - Virabot Virus
 Karena dia virus, dia bisa menjadi ancaman komputer. Dia tipe penghancur, maka dia bisa ngapus file sana-sini, bahkan kedatangannya bisa bikin sistem komputer atau gadget auto panas. Jadi ketika komputer atau gadget lainnnya merasa panas, maka Vira telah hadir di dalam komputer atau gadget tersebut.
+
+[!] Meski tubuhnya (form default human-nya) adalah 'Itsuka Kotori', tetapi kenyataanya Hanama pun tidak memiliki kekuatannya seperti Itsuka Kotori. Jadi hanya tampilannya aja yang sama.
 ```
 > Bisa dilihat pada:
 >> - [**Kotori Itsuka**]([s](https://date-a-live.fandom.com/wiki/Kotori_Itsuka))
