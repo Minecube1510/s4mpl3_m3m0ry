@@ -217,38 +217,50 @@ Berikut 6 elemen-elemen unsur yang telah ada dan diketahui di sini:
 
 > ***Fossil*** <br>
 ```
-Q: ?
+Q: Tipe Fossil itu apa?
 A: .
+
+.
 ```
 
 > ***Jarl*** <br>
 ```
-Q: ?
+Q: Tipe Jarl itu apa?
 A: .
+
+.
 ```
 
 > ***Virtual*** <br>
 ```
-Q: ?
+Q: Tipe Virtual itu apa?
 A: .
+
+.
 ```
 
 > ***Raincoat*** <br>
 ```
-Q: ?
+Q: Tipe Raincoat itu apa?
 A: .
+
+.
 ```
 
 > ***Paperbag*** <br>
 ```
-Q: ?
+Q: Tipe Paperbag itu apa?
 A: .
+
+.
 ```
 
 > ***Trickster*** <br>
 ```
-Q: ?
+Q: Tipe Trickster itu apa?
 A: .
+
+.
 ```
 
 - _**[Category] terdiri dari [26] 'Sampel'**_ <br>
