@@ -40,11 +40,11 @@
 
 # $${\textcolor{#FF78D3}{Mistress - Raincoat - Kama}}$$
 <p align="center">
-  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.1-BTC_Symbols/d04_MRK.png">
+  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.1-BTC_Symbols/d04_MiRaKa.png">
 </p><p align="center">
   $${\textcolor{#FF78D3}{Original - 350}}$$
 </p><p align="center">
-  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.1-BTC_Symbols/d04_MRK.png", width="100">
+  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.1-BTC_Symbols/d04_MiRaKa.png", width="100">
 </p><p align="center">
   $${\textcolor{#FF78D3}{Proposition - 100}}$$
 </p>
@@ -53,11 +53,11 @@
 
 # $${\textcolor{#B651FF}{Hunfle - Paperbag - Winchester}}$$
 <p align="center">
-  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.1-BTC_Symbols/e05_HPW.png">
+  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.1-BTC_Symbols/e05_HuPaWwi.png">
 </p><p align="center">
   $${\textcolor{#B651FF}{Original - 350}}$$
 </p><p align="center">
-  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.1-BTC_Symbols/e05_HPW.png", width="100">
+  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.1-BTC_Symbols/e05_HuPaWwi.png", width="100">
 </p><p align="center">
   $${\textcolor{#B651FF}{Proposition - 100}}$$
 </p>
