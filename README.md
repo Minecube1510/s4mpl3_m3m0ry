@@ -483,12 +483,17 @@ Artinya: [151]
 >> - '***C151***'.
 
 - Ketiga
+Ini adalaha penamaan langsung. <br>
+Tapi perlu diingat! Bahwa:
+> Bunch, harus disertakan seperti '***Kamen Rider***'. Boleh disingkat saja, jadinya '*KR*'. <br>
+> x
 .
+
 
 2. **File Gambar** <br>
 Ini... Hanya isi gambar doang kok.
 ```
-'btn_img'
+'BTC_Symbols'
 ```
 
 ## C. Nanti dulu...
