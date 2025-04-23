@@ -2,7 +2,7 @@
 # $${\textcolor{#00BEFF}{Gaster - Fossil - Blaster}}$$
 
 <p align="center">
-  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/btc_img/a01_GFB.png">
+  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1%20-%20Main%20Images/B1.1%20-%20Symbol%20Images/a01_GFB.png">
 </p><p align="center">
   $${\textcolor{#00BEFF}{Original - 350}}$$
 </p><p align="center">
