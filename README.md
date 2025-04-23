@@ -486,9 +486,13 @@ Artinya: [151]
 Ini adalaha penamaan langsung. <br>
 Tapi perlu diingat! Bahwa:
 > Bunch, harus disertakan seperti '***Kamen Rider***'. Boleh disingkat saja, jadinya '*KR*'. <br>
-> x
-.
+> - Penamaan: '*KR_Nama*'
 
+> Type, kali ini harus didahului oleh nama Rider. <br>
+> - Penamaan: '*Rider_*'
+
+> Category, . <br>
+> - Penamaan: '*Rider_*'
 
 2. **File Gambar** <br>
 Ini... Hanya isi gambar doang kok.
