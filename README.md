@@ -23,13 +23,14 @@ A: Gaster, dia anaknya Gaster (penggunanya adalah Lazybone 'Sans').
 [!] Lazybone Sans terbagi 2 didalamnya:
 - "Lazybone" Sans: Dia lah sosok tengkorak utama.
  ~ Lazybone, seperti sebutannya, Sans emg tulangan yg pemalas.
+ - Sans punya adik cowok, namanya 'Papyrus'.
 - UY (Yuwai) Scuty: Dia lah sosok manusianya.
  ~ Scuty sendiri adalah nama bintang merah supermasif, yang bahkan LEBIH BESAR daripada matahari dan lubang hitam biasa, yakni itulah yang bernama 'UY Scuti'.
 > Maka keduanya adalah satu kesatuan, sebut saja 'Lazybone Sans'.
 
 Q: Gaster bisa melakukan apa?
 A: Kalo kamu tau Sans, seperti itu lah dia. Oh, dia juga bisa 'revive'. Ketika dikalahkan, dia macam KR-Genm, muncul entah darimana. Tetapi yang pasti dia mati lalu hidup kembali, bukan kayak Genm, tetapi 'revive'.
- - Senjata utama dia adalah pedang, sesekali barengan dengan pistol, tetapi dia lebih utama dengan pedang.
+ - Senjata utama dia adalah pedang, sesekali barengan dengan pistol atau hand gun, tetapi dia lebih utama dengan pedang.
  - Indra yang diutamakan adalah mata, kedua matanya.
  + 'Revive' dia adalah, ketika dia mati, sebetulnya bukan mati, tetapi menyisakan 1 pada sekian desimal darahnya. Jadi dia hanya (',1') darahnya. Lalu dia pun revive, karena keinginan manusianya. Jadi revive ini seperti cara sihirnya Frisk (atau Player gaming-an Undertale) yang gak bisa mati, karena sistem SAVE itu.
 
@@ -78,7 +79,7 @@ A: Spamor, dia adalah si ksatria yang bisa ngurusin uang- Oh! Gak lupa pula, dia
 
 Q: Spamor bisa melakukan apa?
 A: Seperti statiknya, dia adalah ksatria. Udah pasti bisa perang kayak ksatria.
- - Senjata utamanya adalah tombak.
+ - Senjata utamanya adalah tombak. Dia juga bisa pake rifle, hand gun yang panjang.
  - Indra yang diutamakannya adalah mulut/lidah. Maka dia pun bisa mengaum, kayak hewan singa.
 
 [Power]
@@ -161,6 +162,8 @@ A: Hunfle, dia adalah Mono. Ya, dia adalah Mono si topengan kardus kresek (Paper
 
 Q: Hunfle bisa melakukan apa?
 A: Mono bisa keluar masuk TV sana-sini. Dan telinganya juga, sangat tajam. Ketika ada orang sniper mau nembak dia dari jauh banget, Mono bisa mendengarnya, bahkan setelah mendengar sekitar 0,1 milidetik, dia bisa langsung berpikir bahwa dia harus menghindarinya apapun (karena paham itu adalah suara peluru yang akan menembakinya).
+ - Menjadikannya indra utamanya adalah telinga, sepasang telinganya.
+ - Senjata utamanya dia adalah antara kapak, dan submachine gun. Bahkan itu sekaligus (senjatanya gabungan antara keduanya).
 
 [Powers]
 - Tileórasikinesis
@@ -183,21 +186,24 @@ Candy Pop adalah Genyr yang pernah menang melawan Night Terrors (Daylight). Namu
 
 [!] Hanama terbagi 2 didalamnya:
 - Candy Pop: Sang Genyr yang lahir dari Ayah (Calicifur Zhe Hvedrungr) dan Ibu (Jesterca). Jadi, Candy Pop adalah campuran dari Genyr dan Dhokkalfer.
+ - Candy Pop punya adik cewek, bernama 'Candy Cand'.
  + Btw nama ibunya adalah nama dari si pembuat Candypop (yang kini bernama 'DanceOfAngels')
 - Night Terrors.
 > Awalnya dia malaikat yang agung, bernama 'Daylight'. Namun karena sifat buruknya (iri hati, kecemburaunnuya), sehingga itu membuatnya mengkhianati saudara-saudarinya, maka dia pun dihukum terjatuh ke dalam Abyss. Selama 30.000 tahun disana, dia pun berubah menjadi yang dikenal sekarang sebagai 'Night Terrors'.
 
 Q: Clovin bisa melakukan apa?
-A: Candy Pop bisa .
-
-.
+A: Candy Pop bisa ngubah dirinya jadi siapapun (bisa jadi manusia, tetapi tetap simbolik, yakni ada pure 'putih'-nya, intinya mukanya kayak badut), mampu dalam manipulasi bayangan.
+ - Semua indra manusia dia punya, bahkan melebihi daripada indra manusia itu sendiri. Bahkan dia punya indra ke-enam, indra yang gak akan bisa dimiliki manusia. Seperti dapat merasakan bahaya, kehadiran entitas lain, atau perubahan energi di sekitarnya. Intinya dia overpower, antara dia memang genyr ajaib atau iblis nadir.
+ - Senjata utamanya adalah palu besarnya, Jester Hammer (Mallet atau Malleus atau Pamella).
+ - Karena dirinya iblis gini, dia bisa aja bikin minion-minionnya, sehingga bisa terlihat dengan sekte-sekte yang sepertinya sangat condong mengagung-agungkan Candy Pop ini (karena sosok iblisnya).
 
 [Powers]
 - Shapeshifting
-.
+Candy bisa mengubah dirinya menjadi yang dia mau. Dia bahkan membentuk dirinya sebagai versi manusianya (tapi wajahnya tetep kayak badut). Wujud manusianya bernama 'Arquinn'.
+ + Nama 'Arquinn' mereferensikan nama Roboroid, namanya 'Arujiro', 'ARQ-0'.
 |
-- x
-.
+- Manipulasi Bayangan Kegelapan, Manipulasi Jiwa, Manipulasi Energi
+Night Terrors bisa melakukan itu semua, terbukti dari dirinya yang merupakan seorang iblis.
 ```
 > Bisa dilihat pada:
 >> - [**Candy Pop**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Candy-Pop-785688420)
