@@ -303,7 +303,50 @@ A: Winchester adalah jenis senjata senapan rifle, 'Winchester Rifle'. Mono kan b
 > ***Eldritch*** <br>
 ```
 Q: Apa sih kategori Eldritch itu?
-A: Eldritch adalah bukan senjata, tetapi efek sihir yang mana, seperti ini lah isi sihirnya Candy Pop alias Clovin, dikarenakan iblis di dalam-nya.
+A: Eldritch adalah bukan senjata, tetapi efek sihir yang mana, seperti ini lah isi sihirnya Candy Pop alias Clovin, dikarenakan iblis di dalam-nya. Eldritch berarti hal aneh dan diluar nalar, dan itu seperti sebuah 'rasa ketakukan'.
+```
+
+---
+
+Maka, coba lah mengingatinya dengan ini:
+> - Bunches
+```
+Gaster
+Spamor
+Accesive
+Mistress
+Hunfle
+Clovin
+```
+```
+x
+```
+
+
+> - Types
+```
+Fossil
+Jarl
+Virtual
+Raincoat
+Paperbag
+Trickster
+```
+```
+x
+```
+
+> - Categories
+```
+Blaster
+Lance
+Drill
+Kama
+Winchester
+Eldritch
+```
+```
+x
 ```
 
 
@@ -347,10 +390,11 @@ Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya ber
 2. **Nama File Depanan** <br>
 Kenapa ini penting? Agar nanti kalo mau masuk ke File Manager, biar gampang ***Auto-Sort***-nya. <br>
 Kenapa harus ada Auto-Sort? Agar enak pas nyarinya.
-  - **Xxx** <br>
-x
-  - **xXX** <br>
-x
+> **Xxx** <br>
+> x
+
+> **xXX** <br>
+> x
 
 3. **Nama File ...** <br>
 x
@@ -370,11 +414,29 @@ Kayak namanya, "**Folder**". Yang artinya, menyimpan banyak file-file, bahkan fo
 
 1. **Folder Utama** <br>
 Folder utama disini ialah
-- ***"Main Sample"*** <br>
+> ***"Main Sample"*** <br>
 Isinya adalah tentang para Sampel-Sampel. Jadi folder ini adalah folder utama disini.
-- **File Gambar** <br>
-Ini... Hanya isi gambar doang kok.
 
+Maka mereka dinamai dengan inisialis yang ke-sort:
+- Pertama
+> *Xx* <br>
+> s
+
+> *xX* <br>
+> s
+
+- Kedua
+> *Xxx* <br>
+> s
+
+> *xXX* <br>
+> s
+
+2. **File Gambar** <br>
+Ini... Hanya isi gambar doang kok.
+```
+'btn_img'
+```
 
 ## C. Nanti dulu...
 x
