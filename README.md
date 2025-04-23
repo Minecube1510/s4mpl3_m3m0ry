@@ -21,11 +21,16 @@ A: Gaster, dia anaknya Gaster (penggunanya adalah Lazybone 'Sans').
  + Kayak mirip-mirip Genm ini, namanya dari Genm Corp. yang mana nama perusahaannya, perusahaannya ini milik ayahnya.
 
 [!] Lazybone Sans terbagi 2 didalamnya:
-- Lazybone Sans: Dia lah sosok tengkorak utama.
+- "Lazybone" Sans: Dia lah sosok tengkorak utama.
+ ~ Lazybone, seperti sebutannya, Sans emg tulangan yg pemalas.
 - UY (Yuwai) Scuty: Dia lah sosok manusianya.
+ ~ Scuty sendiri adalah nama bintang merah supermasif, yang bahkan LEBIH BESAR daripada matahari dan lubang hitam biasa, yakni itulah yang bernama 'UY Scuti'.
+> Maka keduanya adalah satu kesatuan, sebut saja 'Lazybone Sans'.
 
 Q: Dia bisa apa?
-A: Kalo kamu tau Sans, seperti itu lah dia. Senjata utama dia adalah pedang, sesekali barengan dengan pistol, tetapi dia lebih utama dengan pedang.
+A: Kalo kamu tau Sans, seperti itu lah dia.
+ - Senjata utama dia adalah pedang, sesekali barengan dengan pistol, tetapi dia lebih utama dengan pedang.
+ - .
 ```
 
 > ***Spamor*** <br>
@@ -34,8 +39,14 @@ Q: Siapa itu Spamor?
 A: Spamor, dia adalah si ksatria yang bisa ngurusin uang- Oh! Gak lupa pula, dia adalah vampir. Dia adalah Lazuli Dracire.
 
 [!] Lazuli Dracire terbagi 2 didalamnya:
-- Lazuli: Dia lah sosok manusia ksatria dari dunianya.
-- Dracire: Dia dari .
+- La-Zoure-Lioch (Lazuli): Dia lah sosok manusia ksatria dari dunianya.
+ ~ La: Gelarnya (Tingkat bangsawan elit, tingkat teratas di dunia-nya).
+ ~ Zoure: Nama Depannya (Dibaca Jure, karena mengartikannya sebagai 'law', 'hukum').
+ ~ Lioch: Nama Belakang (Berarti 'ular' dalam swedia).
+- Dracire: Dia adalah vampir, yang berasal dari 'Dunia Logi'.
+ ~ Namanya gabungin dari 'Dracula' dan 'Vampire'.
+> Maka keduanya adalah satu kesatuan, sebut saja 'Lazuli'.
+ + Lazuli.
 
 Q: Dia bisa apa?
 A: .
@@ -47,8 +58,14 @@ Q: Siapa itu Accesive?
 A: Accesive, dia adalah gadis merah virus (tukang matre). Dia adalah Hanaka "Hanama" Vira.
 
 [!] Hanama terbagi 2 didalamnya:
-- Hanaka: Dia lah .
-- Vira: Dia lah .
+- Hanaka: Dia lah manusia (yang seharusnya sudah meninggal, tetapi jasad-nya diambil sebagai tubuh bagi Vira).
+ ~ Namanya dari 'Hana' (Bunga) dan 'Aka' (Merah).
+ + Maka gak perlu heran kalo niknem-nya adalah 'Akabana'.
+- Vira: Dia lah makhluk virus buatan TheDarkLord. Aslinya dia cowok, namun karena disatukan dengan Hanaka, maka dia berubah sepenuhnya menjadi cewek.
+ ~ Namanya udah jelas, ViraBot.
+ + Mengartikan, bahwa ayahnya adalah 'TheDarkLord' (TDL). Dan kakeknya, yang masih muda, adalah 'Noogai3', sang 'Alan Becker'.
+ Karena Alan-lah yang membuat si TDL.
+> Maka keduanya adalah satu kesatuan, sebut saja 'Hanama'.
 
 Q: Dia bisa apa?
 A: .
