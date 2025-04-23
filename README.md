@@ -50,6 +50,9 @@ Lazybone Sans dengan 'Blue Magic'-nya, bisa memnambahkan atau mengurangi beban S
 |
 - Pinbullet Reflect
 Ketika Sans menembak, pelurunya bisa ada mode ini. Mode inilah yang ngebikin pelurunya ketika mengenai benda keras (dinding atau material keras lainnya, entah logam atau keramik), maka peluru bisa montal-mantul sana-sini kayak permainan bola Pinball.
+|
+Karma [Karmic Retribution]
+Serangan Sans bertindak seperti racun (maksudnya, Sans bisa nyerang secara menghabisinya perlahan-lahan)
 ```
 > Bisa dilihat pada:
 >> - [**Sans**](https://undertale.fandom.com/wiki/Sans)
@@ -143,7 +146,7 @@ A: Karena kekuatannya, dia bisa jadi 'parasitis' bagi siapapun melalui 'kulitnya
 - Boomerang Skill Experter
 Seperti yang dikatakan, Six yang paling mahir dengan bumerang.
 |
-Life Absorption
+- Life Absorption
 Setelah memakan daging di leher The Lady, Six pun tampaknya memperoleh kekuatan The Lady. Ia kemudian menggunakan kekuatan ini untuk membunuh para Guest mana pun yang mendekatinya dengan menguras esensi kehidupan mereka sebelum akhirnya meninggalkan Maw.
  - Ini hanya memperkuat kekuatannya, karena Six bisa keluar TV tanpa Mono (karena dihisap), itu pas LN2 (itu sebelum LN1).
 ```
@@ -159,14 +162,12 @@ A: Hunfle, dia adalah Mono. Ya, dia adalah Mono si topengan kardus kresek (Paper
 Q: Hunfle bisa melakukan apa?
 A: Mono bisa keluar masuk TV sana-sini. Dan telinganya juga, sangat tajam. Ketika ada orang sniper mau nembak dia dari jauh banget, Mono bisa mendengarnya, bahkan setelah mendengar sekitar 0,1 milidetik, dia bisa langsung berpikir bahwa dia harus menghindarinya apapun (karena paham itu adalah suara peluru yang akan menembakinya).
 
-.
-
 [Powers]
-- x
-.
+- Tileórasikinesis
+Mono bisa masuk keluar TV sana sini yang dia mau. Artinya, Mono bisa memanfaatkan TV sebagai jalur shortcut-nya.
 |
-- x
-.
+- Sharpen Hears
+Mono bisa saja mendengar lebih jauh, bahkan sejauh gedung atas yang sedang menembaki dirinya.
 ```
 > Bisa dilihat pada:
 >> - [**Mono**](https://littlenightmares.fandom.com/wiki/Mono)
