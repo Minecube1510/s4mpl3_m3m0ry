@@ -319,7 +319,12 @@ Hunfle
 Clovin
 ```
 ```
-x
+G
+S
+A
+Mi
+Hu
+Clo
 ```
 
 
@@ -333,7 +338,12 @@ Paperbag
 Trickster
 ```
 ```
-x
+F
+J
+V
+Ra
+Pa
+Tri
 ```
 
 > - Categories
@@ -346,7 +356,12 @@ Winchester
 Eldritch
 ```
 ```
-x
+B
+L
+D
+Ka
+Wi
+Eld
 ```
 
 
@@ -420,17 +435,33 @@ Isinya adalah tentang para Sampel-Sampel. Jadi folder ini adalah folder utama di
 Maka mereka dinamai dengan inisialis yang ke-sort:
 - Pertama
 > *Xx* <br>
-> s
+> Ini adalah kode pertama berbentuk huruf. Ini mengidentifikasi urutan satuan kelompok.
+```
+- 'a' untuk 'B', "Bunch".
+- 'b' untuk 'T', "Type".
+- 'c' untuk 'C', "Category".
+```
 
 > *xX* <br>
-> s
+> Ini adahl kode kedua berbentuk angka dua digit. ?.
+```
+a
+```
 
 - Kedua
 > *Xxx* <br>
-> s
+> Ini adalah kode pertama berbentuk huruf. Ini mengidentifikasi satuan kelompok (BTC).
+```
+- 'B' untuk "Bunch".
+- 'T' untuk "Type".
+- 'C' untuk "Category".
+```
 
 > *xXX* <br>
-> s
+> Ini adahl kode kedua berbentuk angka dua digit. ?.
+```
+a
+```
 
 2. **File Gambar** <br>
 Ini... Hanya isi gambar doang kok.
