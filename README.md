@@ -5,7 +5,7 @@
 
 
 ## Pendahuluan
-**Sampel Memori**, adalah tempat penyimpanan dari ***5.616*** Sampel yang ada!
+**Sampel Memori**, adalah tempat penyimpanan dari ***'5.616'*** Sampel yang ada!
 - [Dipisah berdasarkan pada **Bunch**, lalu pada **Type**, dan terakhir kepada **Category**.]
 - Maka artinya, ini akan terdiri dari *'**6**' Bunch*, *'**36**' Type*, *'**216**' Category*.
 
@@ -47,6 +47,9 @@ Lazybone Sans bisa mengeluarkan blaster-nya.
 |
 - Telekinesis Manipulasi Gravitasi
 Lazybone Sans dengan 'Blue Magic'-nya, bisa memnambahkan atau mengurangi beban SOUL sehingga itulah yang membuatnya terlihat mampu mengubah gravitasi.
+|
+- Pinbullet Reflect
+Ketika Sans menembak, pelurunya bisa ada mode ini. Mode inilah yang ngebikin pelurunya ketika mengenai benda keras (dinding atau material keras lainnya, entah logam atau keramik), maka peluru bisa montal-mantul sana-sini kayak permainan bola Pinball.
 ```
 > Bisa dilihat pada:
 >> - [**Sans**](https://undertale.fandom.com/wiki/Sans)
@@ -127,19 +130,22 @@ Karena dia virus, dia bisa menjadi ancaman komputer. Dia tipe penghancur, maka d
 > ***Mistress***
 ```
 Q: Siapa itu Mistress?
-A: Mistress, .
+A: Mistress, dia adalah si Six. Ya, user-nya adalah Six si jas hujan kuning.
 
 Q: Mistress bisa melakukan apa?
-A: .
-
-.
+A: Karena kekuatannya, dia bisa jadi 'parasitis' bagi siapapun melalui 'kulitnya' (bersentuhan).
+ - Menjadikannya indra utamanya adalah perkulitan.
+ + Pelajaran juga, jangan bersentuhan sama bukan muhrim, atau kalo cowok sentuhan ama si Six, nanti Six akan 'menghisap'-nya dengan kulitnya.
+ - Senjata utamanya adalah bumerang.
+ + Karena Six kesusahan menguasai persenjataan (seperti pedang atau pistol sederhana, kapak ama tombak apa lagi, panah pun juga demikian). Tetapi kalo bumerang, Six seperti bisa mengendalikannya, yang mana Sans (auto suka gagal, balik-balik malah kenak), atau Lazuli (kayak main frisbee), atau Vira (sama kayak Sans, balik-balik malah kenak juga) bahkan Mono pun, gak lebih mahir daripadanya.
 
 [Powers]
-- x
-.
+- Boomerang Skill Experter
+Seperti yang dikatakan, Six yang paling mahir dengan bumerang.
 |
-- x
-.
+Life Absorption
+Setelah memakan daging di leher The Lady, Six pun tampaknya memperoleh kekuatan The Lady. Ia kemudian menggunakan kekuatan ini untuk membunuh para Guest mana pun yang mendekatinya dengan menguras esensi kehidupan mereka sebelum akhirnya meninggalkan Maw.
+ - Ini hanya memperkuat kekuatannya, karena Six bisa keluar TV tanpa Mono (karena dihisap), itu pas LN2 (itu sebelum LN1).
 ```
 > Bisa dilihat pada:
 >> - [**Six**](https://littlenightmares.fandom.com/wiki/Six)
@@ -148,10 +154,10 @@ A: .
 > ***Hunfle***
 ```
 Q: Siapa itu Hunfle?
-A: Hunfle, .
+A: Hunfle, dia adalah Mono. Ya, dia adalah Mono si topengan kardus kresek (Paperbag).
 
 Q: Hunfle bisa melakukan apa?
-A: .
+A: Mono bisa keluar masuk TV sana-sini. Dan telinganya juga, sangat tajam. Ketika ada orang sniper mau nembak dia dari jauh banget, Mono bisa mendengarnya, bahkan setelah mendengar sekitar 0,1 milidetik, dia bisa langsung berpikir bahwa dia harus menghindarinya apapun (karena paham itu adalah suara peluru yang akan menembakinya).
 
 .
 
