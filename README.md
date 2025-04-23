@@ -38,7 +38,7 @@ A: Kalo kamu tau Sans, seperti itu lah dia. Oh, dia juga bisa 'revive'. Ketika d
 Ketika Lazybone Sans mati, sebetulnya tidak mati, hanya menyisakan (',1'). Maka ketika keinginan manusianya ingin bangkit kembali, maka 'dia' tinggal respawn (membentuk kembali) di tempat secara acak (yang penting bisa respawn dengan sempurna).
 |
 - Manipulasi Tulangan
-Lazybone Sans mengendalikan tulang-tulangan, sesuai kemauan dia.
+Lazybone Sans mengendalikan tulang-tulangan, sesuai kemauan dia. Bahkan dia mampu membentuk dirinya lebih kuat termasuk wujudnya dengan memperkuat tulang-tulang dalam dirinya.
 |
 - Sans's Gaster Blaster
 Lazybone Sans bisa mengeluarkan blaster-nya.
@@ -72,6 +72,13 @@ A: Seperti statiknya, dia adalah ksatria. Udah pasti bisa perang kayak ksatria.
 
 [Power]
 - Pencegah Kelemahan Vampir
+Lazuli bisa mengatasi kelemahan vampirnya (sinar mentari dan bawang putih).
+|
+- Lazuli's Lion Roar
+Lazuli dapat mengaum seperti singa, ini berasal dari turunan dirinya, yang dilatih sekerad-kerad mungkin. Sehingga kini aumannya, bisa seperti hewan singa sekarang.
+|
+- Knight Spear Skills
+Lazuli sebenarnya bisa menggunakan sembarang senjata apapun, tetapi dia lebih masih dengan tombak-tombakan. Cukup dia ini adalah kavaleri tanpa kuda (karena kudanya adalah Roboroid besar bernama 'Snite').
 ```
 
 > ***Accesive*** <br>
@@ -83,6 +90,7 @@ A: Accesive, dia adalah gadis merah virus (tukang matre). Dia adalah Hanaka "Han
 - Hanaka: Dia lah manusia (yang seharusnya sudah meninggal, tetapi jasad-nya diambil sebagai tubuh bagi Vira).
  ~ Namanya dari 'Hana' (Bunga) dan 'Aka' (Merah).
  - Hanaka adalah cewek yang 'diangkat' (diubah) menjadi Lily (di Assault Lily), oleh Sans.
+ - Tubuhnya terlihat seperti 'Itsuka Kotori' dari 'Date a Live'.
  + Maka gak perlu heran kalo niknem-nya adalah 'Akabana'.
 - Vira: Dia lah makhluk virus buatan TheDarkLord. Aslinya dia cowok, namun karena disatukan dengan Hanaka, maka dia berubah sepenuhnya menjadi cewek.
  ~ Namanya udah jelas, ViraBot.
@@ -92,8 +100,15 @@ A: Accesive, dia adalah gadis merah virus (tukang matre). Dia adalah Hanaka "Han
  - Sejujurnya, Hanama adalah orang yang gak peduli ama penciuman (karena dirinya adalah virus).
 
 Q: Dia bisa apa?
-A: .
+A: Seperti statiknya, virus ViraBot. Maka cari tau itu si ViraBot, maka kamu mengetahuinya.
  - Indra utamanya adalah hidung. Karena Hanaka adalah orang unik bagi sukunya, yang keunikannya adalah penciumannya yang setajam hewan anjing. Maka Hanama pun memiliki kemampuan penciuman tersebut.
+
+[Powers]
+- x
+.
+|
+- x
+.
 ```
 
 > ***Mistress*** <br>
@@ -103,6 +118,15 @@ A: Mistress, .
 
 Q: Dia bisa apa?
 A: .
+
+.
+
+[Powers]
+- x
+.
+|
+- x
+.
 ```
 
 > ***Hunfle*** <br>
@@ -112,6 +136,15 @@ A: Hunfle, .
 
 Q: Dia bisa apa?
 A: .
+
+.
+
+[Powers]
+- x
+.
+|
+- x
+.
 ```
 
 > ***Clovin*** <br>
@@ -121,6 +154,15 @@ A: Clovin, .
 
 Q: Dia bisa apa?
 A: .
+
+.
+
+[Powers]
+- x
+.
+|
+- x
+.
 ```
 
 - _**[Type] terdiri dari [6] 'Category'**_ <br>
