@@ -434,7 +434,7 @@ Isinya adalah tentang para Sampel-Sampel. Jadi folder ini adalah folder utama di
 
 Maka mereka dinamai dengan inisialis yang ke-sort:
 - Pertama
-> *Xx* <br>
+> '***Xx***' <br>
 > Ini adalah kode pertama berbentuk huruf. Ini mengidentifikasi urutan satuan kelompok.
 ```
 - 'a' untuk 'B', "Bunch".
@@ -442,7 +442,7 @@ Maka mereka dinamai dengan inisialis yang ke-sort:
 - 'c' untuk 'C', "Category".
 ```
 
-> *xX* <br>
+> '***xX***' <br>
 > Ini adalah kode kedua berbentuk angka satu digit. Fungsinya sebagai indikator urutan ke-berapa folder ini.
 ```
 Misalnya: [GPaB]
@@ -458,7 +458,7 @@ Maka:
 >> - '***c151***'.
 
 - Kedua
-> *Xxx* <br>
+> '***Xxx***' <br>
 > Ini adalah kode pertama berbentuk huruf. Ini mengidentifikasi satuan kelompok (BTC).
 ```
 - 'B' untuk "Bunch".
@@ -466,7 +466,7 @@ Maka:
 - 'C' untuk "Category".
 ```
 
-> *xXX* <br>
+> '***xXX***' <br>
 > Ini adalah kode kedua berbentuk angka dua sampai tiga digit. Ini sebagai indikator urutan BTC-nya.
 ```
 Misalnya: [GPaB]
