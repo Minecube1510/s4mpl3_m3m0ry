@@ -32,6 +32,20 @@ A: Kalo kamu tau Sans, seperti itu lah dia. Oh, dia juga bisa 'revive'. Ketika d
  - Senjata utama dia adalah pedang, sesekali barengan dengan pistol, tetapi dia lebih utama dengan pedang.
  - Indra yang diutamakan adalah mata, kedua matanya.
  + 'Revive' dia adalah, ketika dia mati, sebetulnya bukan mati, tetapi menyisakan 1 pada sekian desimal darahnya. Jadi dia hanya (',1') darahnya. Lalu dia pun revive, karena keinginan manusianya. Jadi revive ini seperti cara sihirnya Frisk (atau Player gaming-an Undertale) yang gak bisa mati, karena sistem SAVE itu.
+
+[Powers]
+- 'Save Revive System'
+Ketika Lazybone Sans mati, sebetulnya tidak mati, hanya menyisakan (',1'). Maka ketika keinginan manusianya ingin bangkit kembali, maka 'dia' tinggal respawn (membentuk kembali) di tempat secara acak (yang penting bisa respawn dengan sempurna).
+|
+- Manipulasi Tulangan
+Lazybone Sans mengendalikan tulang-tulangan, sesuai kemauan dia.
+|
+- Sans's Gaster Blaster
+Lazybone Sans bisa mengeluarkan blaster-nya.
+ + Ini juga direferensikan kepada Shiranui Flare.
+|
+- Telekinesis Manipulasi Gravitasi
+Lazybone Sans dengan 'Blue Magic'-nya, bisa memnambahkan atau mengurangi beban SOUL sehingga itulah yang membuatnya terlihat mampu mengubah gravitasi.
 ```
 
 > ***Spamor*** <br>
@@ -55,6 +69,9 @@ Q: Dia bisa apa?
 A: Seperti statiknya, dia adalah ksatria. Udah pasti bisa perang kayak ksatria.
  - Senjata utamanya adalah tombak.
  - Indra yang diutamakannya adalah mulut/lidah. Maka dia pun bisa mengaum, kayak hewan singa.
+
+[Power]
+- Pencegah Kelemahan Vampir
 ```
 
 > ***Accesive*** <br>
