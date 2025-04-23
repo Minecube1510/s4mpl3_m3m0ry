@@ -28,9 +28,10 @@ A: Gaster, dia anaknya Gaster (penggunanya adalah Lazybone 'Sans').
 > Maka keduanya adalah satu kesatuan, sebut saja 'Lazybone Sans'.
 
 Q: Dia bisa apa?
-A: Kalo kamu tau Sans, seperti itu lah dia.
+A: Kalo kamu tau Sans, seperti itu lah dia. Oh, dia juga bisa 'revive'. Ketika dikalahkan, dia macam KR-Genm, muncul entah darimana. Tetapi yang pasti dia mati lalu hidup kembali, bukan kayak Genm, tetapi 'revive'.
  - Senjata utama dia adalah pedang, sesekali barengan dengan pistol, tetapi dia lebih utama dengan pedang.
- - .
+ - Indra yang diutamakan adalah mata, kedua matanya.
+ + 'Revive' dia adalah, ketika dia mati, sebetulnya bukan mati, tetapi menyisakan 1 pada sekian desimal darahnya. Jadi dia hanya (',1') darahnya. Lalu dia pun revive, karena keinginan manusianya. Jadi revive ini seperti cara sihirnya Frisk (atau Player gaming-an Undertale) yang gak bisa mati, karena sistem SAVE itu.
 ```
 
 > ***Spamor*** <br>
@@ -39,17 +40,21 @@ Q: Siapa itu Spamor?
 A: Spamor, dia adalah si ksatria yang bisa ngurusin uang- Oh! Gak lupa pula, dia adalah vampir. Dia adalah Lazuli Dracire.
 
 [!] Lazuli Dracire terbagi 2 didalamnya:
-- La-Zoure-Lioch (Lazuli): Dia lah sosok manusia ksatria dari dunianya.
+- La-Zoure-Lioch (La Zuli): Dia lah sosok manusia ksatria dari dunianya.
  ~ La: Gelarnya (Tingkat bangsawan elit, tingkat teratas di dunia-nya).
  ~ Zoure: Nama Depannya (Dibaca Jure, karena mengartikannya sebagai 'law', 'hukum').
  ~ Lioch: Nama Belakang (Berarti 'ular' dalam swedia).
+ ~ Dia mirip kayak 'Shovel Knight'. Tubuh manusianya lenyap, karena udah lama mati. Namun pada akhirnya, La Zuli ini bangkit lagi, hidup kembali, kayak reinkarnasi. Jadi dia ini bisa kayak hantu.
 - Dracire: Dia adalah vampir, yang berasal dari 'Dunia Logi'.
  ~ Namanya gabungin dari 'Dracula' dan 'Vampire'.
+ ~ Kurang lebih mirip ama 'Zukyumpire' dari 'Kamen Rider Gotchard'.
 > Maka keduanya adalah satu kesatuan, sebut saja 'Lazuli'.
- + Lazuli.
+ + Lazuli karena vampir, tapi bisa cukup kebalikan. Yang mana vampir gak kuat sinar matahari dan bawang putih, tapi dia baik-baik aja dibawah sinar mentari, bahkan dia KETAGIHAN ama bawang putih (gegara dilatih ama Sans juga sih).
 
 Q: Dia bisa apa?
-A: .
+A: Seperti statiknya, dia adalah ksatria. Udah pasti bisa perang kayak ksatria.
+ - Senjata utamanya adalah tombak.
+ - Indra yang diutamakannya adalah mulut/lidah. Maka dia pun bisa mengaum, kayak hewan singa.
 ```
 
 > ***Accesive*** <br>
@@ -60,15 +65,18 @@ A: Accesive, dia adalah gadis merah virus (tukang matre). Dia adalah Hanaka "Han
 [!] Hanama terbagi 2 didalamnya:
 - Hanaka: Dia lah manusia (yang seharusnya sudah meninggal, tetapi jasad-nya diambil sebagai tubuh bagi Vira).
  ~ Namanya dari 'Hana' (Bunga) dan 'Aka' (Merah).
+ - Hanaka adalah cewek yang 'diangkat' (diubah) menjadi Lily (di Assault Lily), oleh Sans.
  + Maka gak perlu heran kalo niknem-nya adalah 'Akabana'.
 - Vira: Dia lah makhluk virus buatan TheDarkLord. Aslinya dia cowok, namun karena disatukan dengan Hanaka, maka dia berubah sepenuhnya menjadi cewek.
  ~ Namanya udah jelas, ViraBot.
  + Mengartikan, bahwa ayahnya adalah 'TheDarkLord' (TDL). Dan kakeknya, yang masih muda, adalah 'Noogai3', sang 'Alan Becker'.
  Karena Alan-lah yang membuat si TDL.
 > Maka keduanya adalah satu kesatuan, sebut saja 'Hanama'.
+ - Sejujurnya, Hanama adalah orang yang gak peduli ama penciuman (karena dirinya adalah virus).
 
 Q: Dia bisa apa?
 A: .
+ - Indra utamanya adalah hidung. Karena Hanaka adalah orang unik bagi sukunya, yang keunikannya adalah penciumannya yang setajam hewan anjing. Maka Hanama pun memiliki kemampuan penciuman tersebut.
 ```
 
 > ***Mistress*** <br>
