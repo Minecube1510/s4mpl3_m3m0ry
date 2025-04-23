@@ -291,14 +291,14 @@ A: Drill atau Bor, adalah senjata utama anggota tubuhnya Accesive (milik si Vira
 Q: Apa sih kategori Kama itu?
 A: Kama adalah senjata tradisional jepang, yang mana ini bentuknya hanya mini dari senjata sejenis Schyte sih. Tapi uniknya, Six mampu menguasai senjata semacam ini, mungkin itu karena keahliannya dalam menggunakan bumerang.
 ```
-- [x]()
+- [**Senjata Kama**](https://en.wikipedia.org/wiki/Kama_(tool))
 
 > ***Winchester*** <br>
 ```
 Q: Apa sih kategori Winchester itu?
 A: Winchester adalah jenis senjata senapan rifle, 'Winchester Rifle'. Mono kan bisa nguasain berbagai senapan, salah satunya adalah senjata senapan semacam ini.
 ```
-- [x]()
+- [**Rifle Winchester**](https://en.wikipedia.org/wiki/Winchester_rifle)
 
 > ***Eldritch*** <br>
 ```
