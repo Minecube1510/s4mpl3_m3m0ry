@@ -56,8 +56,8 @@ Karma [Karmic Retribution]
 Serangan Sans bertindak seperti racun (maksudnya, Sans bisa nyerang secara menghabisinya perlahan-lahan)
 ```
 > Bisa dilihat pada:
->> - [**Sans**](https://undertale.fandom.com/wiki/Sans)
->> - [**Manusia itu dirinya sendiri**]
+> - [**Sans**](https://undertale.fandom.com/wiki/Sans)
+> - [**Manusia itu dirinya sendiri**]
 
 
 > ***Spamor***
@@ -93,8 +93,8 @@ Lazuli dapat mengaum seperti singa, ini berasal dari turunan dirinya, yang dilat
 Lazuli sebenarnya bisa menggunakan sembarang senjata apapun, tetapi dia lebih masih dengan tombak-tombakan. Cukup dia ini adalah kavaleri tanpa kuda (karena kudanya adalah Roboroid besar bernama 'Snite').
 ```
 > Bisa dilihat pada:
->> - [**Shovel Knight**](https://shovelknight.fandom.com/wiki/Shovel_Knight)
->> - [**Zukyumpire**](https://kamenrider.fandom.com/wiki/Zukyumpire)
+> - [**Shovel Knight**](https://shovelknight.fandom.com/wiki/Shovel_Knight)
+> - [**Zukyumpire**](https://kamenrider.fandom.com/wiki/Zukyumpire)
 
 > ***Accesive***
 ```
@@ -128,8 +128,8 @@ Karena dia virus, dia bisa menjadi ancaman komputer. Dia tipe penghancur, maka d
 [!] Meski tubuhnya (form default human-nya) adalah 'Itsuka Kotori', tetapi kenyataanya Hanama pun tidak memiliki kekuatannya seperti Itsuka Kotori. Jadi hanya tampilannya aja yang sama.
 ```
 > Bisa dilihat pada:
->> - [**Kotori Itsuka**](https://date-a-live.fandom.com/wiki/Kotori_Itsuka)
->> - [**ViraBot**](https://animatorvsanimation.fandom.com/wiki/ViraBot)
+> - [**Kotori Itsuka**](https://date-a-live.fandom.com/wiki/Kotori_Itsuka)
+> - [**ViraBot**](https://animatorvsanimation.fandom.com/wiki/ViraBot)
 
 > ***Mistress***
 ```
@@ -152,8 +152,8 @@ Setelah memakan daging di leher The Lady, Six pun tampaknya memperoleh kekuatan 
  - Ini hanya memperkuat kekuatannya, karena Six bisa keluar TV tanpa Mono (karena dihisap), itu pas LN2 (itu sebelum LN1).
 ```
 > Bisa dilihat pada:
->> - [**Six**](https://littlenightmares.fandom.com/wiki/Six)
->> - [**The Lady**](https://littlenightmares.fandom.com/wiki/The_Lady)
+> - [**Six**](https://littlenightmares.fandom.com/wiki/Six)
+> - [**The Lady**](https://littlenightmares.fandom.com/wiki/The_Lady)
 
 > ***Hunfle***
 ```
@@ -173,9 +173,9 @@ Mono bisa masuk keluar TV sana sini yang dia mau. Artinya, Mono bisa memanfaatka
 Mono bisa saja mendengar lebih jauh, bahkan sejauh gedung atas yang sedang menembaki dirinya.
 ```
 > Bisa dilihat pada:
->> - [**Mono**](https://littlenightmares.fandom.com/wiki/Mono)
->> - [**The Hunter**](https://littlenightmares.fandom.com/wiki/The_Hunter)
->> - [**The Thin Man**](https://littlenightmares.fandom.com/wiki/The_Thin_Man)
+> - [**Mono**](https://littlenightmares.fandom.com/wiki/Mono)
+> - [**The Hunter**](https://littlenightmares.fandom.com/wiki/The_Hunter)
+> - [**The Thin Man**](https://littlenightmares.fandom.com/wiki/The_Thin_Man)
 
 > ***Clovin***
 ```
@@ -206,10 +206,10 @@ Candy bisa mengubah dirinya menjadi yang dia mau. Dia bahkan membentuk dirinya s
 Night Terrors bisa melakukan itu semua, terbukti dari dirinya yang merupakan seorang iblis.
 ```
 > Bisa dilihat pada:
->> - [**Candy Pop**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Candy-Pop-785688420)
->> - [**Ibunya**](https://www.deviantart.com/danceofangels/art/Candy-pop-s-genyr-mother-Jesterca-588462555)
->> - [**Ayahnya**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Calicifur-749822269)
->> - [**Asal Muasal mereka berdua**](https://www.deviantart.com/danceofangels/art/Umbra-The-story-of-Night-Terrors-and-Candy-Pop-752600746)
+> - [**Candy Pop**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Candy-Pop-785688420)
+> - [**Ibunya**](https://www.deviantart.com/danceofangels/art/Candy-pop-s-genyr-mother-Jesterca-588462555)
+> - [**Ayahnya**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Calicifur-749822269)
+> - [**Asal Muasal mereka berdua**](https://www.deviantart.com/danceofangels/art/Umbra-The-story-of-Night-Terrors-and-Candy-Pop-752600746)
 
 - _**[Type] terdiri dari [6] 'Category'**_ <br>
 **Type** adalah simbol elemennya. Unsur di dalamnya menjadikannya sebagai elemen bagi sang Kamen Rider. <br>
@@ -218,49 +218,50 @@ Berikut 6 elemen-elemen unsur yang telah ada dan diketahui di sini:
 > ***Fossil*** <br>
 ```
 Q: Tipe Fossil itu apa?
-A: .
+A: Fossil adalah karakteristik Gaster, yang merupakan tetulangan.
 
-.
+Tau kan? Yang fosil dinosaurus-lah, fosil hewan ini lah, itu lah, di museum-museum gitu.
 ```
 
 > ***Jarl*** <br>
 ```
 Q: Tipe Jarl itu apa?
-A: .
+A: Jarl adalah status pangkat yang terdapat pada zaman viking dulu.
 
-.
+Maka Jarl dijadikan sebagai karakteristik dari Spamor, yang merupakan ksatria. Tentunya, Spamor adalah ksatria yang mana udah pasti ada status kasta pangkat-pangkatnya dong...
 ```
+- [**Pangkat** ***Jarl***](https://en.wikipedia.org/wiki/Jarl)
 
 > ***Virtual*** <br>
 ```
 Q: Tipe Virtual itu apa?
-A: .
+A: Virtual adalah karakteristik teknologi. Ini lah yang mendeskripsikan Accesive.
 
-.
+Virtual artinya tidak terlihat, tapi masih mampu dalam interaksi dengan menggunakan teknologi. Accesive kan virus, virus itu gak bisa dilihat, tetapi dapat dirasakan (diketahui), dalam perteknologian.
 ```
 
 > ***Raincoat*** <br>
 ```
 Q: Tipe Raincoat itu apa?
-A: .
+A: Raincoat, 'Jas Hujan'. Six pake, jas hujan. Ya udah lah ya, fungsinya, buat ngelindungin dirinya dari kehujanan lah utamanya! Oh, selain itu, jadi ikonik utamanya pula.
 
-.
+Jadi ini, karakteristik-nya juga. Six selalu menggunakan jas hujan berwarna kuning.
 ```
 
 > ***Paperbag*** <br>
 ```
 Q: Tipe Paperbag itu apa?
-A: .
+A: Paperbag, kardus kresekan yang biasa dipake ngebungkus makanan (mana gede banget, sampe muat di kepalanya), itu dipake oleh Mono sebagai topengnya.
 
-.
+Jadi satu ini, agak lain nih. Pakenya kardus kresek sebagai topeng kepalanya.
 ```
 
 > ***Trickster*** <br>
 ```
 Q: Tipe Trickster itu apa?
-A: .
+A: Trickster, 'penipu', 'badut penipu'. Yang entah gimana bisa selalu ikonik terkaitnya adalah badut. Karna diartiin ahli sulap atau ahli badut juga bukan.
 
-.
+Tapi 'Trickster' seharusnya juga bisa diartiin sebagai badut juga sih.
 ```
 
 - _**[Category] terdiri dari [26] 'Sampel'**_ <br>
@@ -269,37 +270,37 @@ Berikut senjata-senjata yang biasa digunakan oleh sang Kamen Rider:
 
 > ***Blaster*** <br>
 ```
-Q: ?
+Q: Apa sih kategori x itu?
 A: .
 ```
 
 > ***Lance*** <br>
 ```
-Q: ?
+Q: Apa sih kategori x itu?
 A: .
 ```
 
 > ***Drill*** <br>
 ```
-Q: ?
+Q: Apa sih kategori x itu?
 A: .
 ```
 
 > ***Kama*** <br>
 ```
-Q: ?
+Q: Apa sih kategori x itu?
 A: .
 ```
 
 > ***Winchester*** <br>
 ```
-Q: ?
+Q: Apa sih kategori x itu?
 A: .
 ```
 
 > ***Eldritch*** <br>
 ```
-Q: ?
+Q: Apa sih kategori x itu?
 A: .
 ```
 
