@@ -27,21 +27,22 @@ A: Gaster, dia anaknya Gaster (penggunanya adalah Lazybone 'Sans').
  ~ Scuty sendiri adalah nama bintang merah supermasif, yang bahkan LEBIH BESAR daripada matahari dan lubang hitam biasa, yakni itulah yang bernama 'UY Scuti'.
 > Maka keduanya adalah satu kesatuan, sebut saja 'Lazybone Sans'.
 
-Q: Dia bisa apa?
+Q: Gaster bisa melakukan apa?
 A: Kalo kamu tau Sans, seperti itu lah dia. Oh, dia juga bisa 'revive'. Ketika dikalahkan, dia macam KR-Genm, muncul entah darimana. Tetapi yang pasti dia mati lalu hidup kembali, bukan kayak Genm, tetapi 'revive'.
  - Senjata utama dia adalah pedang, sesekali barengan dengan pistol, tetapi dia lebih utama dengan pedang.
  - Indra yang diutamakan adalah mata, kedua matanya.
  + 'Revive' dia adalah, ketika dia mati, sebetulnya bukan mati, tetapi menyisakan 1 pada sekian desimal darahnya. Jadi dia hanya (',1') darahnya. Lalu dia pun revive, karena keinginan manusianya. Jadi revive ini seperti cara sihirnya Frisk (atau Player gaming-an Undertale) yang gak bisa mati, karena sistem SAVE itu.
 
 [Powers]
-- 'Save Revive System'
+- 'Save Revive System' (Sistem 'Save Revive')
 Ketika Lazybone Sans mati, sebetulnya tidak mati, hanya menyisakan (',1'). Maka ketika keinginan manusianya ingin bangkit kembali, maka 'dia' tinggal respawn (membentuk kembali) di tempat secara acak (yang penting bisa respawn dengan sempurna).
 |
 - Manipulasi Tulangan
 Lazybone Sans mengendalikan tulang-tulangan, sesuai kemauan dia. Bahkan dia mampu membentuk dirinya lebih kuat termasuk wujudnya dengan memperkuat tulang-tulang dalam dirinya.
 |
-- Sans's Gaster Blaster
+- Gaster Blaster si Sans
 Lazybone Sans bisa mengeluarkan blaster-nya.
+ ! Blaster-nya saat ini masih dipertanyakan bentuk kepalanya mereferensikan kepala apa. Tapi untuk saat ini, anggaplah kepalanya adalah kerangka kepala naga yang tidak besertakan dengan tanduknya.
  + Ini juga direferensikan kepada Shiranui Flare.
 |
 - Telekinesis Manipulasi Gravitasi
@@ -65,7 +66,7 @@ A: Spamor, dia adalah si ksatria yang bisa ngurusin uang- Oh! Gak lupa pula, dia
 > Maka keduanya adalah satu kesatuan, sebut saja 'Lazuli'.
  + Lazuli karena vampir, tapi bisa cukup kebalikan. Yang mana vampir gak kuat sinar matahari dan bawang putih, tapi dia baik-baik aja dibawah sinar mentari, bahkan dia KETAGIHAN ama bawang putih (gegara dilatih ama Sans juga sih).
 
-Q: Dia bisa apa?
+Q: Spamor bisa melakukan apa?
 A: Seperti statiknya, dia adalah ksatria. Udah pasti bisa perang kayak ksatria.
  - Senjata utamanya adalah tombak.
  - Indra yang diutamakannya adalah mulut/lidah. Maka dia pun bisa mengaum, kayak hewan singa.
@@ -74,10 +75,10 @@ A: Seperti statiknya, dia adalah ksatria. Udah pasti bisa perang kayak ksatria.
 - Pencegah Kelemahan Vampir
 Lazuli bisa mengatasi kelemahan vampirnya (sinar mentari dan bawang putih).
 |
-- Lazuli's Lion Roar
+- Auman Singa Lazuli
 Lazuli dapat mengaum seperti singa, ini berasal dari turunan dirinya, yang dilatih sekerad-kerad mungkin. Sehingga kini aumannya, bisa seperti hewan singa sekarang.
 |
-- Knight Spear Skills
+- Kemahiran Tombakan sang Ksatria
 Lazuli sebenarnya bisa menggunakan sembarang senjata apapun, tetapi dia lebih masih dengan tombak-tombakan. Cukup dia ini adalah kavaleri tanpa kuda (karena kudanya adalah Roboroid besar bernama 'Snite').
 ```
 
@@ -97,15 +98,15 @@ A: Accesive, dia adalah gadis merah virus (tukang matre). Dia adalah Hanaka "Han
  + Mengartikan, bahwa ayahnya adalah 'TheDarkLord' (TDL). Dan kakeknya, yang masih muda, adalah 'Noogai3', sang 'Alan Becker'.
  Karena Alan-lah yang membuat si TDL.
 > Maka keduanya adalah satu kesatuan, sebut saja 'Hanama'.
- - Sejujurnya, Hanama adalah orang yang gak peduli ama penciuman (karena dirinya adalah virus).
+ - Sejujurnya, Hanama adalah orang yang gak peduli ama penciuman (karena dirinya adalah virus). Namun karena Hanaka punya keunikan pada hidungnya, maka mau gak mau, Vira pun hanya bisa memilikinya.
 
-Q: Dia bisa apa?
+Q: Accesive bisa melakukan apa?
 A: Seperti statiknya, virus ViraBot. Maka cari tau itu si ViraBot, maka kamu mengetahuinya.
  - Indra utamanya adalah hidung. Karena Hanaka adalah orang unik bagi sukunya, yang keunikannya adalah penciumannya yang setajam hewan anjing. Maka Hanama pun memiliki kemampuan penciuman tersebut.
 
 [Powers]
-- x
-.
+- Penciuman Tajam Hanaka
+Hidung Hanama sangat tajam, bahkan bisa mencium aura hawa panas sekitaran.
 |
 - x
 .
@@ -116,7 +117,7 @@ A: Seperti statiknya, virus ViraBot. Maka cari tau itu si ViraBot, maka kamu men
 Q: Siapa itu Mistress?
 A: Mistress, .
 
-Q: Dia bisa apa?
+Q: Mistress bisa melakukan apa?
 A: .
 
 .
@@ -134,7 +135,7 @@ A: .
 Q: Siapa itu Hunfle?
 A: Hunfle, .
 
-Q: Dia bisa apa?
+Q: Hunfle bisa melakukan apa?
 A: .
 
 .
@@ -152,7 +153,7 @@ A: .
 Q: Siapa itu Clovin?
 A: Clovin, .
 
-Q: Dia bisa apa?
+Q: Clovin bisa melakukan apa?
 A: .
 
 .
