@@ -108,8 +108,8 @@ A: Seperti statiknya, virus ViraBot. Maka cari tau itu si ViraBot, maka kamu men
 - Penciuman Tajam Hanaka
 Hidung Hanama sangat tajam, bahkan bisa mencium aura hawa panas sekitaran.
 |
-- x
-.
+- Virabot Virus
+Karena dia virus, dia bisa menjadi ancaman komputer. Dia tipe penghancur, maka dia bisa ngapus file sana-sini, bahkan kedatangannya bisa bikin sistem komputer atau gadget auto panas. Jadi ketika komputer atau gadget lainnnya merasa panas, maka Vira telah hadir di dalam komputer atau gadget tersebut.
 ```
 
 > ***Mistress*** <br>
