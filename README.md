@@ -14,7 +14,7 @@ Karena:
 **Bunch** sendiri adalah nama-nama bagi sang **Kamen Rider**. <br>
 Yakni terdapat 6 Kamen Rider terdaftarkan di sini:
 
-> ***Gaster*** <br>
+> ***Gaster***
 ```
 Q: Siapa itu Gaster?
 A: Gaster, dia anaknya Gaster (penggunanya adalah Lazybone 'Sans').
@@ -48,8 +48,12 @@ Lazybone Sans bisa mengeluarkan blaster-nya.
 - Telekinesis Manipulasi Gravitasi
 Lazybone Sans dengan 'Blue Magic'-nya, bisa memnambahkan atau mengurangi beban SOUL sehingga itulah yang membuatnya terlihat mampu mengubah gravitasi.
 ```
+> Bisa dilihat pada:
+>> - [**Sans**](https://undertale.fandom.com/wiki/Sans)
+>> - [**Manusia itu dirinya sendiri**]
 
-> ***Spamor*** <br>
+
+> ***Spamor***
 ```
 Q: Siapa itu Spamor?
 A: Spamor, dia adalah si ksatria yang bisa ngurusin uang- Oh! Gak lupa pula, dia adalah vampir. Dia adalah Lazuli Dracire.
@@ -81,8 +85,11 @@ Lazuli dapat mengaum seperti singa, ini berasal dari turunan dirinya, yang dilat
 - Kemahiran Tombakan sang Ksatria
 Lazuli sebenarnya bisa menggunakan sembarang senjata apapun, tetapi dia lebih masih dengan tombak-tombakan. Cukup dia ini adalah kavaleri tanpa kuda (karena kudanya adalah Roboroid besar bernama 'Snite').
 ```
+> Bisa dilihat pada:
+>> - [**Shovel Knight**](https://shovelknight.fandom.com/wiki/Shovel_Knight)
+>> - [**Zukyumpire**](https://kamenrider.fandom.com/wiki/Zukyumpire)
 
-> ***Accesive*** <br>
+> ***Accesive***
 ```
 Q: Siapa itu Accesive?
 A: Accesive, dia adalah gadis merah virus (tukang matre). Dia adalah Hanaka "Hanama" Vira.
@@ -111,8 +118,11 @@ Hidung Hanama sangat tajam, bahkan bisa mencium aura hawa panas sekitaran.
 - Virabot Virus
 Karena dia virus, dia bisa menjadi ancaman komputer. Dia tipe penghancur, maka dia bisa ngapus file sana-sini, bahkan kedatangannya bisa bikin sistem komputer atau gadget auto panas. Jadi ketika komputer atau gadget lainnnya merasa panas, maka Vira telah hadir di dalam komputer atau gadget tersebut.
 ```
+> Bisa dilihat pada:
+>> - [**Kotori Itsuka**]([s](https://date-a-live.fandom.com/wiki/Kotori_Itsuka))
+>> - [**ViraBot**](https://animatorvsanimation.fandom.com/wiki/ViraBot)
 
-> ***Mistress*** <br>
+> ***Mistress***
 ```
 Q: Siapa itu Mistress?
 A: Mistress, .
@@ -129,8 +139,11 @@ A: .
 - x
 .
 ```
+> Bisa dilihat pada:
+>> - [**Six**](https://littlenightmares.fandom.com/wiki/Six)
+>> - [**The Lady**](https://littlenightmares.fandom.com/wiki/The_Lady)
 
-> ***Hunfle*** <br>
+> ***Hunfle***
 ```
 Q: Siapa itu Hunfle?
 A: Hunfle, .
@@ -147,8 +160,12 @@ A: .
 - x
 .
 ```
+> Bisa dilihat pada:
+>> - [**Mono**](https://littlenightmares.fandom.com/wiki/Mono)
+>> - [**The Hunter**](https://littlenightmares.fandom.com/wiki/The_Hunter)
+>> - [**The Thin Man**](https://littlenightmares.fandom.com/wiki/The_Thin_Man)
 
-> ***Clovin*** <br>
+> ***Clovin***
 ```
 Q: Siapa itu Clovin?
 A: Clovin, .
@@ -165,6 +182,9 @@ A: .
 - x
 .
 ```
+> Bisa dilihat pada:
+>> - [**x**](.)
+>> - [**x**](.)
 
 - _**[Type] terdiri dari [6] 'Category'**_ <br>
 **Type** adalah simbol elemennya. Unsur di dalamnya menjadikannya sebagai elemen bagi sang Kamen Rider. <br>
