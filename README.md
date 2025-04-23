@@ -486,13 +486,25 @@ Artinya: [151]
 Ini adalaha penamaan langsung. <br>
 Tapi perlu diingat! Bahwa:
 > Bunch, harus disertakan seperti '***Kamen Rider***'. Boleh disingkat saja, jadinya '*KR*'. <br>
-> - Penamaan: '*KR_Nama*'
+> - Penamaan: '*KR*_***Nama***'
 
-> Type, kali ini harus didahului oleh nama Rider. <br>
-> - Penamaan: '*Rider_*'
+> Type, kali ini harus didahului oleh '*nama* **Rider**'. Seperti berikut: <br>
+> - Penamaan: '*Rider*_***Type***'
 
-> Category, . <br>
-> - Penamaan: '*Rider_*'
+> Category, dahulukan cara penulisan Type seperti diatas, lalu pisahkan dengan [ *'* ]. <br>
+> - Penamaan: '*Rider_Type*'***Category***'
+
+#### Maka kalo digabungkan itu semua:
+```
+Bunch:
+?X_B00X-KR_Nama
+
+Type:
+?XX_T0XX-Rider_Type
+
+Category:
+?XXX_CXXX-Rider_Type'Category
+```
 
 2. **File Gambar** <br>
 Ini... Hanya isi gambar doang kok.
