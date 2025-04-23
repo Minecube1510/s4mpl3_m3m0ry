@@ -443,10 +443,19 @@ Maka mereka dinamai dengan inisialis yang ke-sort:
 ```
 
 > *xX* <br>
-> Ini adahl kode kedua berbentuk angka dua digit. ?.
+> Ini adalah kode kedua berbentuk angka satu digit. Fungsinya sebagai indikator urutan ke-berapa folder ini.
 ```
-a
+Misalnya: [GPaB]
+Maka:
+- Awalannya [G], itu "Gaster", maka urutannya yang pertama, jadi '1' dalam Bunch.
+- Tengahnya [Pa], itu "Paperbag", maka urutannya yang pertama, jadi '5' dalam Type.
+- Akhirannya [B], itu "Blaster", maka urutannya yang pertama, jadi '1' dalam Category.
 ```
+> - Berdasarkan contoh tadi, kalo dibaca, mengartikan "Bunch: Gaster".
+>> Maka artinya, adalah:
+>> - '***a1***'.
+>> - '***b15***'.
+>> - '***c151***'.
 
 - Kedua
 > *Xxx* <br>
@@ -458,10 +467,23 @@ a
 ```
 
 > *xXX* <br>
-> Ini adahl kode kedua berbentuk angka dua digit. ?.
+> Ini adalah kode kedua berbentuk angka dua sampai tiga digit. Ini sebagai indikator urutan BTC-nya.
 ```
-a
+Misalnya: [GPaB]
+Maka:
+> 'G'-aster = '1' (Bunch)
+> 'Pa'-perbag = '5' (Type)
+> 'B'-laster = '1' (Category)
+Artinya: [151]
 ```
+> - Berdasarkan contoh tadi, kalo dibaca, mengartikan "**Gaster**-**Paperbag**-**Blaster**".
+>> Maka artinya, adalah:
+>> - '***B001***'.
+>> - '***T015***'.
+>> - '***C151***'.
+
+- Ketiga
+.
 
 2. **File Gambar** <br>
 Ini... Hanya isi gambar doang kok.
