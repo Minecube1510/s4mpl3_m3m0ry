@@ -127,7 +127,7 @@ Karena dia virus, dia bisa menjadi ancaman komputer. Dia tipe penghancur, maka d
 [!] Meski tubuhnya (form default human-nya) adalah 'Itsuka Kotori', tetapi kenyataanya Hanama pun tidak memiliki kekuatannya seperti Itsuka Kotori. Jadi hanya tampilannya aja yang sama.
 ```
 > Bisa dilihat pada:
->> - [**Kotori Itsuka**]([s](https://date-a-live.fandom.com/wiki/Kotori_Itsuka))
+>> - [**Kotori Itsuka**](https://date-a-live.fandom.com/wiki/Kotori_Itsuka)
 >> - [**ViraBot**](https://animatorvsanimation.fandom.com/wiki/ViraBot)
 
 > ***Mistress***
@@ -177,23 +177,30 @@ Mono bisa saja mendengar lebih jauh, bahkan sejauh gedung atas yang sedang menem
 > ***Clovin***
 ```
 Q: Siapa itu Clovin?
-A: Clovin, .
+A: Clovin, adalah Rider yang bukan manusia, tetapi Genyr, bernama 'Candy Pop'.
+
+Candy Pop adalah Genyr yang pernah menang melawan Night Terrors (Daylight). Namun dirinya kini, telah ter-corrupt karena mendengar hasutan dari Night Terrors. Btw, Candy Pop jatuh cinta dengan April Fools.
+
+[!] Hanama terbagi 2 didalamnya:
+- .
+- .
+> .
 
 Q: Clovin bisa melakukan apa?
-A: .
+A: Candy Pop bisa .
 
 .
 
 [Powers]
-- x
+- Shapeshifting
 .
 |
 - x
 .
 ```
 > Bisa dilihat pada:
->> - [**x**](.)
->> - [**x**](.)
+>> - [**Candy Pop**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Candy-Pop-785688420)
+>> - [**Asal Muasal mereka berdua**](https://www.deviantart.com/danceofangels/art/Umbra-The-story-of-Night-Terrors-and-Candy-Pop-752600746)
 
 - _**[Type] terdiri dari [6] 'Category'**_ <br>
 **Type** adalah simbol elemennya. Unsur di dalamnya menjadikannya sebagai elemen bagi sang Kamen Rider. <br>
