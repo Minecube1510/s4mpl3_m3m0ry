@@ -35,22 +35,23 @@ Format gambar modern yang digunakan di perangkat Apple dengan efisiensi tinggi.
 Format gambar yang digunakan untuk ikon di Windows dan favicon di website.
 
 ---
+- Terhitung diketahui ada sekitar **5.616** Sampel nih. <br>
+Maka minimal standar-nya, akan ada sekitar **5.616** ilustrasi gambar. <br>
+
+Itu semua pun belum ditambah dengan ada:
+- Bentuk *Upgrade* atau *Evolusi*-nya
+- Bentuk '*Final Form*'-nya
+- Bentuk *Corrupt*-nya
+- Yang bentu *Early*-nya juga
+- Dan lain sebagainya.
+
+---
 Kurang lebih, isi foldernya, ada:
-1. BTC Symbols <br>
+1. **BTC Symbols** <br>
 Ini adalah isi simbolik per-BTC-an.
 
-2. Sampel Ilust <br>
-Ini adalah ilustrasi-ilustrasi atau gambar-gambar yang merepresentasikan dari isi Sampel tersebut.
-
-> - Terhitung diketahui ada sekitar **5.616** Sampel nih. <br>
-> Maka minimal standar-nya, akan ada sekitar **5.616** ilustrasi gambar. <br>
-
-> Itu semua pun belum ditambah dengan ada:
-> - Bentuk *Upgrade* atau *Evolusi*-nya
-> - Bentuk '*Final Form*'-nya
-> - Bentuk *Corrupt*-nya
-> - Yang bentu *Early*-nya juga
-> - Dan lain sebagainya.
+2. **Sampel Ilust** <br>
+Ini adalah ilustrasi-ilustrasi atau gambar-gambar yang merepresentasikan dari isi sampel tersebut.
 
 ---
 Yaudah, gitu aja sih.
