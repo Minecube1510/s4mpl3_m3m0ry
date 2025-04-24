@@ -37,10 +37,13 @@ Format gambar yang digunakan untuk ikon di Windows dan favicon di website.
 ---
 Kurang lebih, isi foldernya, ada:
 1. BTC Symbols <br>
-Ini adalah x.
+Ini adalah isi simbolik per-BTC-an.
 
 2. Sampel Ilust <br>
-Ini adalah x.
+Ini adalah ilustrasi-ilustrasi atau gambar-gambar yang merepresentasikan dari isi Sampel tersebut.
+
+> Ada 5.616 Sampel nih. Maka standar-nya, ada sekitar 5616 ilustrasi gambar.
+> Belum ditambah ada upgrade-nya, 'Final Form'-nya, dan lain sebagainya.
 
 ---
 Yaudah, gitu aja sih.
