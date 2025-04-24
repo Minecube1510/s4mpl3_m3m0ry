@@ -35,6 +35,16 @@ Format gambar modern yang digunakan di perangkat Apple dengan efisiensi tinggi.
 Format gambar yang digunakan untuk ikon di Windows dan favicon di website.
 
 ---
+Kurang lebih, isi foldernya, ada:
+```
+1. BTC_Symbols
+x.
+
+2. Sampel_Ilust
+x.
+```
+
+---
 Yaudah, gitu aja sih.
 
 ---
