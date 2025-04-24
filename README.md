@@ -498,15 +498,6 @@ Category:
 2. **Folder Gambar** <br>
 Ini udah pasti banget, bahwa ini adalah source gambarnya.
 
-Kurang lebih, isi foldernya, ada:
-```
-1. BTC_Symbols
-x.
-
-2. Sampel_Ilust
-x.
-```
-
 
 ## C. Format Isi dalam File
 1. **Format Isi Sampel** <br>
