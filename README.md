@@ -311,57 +311,21 @@ A: Eldritch adalah bukan senjata, tetapi efek sihir yang mana, seperti ini lah i
 Maka, coba lah mengingatinya dengan ini:
 > - Bunches
 ```
-Gaster
-Spamor
-Accesive
-Mistress
-Hunfle
-Clovin
-```
-```
-G
-S
-A
-Mi
-Hu
-Clo
+Gaster / Spamor / Accesive / Mistress / Hunfle / Clovin
+G / S / A / Mi / Hu / Clo
 ```
 
 
 > - Types
 ```
-Fossil
-Jarl
-Virtual
-Raincoat
-Paperbag
-Trickster
-```
-```
-F
-J
-V
-Ra
-Pa
-Tri
+Fossil / Jarl / Virtual / Raincoat / Paperbag / Trickster
+F / J / V / Ra / Pa / Tri
 ```
 
 > - Categories
 ```
-Blaster
-Lance
-Drill
-Kama
-Winchester
-Eldritch
-```
-```
-B
-L
-D
-Ka
-Wi
-Eld
+Blaster / Lance / Drill / Kama / Winchester / Eldritch
+B / L / D / Ka / Wi / Eld
 ```
 
 
@@ -405,11 +369,11 @@ Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya ber
 2. **Nama File Depanan** <br>
 Kenapa ini penting? Agar nanti kalo mau masuk ke File Manager, biar gampang ***Auto-Sort***-nya. <br>
 Kenapa harus ada Auto-Sort? Agar enak pas nyarinya.
-> **Xxx** <br>
-> x
+> **Xxxx** <br>
+> Ini adalah kode pertama. Ini harus ikut dengan penamaan folder.
 
-> **xXX** <br>
-> x
+> **xXXX** <br>
+> Ini adalah kode kedua. Ini harus ikut dengan penamaan folder, tapi dengan tiga digit.
 
 3. **Nama File ...** <br>
 x
