@@ -506,6 +506,11 @@ Ini... Hanya isi gambar doang kok.
 1. **Format Isi Sampel** <br>
 Kalo mau ngisi tentang sampel-nya, harus di-formati seperti ini. Agar dapat dibaca dengan jelas dan enak.
 ```
+3 Images
+[Image 1] - [Image 2] - [Image 3]
+
+--- <Ini ngebatasin>
+
 ID: XXXX
 Name: Nama Sampel-nya
 Bunch: Samakan dengan File dan Folder
@@ -515,8 +520,6 @@ Segment: Sampel-nya di segmen mana
 List: Urutan ke berapa berdasarkan huruf [a-z] (Untuk ini, liat pada nama File-nya! yakni kode terakhir pada nama File-nya, itu sebelum nama format-nya [.md])
 
 Isi
-
-.
 ```
 
 2. **Coming soon** <br>
