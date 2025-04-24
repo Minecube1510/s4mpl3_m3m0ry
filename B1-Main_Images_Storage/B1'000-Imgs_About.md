@@ -45,7 +45,12 @@ Ini adalah ilustrasi-ilustrasi atau gambar-gambar yang merepresentasikan dari is
 > - Terhitung diketahui ada sekitar **5.616** Sampel nih. <br>
 > Maka minimal standar-nya, akan ada sekitar **5.616** ilustrasi gambar. <br>
 
-> Dan itu pun belum ditambah dengan ada upgrade-nya, '*Final Form*'-nya, bentuk '*corrupt*'-nya, yang '*early*'-nya juga, dan lain sebagainya.
+> Itu semua pun belum ditambah dengan ada:
+> - Bentuk *Upgrade* atau *Evolusi*-nya
+> - Bentuk '*Final Form*'-nya
+> - Bentuk *Corrupt*-nya
+> - Yang bentu *Early*-nya juga
+> - Dan lain sebagainya.
 
 ---
 Yaudah, gitu aja sih.
