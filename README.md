@@ -511,6 +511,11 @@ Kalo mau ngisi tentang sampel-nya, harus di-formati seperti ini. Agar dapat diba
 
 --- <Ini ngebatasin>
 
+Ini adalah opsional. Kalo ada gambarnya, silahkan taruh. Kalo gak ada gambarnya, gak usah ditaruh, biarin aja.
+[Gambar Ilustrasi]
+
+--- <Ini ngebatasin>
+
 ID: XXXX
 Name: Nama Sampel-nya
 Bunch: Samakan dengan File dan Folder
