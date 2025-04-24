@@ -26,4 +26,4 @@ Format gambar modern yang digunakan di perangkat Apple dengan efisiensi tinggi.
 - **ICO** atau (*Icon*) <br>
 Format gambar yang digunakan untuk ikon di Windows dan favicon di website.
 
-x.
+Yaudah, gitu aja sih.
