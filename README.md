@@ -412,17 +412,8 @@ Ini lah isi dari tiap-tiap 5616 Sampel.
 3. **Nama File ...** <br>
 x
 
-4. **Nama File ...** <br>
-x
 
-5. **Nama File ...** <br>
-x
-
-6. **Nama File ...** <br>
-x
-
-
-## B. Penamaan Folder...
+## B. Penamaan Folder
 Kayak namanya, "**Folder**". Yang artinya, menyimpan banyak file-file, bahkan folder itu sendiri.
 
 1. **Folder Utama** <br>
@@ -510,12 +501,17 @@ Ini... Hanya isi gambar doang kok.
 'BTC_Symbols'
 ```
 
-## C. Nanti dulu...
-x
 
-1. **Coming soon** <br>
-x
+## C. Format Isi dalam File
+1. **Format Isi Sampel** <br>
+Kalo mau ngisi tentang sampel-nya, harus di-formati seperti ini. Agar dapat dibaca dengan jelas dan enak.
+```
+.
+```
 
+2. **Coming soon** <br>
+X
+.
 
 ## D. Nanti dulu...
 x
