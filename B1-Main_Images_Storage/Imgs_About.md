@@ -1,4 +1,12 @@
-Folder ini adalah hanya berisi gambar-gambar. Tentunya gambar memiliki format seperti:
+---
+Folder ini adalah hanya berisi gambar-gambar. <br>
+Jadi, semua resource gambar-gambar, ada di sini.
+
+---
+### [!] INGAT! HANYA FILE GAMBAR! JANGAN TARO APAPUN SELAIN GAMBAR! [!]
+---
+Tentunya file gambar, seharusnya berformat seperti:
+
 - **PNG** atau (*Portable Network Graphics*) <br>
 Format yang mendukung transparansi dan tidak kehilangan kualitas saat disimpan berulang kali (lossless compression).
 
@@ -26,6 +34,7 @@ Format gambar modern yang digunakan di perangkat Apple dengan efisiensi tinggi.
 - **ICO** atau (*Icon*) <br>
 Format gambar yang digunakan untuk ikon di Windows dan favicon di website.
 
-### [!] INGAT! HANYA FILE GAMBAR! JANGAN TARO APAPUN SELAIN GAMBAR! [!]
-
+---
 Yaudah, gitu aja sih.
+
+---
