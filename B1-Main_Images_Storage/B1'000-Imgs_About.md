@@ -36,13 +36,11 @@ Format gambar yang digunakan untuk ikon di Windows dan favicon di website.
 
 ---
 Kurang lebih, isi foldernya, ada:
-```
-1. BTC_Symbols
-x.
+1. BTC Symbols <br>
+Ini adalah x.
 
-2. Sampel_Ilust
-x.
-```
+2. Sampel Ilust <br>
+Ini adalah x.
 
 ---
 Yaudah, gitu aja sih.
