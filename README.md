@@ -504,17 +504,20 @@ Udah pada paham lah ya, kalo gambar itu, formatnya:
 > Format yang menggunakan kompresi untuk mengurangi ukuran file, tetapi dengan sedikit penurunan kualitas (lossy compression).
 - **GIF** (Graphics Interchange Format)
 > Format yang mendukung animasi sederhana dan hanya menggunakan 256 warna.
-- BMP (Bitmap)
+- **BMP** (Bitmap)
 > Format gambar tanpa kompresi, sering digunakan di Windows.
-- TIFF (Tagged Image File Format)
+- **TIFF** (Tagged Image File Format)
 > Cocok untuk keperluan cetak dengan kualitas tinggi.
-- SVG (Scalable Vector Graphics)
+- **SVG** (Scalable Vector Graphics)
 > Format berbasis vektor, sering dipakai untuk desain dan website.
-- WEBP (Web Picture)
+- **WEBP** (Web Picture)
 > Format yang dikembangkan oleh Google, menawarkan ukuran lebih kecil dengan kualitas tetap bagus.
-- HEIF/HEIC (High Efficiency Image Format/Coding)
+- **HEIF**/**HEIC** (High Efficiency Image Format/Coding)
 > Format gambar modern yang digunakan di perangkat Apple dengan efisiensi tinggi.
+- **ICO** (Icon)
+> Format gambar yang digunakan untuk ikon di Windows dan favicon di website.
 
+Kurang lebih, isi foldernya, ada:
 ```
 1. BTC_Symbols
 x.
