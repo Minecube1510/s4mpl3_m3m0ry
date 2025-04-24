@@ -506,6 +506,16 @@ Ini... Hanya isi gambar doang kok.
 1. **Format Isi Sampel** <br>
 Kalo mau ngisi tentang sampel-nya, harus di-formati seperti ini. Agar dapat dibaca dengan jelas dan enak.
 ```
+ID: XXXX
+Name: Nama Sampel-nya
+Bunch: Samakan dengan File dan Folder
+Type: Samakan dengan File dan Folder
+Category: Samakan dengan File dan Folder
+Segment: Sampel-nya di segmen mana
+List: Urutan ke berapa berdasarkan huruf [a-z] (Untuk ini, liat pada nama File-nya! yakni kode terakhir pada nama File-nya, itu sebelum nama format-nya [.md])
+
+Isi
+
 .
 ```
 
