@@ -366,14 +366,48 @@ Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya ber
 
 > - Untuk '*FirstList_Sign_QFM*', bisa ditemukan pada [***'Sampel Memori 2'***](https://docs.google.com/spreadsheets/d/1zLfmoWbyX3uObGxpigM-m-7OviPcki7hWT1SjPG9ZI8/edit?usp=sharing).
 
-2. **Nama File Depanan** <br>
+2. **Nama File Daftar Sampel** <br>
 Kenapa ini penting? Agar nanti kalo mau masuk ke File Manager, biar gampang ***Auto-Sort***-nya. <br>
 Kenapa harus ada Auto-Sort? Agar enak pas nyarinya.
+- Pertama:
 > **Xxxx** <br>
 > Ini adalah kode pertama. Ini harus ikut dengan penamaan folder.
 
 > **xXXX** <br>
 > Ini adalah kode kedua. Ini harus ikut dengan penamaan folder, tapi dengan tiga digit.
+
+Tiga jenis struktur yang dituliskan disini:
+```
+Bunch:
+a001
+
+Type:
+b0XX
+
+Category:
+cXXX
+```
+
+- Kedua:
+> Kalo ini namain langsung. Tapi gak langsung namain. Harus mengikuti sebagai berikut:
+
+>> - Bunch <br>
+>> By-KR_Name
+
+>> - Type <br>
+>> BTC_[***B***][***T***]
+
+>> - Category <br>
+>> Kalo ini dibagi 2:
+```
+Bagian 'A':
+Ini lah isi dari tiap-tiap pertandingan dalam satu turnamen.
+- [B][T]'[A]-[Penamaan_BunchType]-[Category]
+
+Bagian 'B':
+Ini lah isi dari tiap-tiap 5616 Sampel.
+- [B][T]'[B]-[FirstList_Sign_QFM]
+```
 
 3. **Nama File ...** <br>
 x
