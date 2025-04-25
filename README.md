@@ -83,11 +83,11 @@ cXXX
 ```
 Bagian 'A':
 Ini lah isi dari tiap-tiap pertandingan dalam satu turnamen.
-- [B][T]'[A]-[Penamaan_BunchType]-[Category]
+- [B][T]'[C]-[Penamaan_BunchType]-[Category]
 
 Bagian 'B':
 Ini lah isi dari tiap-tiap 5616 Sampel.
-- [B][T]'[B]-[FirstList_Sign_QFM]
+- [B][T]'[C]_[Nomor_ID]-[FirstList_Sign_QFM]
 ```
 
 3. **Nama File ...** <br>
