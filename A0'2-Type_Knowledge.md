@@ -44,11 +44,11 @@ Trickster, yang berarti '*penipu*', '*badut penipu*'. Yang entah gimana bisa sel
 ---
 ## Types
 
-***Fossil***: **F** <br>
-***Jarl***: **J** <br>
-***Virtual***: **V** <br>
-***Raincoat***: **Ra** <br>
-***Paperbag***: **Pa** <br>
-***Trickster***: **Tri** <br>
+- ***Fossil***: [**F**] <br>
+- ***Jarl***: [**J**] <br>
+- ***Virtual***: [**V**] <br>
+- ***Raincoat***: [**Ra**] <br>
+- ***Paperbag***: [**Pa**] <br>
+- ***Trickster***: [**Tri**] <br>
 
 ---
