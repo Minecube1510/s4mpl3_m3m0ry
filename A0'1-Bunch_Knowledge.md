@@ -2,7 +2,9 @@
 **Bunch** sendiri adalah nama-nama bagi sang **Kamen Rider**. <br>
 Yakni terdapat 6 Kamen Rider terdaftarkan di sini:
 
-> ***Gaster***
+---
+
+# Gaster
 ```
 Q: Siapa itu Gaster?
 A: Gaster, dia anaknya Gaster (penggunanya adalah Lazybone 'Sans').
@@ -48,7 +50,7 @@ Serangan Sans bertindak seperti racun (maksudnya, Sans bisa nyerang secara mengh
 > - [**Manusia itu dirinya sendiri**]
 
 
-> ***Spamor***
+# Spamor
 ```
 Q: Siapa itu Spamor?
 A: Spamor, dia adalah si ksatria yang bisa ngurusin uang- Oh! Gak lupa pula, dia adalah vampir. Dia adalah Lazuli Dracire.
@@ -84,7 +86,7 @@ Lazuli sebenarnya bisa menggunakan sembarang senjata apapun, tetapi dia lebih ma
 > - [**Shovel Knight**](https://shovelknight.fandom.com/wiki/Shovel_Knight)
 > - [**Zukyumpire**](https://kamenrider.fandom.com/wiki/Zukyumpire)
 
-> ***Accesive***
+# Accesive
 ```
 Q: Siapa itu Accesive?
 A: Accesive, dia adalah gadis merah virus (tukang matre). Dia adalah Hanaka "Hanama" Vira.
@@ -119,7 +121,7 @@ Karena dia virus, dia bisa menjadi ancaman komputer. Dia tipe penghancur, maka d
 > - [**Kotori Itsuka**](https://date-a-live.fandom.com/wiki/Kotori_Itsuka)
 > - [**ViraBot**](https://animatorvsanimation.fandom.com/wiki/ViraBot)
 
-> ***Mistress***
+# Mistress
 ```
 Q: Siapa itu Mistress?
 A: Mistress, dia adalah si Six. Ya, user-nya adalah Six si jas hujan kuning.
@@ -143,7 +145,7 @@ Setelah memakan daging di leher The Lady, Six pun tampaknya memperoleh kekuatan 
 > - [**Six**](https://littlenightmares.fandom.com/wiki/Six)
 > - [**The Lady**](https://littlenightmares.fandom.com/wiki/The_Lady)
 
-> ***Hunfle***
+# Hunfle
 ```
 Q: Siapa itu Hunfle?
 A: Hunfle, dia adalah Mono. Ya, dia adalah Mono si topengan kardus kresek (Paperbag).
@@ -165,7 +167,7 @@ Mono bisa saja mendengar lebih jauh, bahkan sejauh gedung atas yang sedang menem
 > - [**The Hunter**](https://littlenightmares.fandom.com/wiki/The_Hunter)
 > - [**The Thin Man**](https://littlenightmares.fandom.com/wiki/The_Thin_Man)
 
-> ***Clovin***
+# Clovin
 ```
 Q: Siapa itu Clovin?
 A: Clovin, adalah Rider yang bukan manusia, tetapi Genyr, bernama 'Candy Pop'.
@@ -200,9 +202,7 @@ Night Terrors bisa melakukan itu semua, terbukti dari dirinya yang merupakan seo
 > - [**Asal Muasal mereka berdua**](https://www.deviantart.com/danceofangels/art/Umbra-The-story-of-Night-Terrors-and-Candy-Pop-752600746)
 
 ---
-
-Maka, coba lah mengingatinya dengan ini:
-> - Bunches
+### Bunches
 ```
 Gaster / Spamor / Accesive / Mistress / Hunfle / Clovin
 G / S / A / Mi / Hu / Clo
