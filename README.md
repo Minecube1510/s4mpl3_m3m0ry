@@ -9,28 +9,6 @@
 - [Dipisah berdasarkan pada **Bunch**, lalu pada **Type**, dan terakhir kepada **Category**.]
 - Maka artinya, ini akan terdiri dari *'**6**' Bunch*, *'**36**' Type*, *'**216**' Category*.
 
----
-
-Maka, coba lah mengingatinya dengan ini:
-> - Bunches
-```
-Gaster / Spamor / Accesive / Mistress / Hunfle / Clovin
-G / S / A / Mi / Hu / Clo
-```
-
-
-> - Types
-```
-Fossil / Jarl / Virtual / Raincoat / Paperbag / Trickster
-F / J / V / Ra / Pa / Tri
-```
-
-> - Categories
-```
-Blaster / Lance / Drill / Kama / Winchester / Eldritch
-B / L / D / Ka / Wi / Eld
-```
-
 
 ## Aturan
 ### A. **Penamaan File**
