@@ -88,6 +88,7 @@ Ini lah isi dari tiap-tiap pertandingan dalam satu turnamen.
 Bagian 'B':
 Ini lah isi dari tiap-tiap 5616 Sampel.
 - [B][T]'[C]_[Nomor_ID]-[FirstList_Sign_QFM]
+> 'Nomor_ID' harus 4 digit. Maka kalo kurang dari, awalannya harus '0'.
 ```
 
 3. **Nama File ...** <br>
