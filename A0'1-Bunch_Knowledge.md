@@ -203,11 +203,11 @@ Referensi:
 
 ---
 ## Bunches
-- ***Gaster*** - **G** <br>
-- ***Spamor*** - **S** <br>
-- ***Accesive*** - **A** <br>
-- ***Mistress*** - **Mi** <br>
-- ***Hunfle*** - **Hu** <br>
-- ***Clovin*** - **Clo** <br>
+- ***Gaster*** - [**G**] <br>
+- ***Spamor*** - [**S**] <br>
+- ***Accesive*** - [**A**] <br>
+- ***Mistress*** - [**Mi**] <br>
+- ***Hunfle*** - [**Hu**] <br>
+- ***Clovin*** - [**Clo**] <br>
 
 ---
