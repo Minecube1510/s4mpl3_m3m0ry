@@ -42,14 +42,11 @@ Eldritch berarti hal aneh dan diluar nalar, dan itu seperti sebuah 'rasa ketakuk
 
 ---
 ## Categories
-
-- Blaster: x
-- Lance: x
-- Drill: x
-- Kama: x
-- Winchester: x
-- Eldritch: x
-
-B / L / D / Ka / Wi / Eld
+- ***Blaster***: [**B / L / D / Ka / Wi / Eld**]
+- ***Lance***: [**x**]
+- ***Drill***: [**x**]
+- ***Kama***: [**x**]
+- ***Winchester***: [**x**]
+- ***Eldritch***: [**x**]
 
 ---
