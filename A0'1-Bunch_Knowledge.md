@@ -46,8 +46,8 @@ Karma [Karmic Retribution]
 Serangan Sans bertindak seperti racun (maksudnya, Sans bisa nyerang secara menghabisinya perlahan-lahan)
 ```
 Referensi:
-- [**Sans - Undertale**](https://undertale.fandom.com/wiki/Sans)
-- [**Manusia itu dirinya sendiri - Dunia Nyata**]
+- [**Sans - Undertale by Toby Fox**](https://undertale.fandom.com/wiki/Sans)
+- [**Manusia itu dirinya sendiri - Dunia Nyata by The God**]
 
 
 ## Spamor
@@ -203,7 +203,6 @@ Referensi:
 
 ---
 ## Bunches
-
 ***Gaster*** - **G** <br>
 ***Spamor*** - **S** <br>
 ***Accesive*** - **A** <br>
