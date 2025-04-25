@@ -295,3 +295,24 @@ A: Eldritch adalah bukan senjata, tetapi efek sihir yang mana, seperti ini lah i
 ```
 
 ---
+
+Maka, coba lah mengingatinya dengan ini:
+> - Bunches
+```
+Gaster / Spamor / Accesive / Mistress / Hunfle / Clovin
+G / S / A / Mi / Hu / Clo
+```
+
+> - Types
+```
+Fossil / Jarl / Virtual / Raincoat / Paperbag / Trickster
+F / J / V / Ra / Pa / Tri
+```
+
+> - Categories
+```
+Blaster / Lance / Drill / Kama / Winchester / Eldritch
+B / L / D / Ka / Wi / Eld
+```
+
+---
