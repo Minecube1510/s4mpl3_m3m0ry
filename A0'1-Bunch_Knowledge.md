@@ -46,8 +46,8 @@ Karma [Karmic Retribution]
 Serangan Sans bertindak seperti racun (maksudnya, Sans bisa nyerang secara menghabisinya perlahan-lahan)
 ```
 Referensi:
-- [**Sans**](https://undertale.fandom.com/wiki/Sans)
-- [**Manusia itu dirinya sendiri**]
+- [**Sans - Undertale**](https://undertale.fandom.com/wiki/Sans)
+- [**Manusia itu dirinya sendiri - Dunia Nyata**]
 
 
 ## Spamor
@@ -83,8 +83,8 @@ Lazuli dapat mengaum seperti singa, ini berasal dari turunan dirinya, yang dilat
 Lazuli sebenarnya bisa menggunakan sembarang senjata apapun, tetapi dia lebih masih dengan tombak-tombakan. Cukup dia ini adalah kavaleri tanpa kuda (karena kudanya adalah Roboroid besar bernama 'Snite').
 ```
 Referensi:
-- [**Shovel Knight**](https://shovelknight.fandom.com/wiki/Shovel_Knight)
-- [**Zukyumpire**](https://kamenrider.fandom.com/wiki/Zukyumpire)
+- [**Shovel Knight - Shovel Knight**](https://shovelknight.fandom.com/wiki/Shovel_Knight)
+- [**Zukyumpire - Kamen Rider Gotchard**](https://kamenrider.fandom.com/wiki/Zukyumpire)
 
 ## Accesive
 ```
@@ -118,8 +118,8 @@ Karena dia virus, dia bisa menjadi ancaman komputer. Dia tipe penghancur, maka d
 [!] Meski tubuhnya (form default human-nya) adalah 'Itsuka Kotori', tetapi kenyataanya Hanama pun tidak memiliki kekuatannya seperti Itsuka Kotori. Jadi hanya tampilannya aja yang sama.
 ```
 Referensi:
-- [**Kotori Itsuka**](https://date-a-live.fandom.com/wiki/Kotori_Itsuka)
-- [**ViraBot**](https://animatorvsanimation.fandom.com/wiki/ViraBot)
+- [**Kotori Itsuka - Date A Live**](https://date-a-live.fandom.com/wiki/Kotori_Itsuka)
+- [**ViraBot - Animation vs Animator by Alan Becker**](https://animatorvsanimation.fandom.com/wiki/ViraBot)
 
 ## Mistress
 ```
@@ -142,8 +142,8 @@ Setelah memakan daging di leher The Lady, Six pun tampaknya memperoleh kekuatan 
  - Ini hanya memperkuat kekuatannya, karena Six bisa keluar TV tanpa Mono (karena dihisap), itu pas LN2 (itu sebelum LN1).
 ```
 Referensi:
-- [**Six**](https://littlenightmares.fandom.com/wiki/Six)
-- [**The Lady**](https://littlenightmares.fandom.com/wiki/The_Lady)
+- [**Six - Little Nightmares**](https://littlenightmares.fandom.com/wiki/Six)
+- [**The Lady - Little Nightmares**](https://littlenightmares.fandom.com/wiki/The_Lady)
 
 ## Hunfle
 ```
@@ -163,9 +163,9 @@ Mono bisa masuk keluar TV sana sini yang dia mau. Artinya, Mono bisa memanfaatka
 Mono bisa saja mendengar lebih jauh, bahkan sejauh gedung atas yang sedang menembaki dirinya.
 ```
 Referensi:
-- [**Mono**](https://littlenightmares.fandom.com/wiki/Mono)
-- [**The Hunter**](https://littlenightmares.fandom.com/wiki/The_Hunter)
-- [**The Thin Man**](https://littlenightmares.fandom.com/wiki/The_Thin_Man)
+- [**Mono - Little Nightmares**](https://littlenightmares.fandom.com/wiki/Mono)
+- [**The Hunter - Little Nightmares**](https://littlenightmares.fandom.com/wiki/The_Hunter)
+- [**The Thin Man - Little Nightmares**](https://littlenightmares.fandom.com/wiki/The_Thin_Man)
 
 ## Clovin
 ```
@@ -196,19 +196,19 @@ Candy bisa mengubah dirinya menjadi yang dia mau. Dia bahkan membentuk dirinya s
 Night Terrors bisa melakukan itu semua, terbukti dari dirinya yang merupakan seorang iblis.
 ```
 Referensi:
-- [**Candy Pop**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Candy-Pop-785688420)
-- [**Ibunya**](https://www.deviantart.com/danceofangels/art/Candy-pop-s-genyr-mother-Jesterca-588462555)
-- [**Ayahnya**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Calicifur-749822269)
-- [**Asal Muasal mereka berdua**](https://www.deviantart.com/danceofangels/art/Umbra-The-story-of-Night-Terrors-and-Candy-Pop-752600746)
+- [**Candy Pop - Umbra by DanceOfAngels/Jesterca**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Candy-Pop-785688420)
+- [**Ibunya - Umbra by DanceOfAngels/Jesterca**](https://www.deviantart.com/danceofangels/art/Candy-pop-s-genyr-mother-Jesterca-588462555)
+- [**Ayahnya - Umbra by DanceOfAngels/Jesterca**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Calicifur-749822269)
+- [**Asal Muasal mereka berdua - Umbra by DanceOfAngels/Jesterca**](https://www.deviantart.com/danceofangels/art/Umbra-The-story-of-Night-Terrors-and-Candy-Pop-752600746)
 
 ---
-### Bunches
+## Bunches
 
-***Gaster*** - **G**
-***Spamor*** - **S**
-***Accesive*** - **A**
-***Mistress*** - **Mi**
-***Hunfle*** - **Hu**
-***Clovin*** - **Clo**
+***Gaster*** - **G** <br>
+***Spamor*** - **S** <br>
+***Accesive*** - **A** <br>
+***Mistress*** - **Mi** <br>
+***Hunfle*** - **Hu** <br>
+***Clovin*** - **Clo** <br>
 
 ---
