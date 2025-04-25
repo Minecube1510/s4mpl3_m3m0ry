@@ -1,10 +1,10 @@
-- _**[Bunch] terdiri dari [6] 'Type'**_ <br>
+# _**[Bunch] membentuk kepada '6' Type**_
 **Bunch** sendiri adalah nama-nama bagi sang **Kamen Rider**. <br>
-Yakni terdapat 6 Kamen Rider terdaftarkan di sini:
+Yakni terdapat 6 Kamen Rider terdaftarkan di sini.
 
 ---
 
-# Gaster
+## Gaster
 ```
 Q: Siapa itu Gaster?
 A: Gaster, dia anaknya Gaster (penggunanya adalah Lazybone 'Sans').
@@ -45,12 +45,12 @@ Ketika Sans menembak, pelurunya bisa ada mode ini. Mode inilah yang ngebikin pel
 Karma [Karmic Retribution]
 Serangan Sans bertindak seperti racun (maksudnya, Sans bisa nyerang secara menghabisinya perlahan-lahan)
 ```
-> Bisa dilihat pada:
-> - [**Sans**](https://undertale.fandom.com/wiki/Sans)
-> - [**Manusia itu dirinya sendiri**]
+Referensi:
+- [**Sans**](https://undertale.fandom.com/wiki/Sans)
+- [**Manusia itu dirinya sendiri**]
 
 
-# Spamor
+## Spamor
 ```
 Q: Siapa itu Spamor?
 A: Spamor, dia adalah si ksatria yang bisa ngurusin uang- Oh! Gak lupa pula, dia adalah vampir. Dia adalah Lazuli Dracire.
@@ -82,11 +82,11 @@ Lazuli dapat mengaum seperti singa, ini berasal dari turunan dirinya, yang dilat
 - Kemahiran Tombakan sang Ksatria
 Lazuli sebenarnya bisa menggunakan sembarang senjata apapun, tetapi dia lebih masih dengan tombak-tombakan. Cukup dia ini adalah kavaleri tanpa kuda (karena kudanya adalah Roboroid besar bernama 'Snite').
 ```
-> Bisa dilihat pada:
-> - [**Shovel Knight**](https://shovelknight.fandom.com/wiki/Shovel_Knight)
-> - [**Zukyumpire**](https://kamenrider.fandom.com/wiki/Zukyumpire)
+Referensi:
+- [**Shovel Knight**](https://shovelknight.fandom.com/wiki/Shovel_Knight)
+- [**Zukyumpire**](https://kamenrider.fandom.com/wiki/Zukyumpire)
 
-# Accesive
+## Accesive
 ```
 Q: Siapa itu Accesive?
 A: Accesive, dia adalah gadis merah virus (tukang matre). Dia adalah Hanaka "Hanama" Vira.
@@ -117,11 +117,11 @@ Karena dia virus, dia bisa menjadi ancaman komputer. Dia tipe penghancur, maka d
 
 [!] Meski tubuhnya (form default human-nya) adalah 'Itsuka Kotori', tetapi kenyataanya Hanama pun tidak memiliki kekuatannya seperti Itsuka Kotori. Jadi hanya tampilannya aja yang sama.
 ```
-> Bisa dilihat pada:
-> - [**Kotori Itsuka**](https://date-a-live.fandom.com/wiki/Kotori_Itsuka)
-> - [**ViraBot**](https://animatorvsanimation.fandom.com/wiki/ViraBot)
+Referensi:
+- [**Kotori Itsuka**](https://date-a-live.fandom.com/wiki/Kotori_Itsuka)
+- [**ViraBot**](https://animatorvsanimation.fandom.com/wiki/ViraBot)
 
-# Mistress
+## Mistress
 ```
 Q: Siapa itu Mistress?
 A: Mistress, dia adalah si Six. Ya, user-nya adalah Six si jas hujan kuning.
@@ -141,11 +141,11 @@ Seperti yang dikatakan, Six yang paling mahir dengan bumerang.
 Setelah memakan daging di leher The Lady, Six pun tampaknya memperoleh kekuatan The Lady. Ia kemudian menggunakan kekuatan ini untuk membunuh para Guest mana pun yang mendekatinya dengan menguras esensi kehidupan mereka sebelum akhirnya meninggalkan Maw.
  - Ini hanya memperkuat kekuatannya, karena Six bisa keluar TV tanpa Mono (karena dihisap), itu pas LN2 (itu sebelum LN1).
 ```
-> Bisa dilihat pada:
-> - [**Six**](https://littlenightmares.fandom.com/wiki/Six)
-> - [**The Lady**](https://littlenightmares.fandom.com/wiki/The_Lady)
+Referensi:
+- [**Six**](https://littlenightmares.fandom.com/wiki/Six)
+- [**The Lady**](https://littlenightmares.fandom.com/wiki/The_Lady)
 
-# Hunfle
+## Hunfle
 ```
 Q: Siapa itu Hunfle?
 A: Hunfle, dia adalah Mono. Ya, dia adalah Mono si topengan kardus kresek (Paperbag).
@@ -162,12 +162,12 @@ Mono bisa masuk keluar TV sana sini yang dia mau. Artinya, Mono bisa memanfaatka
 - Sharpen Hears
 Mono bisa saja mendengar lebih jauh, bahkan sejauh gedung atas yang sedang menembaki dirinya.
 ```
-> Bisa dilihat pada:
-> - [**Mono**](https://littlenightmares.fandom.com/wiki/Mono)
-> - [**The Hunter**](https://littlenightmares.fandom.com/wiki/The_Hunter)
-> - [**The Thin Man**](https://littlenightmares.fandom.com/wiki/The_Thin_Man)
+Referensi:
+- [**Mono**](https://littlenightmares.fandom.com/wiki/Mono)
+- [**The Hunter**](https://littlenightmares.fandom.com/wiki/The_Hunter)
+- [**The Thin Man**](https://littlenightmares.fandom.com/wiki/The_Thin_Man)
 
-# Clovin
+## Clovin
 ```
 Q: Siapa itu Clovin?
 A: Clovin, adalah Rider yang bukan manusia, tetapi Genyr, bernama 'Candy Pop'.
@@ -195,17 +195,20 @@ Candy bisa mengubah dirinya menjadi yang dia mau. Dia bahkan membentuk dirinya s
 - Manipulasi Bayangan Kegelapan, Manipulasi Jiwa, Manipulasi Energi
 Night Terrors bisa melakukan itu semua, terbukti dari dirinya yang merupakan seorang iblis.
 ```
-> Bisa dilihat pada:
-> - [**Candy Pop**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Candy-Pop-785688420)
-> - [**Ibunya**](https://www.deviantart.com/danceofangels/art/Candy-pop-s-genyr-mother-Jesterca-588462555)
-> - [**Ayahnya**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Calicifur-749822269)
-> - [**Asal Muasal mereka berdua**](https://www.deviantart.com/danceofangels/art/Umbra-The-story-of-Night-Terrors-and-Candy-Pop-752600746)
+Referensi:
+- [**Candy Pop**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Candy-Pop-785688420)
+- [**Ibunya**](https://www.deviantart.com/danceofangels/art/Candy-pop-s-genyr-mother-Jesterca-588462555)
+- [**Ayahnya**](https://www.deviantart.com/danceofangels/art/Umbra-Character-Calicifur-749822269)
+- [**Asal Muasal mereka berdua**](https://www.deviantart.com/danceofangels/art/Umbra-The-story-of-Night-Terrors-and-Candy-Pop-752600746)
 
 ---
 ### Bunches
-```
-Gaster / Spamor / Accesive / Mistress / Hunfle / Clovin
-G / S / A / Mi / Hu / Clo
-```
+
+***Gaster*** - **G**
+***Spamor*** - **S**
+***Accesive*** - **A**
+***Mistress*** - **Mi**
+***Hunfle*** - **Hu**
+***Clovin*** - **Clo**
 
 ---
