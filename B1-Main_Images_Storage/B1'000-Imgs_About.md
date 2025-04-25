@@ -52,6 +52,19 @@ Ini adalah isi simbolik per-BTC-an.
 
 2. **Sampel Ilust** <br>
 Ini adalah ilustrasi-ilustrasi atau gambar-gambar yang merepresentasikan dari isi sampel tersebut.
+- Untuk yang ini, **WAJIB, FARDHU 'AIN** menyertakan sumbernya dari mana, dan siapa yang membuatnya (atau gak yang memilikinya lah, sebagai penghormatan kepada sang pemberi sumber)!!!
+
+> **Q**: Caranya gimana?
+```
+Format-nya kayak gini:
+"[Sumber_Gambar]: [Owner_Gambar]"
+
+[Sumber_Gambar]: Gambarnya dari WEB mana (udah pasti dari Web. Karena ini nyari, bukan mencipta!)
+[Owner_Gambar]: Siapa yang membuatnya (atau gak, yang punya aja deh! Biar pas!)
+```
+
+Kalo gak gitu, nanti kita juga diperlakuin hal yang sama. Bahkan hal inilah yang menyebabkan pencurian! <br>
+Moral dulu *ya ges ya*, biar otak manusia menjadi lebih terisi karena ini...
 
 ---
 Yaudah, gitu aja sih.
