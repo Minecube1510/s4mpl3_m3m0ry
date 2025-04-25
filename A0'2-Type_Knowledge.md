@@ -43,11 +43,11 @@ Trickster, 'penipu', 'badut penipu'. Yang entah gimana bisa selalu ikonik terkai
 ---
 ## Types
 
-*Fossil*: *F*
-*Jarl*: *J*
-*Virtual*: *V*
-*Raincoat*: *Ra*
-*Paperbag*: *Pa*
-*Trickster*: *Tri*
+***Fossil***: **F** <br>
+***Jarl***: **J** <br>
+***Virtual***: **V** <br>
+***Raincoat***: **Ra** <br>
+***Paperbag***: **Pa** <br>
+***Trickster***: **Tri** <br>
 
 ---
