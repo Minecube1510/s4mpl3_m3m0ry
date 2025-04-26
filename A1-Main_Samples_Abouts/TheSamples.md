@@ -1,6 +1,63 @@
+---
+
 Seperti yang dikatakan, ini akan berisi sekitar 5616 Sampel.
 BTC-nya juga.
 
 ---
 
-Tapi khusus ini, ini hanya akan berisi catatan-catatannya aja.
+Tapi khusus ini, ini hanya akan berisi catatan-catatannya aja. <br>
+Beserta penjelasan mendetilnya.
+
+---
+
+# Indikator Simbolik
+<div align="center">
+<table style="margin-left: auto; margin-right: auto;"><tr>
+  <td><p align="center">
+    $${\textcolor{#00BEFF}{Gaster}}$$
+  </p></td><td><p align="center">
+    $${\textcolor{#B651FF}{Paperbag}}$$
+  </p></td><td><p align="center">
+    $${\textcolor{#00BEFF}{Blaster}}$$
+  </p></td>
+    </tr>
+  <tr><th>
+    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
+  </th><th>
+    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/e05_HuPaWi.png", width="100">
+  </th><th>
+    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
+  </th></tr>
+</table>
+</div>
+
+---
+# Ilustrasi Default
+<p align="center">
+<img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.002-Sampel_Illust/B1.002'A-Basic_5616/A.Basic_Illust'001-GPaB/B1.002'625-54Oa.png", width="200">
+  <br>
+[<a href="https://www.deviantart.com/israelprime/art/TF-ONE-Optimus-prime-1109474959"><b>Deviantart</b></a>]:
+"<a href="https://www.deviantart.com/israelprime"><i>IsraelPrime</i></a>"
+</p>
+
+---
+# Informasi Data
+- **ID:** ***625*** <br>
+- **Name:** *Autobot Optimus Prime* <br>
+- **Bunch:** $${\textbf{\textcolor{#00BEFF}{Gaster}}}$$ <br>
+- **Type:** $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ <br>
+- **Category:** $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$ <br>
+- **Segment:** *?* <br>
+- **List:** [ ***a*** ]
+---
+# Penjelasan Umum
+Optimus Prime adalah .
+
+---
+# COMINGSOON
+Z .
+
+---
+Yaudah, gitu aja sih...
+
+---
