@@ -185,19 +185,21 @@ Ini udah pasti banget, bahwa ini adalah source gambarnya.
 1. **Format Isi Sampel** <br>
 Kalo mau ngisi tentang sampel-nya, harus di-formati seperti ini. Agar dapat dibaca dengan jelas dan enak.
 ```
-{Tengah}
-3 gambar identifikasi BTC
-[Image 1] - [Image 2] - [Image 3]
+Header 1#: Indikator Simbolik
 
---- <Ini ngebatasin>
+Tabel Tengah:
+---
+[Tanda untuk Bunch] - [Tanda untuk Type] - [Tanda untuk Category]
+[Simbol untuk Bunch] - [Simbol untuk Type] - [Simbol untuk Category]
+---
 
-{Tengah}
-Ini adalah opsional. Kalo ada gambarnya, silahkan taruh. Kalo gak ada gambarnya, gak usah ditaruh, biarin aja.
-[Gambar Ilustrasi]
+-- Batas --
+Header 1#: Ilustrasi Default
+Gambar Tengah: Ini adalah opsional. Kalo ada gambarnya, silahkan taruh. Kalo gak ada gambarnya, gak usah ditaruh, biarin aja.
+[Gambar Ilustrasi, yang di 'Basic', jangan yang 'Other']
 
---- <Ini ngebatasin>
-
-{Kiri}
+-- Batas --
+Header 1#: Informasi Data
 ID: XXXX
 Name: Nama Sampel-nya
 Bunch: Samakan dengan File dan Folder
@@ -205,8 +207,13 @@ Type: Samakan dengan File dan Folder
 Category: Samakan dengan File dan Folder
 Segment: Sampel-nya di segmen mana
 List: Urutan ke berapa berdasarkan huruf [a-z] (Untuk ini, liat pada nama File-nya! yakni kode terakhir pada nama File-nya, itu sebelum nama format-nya [.md])
+-- Batas --
+Header 1#: Penjelasan Umum
 
-Isi [CS]
+-- Batas --
+Header 1#: CS
+
+-- Batas --
 ```
 
 2. **Coming soon** <br>
