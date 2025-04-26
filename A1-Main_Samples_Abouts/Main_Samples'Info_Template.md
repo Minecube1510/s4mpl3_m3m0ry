@@ -47,8 +47,8 @@
   <!-- WAJIB UNTUK MENAMBAHKAN DARIMANA WEB-NYA! -->
   <!-- BESERTA SIAPA PEMBUAT-NYA! -->
   <!-- [Web]: "Publisher/Creator" -->
-[<a href="https://www.deviantart.com/israelprime/art/TF-ONE-Optimus-prime-1109474959"><b>Deviantart</b></a>]:
-"<a href="https://www.deviantart.com/israelprime"><i>IsraelPrime</i></a>"
+[<a href=""><b>Webnya darimana dapetnya?</b></a>]:
+"<a href=""><i>Sang Publisher atau Creator</i></a>"
 </p>
 
 ---
