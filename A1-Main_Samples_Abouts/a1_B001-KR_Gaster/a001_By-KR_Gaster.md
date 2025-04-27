@@ -161,5 +161,4 @@ Menunggu: xxx
 ### $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 000. [AddPlease](CS)
 936. [AddPlease](CS)
-
 ---
