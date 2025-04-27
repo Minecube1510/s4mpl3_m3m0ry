@@ -4,51 +4,86 @@
 </p>
 
 ---
-
-# $${\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}$$
+# $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$
 
 1. 001-006
+> **Sudah**:
 > GPaB
 
+> **Berlangsung**:
+> GPaB
+
+> **Menunggu**:
 > GPaL, GPaD, GPaKa, GPaWi, GPa_Eld
 
+
 2. 007-012
+> **Sudah**:
 > xxx
 
+> **Berlangsung**:
 > xxx
+
+> **Menunggu**:
+> xxx
+
 
 3. 013-018
+> **Sudah**:
 > xxx
 
+> **Berlangsung**:
 > xxx
+
+> **Menunggu**:
+> xxx
+
 
 4. 019-024
+> **Sudah**:
 > xxx
 
+> **Berlangsung**:
 > xxx
+
+> **Menunggu**:
+> xxx
+
 
 5. 025-030
+> **Sudah**:
 > xxx
 
+> **Berlangsung**:
 > xxx
+
+> **Menunggu**:
+> xxx
+
 
 6. 031-036
+> **Sudah**:
 > xxx
 
+> **Berlangsung**:
+> xxx
+
+> **Menunggu**:
 > xxx
 
 ---
+## $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ - $${\textbf{\textcolor{#00BEFF}{Soon}}}$$ (GFB.000)
 
-## $${\textcolor{#00BEFF}{Coming\ Soon}}$$ - (GFB.000)
-- $${\textcolor{#00BEFF}{Blaster}}$$
+- $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+1. [AddPlease](CS)
 
-xxx. [AddPlease]()
+- $${\textbf{\textcolor{#00BEFF}{???}}}$$
+156. [AddPlease](CS)
 
 ---
+## $${\textbf{\textcolor{#00BEFF}{Cyber}}}$$ - $${\textbf{\textcolor{#B651FF}{Robot}}}$$ (GPaB.001)
 
-## $${\textcolor{#00BEFF}{Cyber\ Robot}}$$ - (GPaB.001)
-- $${\textcolor{#00BEFF}{Blaster}}$$
-
+- $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 625. [Autobot Optimus Prime](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0625'54Oa.md)
 626. [Autobot Hot Spot](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0626'30Hb.md)
 627. [Autobot Scattershot](CS)
@@ -76,12 +111,25 @@ xxx. [AddPlease]()
 649. [Decepticon Megaempress](CS)
 650. [Decepticon Lyzack](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0650'33Lz.md)
 
+- $${\textbf{\textcolor{#00BEFF}{???}}}$$
+651. [AddPlease](CS)
+
+- $${\textbf{\textcolor{#00BEFF}{???}}}$$
+651. [AddPlease](CS)
+
+- $${\textbf{\textcolor{#00BEFF}{???}}}$$
+651. [AddPlease](CS)
+
+- $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
+651. [AddPlease](CS)
+
+- $${\textbf{\textcolor{#00BEFF}{???}}}$$
+651. [AddPlease](CS)
+
 ---
+## $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ - $${\textbf{\textcolor{#00BEFF}{Soon}}}$$ (GF'ELD.000)
 
-### $${\textcolor{#00BEFF}{Coming\ Soon}}$$
-
-- $${\textcolor{#00BEFF}{Blaster}}$$
-
-xxx. Add...
+- $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+936. [AddPlease](CS)
 
 ---
