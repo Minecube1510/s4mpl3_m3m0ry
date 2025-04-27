@@ -25,10 +25,9 @@
 ---
 ## $${\textbf{\textcolor{#FFC32B}{ComingSoon}}}$$
 > [Spamor - Fossil](CS)
-- $${\textcolor{#00BEFF}{Blaster}}$$
 
 $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 ---
-xxx. Add...
+xxx. [Menunggu](CS)
 
 ---
