@@ -21,7 +21,7 @@
 
 # $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$ $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-- APGR1/5a1
+- **APGR1/5a1**
 ```
 625. Autobot Optimus Prime
 626. Autobot Hot Spot
@@ -35,11 +35,13 @@
 634. Autobot Cliffjumper
 635. Autobot Cosmos
 ```
-- APGR1/5a2
+
+- **APGR1/5a2**
 ```
 636. Autodecept Doubledealer
 ```
-- APGR1/5a3
+
+- **APGR1/5a3**
 ```
 637. Decepticon Hook
 638. Decepticon Onslaught
@@ -51,13 +53,15 @@
 644. Decepticon Mega-Octane
 645. Decepticon Bludgeon
 ```
-- APGR1/5a4
+
+- **APGR1/5a4**
 ```
 646. Autobot Pyra Magna
 647. Autobot Elita-1
 648. Autobot Chromia
 ```
-- APGR1/5a5
+
+- **APGR1/5a5**
 ```
 649. Decepticon Megaempress
 650. Decepticon Lyzack
