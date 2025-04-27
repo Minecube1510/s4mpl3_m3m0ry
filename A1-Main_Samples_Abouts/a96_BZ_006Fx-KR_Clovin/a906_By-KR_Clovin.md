@@ -51,7 +51,7 @@ Menunggu: xxx
 
 ---
 ## $${\textbf{\textcolor{#6A96FF}{CS}}}$$
-> [Hunfle - Fossil](CS)
+> [**Hunfle** - *Fossil*](CS)
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 5000. [Menunggu](CS)
