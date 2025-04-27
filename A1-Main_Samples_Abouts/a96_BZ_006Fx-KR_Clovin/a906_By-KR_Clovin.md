@@ -34,7 +34,7 @@
 5000. [Menunggu](CS)
 5000. [Menunggu](CS)
 
-### $${\textbf{\textcolor{#00BEFF}{Lance}}}$$
+### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 5000. [Menunggu](CS)
 5000. [Menunggu](CS)
 5000. [Menunggu](CS)
