@@ -11,7 +11,7 @@
 
 ---
 
-# $${\textbf{\textcolor{#FF78D3}{Kamen \ Rider \ Mistress}}}$$ ([Main]())
+# $${\textbf{\textcolor{#FF78D3}{Kamen \ Rider \ Mistress}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a4'4_B004'm-KR_Mistress))
 
 1. **XXX** - **XXX**
 > **Sudah**:
