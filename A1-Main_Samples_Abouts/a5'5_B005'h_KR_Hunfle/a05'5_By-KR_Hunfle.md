@@ -14,14 +14,41 @@
 # $${\textbf{\textcolor{#B651FF}{Kamen \ Rider \ Hunfle}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a5'5_B005'h_KR_Hunfle))
 
 1. **XXX** - **XXX**
-> **Sudah**:
-> xxx
-
-> **Berlangsung**:
-> xxx
-
-> **Menunggu**:
-> xxx
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+2. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+3. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+4. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+5. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+6. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
 
 ---
 
