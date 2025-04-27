@@ -15,8 +15,8 @@
 
 ---
 # $${\textbf{\textcolor{#00BEFF}{Cyber}}}$$ $${\textbf{\textcolor{#B651FF}{Robot}}}$$
-- $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$
-- $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$
+- **Bunch**: $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$
+- **Type**: $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$
 
 ---
 ## $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
