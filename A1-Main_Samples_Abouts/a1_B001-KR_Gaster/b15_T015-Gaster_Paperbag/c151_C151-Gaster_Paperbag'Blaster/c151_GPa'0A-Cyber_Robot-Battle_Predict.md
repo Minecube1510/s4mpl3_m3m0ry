@@ -21,7 +21,7 @@
 # $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$ $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
 ### Pendahuluan
-Jadi ini adalah ringkasan pertandingan turnamen jawara ke-001. Disini terdapat **4** Ronde utama yang kalo dibagi-bagi ke semuanya, maka akam menjadi **10** Ronde.
+Jadi ini adalah ringkasan pertandingan turnamen jawara ke-001.
 
 ### Segmen
 Berikut 26 Sampel di bagian BTC ini terbagi menjadi berikut:
