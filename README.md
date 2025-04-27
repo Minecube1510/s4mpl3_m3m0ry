@@ -8,3 +8,4 @@
 **Sampel Memori**, adalah tempat penyimpanan dari ***'5.616'*** Sampel yang ada!
 - [Dipisah berdasarkan pada **Bunch**, lalu pada **Type**, dan terakhir kepada **Category**.]
 - Maka artinya, ini akan terdiri dari *'**6**' Bunch*, *'**36**' Type*, *'**216**' Category*.
+---
