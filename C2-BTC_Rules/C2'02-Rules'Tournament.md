@@ -111,9 +111,9 @@ JANGAN! BIARKAN! ADA RIWAYAT PERTARUNGAN! YANG TERNYATA, **REMATCH**!
 > **Q**: 'Rematch' itu apa? <br>
 > **A**: Artinya, riwayat pertarungan yang sama.
 
-- Kalo pengen nyari dimana referensi perlawanannya, ada disini
-- [**Sampeling Champs - Battle Bracket**](https://docs.google.com/spreadsheets/d/1-hjHSuoQpc62idw0NkuAT2j5-W8eUdfXQ-90lYNk2Hw/edit?usp=sharing)
-- [**Sampeling Champs - Grade Level**](https://docs.google.com/spreadsheets/d/12VIz1Ase0-2pVU1yGjDgXmCwmyETP1a3riB33ZjCMaI/edit?usp=sharing)
-- [**Sampel Memori - Preview Tournament**](https://docs.google.com/spreadsheets/d/1A4ucBYUXsQfzYtnO-I48GoafiyjgOkYkogmb72UYy6Q/edit?usp=sharing)
+- Kalo pengen nyari dimana referensi perlawanannya, ada disini:
+- ["**Sampeling Champs - Battle Bracket**", .](https://docs.google.com/spreadsheets/d/1-hjHSuoQpc62idw0NkuAT2j5-W8eUdfXQ-90lYNk2Hw/edit?usp=sharing)
+- ["**Sampeling Champs - Grade Level**", .](https://docs.google.com/spreadsheets/d/12VIz1Ase0-2pVU1yGjDgXmCwmyETP1a3riB33ZjCMaI/edit?usp=sharing)
+- ["**Sampel Memori - Preview Tournament**", .](https://docs.google.com/spreadsheets/d/1A4ucBYUXsQfzYtnO-I48GoafiyjgOkYkogmb72UYy6Q/edit?usp=sharing)
 
 ---
