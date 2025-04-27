@@ -32,83 +32,87 @@ Add...
 0000. Autobot Greenlight
 0000. Decepticon Trickdiamond
 
+---
+
 0000. Autobot Arcee
-Autobot Skyburst
-Autobot Lancer
-Autobot Nautica
-Autobot Prowl
-Autobot Sideswipe
-Autobot Groove
-Autobot Medix
-Autobot Lightspeed
-Autobot Skydive
-Dinobot Sludge
-Autobot Topspin
-Autobot Smokescreen
-Decepticon Flowspade
-Decepticon Skyjack
-Decepticon Scrapper
-Decepticon Swindle
-Decepticon Breakdown
-Decepticon Ironbison
-Decepticon Cutthroat
-Decepticon Tantrum
-Decepticon Terrormander
-Decepticon Astrotrain
-Decepticon Rollbar
-Decepticon Tarantulas
-[Decepticon Hardshell/Unicronian Cyclonus]
-Autobot Windblade
-Autobot Dust Up
-Autobot Moonracer
-Autobot Strongarm
-Autobot Lambor
-Autobot Sunstreaker
-Autobot Blades
-Autobot Skyfeather
-Autobot Afterburner
-Autobot Fireflight
-Dinobot Swoop
-Autobot Twin Twist
-Autobot Wheeljack
-Decepticon Lunaclub
-Decepticon Cyberwarp
-Decepticon Scylla
-Decepticon Airachinid
-Decepticon Scavenger
-Decepticon Blast Off
-Decepticon Drag Strip
-Decepticon Guyhawk
-Decepticon Blot
-Decepticon Rampage
-Decepticon Acid Storm
-Decepticon Movor
-Decepticon Cicadacon
-Autobot Rodimus Prime
-[Decepticon Deadlock/Autobot Drift]
-Autobot First Aid
-Autobot Ratchet
-Autobot Strafe
-Autobot Alpha Bravo
-Dinobot Slag
-Autobot Roadbuster
-Autobot Hound
-Autobot Powerglide
-Decepticon Starscream
-Decepticon Bonecrusher
-Decepticon Vortex
-Decepticon Dead End
-Decepticon Fellbat
-Decepticon Rippersnapper
-Decepticon Divebomb
-Decepticon Coelagon
-Decepticon Mindwipe
-Decepticon Riotgear
-Decepticon Ro-Tor
-Decepticon Ram Horn
-[Decepticon Shrapnel/Unicronian Sweep]
-Autobot Jumpstream
-Autobot Firestar
+0000. Autobot Skyburst
+0000. Autobot Lancer
+0000. Autobot Nautica
+0000. Autobot Prowl
+0000. Autobot Sideswipe
+0000. Autobot Groove
+0000. Autobot Medix
+0000. Autobot Lightspeed
+0000. Autobot Skydive
+0000. Dinobot Sludge
+0000. Autobot Topspin
+0000. Autobot Smokescreen
+0000. Decepticon Flowspade
+0000. Decepticon Skyjack
+0000. Decepticon Scrapper
+0000. Decepticon Swindle
+0000. Decepticon Breakdown
+0000. Decepticon Ironbison
+0000. Decepticon Cutthroat
+0000. Decepticon Tantrum
+0000. Decepticon Terrormander
+0000. Decepticon Astrotrain
+0000. Decepticon Rollbar
+0000. Decepticon Tarantulas
+0000. [Decepticon Hardshell/Unicronian Cyclonus]
+
+0000. Autobot Windblade
+0000. Autobot Dust Up
+0000. Autobot Moonracer
+0000. Autobot Strongarm
+0000. Autobot Lambor
+0000. Autobot Sunstreaker
+0000. Autobot Blades
+0000. Autobot Skyfeather
+0000. Autobot Afterburner
+0000. Autobot Fireflight
+0000. Dinobot Swoop
+0000. Autobot Twin Twist
+0000. Autobot Wheeljack
+0000. Decepticon Lunaclub
+0000. Decepticon Cyberwarp
+0000. Decepticon Scylla
+0000. Decepticon Airachinid
+0000. Decepticon Scavenger
+0000. Decepticon Blast Off
+0000. Decepticon Drag Strip
+0000. Decepticon Guyhawk
+0000. Decepticon Blot
+0000. Decepticon Rampage
+0000. Decepticon Acid Storm
+0000. Decepticon Movor
+0000. Decepticon Cicadacon
+
+0000. Autobot Rodimus Prime
+0000. [Decepticon Deadlock/Autobot Drift]
+0000. Autobot First Aid
+0000. Autobot Ratchet
+0000. Autobot Strafe
+0000. Autobot Alpha Bravo
+0000. Dinobot Slag
+0000. Autobot Roadbuster
+0000. Autobot Hound
+0000. Autobot Powerglide
+0000. Decepticon Starscream
+0000. Decepticon Bonecrusher
+0000. Decepticon Vortex
+0000. Decepticon Dead End
+0000. Decepticon Fellbat
+0000. Decepticon Rippersnapper
+0000. Decepticon Divebomb
+0000. Decepticon Coelagon
+0000. Decepticon Mindwipe
+0000. Decepticon Riotgear
+0000. Decepticon Ro-Tor
+0000. Decepticon Ram Horn
+0000. [Decepticon Shrapnel/Unicronian Sweep]
+0000. Autobot Jumpstream
+0000. Autobot Firestar
 0000. Decepticon Moonheart
 
 0000. Dinobot Grimlock
