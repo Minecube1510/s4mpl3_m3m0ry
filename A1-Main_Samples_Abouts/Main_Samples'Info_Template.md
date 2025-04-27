@@ -67,8 +67,10 @@
 **MENULISLAH!**
 
 ---
-<!-- DITUNGGU -->
-# COMINGSOON
-Z .
+<!-- Taro semua referensi-nya darimana aja, di sini -->
+# REFF-NOTES
+- [Referensi 1]()
+- [Referensi 2]()
+- [Referensi 3]()
 
 ---
