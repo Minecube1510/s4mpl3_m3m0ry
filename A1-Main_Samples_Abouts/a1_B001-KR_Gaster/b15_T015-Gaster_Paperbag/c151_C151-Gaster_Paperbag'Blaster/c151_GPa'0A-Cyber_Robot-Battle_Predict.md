@@ -1,3 +1,4 @@
+# Indikator Simbolik
 <div align="center">
 <table style="margin-left: auto; margin-right: auto;"><tr>
   <td><p align="center">
@@ -18,8 +19,9 @@
 
 ---
 
-# $${\textcolor{#00BEFF}{Gaster's}}$$ $${\textcolor{#B651FF}{Paperbag}}$$ $${\textcolor{#00BEFF}{Blaster}}$$
+# $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$ $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
+- APGR1/5a1
 ```
 625. Autobot Optimus Prime
 626. Autobot Hot Spot
@@ -32,7 +34,13 @@
 633. Autobot Brainstorm
 634. Autobot Cliffjumper
 635. Autobot Cosmos
+```
+- APGR1/5a2
+```
 636. Autodecept Doubledealer
+```
+- APGR1/5a3
+```
 637. Decepticon Hook
 638. Decepticon Onslaught
 639. Decepticon Motormaster
@@ -42,9 +50,15 @@
 643. Decepticon Halfshell
 644. Decepticon Mega-Octane
 645. Decepticon Bludgeon
+```
+- APGR1/5a4
+```
 646. Autobot Pyra Magna
 647. Autobot Elita-1
 648. Autobot Chromia
+```
+- APGR1/5a5
+```
 649. Decepticon Megaempress
 650. Decepticon Lyzack
 ```
