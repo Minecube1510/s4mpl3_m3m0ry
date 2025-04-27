@@ -23,7 +23,7 @@
 > xxx
 
 ---
-## $${\textcolor{#FFC32B}{CS}}$$
+## $${\textbf{\textcolor{#FFC32B}{ComingSoon}}}$$
 > [Spamor - Fossil](CS)
 - $${\textcolor{#00BEFF}{Blaster}}$$
 
