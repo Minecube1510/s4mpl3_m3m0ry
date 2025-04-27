@@ -10,7 +10,7 @@
 </div>
 
 ---
-# $${\textbf{\textcolor{#6A96FF}{Kamen \ Rider \ Clovin}}}$$
+# $${\textbf{\textcolor{#6A96FF}{Kamen \ Rider \ Clovin}}}$$ ([Main]())
 
 1. **XXX** - **XXX**
 > **Sudah**:
