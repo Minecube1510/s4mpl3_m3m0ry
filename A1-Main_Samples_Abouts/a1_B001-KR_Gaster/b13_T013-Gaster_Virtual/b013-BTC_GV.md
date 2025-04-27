@@ -4,7 +4,7 @@
   <td><p align="center">
     $${\textcolor{#00BEFF}{Gaster}}$$
   </p></td><td><p align="center">
-    $${\textcolor{#00BEFF}{Virtual}}$$
+    $${\textcolor{#FF1B39}{Virtual}}$$
   </p></td></tr><tr><th>
     <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
   </th><th>
@@ -16,7 +16,7 @@
 ---
 # $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ $${\textbf{\textcolor{#00BEFF}{Soon}}}$$
 - **Bunch**: $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$
-- **Type**: $${\textbf{\textcolor{#00BEFF}{Virtual}}}$$
+- **Type**: $${\textbf{\textcolor{#FF1B39}{Virtual}}}$$
 
 ---
 ## $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
