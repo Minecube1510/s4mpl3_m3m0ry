@@ -69,7 +69,7 @@ Menunggu: xxx
 1000. [Menunggu](CS)
 1000. [Menunggu](CS)
 
-### $${\textbf{\textcolor{#00BEFF}{Drill}}}$$
+### $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 1000. [Menunggu](CS)
 1000. [Menunggu](CS)
 1000. [Menunggu](CS)
@@ -77,7 +77,7 @@ Menunggu: xxx
 1000. [Menunggu](CS)
 1000. [Menunggu](CS)
 
-### $${\textbf{\textcolor{#00BEFF}{Kama}}}$$
+### $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 1000. [Menunggu](CS)
 1000. [Menunggu](CS)
 1000. [Menunggu](CS)
@@ -85,7 +85,7 @@ Menunggu: xxx
 1000. [Menunggu](CS)
 1000. [Menunggu](CS)
 
-### $${\textbf{\textcolor{#00BEFF}{Winchester}}}$$
+### $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
 1000. [Menunggu](CS)
 1000. [Menunggu](CS)
 1000. [Menunggu](CS)
