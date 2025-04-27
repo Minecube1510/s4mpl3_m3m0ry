@@ -58,7 +58,7 @@
 5000. [Menunggu](CS)
 5000. [Menunggu](CS)
 
-### $${\textbf{\textcolor{#00BEFF}{Winchester}}}$$
+### $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
 5000. [Menunggu](CS)
 5000. [Menunggu](CS)
 5000. [Menunggu](CS)
