@@ -27,10 +27,9 @@
 
 ### $${\textbf{\textcolor{#FF1B39}{CS}}}$$
 > [Accesive - Fossil](CS)
-- $${\textcolor{#00BEFF}{Blaster}}$$
 
 $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 ---
-xxx. Add....
+xxx. [Menunggu](CS)
 
 ---
