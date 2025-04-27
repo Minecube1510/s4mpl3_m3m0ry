@@ -17,9 +17,14 @@
 </table>
 </div>
 
----
-
+------
 # $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$ $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+
+### Pendahuluan
+Jadi ini adalah ringkasan pertandingan turnamen jawara ke-001. Disini terdapat **4** Ronde utama yang kalo dibagi-bagi ke semuanya, maka akam menjadi **10** Ronde.
+
+### Segmen
+Berikut 26 Sampel di bagian BTC ini terbagi menjadi berikut:
 
 - **APGR1/5a1**
 ```
@@ -35,12 +40,10 @@
 634. Autobot Cliffjumper
 635. Autobot Cosmos
 ```
-
 - **APGR1/5a2**
 ```
 636. Autodecept Doubledealer
 ```
-
 - **APGR1/5a3**
 ```
 637. Decepticon Hook
@@ -53,25 +56,22 @@
 644. Decepticon Mega-Octane
 645. Decepticon Bludgeon
 ```
-
 - **APGR1/5a4**
 ```
 646. Autobot Pyra Magna
 647. Autobot Elita-1
 648. Autobot Chromia
 ```
-
 - **APGR1/5a5**
 ```
 649. Decepticon Megaempress
 650. Decepticon Lyzack
 ```
 
----
+------
 
 Round 1-1
 ------
-
 ### (Autobot Hot Spot vs Autobot Scattershot)
 - [626 vs 627]
 - [627] - (Autobot Scattershot)
@@ -141,9 +141,9 @@ Karna dia MC-lah! MC mah ntar aja dulu! Kuat ini Optimus Prime! Si Prime terbaru
 Ini si dua muka nih. Yang ternyata dia ikutnya k Quintessons, musuh para Transfomers.
 ```
 
+
 Round 1-2
 ------
-
 ### (Autobot Scattershot vs Autobot Optimus Prime)
 - [625 vs 627]
 - [625] - (Autobot Optimus Prime)
@@ -179,32 +179,30 @@ Round 1-2
 - [649] - (Decepticon Megaempress)
 > Megaempress dengan kekuatan besar dan peran kepemimpinan yang kuat memiliki keunggulan tempur dibandingkan Elita-1 yang lebih fokus pada kepemimpinan.
 
----
+------
+
 
 Round 2-1
 ------
-
-### x
-- [?]
-- [xxx] - (?)
-> ?
+### (xxx vs xxx)
+- [xxx vs xxx]
+- [xxx] - (???????)
+> ?.
 
 
 Round 2-2
 ------
-
-### x
-- [?]
-- [xxx] - (?)
-> ?
+### (xxx vs xxx)
+- [xxx vs xxx]
+- [xxx] - (???????)
+> ?.
 
 
 Round 2-3
 ------
-
-### x
-- [?]
-- [xxx] - (?)
+### (xxx vs xxx)
+- [xxx vs xxx]
+- [xxx] - (???????)
 > ?
 
----
+------
