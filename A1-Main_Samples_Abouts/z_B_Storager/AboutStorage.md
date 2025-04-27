@@ -5,34 +5,34 @@ Disinilah tempat menyimpan sementara para sampel-sampel itu...
 Add...
 -
 
-Autobot Bumblebee
-Autobot Ironhide
-Autobot Streetwise
-Autobot Rook
-Autobot Nosecone
-Autobot Air Raid
-Dinobot Snarl
-Autobot Whirl
-Autobot Trailbreaker
-Autobot Springer
-Decepticon Mixmaster
-Decepticon Brawl
-Decepticon Brake-Neck
-Decepticon Drillhorn
-Decepticon Sinnertwin
-Decepticon Headstrong
-Decepticon Sea Phantom
-Decepticon Blitzwing
-Decepticon Treadshock
-Decepticon Armohide
-Decepticon Ravage
-Decepticon Thrust
-[Decepticon Kickback/Unicronian Sweep]
-Autobot Stormclash
-Autobot Greenlight
-Decepticon Trickdiamond
+0000. Autobot Bumblebee
+0000. Autobot Ironhide
+0000. Autobot Streetwise
+0000. Autobot Rook
+0000. Autobot Nosecone
+0000. Autobot Air Raid
+0000. Dinobot Snarl
+0000. Autobot Whirl
+0000. Autobot Trailbreaker
+0000. Autobot Springer
+0000. Decepticon Mixmaster
+0000. Decepticon Brawl
+0000. Decepticon Brake-Neck
+0000. Decepticon Drillhorn
+0000. Decepticon Sinnertwin
+0000. Decepticon Headstrong
+0000. Decepticon Sea Phantom
+0000. Decepticon Blitzwing
+0000. Decepticon Treadshock
+0000. Decepticon Armohide
+0000. Decepticon Ravage
+0000. Decepticon Thrust
+0000. [Decepticon Kickback/Unicronian Sweep]
+0000. Autobot Stormclash
+0000. Autobot Greenlight
+0000. Decepticon Trickdiamond
 
-Autobot Arcee
+0000. Autobot Arcee
 Autobot Skyburst
 Autobot Lancer
 Autobot Nautica
@@ -109,31 +109,31 @@ Decepticon Ram Horn
 [Decepticon Shrapnel/Unicronian Sweep]
 Autobot Jumpstream
 Autobot Firestar
-Decepticon Moonheart
+0000. Decepticon Moonheart
 
-Dinobot Grimlock
-Autobot Ultra Magnus
-Autobot Mirage
-Autobot Override
-Autobot Sandstorm
-Autobot Seaspray
-[Decepticon Megatron/Unicronian Galvatron]
-Decepticon Soundwave
-Decepticon Steeljaw
-Decepticon Nemesis Prime
-Sentinel Prime
-Decepticon Long Haul
-Decepticon Shockwave
-Decepticon Blackjack
-Decepticon Jallguar
-Decepticon Snapdragon
-Decepticon Apeface
-Decepticon Cyclonus
-Decepticon Sea Clamp
-Decepticon Octane
-Decepticon Octopunch
-Autobot Rust Dust
-Decepticon Flamewar
-Autodecept Impactor
-Autodecept Gnaw
-Cybertronian Boltax
+0000. Dinobot Grimlock
+0000. 0000. Autobot Ultra Magnus
+0000. Autobot Mirage
+0000. Autobot Override
+0000. Autobot Sandstorm
+0000. Autobot Seaspray
+0000. [Decepticon Megatron/Unicronian Galvatron]
+0000. Decepticon Soundwave
+0000. Decepticon Steeljaw
+0000. Decepticon Nemesis Prime
+0000. Sentinel Prime
+0000. Decepticon Long Haul
+0000. Decepticon Shockwave
+0000. Decepticon Blackjack
+0000. Decepticon Jallguar
+0000. Decepticon Snapdragon
+0000. Decepticon Apeface
+0000. Decepticon Cyclonus
+0000. Decepticon Sea Clamp
+0000. Decepticon Octane
+0000. Decepticon Octopunch
+0000. Autobot Rust Dust
+0000. Decepticon Flamewar
+0000. Autodecept Impactor
+0000. Autodecept Gnaw
+0000. Cybertronian Boltax
