@@ -28,8 +28,52 @@
 ### $${\textbf{\textcolor{#FF1B39}{CS}}}$$
 > [Accesive - Fossil](CS)
 
-$${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
----
-xxx. [Menunggu](CS)
+### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+
+### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+
+### $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+
+### $${\textbf{\textcolor{#00BEFF}{Kama}}}$$
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+
+### $${\textbf{\textcolor{#00BEFF}{Winchester}}}$$
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+
+### $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
+5000. [Menunggu](CS)
 
 ---
