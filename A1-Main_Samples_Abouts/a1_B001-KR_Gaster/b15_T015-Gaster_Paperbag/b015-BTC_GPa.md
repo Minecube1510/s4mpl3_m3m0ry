@@ -1,18 +1,24 @@
-<p align="center">
-  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
-  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/e05_HuPaWi.png", width="100">
-</p>
+# Indikator Simbolik
+<div align="center">
+<table style="margin-left: auto; margin-right: auto;"><tr>
+  <td><p align="center">
+    $${\textcolor{#00BEFF}{Gaster}}$$
+  </p></td><td><p align="center">
+    $${\textcolor{#B651FF}{Paperbag}}$$
+  </p></td></tr><tr><th>
+    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
+  </th><th>
+    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/e05_HuPaWi.png", width="100">
+  </th></tr>
+</table>
+</div>
 
 ---
-
-# $${\textcolor{#00BEFF}{Gaster's}}$$ $${\textcolor{#B651FF}{Paperbag}}$$
-
-### $${\textcolor{#00BEFF}{Cyber}}$$ $${\textcolor{#B651FF}{Robot}}$$
-
+# $${\textbf{\textcolor{#00BEFF}{Cyber}}}$$ $${\textbf{\textcolor{#B651FF}{Robot}}}$$
+- $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$
+- $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$
 ---
-
-### $${\textcolor{#00BEFF}{Blaster}}$$
-
+## $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 625. [Autobot Optimus Prime](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0625'54Oa.md)
 626. [Autobot Hot Spot](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0626'30Hb.md)
 627. [Autobot Scattershot](CS)
@@ -39,17 +45,20 @@
 648. [Autobot Chromia](CS)
 649. [Decepticon Megaempress](CS)
 650. [Decepticon Lyzack](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0650'33Lz.md)
-
+---
+## $${\textcolor{#00BEFF}{Lance}}$$
+651. [Menunggu](CS)
+---
+## $${\textcolor{#00BEFF}{Drill}}$$
+xxx. [Menunggu](CS)
+---
+## $${\textcolor{#00BEFF}{Kama}}$$
+xxx. [Menunggu](CS)
+---
+## $${\textcolor{#00BEFF}{Wichester}}$$
+xxx. [Menunggu](CS)
+---
+## $${\textcolor{#00BEFF}{ELDRITCH}}$$
+xxx. [Menunggu](CS)
 ---
 
-### $${\textcolor{#00BEFF}{XXX}}$$
-
-651. x
-
----
-
-### $${\textcolor{#00BEFF}{XXX}}$$
-
-xxx. x
-
----
