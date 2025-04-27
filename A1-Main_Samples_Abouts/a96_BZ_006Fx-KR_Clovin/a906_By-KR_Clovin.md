@@ -13,14 +13,41 @@
 # $${\textbf{\textcolor{#6A96FF}{Kamen \ Rider \ Clovin}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a96_BZ_006Fx-KR_Clovin))
 
 1. **XXX** - **XXX**
-> **Sudah**:
-> xxx
-
-> **Berlangsung**:
-> xxx
-
-> **Menunggu**:
-> xxx
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+2. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+3. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+4. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+5. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+6. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
 
 ---
 ## $${\textbf{\textcolor{#6A96FF}{CS}}}$$
