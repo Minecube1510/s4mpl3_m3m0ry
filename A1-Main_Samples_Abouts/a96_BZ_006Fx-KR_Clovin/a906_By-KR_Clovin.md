@@ -42,7 +42,7 @@
 5000. [Menunggu](CS)
 5000. [Menunggu](CS)
 
-### $${\textbf{\textcolor{#00BEFF}{Drill}}}$$
+### $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 5000. [Menunggu](CS)
 5000. [Menunggu](CS)
 5000. [Menunggu](CS)
