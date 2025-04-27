@@ -54,12 +54,12 @@ Menunggu: xxx
 > [**Hunfle** - *Fossil*](CS)
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
 
 ### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 5000. [Menunggu](CS)
