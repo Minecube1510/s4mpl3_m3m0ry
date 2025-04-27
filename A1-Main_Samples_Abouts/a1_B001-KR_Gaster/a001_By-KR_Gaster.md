@@ -13,73 +13,50 @@
 # $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster))
 
 1. **001** - **006**
-> **Sudah**:
-> GPaB
-
-> **Berlangsung**:
-> GPaB
-
-> **Menunggu**:
-> GPaL, GPaD, GPaKa, GPaWi, GPa_Eld
-
+```
+Sudah: GPaB
+Berlangsung: GPaB
+Menunggu: GPaL, GPaD, GPaKa, GPaWi, GPa_Eld
+```
 
 2. **007** - **012**
-> **Sudah**:
-> xxx
-
-> **Berlangsung**:
-> xxx
-
-> **Menunggu**:
-> xxx
-
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
 
 3. **013** - **018**
-> **Sudah**:
-> xxx
-
-> **Berlangsung**:
-> xxx
-
-> **Menunggu**:
-> xxx
-
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
 
 4. **019** - **024**
-> **Sudah**:
-> xxx
-
-> **Berlangsung**:
-> xxx
-
-> **Menunggu**:
-> xxx
-
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
 
 5. **025** - **030**
-> **Sudah**:
-> xxx
-
-> **Berlangsung**:
-> xxx
-
-> **Menunggu**:
-> xxx
-
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
 
 6. **031** - **036**
-> **Sudah**:
-> xxx
-
-> **Berlangsung**:
-> xxx
-
-> **Menunggu**:
-> xxx
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
 
 ---
 ## $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ $${\textbf{\textcolor{#00BEFF}{Soon}}}$$ - (GFB.000)
-> [Gaster - Fossil](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b11_T011-Gaster_Fossil)
+> [**Gaster** - *Fossil*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b11_T011-Gaster_Fossil)
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 1. [AddPlease](CS)
@@ -99,7 +76,7 @@
 
 ---
 ## $${\textbf{\textcolor{#00BEFF}{Cyber}}}$$ $${\textbf{\textcolor{#B651FF}{Robot}}}$$ - (GPaB.001)
-> [Gaster - Paperbag](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag)
+> [**Gaster** - *Paperbag*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag)
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 625. [Autobot Optimus Prime](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0625'54Oa.md)
@@ -171,7 +148,7 @@
 
 ---
 ## $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ $${\textbf{\textcolor{#00BEFF}{Soon}}}$$ - (GF'ELD.000)
-> [Gaster - Trickster](CS)
+> [**Gaster** - *Trickster*](CS)
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 000. [AddPlease](CS)
