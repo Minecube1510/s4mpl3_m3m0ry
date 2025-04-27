@@ -10,7 +10,7 @@
 </div>
 
 ---
-# $${\textbf{\textcolor{#FFC32B}{Kamen \ Rider \ Spamor}}}$$ ([Main]())
+# $${\textbf{\textcolor{#FFC32B}{Kamen \ Rider \ Spamor}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a2_B002-KR_Spamor))
 
 1. **XXX** - **XXX**
 > **Sudah**:
