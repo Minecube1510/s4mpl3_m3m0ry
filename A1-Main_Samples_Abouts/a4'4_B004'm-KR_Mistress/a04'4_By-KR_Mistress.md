@@ -1,21 +1,35 @@
+# Indikator Simbolik
+<div align="center">
+<table style="margin-left: auto; margin-right: auto;"><tr>
+  <td><p align="center">
+    $${\textcolor{#FF78D3}{Mistress}}$$
+  </p></td></tr><tr><th>
+    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/d04_MiRaKa.png", width="100">
+  </th></tr>
+</table>
+</div>
+
 ---
 
-<p align="center">
-  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/d04_MiRaKa.png", width="100">
-</p>
+# $${\textbf{\textcolor{#FF78D3}{Kamen \ Rider \ Mistress}}}$$
+
+1. **XXX** - **XXX**
+> **Sudah**:
+> xxx
+
+> **Berlangsung**:
+> xxx
+
+> **Menunggu**:
+> xxx
 
 ---
 
-# $${\textcolor{#FF78D3}{Kamen \ Rider \ Mistress}}$$
+### $${\textbf{\textcolor{#FF78D3}{CS}}}$$
+> [Mistress - Fossil](CS)
 
-1. x
-
+$${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 ---
-
-### $${\textcolor{#FF78D3}{CS}}$$
-
-- $${\textcolor{#00BEFF}{Blaster}}$$
-
-xxx. Add...
+xxx. [Menunggu](CS)
 
 ---
