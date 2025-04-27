@@ -106,12 +106,12 @@ Ini ditaruh sebagai pen-dongkrak penilaian pertandingan.
 ---
 Oh, aturan tertulis lainnya sini...
 ---
-- ***PERINTAH ATURAN YANG KERAS, LAGI KETAT*** <br>
+### PERINTAH ATURAN YANG KERAS, LAGI KETAT
 JANGAN! BIARKAN! ADA RIWAYAT PERTARUNGAN! YANG TERNYATA, **REMATCH**!
 > **Q**: 'Rematch' itu apa? <br>
 > **A**: Artinya, riwayat pertarungan yang sama.
 
-- Kalo pengen nyari dimana referensi perlawanannya, ada disini:
+### Kalo pengen nyari dimana referensi perlawanannya, ada disini:
 - ["**Sampeling Champs - Battle Bracket**", untuk **Ronde 1** dan **Ronde 2**.](https://docs.google.com/spreadsheets/d/1-hjHSuoQpc62idw0NkuAT2j5-W8eUdfXQ-90lYNk2Hw/edit?usp=sharing)
 - ["**Sampeling Champs - Grade Level**", ini khusus untuk **Ronde 3**.](https://docs.google.com/spreadsheets/d/12VIz1Ase0-2pVU1yGjDgXmCwmyETP1a3riB33ZjCMaI/edit?usp=sharing)
 - ["**Sampel Memori - Preview Tournament**", ini juga ada pen-dongkrak-nya, yakni **Ronde 4**.](https://docs.google.com/spreadsheets/d/1A4ucBYUXsQfzYtnO-I48GoafiyjgOkYkogmb72UYy6Q/edit?usp=sharing)
