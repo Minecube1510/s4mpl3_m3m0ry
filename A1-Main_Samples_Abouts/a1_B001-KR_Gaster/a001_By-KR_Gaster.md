@@ -77,18 +77,23 @@
 > xxx
 
 ---
-## $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ - $${\textbf{\textcolor{#00BEFF}{Soon}}}$$ (GFB.000)
+## $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ $${\textbf{\textcolor{#00BEFF}{Soon}}}$$ - (GFB.000)
+> [Gaster - Fossil](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b11_T011-Gaster_Fossil)
 
-- $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+$${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+---
 1. [AddPlease](CS)
 
-- $${\textbf{\textcolor{#00BEFF}{???}}}$$
+$${\textbf{\textcolor{#00BEFF}{???}}}$$
+---
 156. [AddPlease](CS)
 
 ---
-## $${\textbf{\textcolor{#00BEFF}{Cyber}}}$$ - $${\textbf{\textcolor{#B651FF}{Robot}}}$$ (GPaB.001)
+## $${\textbf{\textcolor{#00BEFF}{Cyber}}}$$ $${\textbf{\textcolor{#B651FF}{Robot}}}$$ - (GPaB.001)
+> [Gaster - Paperbag](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag)
 
-- $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+$${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+---
 625. [Autobot Optimus Prime](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0625'54Oa.md)
 626. [Autobot Hot Spot](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0626'30Hb.md)
 627. [Autobot Scattershot](CS)
@@ -116,25 +121,32 @@
 649. [Decepticon Megaempress](CS)
 650. [Decepticon Lyzack](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0650'33Lz.md)
 
-- $${\textbf{\textcolor{#00BEFF}{???}}}$$
+$${\textbf{\textcolor{#00BEFF}{???}}}$$
+---
 651. [AddPlease](CS)
 
-- $${\textbf{\textcolor{#00BEFF}{???}}}$$
+$${\textbf{\textcolor{#00BEFF}{???}}}$$
+---
 651. [AddPlease](CS)
 
-- $${\textbf{\textcolor{#00BEFF}{???}}}$$
+$${\textbf{\textcolor{#00BEFF}{???}}}$$
+---
 651. [AddPlease](CS)
 
-- $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
+$${\textbf{\textcolor{#B651FF}{Winchester}}}$$
+---
 651. [AddPlease](CS)
 
-- $${\textbf{\textcolor{#00BEFF}{???}}}$$
+$${\textbf{\textcolor{#00BEFF}{???}}}$$
+---
 651. [AddPlease](CS)
 
 ---
-## $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ - $${\textbf{\textcolor{#00BEFF}{Soon}}}$$ (GF'ELD.000)
+## $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ $${\textbf{\textcolor{#00BEFF}{Soon}}}$$ - (GF'ELD.000)
+> [Gaster - Trickster](CS)
 
-- $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+$${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+---
 936. [AddPlease](CS)
 
 ---
