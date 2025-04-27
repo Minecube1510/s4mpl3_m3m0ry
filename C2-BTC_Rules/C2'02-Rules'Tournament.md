@@ -18,41 +18,55 @@ Jadi turnamen-nya dibikin secara default basic-nya, **4** Ronde, yang masing-mas
 
 ---
 ## Ronde 1
-Udah paham lah, kalo Ronde 1 adalah Ronde yang paling awal, ronde pertama. Jadi Ronde ini.
+- Udah paham lah, kalo Ronde 1 adalah Ronde yang paling awal, ronde pertama.
+- Jadi Ronde ini, berfungsi untuk memecah (menentukan) semau sampel yang ada, agar bisa diklasifikasikan.
+- Ronde ini terbagi menjadi *2* pecahan.
 
 ### [ ***1*** - ***1*** ] <br>
-Tulis!
+Di sini adalah yang paling pertama atau paling awal untuk di-eksekusi.
+> Jadi begini, karena semua sampelnya merata sekitar 26, itu memang genap pas awal, tapi pas akhir, malah ganjil. <br>
+> Masalahnya, namanya pertandingan, sampel-nya harus genap (minimal ada 2 buah untuk saling bertanding).
+- Oleh sebab itu, maka di pertandingan ini, hanya berisi 24 Sampel, artinya riwayatnya hanya 12.
+- Maka 2 sisanya, akan ditaruh di Ronde [1-2] berikutnya.
+
+- **CATATAN**: 2 SISA HARUS YANG PALING UNGGUL!
 
 ### [ ***1*** - ***2*** ] <br>
-Tulis!
+Kita sudah meng-eksekusi [1-1], tetapi itu hanya sebagiannya, dan juga kita mempunyai 2 sisa yang kita simpankan. Maka di sini lah eksekusi berikutnya, yakni eksekusi lebih lanjut.
 
 ---
 ## Ronde 2
-Tulis!
+Ternyata 'Ronde 1' masih tidak membuahkan hasil yang begitu sempurna. Oleh sebab itu, 'Ronde 2' ada sebagai ronde peng-khusus-an bagi lainnya.
+> 'Ronde 1' hanya menghasilkan sekitar 7 DIEZ tetap, yang lainnya masih tersisa. <br>
+> Kelas **DIEZ** wajib memiliki 10 Sampel, karena sesuai artinya ([ESpanol] DIEZ = [InDonesia] SEPULUH = [Numer] 10). <br>
+> Artinya, jika DIEZ adalah 10, maka CHESS hanyalah 16. Kan Sampel-nya default 26.
+- Sebagai catatan, karena ini hanya memiliki 7 Sampel, maka mau gak mau secara terpaksa, hanya 6 sampel yang berlawan, artinya sisanya akan 'tidur'.
+- Tapi meski sampel-nya sudah tidur, tidak berarti mereka akan diam, mereka di-istirahat-kan karena mereka itu kuat.
+- Jadi, sampel yang tidur akan dilawankan berikutnya, sampai 3 kali.
 
-### [ ***2*** - ***1*** ] <br>
-Tulis!
+### [ ***2*** - ***1*** ]
+Awali dari sini, Ronde 2 pecahan awal.
 
-### [ ***2*** - ***2*** ] <br>
-Tulis!
+### [ ***2*** - ***2*** ]
+Setelah dari [2-1], berikutnya akan memasuki di sini, Ronde 2 pecahan berikutnya, atau pecahan ke-dua.
 
-### [ ***2*** - ***3*** ] <br>
-Tulis!
+### [ ***2*** - ***3*** ]
+Setelah dari [2-2], berikutnya akan memasuki di sini, Ronde 2 pecahan ke-tiga, atau pecahan terakhir.
 
 ---
 ## Ronde 3
 Tulis!
 
-### [ ***3*** - ***1*** ] <br>
+### [ ***3*** - ***1*** ]
 Tulis!
 
-### [ ***3*** - ***2*** ] <br>
+### [ ***3*** - ***2*** ]
 Tulis!
 
-### [ ***3*** - ***3*** ] <br>
+### [ ***3*** - ***3*** ]
 Tulis!
 
-### [ ***3*** - ***END*** ] <br>
+### [ ***3*** - ***END*** ]
 Tulis!
 
 ---
