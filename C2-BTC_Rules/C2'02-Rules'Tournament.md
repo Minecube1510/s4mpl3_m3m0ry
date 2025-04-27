@@ -70,36 +70,45 @@ Setelah dari [2-2], berikutnya akan memasuki di sini, Ronde 2 pecahan ke-tiga, a
 
 ### [ ***3*** - ***1*** ]
 - [**3A**] <br>
-Ini memilah *TOP 5*.
+Di pecahan pertama sini, akan memilah *Top 5*.
 > Mana 5 yang teratas, dan mana sisanya (5 lainnya yang dibawah).
 - [**3B**] <br>
-Ini memilah *Kingdom*.
+Di pecahan pertama sini, akan memilah *Kingdom*.
 > Mana 8 yang teratas, dan mana sisanya (8 lainnya yang dibawah).
 
 ### [ ***3*** - ***2*** ]
 - [**3A**] <br>
-Tulis!
+Setelah memilah Top 5, ya lebih lanjut aja.
 - [**3B**] <br>
-Tulis!
+Setelah memilah Kigndom, ya lebih lanjut aja.
 
 ### [ ***3*** - ***3*** ]
 - [**3A**] <br>
-Tulis!
+Masih sama kayak tadi, lebih lanjut.
 - [**3B**] <br>
-Tulis!
+Masih sama kayak tadi, lebih lanjut.
 
 ### [ ***3*** - ***END*** ]
 - [**3A**] <br>
-Tulis!
+Setelah itu semua, maka akan memasuki ke sini, ke dalam babakan akhir.
 - [**3B**] <br>
-Tulis!
+Setelah itu semua, maka akan memasuki ke sini, ke dalam babakan akhir.
 
 ---
 ## Ronde 4
-- Ronde ini berguna sebagai penentuan akhiran bagi yang sudah melewati 3 Ronde, tapi masih sama saja.
-- Ronde ini hanya memiliki 1 pecahan.
+- Ronde ini berguna sebagai penentuan akhiran bagi yang sudah melewati 3 Ronde sebelumnya. <br>
+Untuk ngatasin lebih kepada yang hasil rank-nya, ternyata masih sama saja.
+- Ronde ini (untuk TOLONG dicobakan) hanya memiliki 1 pecahan.
 
 ### [ ***4*** - ***X*** ] <br>
 Ini ditaruh sebagai pen-dongkrak penilaian pertandingan.
+
+---
+Oh, aturan tertulis lainnya sini...
+---
+- ***PERINTAH ATURAN YANG KERAS, LAGI KETAT*** <br>
+JANGAN, BIARKAN, ADA RIWAYAT PERTARUNGAN, YANG TERNYATA, **REMATCH**!
+> **Q**: 'Rematch' itu apa? <br>
+> **A**: Artinya, riwayat pertarungan yang sama.
 
 ---
