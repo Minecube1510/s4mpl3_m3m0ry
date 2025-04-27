@@ -24,12 +24,14 @@ Jadi turnamen-nya dibikin secara default basic-nya, **4** Ronde, yang masing-mas
 
 ### [ ***1*** - ***1*** ] <br>
 Di sini adalah yang paling pertama atau paling awal untuk di-eksekusi.
-> Jadi begini, karena semua sampelnya merata sekitar 26, itu memang genap pas awal, tapi pas akhir, malah ganjil. <br>
-> Masalahnya, namanya pertandingan, sampel-nya harus genap (minimal ada 2 buah untuk saling bertanding).
+> - Jadi begini, karena semua sampelnya merata sekitar 26, itu memang genap pas awal. <br>
+> Tapi pas akhir, malah ganjil. <br>
+> - Masalahnya, namanya pertandingan, sampel-nya harus genap.
+> - Minimal ada 2 buah untuk saling bertanding.
 - Oleh sebab itu, maka di pertandingan ini, hanya berisi 24 Sampel, artinya riwayatnya hanya 12.
 - Maka 2 sisanya, akan ditaruh di Ronde [1-2] berikutnya.
 
-- **CATATAN**: 2 SISA HARUS YANG PALING UNGGUL!
+> - **CATATAN**: 2 SISA HARUS YANG PALING UNGGUL!
 
 ### [ ***1*** - ***2*** ] <br>
 Kita sudah meng-eksekusi [1-1], tetapi itu hanya sebagiannya, dan juga kita mempunyai 2 sisa yang kita simpankan. Maka di sini lah eksekusi berikutnya, yakni eksekusi lebih lanjut.
@@ -38,7 +40,9 @@ Kita sudah meng-eksekusi [1-1], tetapi itu hanya sebagiannya, dan juga kita memp
 ## Ronde 2
 Ternyata 'Ronde 1' masih tidak membuahkan hasil yang begitu sempurna. Oleh sebab itu, 'Ronde 2' ada sebagai ronde peng-khusus-an bagi lainnya.
 > 'Ronde 1' hanya menghasilkan sekitar 7 DIEZ tetap, yang lainnya masih tersisa. <br>
-> Kelas **DIEZ** wajib memiliki 10 Sampel, karena sesuai artinya ([ESpanol] DIEZ = [InDonesia] SEPULUH = [Numer] 10). <br>
+> - Kelas **DIEZ** wajib memiliki 10 Sampel.
+> - Sesuai artinya ([ESpanol] DIEZ = [InDonesia] SEPULUH = [Numer] 10). <br>
+
 > Artinya, jika DIEZ adalah 10, maka CHESS hanyalah 16. Kan Sampel-nya default 26.
 - Sebagai catatan, karena ini hanya memiliki 7 Sampel, maka mau gak mau secara terpaksa, hanya 6 sampel yang berlawan, artinya sisanya akan 'tidur'.
 - Tapi meski sampel-nya sudah tidur, tidak berarti mereka akan diam, mereka di-istirahat-kan karena mereka itu kuat.
@@ -53,20 +57,41 @@ Setelah dari [2-1], berikutnya akan memasuki di sini, Ronde 2 pecahan berikutnya
 ### [ ***2*** - ***3*** ]
 Setelah dari [2-2], berikutnya akan memasuki di sini, Ronde 2 pecahan ke-tiga, atau pecahan terakhir.
 
+- Artinya, ini ronde hanya ngulangin yang sama sebanyak 3 kali.
+
 ---
 ## Ronde 3
-Tulis!
+- Pada ronde sebelumnya, sudah diklasifikasikan, yakni:
+> - Kelas [**DIEZ**], **10** Sampel.
+> - Kelas [**CHESS**], **16** Sampel.
+- Maka karena dipisah kelasnya ada 2, maka dipisah juga menjadi 2, yakni:
+> - [**3A**] untuk [**DIEZ**]
+> - [**3B**] untuk [**CHESS**]
 
 ### [ ***3*** - ***1*** ]
-Tulis!
+- [**3A**] <br>
+Ini memilah *TOP 5*.
+> Mana 5 yang teratas, dan mana sisanya (5 lainnya yang dibawah).
+- [**3B**] <br>
+Ini memilah *Kingdom*.
+> Mana 8 yang teratas, dan mana sisanya (8 lainnya yang dibawah).
 
 ### [ ***3*** - ***2*** ]
+- [**3A**] <br>
+Tulis!
+- [**3B**] <br>
 Tulis!
 
 ### [ ***3*** - ***3*** ]
+- [**3A**] <br>
+Tulis!
+- [**3B**] <br>
 Tulis!
 
 ### [ ***3*** - ***END*** ]
+- [**3A**] <br>
+Tulis!
+- [**3B**] <br>
 Tulis!
 
 ---
