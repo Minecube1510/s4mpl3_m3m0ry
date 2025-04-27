@@ -11,7 +11,7 @@
 
 ---
 
-# $${\textbf{\textcolor{#FF78D3}{Kamen \ Rider \ Mistress}}}$$
+# $${\textbf{\textcolor{#FF78D3}{Kamen \ Rider \ Mistress}}}$$ ([Main]())
 
 1. **XXX** - **XXX**
 > **Sudah**:
