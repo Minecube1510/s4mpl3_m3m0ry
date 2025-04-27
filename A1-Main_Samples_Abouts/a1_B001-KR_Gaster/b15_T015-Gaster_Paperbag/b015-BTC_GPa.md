@@ -17,8 +17,8 @@
 # $${\textbf{\textcolor{#00BEFF}{Cyber}}}$$ $${\textbf{\textcolor{#B651FF}{Robot}}}$$
 - $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$
 - $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$
----
 
+---
 ## $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 625. [Autobot Optimus Prime](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0625'54Oa.md)
 626. [Autobot Hot Spot](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0626'30Hb.md)
@@ -49,31 +49,53 @@
 - [***Collection***: **Gaster**-**Paperbag** - *Blaster*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster)
 
 ---
-
-## $${\textcolor{#00BEFF}{Lance}}$$
+## $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 651. [Menunggu](CS)
+652. [Menunggu](CS)
+653. [Menunggu](CS)
+654. [Menunggu](CS)
+655. [Menunggu](CS)
+656. [Menunggu](CS)
 - [***Collection***: **Gaster**-**Paperbag** - *Lance*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c152_C152-Gaster_Paperbag'Lance)
----
 
-## $${\textcolor{#00BEFF}{Drill}}$$
-xxx. [Menunggu](CS)
+---
+## $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
 - [***Collection***: **Gaster**-**Paperbag** - *Dril*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c153_C153-Gaster_Paperbag'Drill)
 
 ---
-
-## $${\textcolor{#00BEFF}{Kama}}$$
-xxx. [Menunggu](CS)
+## $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
 - [***Collection***: **Gaster**-**Paperbag** - *Kama*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c154'4_C154-Gaster_Paperbag'Kama)
 
 ---
-
-## $${\textcolor{#00BEFF}{Wichester}}$$
-xxx. [Menunggu](CS)
+## $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
 - [***Collection***: **Gaster**-**Paperbag** - *Winchester*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c155'5_C155-Gaster_Paperbag'Winchester)
 
 ---
-
-## $${\textcolor{#00BEFF}{ELDRITCH}}$$
-xxx. [Menunggu](CS)
+## $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
+000. [Menunggu](CS)
 - [***Collection***: **Gaster**-**Paperbag** - *ELDRITCH*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c156'96__C1506-Gaster_Paperbag'Eldritch)
+
 ---
