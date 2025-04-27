@@ -49,8 +49,8 @@ xxx. [AddPlease]()
 ## $${\textcolor{#00BEFF}{Cyber\ Robot}}$$ - (GPaB.001)
 - $${\textcolor{#00BEFF}{Blaster}}$$
 
-625. [Autobot Optimus Prime]()
-626. [Autobot Hot Spot]()
+625. [Autobot Optimus Prime](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0625'54Oa.md)
+626. [Autobot Hot Spot](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0626'30Hb.md)
 627. [Autobot Scattershot](CS)
 628. [Autobot Silverbolt](CS)
 629. [Dinobot Skar](CS)
@@ -74,7 +74,7 @@ xxx. [AddPlease]()
 647. [Autobot Elita-1](CS)
 648. [Autobot Chromia](CS)
 649. [Decepticon Megaempress](CS)
-650. [Decepticon Lyzack]()
+650. [Decepticon Lyzack](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0650'33Lz.md)
 
 ---
 
