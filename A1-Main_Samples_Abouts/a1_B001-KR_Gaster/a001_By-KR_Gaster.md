@@ -10,7 +10,7 @@
 </div>
 
 ---
-# $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ [Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster)
+# $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster))
 
 1. **001** - **006**
 > **Sudah**:
