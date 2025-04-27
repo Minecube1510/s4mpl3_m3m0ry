@@ -107,7 +107,7 @@ Ini ditaruh sebagai pen-dongkrak penilaian pertandingan.
 Oh, aturan tertulis lainnya sini...
 ---
 - ***PERINTAH ATURAN YANG KERAS, LAGI KETAT*** <br>
-JANGAN, BIARKAN, ADA RIWAYAT PERTARUNGAN, YANG TERNYATA, **REMATCH**!
+JANGAN! BIARKAN! ADA RIWAYAT PERTARUNGAN! YANG TERNYATA, **REMATCH**!
 > **Q**: 'Rematch' itu apa? <br>
 > **A**: Artinya, riwayat pertarungan yang sama.
 
