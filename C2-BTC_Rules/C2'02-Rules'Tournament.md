@@ -18,48 +18,49 @@ Jadi turnamen-nya dibikin secara default basic-nya, **4** Ronde, yang masing-mas
 
 ---
 ## Ronde 1
+Udah paham lah, kalo Ronde 1 adalah Ronde yang paling awal, ronde pertama. Jadi Ronde ini.
+
+### [ ***1*** - ***1*** ] <br>
 Tulis!
 
-- [ ***1*** - ***1*** ] <br>
-Tulis!
-
-- [ ***1*** - ***2*** ] <br>
+### [ ***1*** - ***2*** ] <br>
 Tulis!
 
 ---
 ## Ronde 2
 Tulis!
 
-- [ ***2*** - ***1*** ] <br>
+### [ ***2*** - ***1*** ] <br>
 Tulis!
 
-- [ ***2*** - ***2*** ] <br>
+### [ ***2*** - ***2*** ] <br>
 Tulis!
 
-- [ ***2*** - ***3*** ] <br>
+### [ ***2*** - ***3*** ] <br>
 Tulis!
 
 ---
 ## Ronde 3
 Tulis!
 
-- [ ***3*** - ***1*** ] <br>
+### [ ***3*** - ***1*** ] <br>
 Tulis!
 
-- [ ***3*** - ***2*** ] <br>
+### [ ***3*** - ***2*** ] <br>
 Tulis!
 
-- [ ***3*** - ***3*** ] <br>
+### [ ***3*** - ***3*** ] <br>
 Tulis!
 
-- [ ***3*** - ***END*** ] <br>
+### [ ***3*** - ***END*** ] <br>
 Tulis!
 
 ---
 ## Ronde 4
-Tulis!
+- Ronde ini berguna sebagai penentuan akhiran bagi yang sudah melewati 3 Ronde, tapi masih sama saja.
+- Ronde ini hanya memiliki 1 pecahan.
 
-- [ ***4*** - ***X*** ] <br>
-Tulis!
+### [ ***4*** - ***X*** ] <br>
+Ini ditaruh sebagai pen-dongkrak penilaian pertandingan.
 
 ---
