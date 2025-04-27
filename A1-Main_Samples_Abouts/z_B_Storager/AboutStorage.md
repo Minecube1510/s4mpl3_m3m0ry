@@ -61,6 +61,8 @@ Add...
 0000. Decepticon Tarantulas
 0000. [Decepticon Hardshell/Unicronian Cyclonus]
 
+---
+
 0000. Autobot Windblade
 0000. Autobot Dust Up
 0000. Autobot Moonracer
@@ -88,6 +90,8 @@ Add...
 0000. Decepticon Movor
 0000. Decepticon Cicadacon
 
+---
+
 0000. Autobot Rodimus Prime
 0000. [Decepticon Deadlock/Autobot Drift]
 0000. Autobot First Aid
@@ -114,6 +118,8 @@ Add...
 0000. Autobot Jumpstream
 0000. Autobot Firestar
 0000. Decepticon Moonheart
+
+---
 
 0000. Dinobot Grimlock
 0000. 0000. Autobot Ultra Magnus
