@@ -45,20 +45,25 @@
 648. [Autobot Chromia](CS)
 649. [Decepticon Megaempress](CS)
 650. [Decepticon Lyzack](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0650'33Lz.md)
+- [***Collection***: **Gaster**-**Paperbag** - *Blaster*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster)
 ---
 ## $${\textcolor{#00BEFF}{Lance}}$$
 651. [Menunggu](CS)
+- [***Collection***: **Gaster**-**Paperbag** - *Blaster*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster)
 ---
 ## $${\textcolor{#00BEFF}{Drill}}$$
 xxx. [Menunggu](CS)
+- [***Collection***: **Gaster**-**Paperbag** - *Blaster*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster)
 ---
 ## $${\textcolor{#00BEFF}{Kama}}$$
 xxx. [Menunggu](CS)
+- [***Collection***: **Gaster**-**Paperbag** - *Blaster*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster)
 ---
 ## $${\textcolor{#00BEFF}{Wichester}}$$
 xxx. [Menunggu](CS)
+- [***Collection***: **Gaster**-**Paperbag** - *Blaster*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster)
 ---
 ## $${\textcolor{#00BEFF}{ELDRITCH}}$$
 xxx. [Menunggu](CS)
+- [***Collection***: **Gaster**-**Paperbag** - *Blaster*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster)
 ---
-
