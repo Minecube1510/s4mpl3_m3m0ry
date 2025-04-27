@@ -14,14 +14,41 @@
 # $${\textbf{\textcolor{#FF1B39}{Kamen \ Rider \ Accesive}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a3_B003-KR_Accesive))
 
 1. **XXX** - **XXX**
-> **Sudah**:
-> xxx
-
-> **Berlangsung**:
-> xxx
-
-> **Menunggu**:
-> xxx
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+2. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+3. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+4. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+5. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
+6. **XXX** - **XXX**
+```
+Sudah: xxx
+Berlangsung: xxx
+Menunggu: xxx
+```
 
 ---
 
