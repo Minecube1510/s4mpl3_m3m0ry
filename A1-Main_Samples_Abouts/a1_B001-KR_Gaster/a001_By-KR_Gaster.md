@@ -129,7 +129,7 @@
 649. [Decepticon Megaempress](CS)
 650. [Decepticon Lyzack](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0650'33Lz.md)
 
-### $${\textbf{\textcolor{#00BEFF}{Lance}}}$$
+### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 651. [AddPlease](CS)
 652. [AddPlease](CS)
 653. [AddPlease](CS)
@@ -137,7 +137,7 @@
 655. [AddPlease](CS)
 656. [AddPlease](CS)
 
-### $${\textbf{\textcolor{#00BEFF}{Drill}}}$$
+### $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 000. [AddPlease](CS)
 000. [AddPlease](CS)
 000. [AddPlease](CS)
@@ -145,7 +145,7 @@
 000. [AddPlease](CS)
 000. [AddPlease](CS)
 
-### $${\textbf{\textcolor{#00BEFF}{Kama}}}$$
+### $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 000. [AddPlease](CS)
 000. [AddPlease](CS)
 000. [AddPlease](CS)
@@ -161,7 +161,7 @@
 000. [AddPlease](CS)
 000. [AddPlease](CS)
 
-### $${\textbf{\textcolor{#00BEFF}{ELDRITCH}}}$$
+### $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 000. [AddPlease](CS)
 000. [AddPlease](CS)
 000. [AddPlease](CS)
@@ -181,7 +181,7 @@
 000. [AddPlease](CS)
 000. [AddPlease](CS)
 
-### $${\textbf{\textcolor{#00BEFF}{ELDRITCH}}}$$
+### $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 000. [AddPlease](CS)
 936. [AddPlease](CS)
 
