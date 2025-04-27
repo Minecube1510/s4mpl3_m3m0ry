@@ -50,7 +50,7 @@
 5000. [Menunggu](CS)
 5000. [Menunggu](CS)
 
-### $${\textbf{\textcolor{#00BEFF}{Kama}}}$$
+### $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 5000. [Menunggu](CS)
 5000. [Menunggu](CS)
 5000. [Menunggu](CS)
