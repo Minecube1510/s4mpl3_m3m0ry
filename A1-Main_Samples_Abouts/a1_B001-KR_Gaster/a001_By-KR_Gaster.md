@@ -1,12 +1,17 @@
----
-<p align="center">
-  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
-</p>
+<div align="center">
+<table style="margin-left: auto; margin-right: auto;"><tr>
+  <td><p align="center">
+    $${\textcolor{#00BEFF}{Gaster}}$$
+  </p></td></tr><tr><th>
+    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
+  </th></tr>
+</table>
+</div>
 
 ---
 # $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$
 
-1. 001-006
+1. **001** - **006**
 > **Sudah**:
 > GPaB
 
@@ -17,7 +22,7 @@
 > GPaL, GPaD, GPaKa, GPaWi, GPa_Eld
 
 
-2. 007-012
+2. **007** - **012**
 > **Sudah**:
 > xxx
 
@@ -28,7 +33,7 @@
 > xxx
 
 
-3. 013-018
+3. **013** - **018**
 > **Sudah**:
 > xxx
 
@@ -39,7 +44,7 @@
 > xxx
 
 
-4. 019-024
+4. **019** - **024**
 > **Sudah**:
 > xxx
 
@@ -50,7 +55,7 @@
 > xxx
 
 
-5. 025-030
+5. **025** - **030**
 > **Sudah**:
 > xxx
 
@@ -61,7 +66,7 @@
 > xxx
 
 
-6. 031-036
+6. **031** - **036**
 > **Sudah**:
 > xxx
 
