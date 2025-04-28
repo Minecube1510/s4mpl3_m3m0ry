@@ -101,7 +101,8 @@ Untuk ngatasin lebih kepada yang hasil rank-nya, ternyata masih sama saja.
 - Ronde ini (untuk TOLONG dicobakan) hanya memiliki 1 pecahan.
 
 ### [ ***4*** - ***X*** ] <br>
-Ini ditaruh sebagai pen-dongkrak penilaian pertandingan.
+- Ini ditaruh sebagai pen-dongkrak penilaian pertandingan.
+- Oleh karena itu, maka riwayat antara dari 3 Ronde tersebut dengan Ronde ini, dipisahkan.
 
 ---
 Oh, aturan tertulis lainnya sini...
