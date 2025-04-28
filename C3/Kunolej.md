@@ -1,0 +1,1 @@
+Pengetahuan Sampel
