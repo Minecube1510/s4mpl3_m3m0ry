@@ -1,9 +1,9 @@
 # Indikator Simbolik
 <div align="center"><table style="margin-left: auto; margin-right: auto;"><tr><td><p align="center">
     $${\textcolor{#00BEFF}{Gaster}}$$
-  </p></td></tr><tr><th>
+</p></td></tr><tr><th>
     <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
-  </th></tr></table></div>
+</th></tr></table></div>
 
 ---
 # $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster))
