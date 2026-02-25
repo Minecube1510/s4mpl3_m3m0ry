@@ -5,7 +5,8 @@
 
   $${\textcolor{#6A96FF}{Clovin}}$$
 </td></tr><tr><th>
-  <img src="/B/Main-Assets/BTC-Sign/ff6_CloTriEld.png"
+  <img draggable="false"
+  src="/B/Main-Assets/BTC-Sign/ff6_CloTriEld.png"
   alt="BTC.CloTriEld - Fuiba Fuyu" width="100">
 </th></tr></table></div>
 

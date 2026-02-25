@@ -5,7 +5,8 @@
 
   $${\textcolor{#FF1B39}{Accesive}}$$
 </td></tr><tr><th>
-  <img src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
+  <img draggable="false"
+  src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
   alt="BTC.AVD - Natsu Megumi" width="100">
 </th></tr></table></div>
 

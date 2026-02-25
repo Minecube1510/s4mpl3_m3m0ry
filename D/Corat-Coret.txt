@@ -5,7 +5,7 @@
 
 [-] - Alternate Verse
 [-] - Epic Realms
-[?] - Spirit Horde
+[O] - Spirit Horde
 [-] - Fantasy Magic
 [O] - Cyber Robot
 [-] - Darknight

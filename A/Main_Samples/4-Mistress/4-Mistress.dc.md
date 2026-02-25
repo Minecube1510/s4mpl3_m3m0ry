@@ -5,7 +5,8 @@
 
   $${\textcolor{#FF78D3}{Mistress}}$$
 </td></tr><tr><th>
-  <img src="/B/Main-Assets/BTC-Sign/d04_MiRaKa.png"
+  <img draggable="false"
+  src="/B/Main-Assets/BTC-Sign/d04_MiRaKa.png"
   alt="BTC.MiRaKa - Jinja Eru" width="100">
 </th></tr></table></div>
 

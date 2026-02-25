@@ -5,7 +5,8 @@
 
   $${\textcolor{#FFC32B}{Spamor}}$$
 </td></tr><tr><th>
-  <img src="/B/Main-Assets/BTC-Sign/b2b_SJL.png"
+  <img draggable="false"
+  src="/B/Main-Assets/BTC-Sign/b2b_SJL.png"
   alt="BTC.SJL - Jouga Maya" width="100">
 </th></tr></table></div>
 

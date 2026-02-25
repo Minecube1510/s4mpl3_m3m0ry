@@ -5,7 +5,8 @@
 
   $${\textcolor{#00BEFF}{Gaster}}$$
 </td></tr><tr><th>
-  <img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+  <img draggable="false"
+  src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100">
 </th></tr></table></div>
 

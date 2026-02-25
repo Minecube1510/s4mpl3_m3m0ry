@@ -9,10 +9,12 @@
   $${\textcolor{#FF1B39}{Virtual}}$$
 </td></tr><tr><th>
   <a href="/A/Main_Samples/1-Gaster/1-Gaster.dc.md"
-  style=""><img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+  style=""><img draggable="false"
+  src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100"></a>
 </th><th>
-  <img src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
+  <img draggable="false"
+  src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
   alt="BTC.AVD - Natsu Megumi" width="100">
 </th></tr></table></div>
 

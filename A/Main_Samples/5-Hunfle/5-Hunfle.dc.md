@@ -5,7 +5,8 @@
 
   $${\textcolor{#B651FF}{Hunfle}}$$
 </td></tr><tr><th>
-  <img src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
+  <img draggable="false"
+  src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
   alt="BTC.HuPaWi - Jinja Natsume" width="100">
 </th></tr></table></div>
 
