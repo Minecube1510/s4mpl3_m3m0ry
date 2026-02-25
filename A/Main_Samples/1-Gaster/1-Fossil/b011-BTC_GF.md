@@ -1,13 +1,13 @@
 # Indikator Simbolik
 
 <div align="center"><table>
-<tr><td>
+<tr><td align="center">
 
   $${\textcolor{#00BEFF}{Gaster}}$$
-</td><td><p align="center">
+</td><td align="center">
 
   $${\textcolor{#00BEFF}{Fossil}}$$
-</p></td></tr><tr><th>
+</td></tr><tr><th>
   <a href="/A/Main_Samples/1-Gaster/1-Gaster.dc.md"
   style=""><img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100"></a>

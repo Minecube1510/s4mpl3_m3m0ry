@@ -1,22 +1,32 @@
 # Indikator Simbolik
-<div align="center"><table style="margin-left: auto; margin-right: auto;">
-  <tr><td><p align="center">
-    $${\textcolor{#00BEFF}{Gaster}}$$
-  </p></td><td><p align="center">
-    $${\textcolor{#FF1B39}{Virtual}}$$
-  </p></td></tr><tr><th><a href="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples/a1_B001-KR_Gaster/a001_By-KR_Gaster.md">
-    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
-  </a></th><th>
-    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/c03_AVD.png", width="100">
-  </th></tr></table></div>
+
+<div align="center"><table>
+<tr><td align="center">
+
+  $${\textcolor{#00BEFF}{Gaster}}$$
+</td><td align="center">
+
+  $${\textcolor{#00BEFF}{Fossil}}$$
+</td></tr><tr><th>
+  <a href="/A/Main_Samples/1-Gaster/1-Gaster.dc.md"
+  style=""><img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+  alt="BTC.GFB - Kafuu Chino" width="100"></a>
+</th><th>
+  <img src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
+  alt="BTC.AVD - Natsu Megumi" width="100">
+</th></tr></table></div>
 
 ---
+
 # $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ $${\textbf{\textcolor{#00BEFF}{Soon}}}$$
+
 - **Bunch**: $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$
 - **Type**: $${\textbf{\textcolor{#FF1B39}{Virtual}}}$$
 
 ---
+
 ## $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+
 1. [???](CS)
 2. [???](CS)
 3. [???](CS)
@@ -43,56 +53,71 @@
 24. [???](CS)
 25. [???](CS)
 26. [???](CS)
+
 - [***Collection***: **Gaster**-**Virtual** - *Blaster*](CS)
 
 ---
+
 ## $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
+
 651. [Menunggu](CS)
 652. [Menunggu](CS)
 653. [Menunggu](CS)
 654. [Menunggu](CS)
 655. [Menunggu](CS)
 656. [Menunggu](CS)
+
 - [***Collection***: **Gaster**-**Virtual** - *Lance*](CS)
 
 ---
+
 ## $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
+
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
-000. [Menunggu](CS)
+
 - [***Collection***: **Gaster**-**Virtual** - *Dril*](CS)
 
 ---
+
 ## $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
+
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
+
 - [***Collection***: **Gaster**-**Virtual** - *Kama*](CS)
 
 ---
+
 ## $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
+
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
+
 - [***Collection***: **Gaster**-**Virtual** - *Winchester*](CS)
 
 ---
+
 ## $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
+
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
+
 - [***Collection***: **Gaster**-**Virtual** - *ELDRITCH*](CS)
 
 ---
