@@ -11,7 +11,7 @@
 
 ---
 
-## $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster))
+## $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main](/A/Main_Samples/1-Gaster))
 
 1. **001** - **006**
 
@@ -65,7 +65,7 @@ Menunggu: xxx
 
 ## $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ $${\textbf{\textcolor{#00BEFF}{Soon}}}$$ - (GFB.000)
 
-> [**Gaster** - *Fossil*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b11_T011-Gaster_Fossil)
+> [**Gaster** - *Fossil*](/A/Main_Samples/1-Gaster/1-Fossil)
 
 ### $${\textbf{\textcolor{#00BEFF}{Fossil}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
@@ -89,7 +89,7 @@ X. [AddPlease](CS)
 
 ## $${\textbf{\textcolor{#00BEFF}{Cyber}}}$$ $${\textbf{\textcolor{#B651FF}{Robot}}}$$ - (GPaB.001)
 
-> [**Gaster** - *Paperbag*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag)
+> [**Gaster** - *Paperbag*](/A/Main_Samples/1-Gaster/1-Fossil/1-Blaster)
 
 ### $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
