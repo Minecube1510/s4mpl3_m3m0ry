@@ -11,50 +11,59 @@ Isi Aturan
 
 ### A. **Penamaan File**
 
-1. **Nama File Isi Sampel** <br>
+<ol><li>
+
+**Nama File Isi Sampel**
+</li>
 
 Untuk menamai File (yang menunjukkan isi Sampel), **WAJIB** untuk menamainya berdasarkan **'FirstList_Sign_QFM'**!
 
 > **FirstList_Sign_QFM** itu:
->> (**MuchOrderyName**) <br>
+>> (**MuchOrderyName**)<br>
 >> "**Jumlah Nama Data** (*FuncDataName*)" + "**Jumlah Gelar-Gelar Data** (*FuncDataCodeName*)"
->> (**nnXn**) <br>
+>> (**nnXn**)<br>
 >> **Inisial huruf/angka, karakter awal dari Nama Data** (*Identificicative*)
->> (**nnnX**) <br>
+>> (**nnnX**)<br>
 >> **Tingkat urutan berdasarkan angka** (*TyperListData*)-([***a-z***], yang kecil)
 
-- Contoh: <br>
+- Contoh:
+
+<br>
+
 [ ***69Ei*** ]
 
-> [***69***] <br>
->> Misalnya panjang namanya kemungkinan sekitar ***14***. <br>
+> [***69***]<br>
+>> Misalnya panjang namanya kemungkinan sekitar ***14***.<br>
 >> Misalnya panjang semua gelarnya kalo disatuin, jadinya ***55***.
->> Selain namanya, juga punya gelar seperti: <br>
+>> Selain namanya, juga punya gelar seperti:<br>
 >> "*Smothie yang sejuk*, *Pengenyang Perut*, dan *Nirhabisan*".
->> Gelar itu semua, kurang lebih sekitar **55**. <br>
+>> Gelar itu semua, kurang lebih sekitar **55**.<br>
 >> Maka bila ditambah **(14 + 55)**, maka hasilnya adalah **69**.
-> [***E***] <br>
+> [***E***]<br>
 > Misalnya namanya '***Elegian Smothie***'.
-> [***i***] <br>
+> [***i***]<br>
 > Misalnya, dia berada di 'baris ke-*9*' dalam tampungan BTC-nya, maka dia jadinya di '***i***'.
 <!--
 -->
 > - Untuk '*FirstList_Sign_QFM*', bisa ditemukan pada [***'Sampel Memori 2'***](https://docs.google.com/spreadsheets/d/1zLfmoWbyX3uObGxpigM-m-7OviPcki7hWT1SjPG9ZI8/edit?usp=sharing).
 
-2. **Nama File Daftar Sampel** <br>
+<br><li>
 
-Kenapa ini penting? Agar nanti kalo mau masuk ke File Manager, biar gampang ***Auto-Sort***-nya. <br>
+**Nama File Daftar Sampel**
+</li></ol>
+
+Kenapa ini penting? Agar nanti kalo mau masuk ke File Manager, biar gampang ***Auto-Sort***-nya.<br>
 
 Kenapa harus ada Auto-Sort? Agar enak pas nyarinya.
 
 - Pertama:
 
-> **Xxxx** <br>
+> **Xxxx**<br>
 > Ini adalah kode pertama. Ini harus ikut dengan penamaan folder.
 
 <!-- . -->
 
-> **xXXX** <br>
+> **xXXX**<br>
 > Ini adalah kode kedua. Ini harus ikut dengan penamaan folder, tapi dengan tiga digit.
 
 Tiga jenis struktur yang dituliskan disini:
@@ -76,15 +85,15 @@ cXXX
 > Kalo ini namain langsung. Tapi gak langsung namain. Harus mengikuti sebagai berikut:
 <!--
 -->
->> - Bunch <br>
+>> - Bunch
 >> By-KR_Name
->> - Type <br>
+>> - Type
 <!--
 -->
 >> BTC_[***B***][***T***]
 <!--
 -->
->> - Category <br>
+>> - Category
 >> Kalo ini dibagi 2:
 ```
 
@@ -104,7 +113,10 @@ Ini lah isi dari tiap-tiap 5616 Sampel.
 
 > 'Nomor_ID' harus 4 digit. Maka kalo kurang dari, awalannya harus '0'.
 
-3. **Nama File ...** <br>
+<li>
+
+**Nama File ...**
+</li>
 
 x
 
@@ -112,17 +124,20 @@ x
 
 Kayak namanya, "**Folder**". Yang artinya, menyimpan banyak file-file, bahkan folder itu sendiri.
 
-1. **Folder Utama** <br>
+<ol><li>
+
+**Folder Utama**
+</li>
 
 Folder utama disini ialah
-> ***"Main Sample"*** <br>
+> ***"Main Sample"***<br>
 Isinya adalah tentang para Sampel-Sampel. Jadi folder ini adalah folder utama disini.
 
 Maka mereka dinamai dengan inisialis yang ke-sort:
 
 - Pertama
 
-> '***Xx***' <br>
+> '***Xx***'<br>
 > Ini adalah kode pertama berbentuk huruf. Ini mengidentifikasi urutan satuan kelompok.
 
 ```txt
@@ -131,7 +146,7 @@ Maka mereka dinamai dengan inisialis yang ke-sort:
 - 'c' untuk 'C', "Category".
 ```
 
-> '***xX***' <br>
+> '***xX***'<br>
 > Ini adalah kode kedua berbentuk angka satu digit. Fungsinya sebagai indikator urutan ke-berapa folder ini.
 
 ```txt
@@ -154,7 +169,7 @@ Maka:
 
 - Kedua
 
-> '***Xxx***' <br>
+> '***Xxx***'<br>
 > Ini adalah kode pertama berbentuk huruf. Ini mengidentifikasi satuan kelompok (BTC).
 
 ```txt
@@ -163,7 +178,7 @@ Maka:
 - 'C' untuk "Category".
 ```
 
-> '***xXX***' <br>
+> '***xXX***'<br>
 > Ini adalah kode kedua berbentuk angka dua sampai tiga digit. Ini sebagai indikator urutan BTC-nya.
 
 ```txt
@@ -186,7 +201,7 @@ Artinya: [151]
 >> - '***C151***'.
 
 - Ketiga
-Ini adalaha penamaan langsung. <br>
+Ini adalaha penamaan langsung.<br>
 Tapi perlu diingat! Bahwa:
 
 > Bunch, harus disertakan seperti '***Kamen Rider***'. Boleh disingkat saja, jadinya '*KR*'.
@@ -194,12 +209,18 @@ Tapi perlu diingat! Bahwa:
 <br>
 
 > - Penamaan: '*KR*_***Nama***'
-> Type, kali ini harus didahului oleh '*nama* **Rider**'. Seperti berikut: <br>
+> Type, kali ini harus didahului oleh '*nama* **Rider**'. Seperti berikut:
+
+<br>
+
 > - Penamaan: '*Rider*_***Type***'
-> Category, dahulukan cara penulisan Type seperti diatas, lalu pisahkan dengan [ *'* ]. <br>
+> Category, dahulukan cara penulisan Type seperti diatas, lalu pisahkan dengan [ *'* ].
+
+<br>
+
 > - Penamaan: '*Rider_Type*'***Category***'
 
-#### Maka kalo digabungkan itu semua
+### Maka kalo digabungkan itu semua
 
 ```txt
 Bunch:
@@ -212,13 +233,21 @@ Category:
 ?XXX_CXXX-Rider_Type'Category
 ```
 
-2. **Folder Gambar** <br>
+</li><li>
+
+**Folder Gambar**
+</li></ol>
+
+<br>
 
 Ini udah pasti banget, bahwa ini adalah source gambarnya.
 
 ## C. Format Isi dalam File
 
-1. **Format Isi Sampel** <br>
+<ol><li>
+
+**Format Isi Sampel**
+</li>
 
 Kalo mau ngisi tentang sampel-nya, harus di-formati seperti ini. Agar dapat dibaca dengan jelas dan enak.
 
@@ -254,7 +283,10 @@ Header 1#: CS
 -- Batas --
 ```
 
-2. **Coming soon** <br>
+</li><li>
+
+**Coming soon**
+</li></ol>
 
 X
 .
@@ -263,5 +295,8 @@ X
 
 x
 
-1. **Coming soon** <br>
+1. **Coming soon**
+
+<br>
+
 x

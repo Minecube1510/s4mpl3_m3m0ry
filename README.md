@@ -28,6 +28,42 @@
 
 ---
 
+## Log
+
+```py
+("Dari" : "0.0")
+# 07/03/2025 ("7 Maret 2025")
+# XX:XX ("Waktu Jam tidak diketahui")
+|
+{"Baru bikin"}
+
+("Terkini" : "0.0")
+# XX/XX/2025 ("XX ? 2026")
+# XX:XX ("Waktu masih menanti...")
+|
+{"Memperbaiki struktur sistem project"}
+
+("Kemudian" : "0.0")
+# XX/XX/2025 ("XX ? 2026")
+# XX:XX ("Waktu masih menanti...")
+|
+{""}
+
+End.
+
+```
+
+---
+
+## Indikasi
+
+A - Data Center
+B - Assets
+C - Panduan
+D - Storage Sementara
+
+---
+
 ## Catatan
 
 - Pada "*sample-route*"-nya
@@ -39,5 +75,4 @@
 - Menunggu...
 
 ---
-By: **Admin - Sampelings**
->>>>>>> bda256e ([Dev] Moving Commits)
+By: **Admin Gaster**

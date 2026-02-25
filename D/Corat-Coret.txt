@@ -1,0 +1,12 @@
+"Ini adalah storage sementara, silahkan di sini untuk diacak-acak!"
+
+
+---
+
+A - Data Center
+B - Assets
+C - Panduan
+
+---
+
+.
