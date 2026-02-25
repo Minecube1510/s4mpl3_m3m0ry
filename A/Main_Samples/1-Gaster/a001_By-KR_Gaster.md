@@ -1,17 +1,10 @@
 # Indikator Simbolik
 
-<style>
-  .sm-dc-table {
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
+<div align="center"><table>
+<tr><td align="center">
 
-<div align="center"><table class="sm-dc-table">
-<tr><td><p align="center">
-
-  $${\textcolor{#00BEFF}{Gaster}}$$
-</p></td></tr><tr><th>
+$${\textcolor{#00BEFF}{Gaster}}$$
+</td></tr><tr><th>
   <img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100">
 </th></tr></table></div>
