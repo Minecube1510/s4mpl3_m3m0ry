@@ -30,27 +30,34 @@
 
 ## Log
 
+- **First**
+
 ```py
 ("Dari" : "0.0")
 # 07/03/2025 ("7 Maret 2025")
 # XX:XX ("Waktu Jam tidak diketahui")
-|
-{"Baru bikin"}
 
+{"Baru bikin"}
+```
+
+- **Now /OR/ Last**
+
+```py
 ("Terkini" : "0.0")
 # XX/XX/2025 ("XX ? 2026")
 # XX:XX ("Waktu masih menanti...")
 |
 {"Memperbaiki struktur sistem project"}
+```
 
+- **Later**
+
+```py
 ("Kemudian" : "0.0")
 # XX/XX/2025 ("XX ? 2026")
 # XX:XX ("Waktu masih menanti...")
 |
 {""}
-
-End.
-
 ```
 
 ---

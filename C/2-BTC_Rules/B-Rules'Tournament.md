@@ -16,6 +16,11 @@ Jadi turnamen-nya dibikin secara default basic-nya, **4** Ronde, yang masing-mas
 ### Ronde 4
 - Ini hanya memiliki **1** pecahan, yakni [*4*-*X*].
 
+<!--
+    Saat ini:
+    HIATUS.
+-->
+
 ---
 ## Ronde 1
 
