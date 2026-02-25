@@ -6,7 +6,7 @@
   $${\textcolor{#00BEFF}{Gaster}}$$
 </td><td align="center">
 
-  $${\textcolor{#00BEFF}{Fossil}}$$
+  $${\textcolor{#FF1B39}{Virtual}}$$
 </td></tr><tr><th>
   <a href="/A/Main_Samples/1-Gaster/1-Gaster.dc.md"
   style=""><img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
