@@ -1,4 +1,5 @@
 # Indikator Simbolik
+
 <div align="center">
 <table style="margin-left: auto; margin-right: auto;"><tr>
   <td><p align="center">
@@ -10,23 +11,32 @@
   </p></td>
     </tr>
   <tr><th>
-    <!-- Gambar ada pada: --><!--
-    https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/
-    --><!-- Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya. -->
+<!--
+  Gambar ada pada:
+  B/Main-Assets/BTC-Sign
+  |
+  Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
+-->
     <b> GAMBAR <br>
     UNTUK <br>
     BUNCH </b>
   </th><th>
-    <!-- Gambar ada pada: --><!--
-    https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/
-    --><!-- Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya. -->
+<!--
+  Gambar ada pada:
+  B/Main-Assets/BTC-Sign
+  |
+  Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
+-->
     <b> GAMBAR <br>
     UNTUK <br>
     TYPE </b>
   </th><th>
-    <!-- Gambar ada pada: --><!--
-    https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/
-    --><!-- Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya. -->
+<!--
+  Gambar ada pada:
+  B/Main-Assets/BTC-Sign
+  |
+  Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
+-->
     <b> GAMBAR <br>
     UNTUK <br>
     CATEGORY </b>
@@ -35,11 +45,16 @@
 </div>
 
 ---
+<!-- Intinya, penjelasan naro gambar lah -->
 # Ilustrasi Default
+
 <p align="center">
-  <!-- Gambar ada pada: --><!--
-  https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.002-Sampel_Illust/B1.002'A-Basic_5616/
-  --><!-- Cari File yang ngepas di turnamen-nya, lalu ambil gambarnya. -->
+<!--
+  Gambar ada pada:
+  B/Main-Assets/B1.002-Sampel_Illust/B1.002'A-Basic_5616
+  |
+  Cari File yang ngepas di turnamen-nya, lalu ambil gambarnya.
+-->
   <br><b> GAMBAR BASIC </b><br>
   <br>
   <!-- ATURAN WAJIB! -->
@@ -54,6 +69,7 @@
 ---
 <!-- Ini adalah section informasi data sampel -->
 # Informasi Data
+
 - **ID:** ***XXXX*** <br>
 - **Name:** *Nama Sampel* <br>
 - **Bunch:** $${\textbf{\textcolor{#FFFFFF}{Bunch}}}$$ <br>
@@ -61,16 +77,19 @@
 - **Category:** $${\textbf{\textcolor{#FFFFFF}{Category}}}$$ <br>
 - **Segment:** *?* <br>
 - **List:** [ ***?*** ]
+
 ---
-# Penjelasan Umum
 <!-- Ini adalah penjelasan explanatif tentang Sampel -->
+# Penjelasan Umum
+
 **MENULISLAH!**
 
 ---
 <!-- Taro semua referensi-nya darimana aja, di sini -->
-# Reff-Notes
-- [Referensi 1]()
-- [Referensi 2]()
-- [Referensi 3]()
+## Reff-Notes
+
+- [Referensi 1](CS)
+- [Referensi 2](CS)
+- [Referensi 3](CS)
 
 ---
