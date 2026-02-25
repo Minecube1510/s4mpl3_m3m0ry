@@ -1,7 +1,11 @@
+# QnA
+
 ---
-# Q. Kenapa simbolnya, harus pake "mereka-mereka" itu? Kan kalian itu macam monster!
+
+- Q1. Kenapa simbolnya, harus pake "mereka-mereka" itu? Kan kalian itu macam monster!
 
 Mereka itu pseudo miilk kami. Hanya menyamakan sifatnya aja.
+
 - Sifat
 - Karakteristik
 - Tampilan dan (mungkin) sifat
@@ -10,12 +14,14 @@ Mereka itu pseudo miilk kami. Hanya menyamakan sifatnya aja.
 - Cukup mirip aja.
 
 ---
-# Q. A?
+
+- Q2. A?
 
 B.
 
 ---
-# Q. A?
+
+- Q3. A?
 
 B.
 
