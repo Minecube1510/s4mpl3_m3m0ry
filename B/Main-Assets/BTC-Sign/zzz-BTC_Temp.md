@@ -1,28 +1,28 @@
 # BTC Sign Templator
 
----
+Just use it!
 
 ## $${{\textcolor{#00BEFF}{Gaster - Fossil - Blaster}}}$$
   <!--
 ![BTC.GFB - Kafuu Chino][Chino_GFB_1]
 
-<img src="/B/Main-Assets/BTC-Sign/a01_GFB.png"
+<img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
 alt="BTC.GFB - Kafuu Chino">
 |
-<img src="/B/Main-Assets/BTC-Sign/a01_GFB.png"
+<img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
 alt="BTC.GFB - Kafuu Chino" width="100">
   -->
 
 <div align="center">
 
   <!-- ![BTC.GFB - Kafuu Chino][Chino_GFB_1] -->
-  <img src="/B/Main-Assets/BTC-Sign/a01_GFB.png"
+  <img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino">
 </div><p align="center">
 
   $${\textcolor{#00BEFF}{Original - 350}}$$
 </p><p align="center">
-  <img src="/B/Main-Assets/BTC-Sign/a01_GFB.png"
+  <img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100">
 </p><p align="center">
 
@@ -35,23 +35,23 @@ alt="BTC.GFB - Kafuu Chino" width="100">
   <!--
 ![BTC.SJL - Jouga Maya][Maya_SJL_2]
 
-<img src="/B/Main-Assets/BTC-Sign/b02_SJL.png"
+<img src="/B/Main-Assets/BTC-Sign/b2b_SJL.png"
 alt="BTC.SJL - Jouga Maya">
 |
-<img src="/B/Main-Assets/BTC-Sign/b02_SJL.png"
+<img src="/B/Main-Assets/BTC-Sign/b2b_SJL.png"
 alt="BTC.SJL - Jouga Maya" width="100">
   -->
 
 <div align="center">
 
   <!-- ![BTC.SJL - Jouga Maya][Maya_SJL_2] -->
-  <img src="/B/Main-Assets/BTC-Sign/b02_SJL.png"
+  <img src="/B/Main-Assets/BTC-Sign/b2b_SJL.png"
   alt="BTC.SJL - Jouga Maya">
 </div><p align="center">
 
   $${\textcolor{#FFC32B}{Original - 350}}$$
 </p><p align="center">
-  <img src="/B/Main-Assets/BTC-Sign/b02_SJL.png"
+  <img src="/B/Main-Assets/BTC-Sign/b2b_SJL.png"
   alt="BTC.SJL - Jouga Maya" width="100">
 </p><p align="center">
 
@@ -64,23 +64,23 @@ alt="BTC.SJL - Jouga Maya" width="100">
   <!--
 ![BTC.AVD - Natsu Megumi][Megu_AVD_3]
 
-<img src="/B/Main-Assets/BTC-Sign/c03_AVD.png"
+<img src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
 alt="BTC.AVD - Natsu Megumi">
 |
-<img src="/B/Main-Assets/BTC-Sign/c03_AVD.png"
+<img src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
 alt="BTC.AVD - Natsu Megumi" width="100">
   -->
 
 <div align="center">
 
   <!-- ![BTC.AVD - Natsu Megumi][Megu_AVD_3] -->
-  <img src="/B/Main-Assets/BTC-Sign/c03_AVD.png"
+  <img src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
   alt="BTC.AVD - Natsu Megumi">
 </div><p align="center">
 
   $${\textcolor{#FF1B39}{Original - 350}}$$
 </p><p align="center">
-  <img src="/B/Main-Assets/BTC-Sign/c03_AVD.png"
+  <img src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
   alt="BTC.AVD - Natsu Megumi" width="100">
 </p><p align="center">
 
@@ -151,23 +151,23 @@ alt="BTC.HuPaWi - Jinja Natsume" width="100">
   <!--
 ![BTC.CloTriEld - Fuiba Fuyu][Fuyu_CloTriEld_6]
 
-<img src="/B/Main-Assets/BTC-Sign/ff06_CloTriEld.png"
+<img src="/B/Main-Assets/BTC-Sign/ff6_CloTriEld.png"
 alt="BTC.CloTriEld - Fuiba Fuyu">
 |
-<img src="/B/Main-Assets/BTC-Sign/ff06_CloTriEld.png"
+<img src="/B/Main-Assets/BTC-Sign/ff6_CloTriEld.png"
 alt="BTC.CloTriEld - Fuiba Fuyu" width="100">
   -->
 
 <div align="center">
 
   <!-- ![BTC.CloTriEld - Fuiba Fuyu][Fuyu_CloTriEld_6] -->
-  <img src="/B/Main-Assets/BTC-Sign/ff06_CloTriEld.png"
+  <img src="/B/Main-Assets/BTC-Sign/ff6_CloTriEld.png"
   alt="BTC.CloTriEld - Fuiba Fuyu">
 </div><p align="center">
 
   $${\textcolor{#6A96FF}{Original - 350}}$$
 </p><p align="center">
-  <img src="/B/Main-Assets/BTC-Sign/ff06_CloTriEld.png"
+  <img src="/B/Main-Assets/BTC-Sign/ff6_CloTriEld.png"
   alt="BTC.CloTriEld - Fuiba Fuyu" width="100">
 </p><p align="center">
 
@@ -179,13 +179,32 @@ alt="BTC.CloTriEld - Fuiba Fuyu" width="100">
 ## Reff Link & Source
 
 <!-- Linkings -->
+  <!--
+[Chino]:
+a1a_GFB
 
-[Chino_GFB_1]: /B/Main-Assets/BTC-Sign/a01_GFB.png
-[Maya_SJL_2]: /B/Main-Assets/BTC-Sign/b02_SJL.png
-[Megu_AVD_3]: /B/Main-Assets/BTC-Sign/c03_AVD.png
+[Maya]:
+b2b_SJL
+
+[Megu]:
+c3c_AVD
+
+[Eru]:
+d04_MiRaKa
+
+[Natsume]:
+e05_HuPaWi
+
+[Fuyu]:
+ff6_CloTriEld
+  -->
+
+[Chino_GFB_1]: /B/Main-Assets/BTC-Sign/a1a_GFB.png
+[Maya_SJL_2]: /B/Main-Assets/BTC-Sign/b2b_SJL.png
+[Megu_AVD_3]: /B/Main-Assets/BTC-Sign/c3c_AVD.png
 [Eru_MiRaKa_4]: /B/Main-Assets/BTC-Sign/d04_MiRaKa.png
 [Natsume_HuPaWi_5]: /B/Main-Assets/BTC-Sign/e05_HuPaWi.png
-[Fuyu_CloTriEld_6]: /B/Main-Assets/BTC-Sign/ff06_CloTriEld.png
+[Fuyu_CloTriEld_6]: /B/Main-Assets/BTC-Sign/ff6_CloTriEld.png
 
 <!-- Sources -->
 
