@@ -1,17 +1,10 @@
 # Indikator Simbolik
 
-<style>
-  .sm-dc-table {
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
-
-<div align="center"><table class="sm-dc-table">
-<tr><td><p align="center">
+<div align="center"><table>
+<tr><td align="center">
 
   $${\textcolor{#B651FF}{Hunfle}}$$
-</p></td></tr><tr><th>
+</td></tr><tr><th>
   <img src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
   alt="BTC.HuPaWi - Jinja Natsume" width="100">
 </th></tr></table></div>

@@ -1,17 +1,10 @@
 # Indikator Simbolik
 
-<style>
-  .sm-dc-table {
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
+<div align="center"><table>
+<tr><td align="center">
 
-<div align="center"><table class="sm-dc-table">
-<tr><td><p align="center">
-  
   $${\textcolor{#FFC32B}{Spamor}}$$
-</p></td></tr><tr><th>
+</td></tr><tr><th>
   <img src="/B/Main-Assets/BTC-Sign/b2b_SJL.png"
   alt="BTC.SJL - Jouga Maya" width="100">
 </th></tr></table></div>

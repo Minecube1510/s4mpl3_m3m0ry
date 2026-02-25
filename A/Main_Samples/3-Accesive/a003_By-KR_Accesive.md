@@ -1,17 +1,10 @@
 # Indikator Simbolik
 
-<style>
-  .sm-dc-table {
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
-
-<div align="center"><table class="sm-dc-table">
-<tr><td><p align="center">
+<div align="center"><table>
+<tr><td align="center">
 
   $${\textcolor{#FF1B39}{Accesive}}$$
-</p></td></tr><tr><th>
+</td></tr><tr><th>
   <img src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
   alt="BTC.AVD - Natsu Megumi" width="100">
 </th></tr></table></div>

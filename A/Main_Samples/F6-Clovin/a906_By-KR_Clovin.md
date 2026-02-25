@@ -1,17 +1,10 @@
 # Indikator Simbolik
 
-<style>
-  .sm-dc-table {
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
-
-<div align="center"><table class="sm-dc-table">
-<tr><td><p align="center">
+<div align="center"><table>
+<tr><td align="center">
 
   $${\textcolor{#6A96FF}{Clovin}}$$
-</p></td></tr><tr><th>
+</td></tr><tr><th>
   <img src="/B/Main-Assets/BTC-Sign/ff6_CloTriEld.png"
   alt="BTC.CloTriEld - Fuiba Fuyu" width="100">
 </th></tr></table></div>
