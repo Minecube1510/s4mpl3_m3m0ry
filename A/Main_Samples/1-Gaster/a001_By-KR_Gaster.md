@@ -1,60 +1,81 @@
 # Indikator Simbolik
-<div align="center"><table style="margin-left: auto; margin-right: auto;"><tr><td><p align="center">
+
+<style>
+  .sm-dc-table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+<div align="center"><table class="sm-dc-table">
+<tr><td><p align="center">
+
   $${\textcolor{#00BEFF}{Gaster}}$$
 </p></td></tr><tr><th>
-  <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
+  <img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+  alt="BTC.GFB - Kafuu Chino" width="100">
 </th></tr></table></div>
 
 ---
-# $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster))
+
+## $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster))
 
 1. **001** - **006**
-```
+
+```txt
 Sudah: GPaB
 Berlangsung: GPaB
 Menunggu: GPaL, GPaD, GPaKa, GPaWi, GPa_Eld
 ```
 
 2. **007** - **012**
-```
+
+```txt
 Sudah: xxx
 Berlangsung: xxx
 Menunggu: xxx
 ```
 
 3. **013** - **018**
-```
+
+```txt
 Sudah: xxx
 Berlangsung: xxx
 Menunggu: xxx
 ```
 
 4. **019** - **024**
-```
+
+```txt
 Sudah: xxx
 Berlangsung: xxx
 Menunggu: xxx
 ```
 
 5. **025** - **030**
-```
+
+```txt
 Sudah: xxx
 Berlangsung: xxx
 Menunggu: xxx
 ```
 
 6. **031** - **036**
-```
+
+```txt
 Sudah: xxx
 Berlangsung: xxx
 Menunggu: xxx
 ```
 
 ---
+
 ## $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ $${\textbf{\textcolor{#00BEFF}{Soon}}}$$ - (GFB.000)
+
 > [**Gaster** - *Fossil*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b11_T011-Gaster_Fossil)
 
-### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+### $${\textbf{\textcolor{#00BEFF}{Fossil}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+
 1. [AddPlease](CS)
 2. [AddPlease](CS)
 3. [AddPlease](CS)
@@ -63,18 +84,22 @@ Menunggu: xxx
 6. [AddPlease](CS)
 
 ### $${\textbf{\textcolor{#00BEFF}{???}}}$$
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
+
+X. [AddPlease](CS)  
+X. [AddPlease](CS)  
+X. [AddPlease](CS)  
+X. [AddPlease](CS)  
+X. [AddPlease](CS)  
+X. [AddPlease](CS)  
 
 ---
+
 ## $${\textbf{\textcolor{#00BEFF}{Cyber}}}$$ $${\textbf{\textcolor{#B651FF}{Robot}}}$$ - (GPaB.001)
+
 > [**Gaster** - *Paperbag*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag)
 
-### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+### $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+
 625. [Autobot Optimus Prime](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0625'54Oa.md)
 626. [Autobot Hot Spot](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0626'30Hb.md)
 627. [Autobot Scattershot](CS)
@@ -103,6 +128,7 @@ Menunggu: xxx
 650. [Decepticon Lyzack](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0650'33Lz.md)
 
 ### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
+
 651. [AddPlease](CS)
 652. [AddPlease](CS)
 653. [AddPlease](CS)
@@ -111,50 +137,59 @@ Menunggu: xxx
 656. [AddPlease](CS)
 
 ### $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
+
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
 
 ### $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
+
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
 
 ### $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
 
-### $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+
+### $${\textbf{\textcolor{#FFFFFF}{One-1}}}$$ $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
+
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
 
 ---
+
 ## $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ $${\textbf{\textcolor{#00BEFF}{Soon}}}$$ - (GF'ELD.000)
+
 > [**Gaster** - *Trickster*](CS)
 
-### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
-000. [AddPlease](CS)
+### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-### $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
-000. [AddPlease](CS)
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+XXX. [AddPlease](CS)  
+
+### $${\textbf{\textcolor{#FFFFFF}{Two-2}}}$$ $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
+
+XXX. [AddPlease](CS)  
 936. [AddPlease](CS)
+
 ---
