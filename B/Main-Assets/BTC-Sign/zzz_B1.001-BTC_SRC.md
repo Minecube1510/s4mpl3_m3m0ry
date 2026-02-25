@@ -4,16 +4,20 @@
 
 ## $${{\textcolor{#00BEFF}{Gaster - Fossil - Blaster}}}$$
   <!--
+![BTC.GFB - Kafuu Chino][Chino_GFB_1]
+
 <img src="/B/Main-Assets/BTC-Sign/a01_GFB.png"
 alt="BTC.GFB - Kafuu Chino">
-
+|
 <img src="/B/Main-Assets/BTC-Sign/a01_GFB.png"
 alt="BTC.GFB - Kafuu Chino" width="100">
   -->
 
 <p align="center">
   
-  ![BTC.GFB - Kafuu Chino][Chino_GFB_1]
+  <!-- ![BTC.GFB - Kafuu Chino][Chino_GFB_1] -->
+  <img src="/B/Main-Assets/BTC-Sign/a01_GFB.png"
+  alt="BTC.GFB - Kafuu Chino">
 </p><p align="center">
   
   $${\textcolor{#00BEFF}{Original - 350}}$$
@@ -29,16 +33,20 @@ alt="BTC.GFB - Kafuu Chino" width="100">
 
 ## $${{\textcolor{#FFC32B}{Spamor - Jarl - Lance}}}$$
   <!--
+![BTC.SJL - Jouga Maya][Maya_SJL_2]
+
 <img src="/B/Main-Assets/BTC-Sign/b02_SJL.png"
 alt="BTC.SJL - Jouga Maya">
-
+|
 <img src="/B/Main-Assets/BTC-Sign/b02_SJL.png"
 alt="BTC.SJL - Jouga Maya" width="100">
   -->
 
 <p align="center">
   
-  ![BTC.SJL - Jouga Maya][Maya_SJL_2]
+  <!-- ![BTC.SJL - Jouga Maya][Maya_SJL_2] -->
+  <img src="/B/Main-Assets/BTC-Sign/b02_SJL.png"
+  alt="BTC.SJL - Jouga Maya">
 </p><p align="center">
 
   $${\textcolor{#FFC32B}{Original - 350}}$$
@@ -54,16 +62,20 @@ alt="BTC.SJL - Jouga Maya" width="100">
 
 ## $${{\textcolor{#FF1B39}{Accesive - Virtual - Drill}}}$$
   <!--
+![BTC.AVD - Natsu Megumi][Megu_AVD_3]
+
 <img src="/B/Main-Assets/BTC-Sign/c03_AVD.png"
 alt="BTC.AVD - Natsu Megumi">
-
+|
 <img src="/B/Main-Assets/BTC-Sign/c03_AVD.png"
 alt="BTC.AVD - Natsu Megumi" width="100">
   -->
 
 <p align="center">
   
-  ![BTC.AVD - Natsu Megumi][Megu_AVD_3]
+  <!-- ![BTC.AVD - Natsu Megumi][Megu_AVD_3] -->
+  <img src="/B/Main-Assets/BTC-Sign/c03_AVD.png"
+  alt="BTC.AVD - Natsu Megumi">
 </p><p align="center">
 
   $${\textcolor{#FF1B39}{Original - 350}}$$
@@ -79,16 +91,20 @@ alt="BTC.AVD - Natsu Megumi" width="100">
 
 ## $${{\textcolor{#FF78D3}{Mistress - Raincoat - Kama}}}$$
   <!--
+![BTC.MiRaKa - Jinja Eru][Eru_MiRaKa_4]
+
 <img src="/B/Main-Assets/BTC-Sign/d04_MiRaKa.png"
 alt="BTC.MiRaKa - Jinja Eru">
-
+|
 <img src="/B/Main-Assets/BTC-Sign/d04_MiRaKa.png"
 alt="BTC.MiRaKa - Jinja Eru" width="100">
   -->
 
 <p align="center">
   
-  ![BTC.MiRaKa - Jinja Eru][Eru_MiRaKa_4]
+  <!-- ![BTC.MiRaKa - Jinja Eru][Eru_MiRaKa_4] -->
+  <img src="/B/Main-Assets/BTC-Sign/d04_MiRaKa.png"
+  alt="BTC.MiRaKa - Jinja Eru">
 </p><p align="center">
 
   $${\textcolor{#FF78D3}{Original - 350}}$$
@@ -104,16 +120,20 @@ alt="BTC.MiRaKa - Jinja Eru" width="100">
 
 ## $${{\textcolor{#B651FF}{Hunfle - Paperbag - Winchester}}}$$
   <!--
+![BTC.HuPaWi - Jinja Natsume][Natsume_HuPaWi_5]
+
 <img src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
 alt="BTC.HuPaWi - Jinja Natsume">
-
+|
 <img src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
 alt="BTC.HuPaWi - Jinja Natsume" width="100">
   -->
 
 <p align="center">
   
-  ![BTC.HuPaWi - Jinja Natsume][Natsume_HuPaWi_5]
+  <!-- ![BTC.HuPaWi - Jinja Natsume][Natsume_HuPaWi_5] -->
+  <img src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
+  alt="BTC.HuPaWi - Jinja Natsume">
 </p><p align="center">
 
   $${\textcolor{#B651FF}{Original - 350}}$$
@@ -129,16 +149,20 @@ alt="BTC.HuPaWi - Jinja Natsume" width="100">
 
 ## $${{\textcolor{#6A96FF}{Clovin - Trickster - Eldritch}}}$$
   <!--
+![BTC.CloTriEld - Fuiba Fuyu][Fuyu_CloTriEld_6]
+
 <img src="/B/Main-Assets/BTC-Sign/ff06_CloTriEld.png"
 alt="BTC.CloTriEld - Fuiba Fuyu">
-
+|
 <img src="/B/Main-Assets/BTC-Sign/ff06_CloTriEld.png"
 alt="BTC.CloTriEld - Fuiba Fuyu" width="100">
   -->
 
 <p align="center">
   
-  ![BTC.CloTriEld - Fuiba Fuyu][Fuyu_CloTriEld_6]
+  <!-- ![BTC.CloTriEld - Fuiba Fuyu][Fuyu_CloTriEld_6] -->
+  <img src="/B/Main-Assets/BTC-Sign/ff06_CloTriEld.png"
+  alt="BTC.CloTriEld - Fuiba Fuyu">
 </p><p align="center">
 
   $${\textcolor{#6A96FF}{Original - 350}}$$
