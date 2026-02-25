@@ -176,8 +176,6 @@ alt="BTC.CloTriEld - Fuiba Fuyu" width="100">
 
 ---
 
-## Reff Link
-
 ## Reff Link & Source
 
 <!-- Linkings -->
