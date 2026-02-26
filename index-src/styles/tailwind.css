@@ -1,13 +1,13 @@
 /* index-src/styles/tailwind.css */
 
+/* Imports */
+@import url("tailwind/tw-vars.css");
+
+
 /* Root */
 :root {
-    --tw-container: 1rem;
+    --tw-container: var(--tw-4);
 }
-
-
-/* Imports */
-
 
 
 /* Classings */
@@ -19,13 +19,12 @@
 
     /* Classing: Container */
 .container { width: 100%;
-  padding-left: var(--tw-container);
-  padding-right: var(--tw-container);
+    padding-left: var(--tw-container);
+    padding-right: var(--tw-container);
 }
 
     /* Classing: Background */
-.bg-white { background-color: #ffffff; }
-.bg-black { background-color: #000000; }
+/* ? */
 
     /* Classing: Border */
 .border-solid { border-style: solid; }
@@ -40,8 +39,6 @@
 .border-2 { border-width: 2px; }
 .border-4 { border-width: 4px; }
 .border-8 { border-width: 8px; }
-/**/
-.border-colorx { border-color: 000000; }
     /* Classing: Rounded */
 .rounded-xs { border-radius: 0.125rem; }
 .rounded-sm { border-radius: 0.25rem; }
@@ -81,10 +78,27 @@
 .text-start {text-align: start;}
 .text-end { text-align: end; }
 
+    /* Classing: Font Stylish */
+.italic { font-style: italic; }
+.not-italic { font-style: normal; }
+/**/
+.font-thin { font-weight: var(--tw-hundred-1); }
+.font-extralight { font-weight: var(--tw-hundred-2); }
+.font-light { font-weight: var(--tw-hundred-3); }
+.font-normal { font-weight: var(--tw-hundred-4); }
+.font-medium { font-weight: var(--tw-hundred-5); }
+.font-semibold { font-weight: var(--tw-hundred-6); }
+.font-bold { font-weight: var(--tw-hundred-7); }
+.font-extrabold { font-weight: var(--tw-hundred-8); }
+.font-black { font-weight: var(--tw-hundred-9); }
+/**/
+.underline { text-decoration-line: underline; }
+.overline { text-decoration-line: overline; }
+.line-through { text-decoration-line: line-through; }
+.no-underline { text-decoration-line: none; }
+
     /* Classing: ? */
-.x {
-    /*  */
-}
+/* ? */
 
 
 /* ! Classing ! */
