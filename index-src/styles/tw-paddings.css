@@ -1,0 +1,133 @@
+/* index-src/styles/tw-paddings.css */
+
+/* Root */
+:root {
+    /* Positive */
+    --tw-0: 1rem;
+    --tw-1: 0.25rem;
+    --tw-2: 0.5rem;
+    --tw-4: 1rem;
+    --tw-6: 1.5rem;
+    --tw-10: 2.5rem;
+    --tw-20: 5rem;
+
+    /* Negative */
+    --tw-n0: -1rem;
+    --tw-n1: -0.25rem;
+    --tw-n2: -0.5rem;
+    --tw-n4: -1rem;
+    --tw-n6: -1.5rem;
+    --tw-n10: -2.5rem;
+    --tw-n20: -5rem;
+}
+
+
+/*
+    Classings
+*//*
+*/
+    /* Padding - Manual: All */
+.p-0 { padding: var(--tw-0); }
+.p-1 { padding: var(--tw-1); }
+.p-2 { padding: var(--tw-2); }
+.p-4 { padding: var(--tw-4); }
+.p-6 { padding: var(--tw-6); }
+.p-10 { padding: var(--tw-10); }
+.p-20 { padding: var(--tw-20); }
+
+    /* Padding - Manual: Sideds */
+.pt-0 { padding-top: var(--tw-0); }
+.pt-1 { padding-top: var(--tw-1); }
+.pt-2 { padding-top: var(--tw-2); }
+.pt-4 { padding-top: var(--tw-4); }
+.pt-6 { padding-top: var(--tw-6); }
+.pt-10 { padding-top: var(--tw-10); }
+.pt-20 { padding-top: var(--tw-20); }
+/**/
+.-pt-0 { padding-top: var(--tw-n0); }
+.-pt-1 { padding-top: var(--tw-n1); }
+.-pt-2 { padding-top: var(--tw-n2); }
+.-pt-4 { padding-top: var(--tw-n4); }
+.-pt-6 { padding-top: var(--tw-n6); }
+.-pt-10 { padding-top: var(--tw-n10); }
+.-pt-20 { padding-top: var(--tw-n20); }
+/*
+*/
+.pr-0 { padding-right: var(--tw-0); }
+.pr-1 { padding-right: var(--tw-1); }
+.pr-2 { padding-right: var(--tw-2); }
+.pr-4 { padding-right: var(--tw-4); }
+.pr-6 { padding-right: var(--tw-6); }
+.pr-10 { padding-right: var(--tw-10); }
+.pr-20 { padding-right: var(--tw-20); }
+/**/
+.-pr-0 { padding-right: var(--tw-n0); }
+.-pr-1 { padding-right: var(--tw-n1); }
+.-pr-2 { padding-right: var(--tw-n2); }
+.-pr-4 { padding-right: var(--tw-n4); }
+.-pr-6 { padding-right: var(--tw-n6); }
+.-pr-10 { padding-right: var(--tw-n10); }
+.-pr-20 { padding-right: var(--tw-n20); }
+/*
+*/
+.pb-0 { padding-bottom: var(--tw-0); }
+.pb-1 { padding-bottom: var(--tw-1); }
+.pb-2 { padding-bottom: var(--tw-2); }
+.pb-4 { padding-bottom: var(--tw-4); }
+.pb-6 { padding-bottom: var(--tw-6); }
+.pb-10 { padding-bottom: var(--tw-10); }
+.pb-20 { padding-bottom: var(--tw-20); }
+/**/
+.-pb-0 { padding-bottom: var(--tw-n0); }
+.-pb-1 { padding-bottom: var(--tw-n1); }
+.-pb-2 { padding-bottom: var(--tw-n2); }
+.-pb-4 { padding-bottom: var(--tw-n4); }
+.-pb-6 { padding-bottom: var(--tw-n6); }
+.-pb-10 { padding-bottom: var(--tw-n10); }
+.-pb-20 { padding-bottom: var(--tw-n20); }
+/*
+*/
+.pl-0 { padding-left: var(--tw-0); }
+.pl-1 { padding-left: var(--tw-1); }
+.pl-2 { padding-left: var(--tw-2); }
+.pl-4 { padding-left: var(--tw-4); }
+.pl-6 { padding-left: var(--tw-6); }
+.pl-10 { padding-left: var(--tw-10); }
+.pl-20 { padding-left: var(--tw-20); }
+/**/
+.-pl-0 { padding-left: var(--tw-n0); }
+.-pl-1 { padding-left: var(--tw-n1); }
+.-pl-2 { padding-left: var(--tw-n2); }
+.-pl-4 { padding-left: var(--tw-n4); }
+.-pl-6 { padding-left: var(--tw-n6); }
+.-pl-10 { padding-left: var(--tw-n10); }
+.-pl-20 { padding-left: var(--tw-n20); }
+
+    /* Padding - Manual: X - Horizontal */
+.px-0 { padding-left: var(--tw-0); padding-right: var(--tw-0); }
+.px-1 { padding-left: var(--tw-1); padding-right: var(--tw-1); }
+.px-2 { padding-left: var(--tw-2); padding-right: var(--tw-2); }
+.px-4 { padding-left: var(--tw-4); padding-right: var(--tw-4); }
+.px-6 { padding-left: var(--tw-6); padding-right: var(--tw-6); }
+.px-10 { padding-left: var(--tw-10); padding-right: var(--tw-10); }
+.px-20 { padding-left: var(--tw-20); padding-right: var(--tw-20); }
+
+    /* Padding - Manual: Y - Vertical */
+.py-0 { padding-top: var(--tw-0); padding-bottom: var(--tw-0); }
+.py-1 { padding-top: var(--tw-1); padding-bottom: var(--tw-1); }
+.py-2 { padding-top: var(--tw-2); padding-bottom: var(--tw-2); }
+.py-4 { padding-top: var(--tw-4); padding-bottom: var(--tw-4); }
+.py-6 { padding-top: var(--tw-6); padding-bottom: var(--tw-6); }
+.py-10 { padding-top: var(--tw-10); padding-bottom: var(--tw-10); }
+.py-20 { padding-top: var(--tw-20); padding-bottom: var(--tw-20); }
+
+    /* Classing: Auto-Padding */
+.p-auto {
+  padding-left: auto; padding-right: auto;
+  padding-top: auto; padding-bottom: auto;
+}
+.px-auto { padding-left: auto; padding-right: auto; }
+.py-auto { padding-top: auto; padding-bottom: auto; }
+
+/*
+*/

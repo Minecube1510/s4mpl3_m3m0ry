@@ -19,7 +19,7 @@ alt="BTC.GFB - Kafuu Chino" width="100">
 
   <!-- ![BTC.GFB - Kafuu Chino][Chino_GFB_1] -->
   <img draggable="false" style="pointer-events: none;"
-  src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+  src="B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino">
 </div><p align="center">
 

@@ -1,0 +1,56 @@
+/* index-src/style.css */
+
+/* Root */
+:root {
+    /* Tailwind Var */
+    --tw-container: 1rem;
+
+    /* Tailwind Class */
+}
+
+
+/* Classing MDC */
+#check-md h1:first-of-type {
+    margin-top: 1rem;  /* mt-4 */
+}
+/**/
+.mdc-content {
+        /* Container */
+    padding-left: var(--tw-container);
+    padding-right: var(--tw-container);
+    /*
+    */
+        /* Max-Width: 2xl */
+    max-width: 42rem;
+    /*
+    */
+        /* Margins */
+    margin-left: auto;  /* mx-auto */
+    margin-right: auto;  /* mx-auto */
+    margin-top: 1.5rem;  /* my-6 */
+    margin-bottom: 1.5rem;  /* my-6 */
+        /* Paddings */
+    padding-left: 1rem;  /* px-4 */
+    padding-right: 1rem;  /* px-4 */
+    /*
+    */
+        /* Borders */
+    border-width: 2px;  /* border-2 */
+    border-style: solid;  /* border-solid */
+    border-radius: 0.75rem;  /* rounded-xl */
+        /* ? */
+        /* ? */
+}
+@media (min-width: 64rem) {
+    .mdc-content {
+            /* Max-Width: 6xl */
+        max-width: 72rem;
+            /* Borders */
+        border-radius: 1.5rem;  /* rounded-3xl */
+            /* ? */
+    }
+}
+
+
+/*
+*/

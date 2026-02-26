@@ -47,7 +47,13 @@
 # XX/XX/2025 ("XX ? 2026")
 # XX:XX ("Waktu masih menanti...")
 |
-{"Memperbaiki struktur sistem project"}
+{"[Dev] Fixing MD Structures - 5.5.1"}
+
+("Dikerjakan" : "0.0")
+# XX/XX/2025 ("XX ? 2026")
+# XX:XX ("Waktu masih menanti...")
+|
+{"[Dev] Build MD Checker Web"}
 ```
 
 - **Later**
