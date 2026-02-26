@@ -18,78 +18,36 @@ title="JUDULAN HOLD - CATEGORY">
 </td>
 
 </tr><tr><th>
-<!--
-  Gambar ada pada:
-  B/Main-Assets/BTC-Sign
-  |
-  Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
-  |
-  |
-  TEMP:
+
   <a href="/A/Main-Samples/ADD"
   style=""><img img draggable="false" width="100"
   src="/B/Main-Assets/BTC-Sign/?.png"
   title="Click for more information."
-  alt="BTC.GFB - Kafuu Chino"></a>
--->
-
-  <b> GAMBAR <br>
-  UNTUK <br>
-  BUNCH </b>
+  alt="BTC-ALT"></a>
 
 </th><th>
-<!--
-  Gambar ada pada:
-  B/Main-Assets/BTC-Sign
-  |
-  Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
-  |
-  |
-  TEMP:
+
   <a href="/A/Main-Samples/ADD"
   style=""><img img draggable="false" width="100"
   src="/B/Main-Assets/BTC-Sign/?.png"
   title="Click for more information."
-  alt="BTC.GFB - Kafuu Chino"></a>
--->
-
-  <b> GAMBAR <br>
-  UNTUK <br>
-  TYPE </b>
+  alt="BTC-ALT"></a>
 
 </th><th>
-<!--
-  Gambar ada pada:
-  B/Main-Assets/BTC-Sign
-  |
-  Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
-  |
-  |
-  TEMP:
+
   <a href="/A/Main-Samples/ADD"
   style=""><img img draggable="false" width="100"
   src="/B/Main-Assets/BTC-Sign/?.png"
   title="Click for more information."
-  alt="BTC.GFB - Kafuu Chino"></a>
--->
-  
-  <b> GAMBAR <br>
-  UNTUK <br>
-  CATEGORY </b>
+  alt="BTC-ALT"></a>
 
 </th></tr></table></div>
 
 ---
-<!-- Intinya, penjelasan naro gambar lah -->
+
 # Ilustrasi Default
 
 <div align="center">
-<!--
-  Gambar ada pada:
-  B/Main-Assets/B1.002-Sampel_Illust/B1.002'A-Basic_5616
-  |
-  Cari File yang ngepas di turnamen-nya, lalu ambil gambarnya.
--->
   <img draggable="false" width="200"
   alt="Ini hanya tempatan gambar"
 src="/B/Main-Assets/Sample-Illust/.png">
@@ -97,21 +55,12 @@ src="/B/Main-Assets/Sample-Illust/.png">
 GAMBAR ILUSTRASI SAMPEL
 </b><br>
 
-<!--
-  ATURAN WAJIB!
-  |
-  KALO GAK ADA GAMBAR SECARA OFFICIAL-NYA, MAKA GAMBAR SERUPA TAPI GAK ORIGINAL:
-  [=] WAJIB UNTUK MENAMBAHKAN DARIMANA WEB-NYA!
-  [=] BESERTA SIAPA PEMBUAT-NYA!
-  |
-  [Web]: "Publisher/Creator"
--->
 [<a href=""><b>Webnya darimana dapetnya?</b></a>]:
 "<a href=""><i>Sang Publisher atau Creator</i></a>"
 </div>
 
 ---
-<!-- Ini adalah section informasi data sampel -->
+
 # Informasi Data
 
 - **ID:** ***XXXX***  
@@ -123,13 +72,13 @@ GAMBAR ILUSTRASI SAMPEL
 - **List:** [ ***?*** ]
 
 ---
-<!-- Ini adalah penjelasan explanatif tentang Sampel -->
+
 # Penjelasan Umum
 
 **MENULISLAH!**
 
 ---
-<!-- Taro semua referensi-nya darimana aja, di sini -->
+
 ## Reff-Notes
 
 - [Referensi 1](github.com)
