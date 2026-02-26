@@ -2,8 +2,9 @@ Disinilah tempat menyimpan sementara para sampel-sampel itu...
 
 ---
 
-Add...
--
+Adding...
+
+---
 
 0000. Autobot Bumblebee
 0000. Autobot Ironhide
