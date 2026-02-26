@@ -1,10 +1,10 @@
 # Indikator Simbolik
 
 <div align="center"><table>
-<tr><td align="center">
+<tr><td align="center"
+title="Gaster, sang Ketua Admin">
 
-  [$${\textcolor{#00BEFF}{Gaster}}$$][11_GF]
-
+  $${\textcolor{#00BEFF}{Gaster}}$$
 </td><td align="center">
 
   $${\textcolor{#00BEFF}{Fossil}}$$
