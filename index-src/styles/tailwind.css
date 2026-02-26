@@ -98,6 +98,11 @@
 .no-underline { text-decoration-line: none; }
 
     /* Classing: ? */
+.cursor-auto { cursor: auto; }
+.cursor-default { cursor: default; }
+.cursor-pointer { cursor: pointer; }
+
+    /* Classing: ? */
 /* ? */
 
 

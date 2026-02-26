@@ -7,24 +7,13 @@
 /* Imports */
 import * as jsFunc
     from "./scripts/func.js";
-<<<<<<< HEAD
-<<<<<<< HEAD
 import * as jsVar
     from "./scripts/var.js";
 //
-=======
->>>>>>> 20a5aaf ([Dev] Build MD Checker Web - 1)
-=======
-import * as jsVar
-    from "./scripts/var.js";
-//
->>>>>>> 4d7d0a4 ([Dev] Build MD Checker Web - 2.1)
 import * as get_MD
     from "./scripts/get-md.js";
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 /* Setup */
     // Isi Konten MD //
 const content_MD = ((jsFunc).js_GetId("check-md"));
@@ -111,13 +100,10 @@ function exc_Check_MD () {
         if (((e).key) === ("Enter")) {
             check_File_MD();
         }
-=======
 /* Get MD */
 //.
 
 
-=======
->>>>>>> 4d7d0a4 ([Dev] Build MD Checker Web - 2.1)
 /* Setup */
     // Isi Konten MD //
 const content_MD = ((jsFunc).js_GetId("check-md"));
@@ -137,6 +123,12 @@ function check_File_MD () {
         //console.log("Nor the MarkDown file...");
         return;
     }
+    //
+    const warn_formatting = (`Should not used formatted.`);
+    const formatted_MD = (
+        ((file_md).includes(jsVar.js_Spot)) &&
+        (((file_md).split(jsVar.js_Spot).pop().length) > (0))
+    )
     //
     const getFile = ((get_MD).thisGet_MD(file_md));
     if (
@@ -164,27 +156,29 @@ function check_File_MD () {
         ], (`${file_md}.md`)));
         //
         (content_MD).innerHTML = ((marked).parse(md));
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 20a5aaf ([Dev] Build MD Checker Web - 1)
-=======
-=======
         if ((window).MathJax) {
-            MathJax.typesetPromise()
-            .catch(err => console.error(err));
+            MathJax.typesetPromise().catch(
+                err => console.error(err)
+            );
         }
->>>>>>> cd7f844 ([Dev] Build MD Checker Web - 2.2)
     })
     .catch(err => {
         //console.error(err);
         //
-        (mdc_Ceklink).style.color = ("var(--tw-red-600)");  /* text-red-600 */
-        (mdc_Ceklink).innerHTML = (err_2);
+        /* text-red-600 */
+        (mdc_Ceklink).style.color = ("var(--tw-red-600)");
+        //
+        const msg_Forming = ((formatted_MD)
+            ? (`${warn_formatting}`)
+            : (`${err_2}`));
+        (mdc_Ceklink).innerHTML = (msg_Forming);
         //
         (content_MD).innerHTML = (jsFunc)
-        .draw_Html(("p"), [
-            (`class::mdc-err`),
-        ], (`${err.message}`));
+            .draw_Html(("p"), [
+                (`class::mdc-err`),
+            ], ((formatted_MD)
+            ? (`${warn_formatting}`)
+            : (`${err.message}`)));
     });
 }
 
@@ -196,7 +190,6 @@ function exc_Check_MD () {
         if (((e).key) === ("Enter")) {
             check_File_MD();
         }
->>>>>>> 4d7d0a4 ([Dev] Build MD Checker Web - 2.1)
     });
 }
 
@@ -204,15 +197,7 @@ function exc_Check_MD () {
 /* Uji Coba */
 //check_Address_MD ();
 //
-<<<<<<< HEAD
-<<<<<<< HEAD
 exc_Check_MD ();
-=======
-check_File_MD ();
->>>>>>> 20a5aaf ([Dev] Build MD Checker Web - 1)
-=======
-exc_Check_MD ();
->>>>>>> 4d7d0a4 ([Dev] Build MD Checker Web - 2.1)
 
 
 //-//
