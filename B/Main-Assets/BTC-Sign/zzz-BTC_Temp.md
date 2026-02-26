@@ -2,7 +2,9 @@
 
 Just use it!
 
-## $$\textcolor{#00BEFF}{Gaster - Fossil - Blaster}$$
+---
+
+## $${{\textcolor{#00BEFF}{Gaster - Fossil - Blaster}}}$$
   <!--
 ![BTC.GFB - Kafuu Chino][Chino_GFB_1]
 
@@ -18,14 +20,14 @@ alt="BTC.GFB - Kafuu Chino" width="100">
 <div align="center">
 
   <!-- ![BTC.GFB - Kafuu Chino][Chino_GFB_1] -->
-  <img draggable="false" style="pointer-events: none;"
+  <img draggable="false"
   src="B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino">
 </div><p align="center">
 
   $${\textcolor{#00BEFF}{Original - 350}}$$
 </p><p align="center">
-  <img draggable="false" style="pointer-events: none;"
+  <img draggable="false"
   src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100">
 </p><p align="center">

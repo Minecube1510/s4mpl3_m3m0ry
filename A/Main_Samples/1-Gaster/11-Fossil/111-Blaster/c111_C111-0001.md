@@ -1,18 +1,29 @@
 # Indikator Simbolik
-<div align="center"><table style="margin-left: auto; margin-right: auto;">
-  <tr><td><p align="center">
-    $${\textcolor{#00BEFF}{Gaster}}$$
-  </p></td><td><p align="center">
-    $${\textcolor{#00BEFF}{Fossil}}$$
-  </p></td><td><p align="center">
-    $${\textcolor{#00BEFF}{Blaster}}$$
-  </p></td></tr><tr><th><a href="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples/a1_B001-KR_Gaster/a001_By-KR_Gaster.md">
-    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
-  </a></th><th><a href="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples/a1_B001-KR_Gaster/b11_T011-Gaster_Fossil/b011-BTC_GF.md">
-    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
-  </a></th><th>
-    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
-  </th></tr></table></div>
+
+<div align="center"><table>
+<tr><td align="center">
+
+  $${\textcolor{#00BEFF}{Gaster}}$$
+</td><td align="center">
+
+  $${\textcolor{#00BEFF}{Fossil}}$$
+</td><td align="center">
+
+  $${\textcolor{#00BEFF}{Blaster}}$$
+</td>
+
+</tr><tr><th>
+  <a href="/A/Main_Samples/1-Gaster/1-Gaster.dc.md"
+  style=""><img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+  alt="BTC.GFB - Kafuu Chino" width="100"></a>
+</th><th>
+  <a href="A/Main_Samples/1-Gaster/11-Fossil/b011-BTC_GF.md"
+  style=""><img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+  alt="BTC.GFB - Kafuu Chino" width="100"></a>
+</th><th>
+  <img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+  alt="BTC.GFB - Kafuu Chino" width="100">
+</th></tr></table></div>
 
 ---
 
