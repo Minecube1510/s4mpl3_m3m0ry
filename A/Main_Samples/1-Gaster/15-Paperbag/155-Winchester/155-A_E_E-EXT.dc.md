@@ -1,18 +1,31 @@
 # Indikator Simbolik
-<div align="center"><table style="margin-left: auto; margin-right: auto;">
-  <tr><td><p align="center">
-    $${\textcolor{#00BEFF}{Gaster}}$$
-  </p></td><td><p align="center">
-    $${\textcolor{#B651FF}{Paperbag}}$$
-  </p></td><td><p align="center">
-    $${\textcolor{#B651FF}{Winchester}}$$
-  </p></td></tr><tr><th><a href="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples/a1_B001-KR_Gaster/a001_By-KR_Gaster.md">
-    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/a01_GFB.png", width="100">
-  </a></th><th><a href="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/b015-BTC_GPa.md">
-    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/e05_HuPaWi.png", width="100">
-  </a></th><th>
-    <img src="https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/B1-Main_Images_Storage/B1.001-BTC_Symbols/e05_HuPaWi.png", width="100">
-  </th></tr></table></div>
+
+<div align="center"><table>
+<tr><td align="center">
+
+  $${\textcolor{#00BEFF}{Gaster}}$$
+</td><td align="center">
+
+  $${\textcolor{#B651FF}{Paperbag}}$$
+</td><td align="center">
+
+  $${\textcolor{#B651FF}{Winchester}}$$
+</td>
+
+</tr><tr><th>
+  <a href="/A/Main_Samples/1-Gaster/1-Gaster-EXT.dc.md"
+  style=""><img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+  alt="BTC.GFB - Kafuu Chino" width="100"></a>
+</th><th>
+  <a href="/A/Main_Samples/1-Gaster/15-Paperbag/15-A_E-EXT.dc.md"
+  style=""><img draggable="false"
+  src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
+  alt="BTC.HuPaWi - Jinja Natsume" width="100"></a>
+</th><th>
+  <img draggable="false"
+  src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
+  alt="BTC.HuPaWi - Jinja Natsume" width="100">
+</th></tr></table></div>
 
 ---
 

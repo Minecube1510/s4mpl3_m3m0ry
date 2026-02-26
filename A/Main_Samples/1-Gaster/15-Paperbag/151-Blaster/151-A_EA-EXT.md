@@ -17,7 +17,7 @@
   style=""><img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100"></a>
 </th><th>
-  <a href="/A/Main_Samples/1-Gaster/15-Paperbag/15-A_E_-EXT.dc.md"
+  <a href="/A/Main_Samples/1-Gaster/15-Paperbag/15-A_E-EXT.dc.md"
   style=""><img draggable="false"
   src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
   alt="BTC.HuPaWi - Jinja Natsume" width="100"></a>
