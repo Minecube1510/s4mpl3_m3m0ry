@@ -9,10 +9,12 @@
   $${\textcolor{#00BEFF}{Fossil}}$$
 </td></tr><tr><th>
   <a href="/A/Main_Samples/1-Gaster/1-Gaster.dc.md"
-  style=""><img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+  style=""><img draggable="false"
+  src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100"></a>
 </th><th>
-  <img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+  <img draggable="false"
+  src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100">
 </th></tr></table></div>
 
