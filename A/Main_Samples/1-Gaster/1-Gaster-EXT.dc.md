@@ -68,7 +68,7 @@ Menunggu: xxx
 
 ## $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ $${\textbf{\textcolor{#00BEFF}{Soon}}}$$ - (GFB.000)
 
-> [**Gaster** - *Fossil*](/A/Main_Samples/1-Gaster/1-Fossil)
+> [**Gaster** - *Fossil*](/A/Main_Samples/1-Gaster/11-Fossil)
 
 ### $${\textbf{\textcolor{#00BEFF}{Fossil}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
@@ -92,7 +92,7 @@ X. [AddPlease](CS)
 
 ## $${\textbf{\textcolor{#00BEFF}{Cyber}}}$$ $${\textbf{\textcolor{#B651FF}{Robot}}}$$ - (GPaB.001)
 
-> [**Gaster** - *Paperbag*](/A/Main_Samples/1-Gaster/1-Fossil/1-Blaster)
+> [**Gaster** - *Paperbag*](/A/Main_Samples/1-Gaster/11-Fossil/111-Blaster)
 
 ### $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
