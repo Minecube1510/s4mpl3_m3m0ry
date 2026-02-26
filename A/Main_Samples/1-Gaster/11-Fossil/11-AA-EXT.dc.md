@@ -3,7 +3,7 @@
 <div align="center"><table>
 <tr><td align="center">
 
-  [$${\textcolor{#00BEFF}{Gaster}}$$](11_GF)
+  [$${\textcolor{#00BEFF}{Gaster}}$$][11_GF]
 
 </td><td align="center">
 
