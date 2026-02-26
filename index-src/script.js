@@ -34,6 +34,12 @@ function check_File_MD () {
         return;
     }
     //
+    const warn_formatting = (`Should not used formatted.`);
+    const formatted_MD = (
+        ((file_md).includes(jsVar.js_Spot)) &&
+        (((file_md).split(jsVar.js_Spot).pop().length) > (0))
+    )
+    //
     const getFile = ((get_MD).thisGet_MD(file_md));
     if (
         (!(getFile)) ||
@@ -61,20 +67,28 @@ function check_File_MD () {
         //
         (content_MD).innerHTML = ((marked).parse(md));
         if ((window).MathJax) {
-            MathJax.typesetPromise()
-            .catch(err => console.error(err));
+            MathJax.typesetPromise().catch(
+                err => console.error(err)
+            );
         }
     })
     .catch(err => {
         //console.error(err);
         //
-        (mdc_Ceklink).style.color = ("var(--tw-red-600)");  /* text-red-600 */
-        (mdc_Ceklink).innerHTML = (err_2);
+        /* text-red-600 */
+        (mdc_Ceklink).style.color = ("var(--tw-red-600)");
+        //
+        const msg_Forming = ((formatted_MD)
+            ? (`${warn_formatting}`)
+            : (`${err_2}`));
+        (mdc_Ceklink).innerHTML = (msg_Forming);
         //
         (content_MD).innerHTML = (jsFunc)
-        .draw_Html(("p"), [
-            (`class::mdc-err`),
-        ], (`${err.message}`));
+            .draw_Html(("p"), [
+                (`class::mdc-err`),
+            ], ((formatted_MD)
+            ? (`${warn_formatting}`)
+            : (`${err.message}`)));
     });
 }
 
