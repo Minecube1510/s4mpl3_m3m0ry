@@ -60,6 +60,10 @@ function check_File_MD () {
         ], (`${file_md}.md`)));
         //
         (content_MD).innerHTML = ((marked).parse(md));
+        if ((window).MathJax) {
+            MathJax.typesetPromise()
+            .catch(err => console.error(err));
+        }
     })
     .catch(err => {
         //console.error(err);

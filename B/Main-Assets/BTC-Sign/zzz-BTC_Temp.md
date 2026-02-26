@@ -2,7 +2,7 @@
 
 Just use it!
 
-## $${{\textcolor{#00BEFF}{Gaster - Fossil - Blaster}}}$$
+## $$\textcolor{#00BEFF}{Gaster - Fossil - Blaster}$$
   <!--
 ![BTC.GFB - Kafuu Chino][Chino_GFB_1]
 
