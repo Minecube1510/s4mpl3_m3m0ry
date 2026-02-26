@@ -6,6 +6,10 @@
 }
 
 
+/* Imports */
+
+
+
 /* Classings */
     /* Classing: Select */
 .select-none { user-select: none; }
@@ -68,6 +72,20 @@
 .max-w-5xl { max-width: 64rem; }
 .max-w-6xl { max-width: 72rem; }
 .max-w-7xl { max-width: 80rem; }
+
+    /* Classing: Text Align */
+.text-left { text-align: left; }
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+.text-justify  { text-align: justify; }
+.text-start {text-align: start;}
+.text-end { text-align: end; }
+
+    /* Classing: ? */
+.x {
+    /*  */
+}
+
 
 /* ! Classing ! */
 /**

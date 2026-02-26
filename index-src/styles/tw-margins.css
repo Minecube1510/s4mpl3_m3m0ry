@@ -2,30 +2,28 @@
 
 /* Root */
 :root {
-    /* Positive */
-    --tw-0: 1rem;
-    --tw-1: 0.25rem;
-    --tw-2: 0.5rem;
-    --tw-4: 1rem;
-    --tw-6: 1.5rem;
-    --tw-10: 2.5rem;
-    --tw-20: 5rem;
-
-    /* Negative */
-    --tw-n0: -1rem;
-    --tw-n1: -0.25rem;
-    --tw-n2: -0.5rem;
-    --tw-n4: -1rem;
-    --tw-n6: -1.5rem;
-    --tw-n10: -2.5rem;
-    --tw-n20: -5rem;
+    --x-1: 1px;
 }
+
+
+/* Imports */
+@import url("tw-vars.css");
 
 
 /*
     Classings
 *//*
 */
+    /* Formula */
+[class^="mx-"] {
+    margin-left: var(--tw-value);
+    margin-right: var(--tw-value);
+}
+[class^="my-"] {
+    margin-top: var(--tw-value);
+    margin-bottom: var(--tw-value);
+}
+
     /* Margin - Manual: All */
 .m-0 { margin: var(--tw-0); }
 .m-1 { margin: var(--tw-1); }
@@ -104,22 +102,23 @@
 .-ml-20 { margin-left: var(--tw-n20); }
 
     /* Margin - Manual: X - Horizontal */
-.mx-0 { margin-left: var(--tw-0); margin-right: var(--tw-0); }
-.mx-1 { margin-left: var(--tw-1); margin-right: var(--tw-1); }
-.mx-2 { margin-left: var(--tw-2); margin-right: var(--tw-2); }
-.mx-4 { margin-left: var(--tw-4); margin-right: var(--tw-4); }
-.mx-6 { margin-left: var(--tw-6); margin-right: var(--tw-6); }
-.mx-10 { margin-left: var(--tw-10); margin-right: var(--tw-10); }
-.mx-20 { margin-left: var(--tw-20); margin-right: var(--tw-20); }
+.mx-0 { --tw-value: var(--tw-0); }
+.mx-1 { --tw-value: var(--tw-1); }
+.mx-2 { --tw-value: var(--tw-2); }
+.mx-4 { --tw-value: var(--tw-4); }
+.mx-6 { --tw-value: var(--tw-6); }
+.mx-10 { --tw-value: var(--tw-10); }
+.mx-20 { --tw-value: var(--tw-20); }
 
     /* Margin - Manual: Y - Vertical */
-.my-0 { margin-top: var(--tw-0); margin-bottom: var(--tw-0); }
-.my-1 { margin-top: var(--tw-1); margin-bottom: var(--tw-1); }
-.my-2 { margin-top: var(--tw-2); margin-bottom: var(--tw-2); }
-.my-4 { margin-top: var(--tw-4); margin-bottom: var(--tw-4); }
-.my-6 { margin-top: var(--tw-6); margin-bottom: var(--tw-6); }
-.my-10 { margin-top: var(--tw-10); margin-bottom: var(--tw-10); }
-.my-20 { margin-top: var(--tw-20); margin-bottom: var(--tw-20); }
+.my-0 { --tw-value: var(--tw-0); }
+.my-1 { --tw-value: var(--tw-1); }
+.my-2 { --tw-value: var(--tw-2); }
+.my-4 { --tw-value: var(--tw-4); }
+.my-6 { --tw-value: var(--tw-6); }
+.my-10 { --tw-value: var(--tw-10); }
+.my-20 { --tw-value: var(--tw-20); }
+
 
     /* Classing: Auto-Margin */
 .m-auto {
@@ -128,6 +127,7 @@
 }
 .mx-auto { margin-left: auto; margin-right: auto; }
 .my-auto { margin-top: auto; margin-bottom: auto; }
+
 
 /*
 */

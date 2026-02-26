@@ -2,30 +2,28 @@
 
 /* Root */
 :root {
-    /* Positive */
-    --tw-0: 1rem;
-    --tw-1: 0.25rem;
-    --tw-2: 0.5rem;
-    --tw-4: 1rem;
-    --tw-6: 1.5rem;
-    --tw-10: 2.5rem;
-    --tw-20: 5rem;
-
-    /* Negative */
-    --tw-n0: -1rem;
-    --tw-n1: -0.25rem;
-    --tw-n2: -0.5rem;
-    --tw-n4: -1rem;
-    --tw-n6: -1.5rem;
-    --tw-n10: -2.5rem;
-    --tw-n20: -5rem;
+    --x-1: 1px;
 }
+
+
+/* Imports */
+@import url("tw-vars.css");
 
 
 /*
     Classings
 *//*
 */
+    /* Formula */
+[class^="px-"] {
+    padding-left: var(--tw-value);
+    padding-right: var(--tw-value);
+}
+[class^="py-"] {
+    padding-top: var(--tw-value);
+    padding-bottom: var(--tw-value);
+}
+
     /* Padding - Manual: All */
 .p-0 { padding: var(--tw-0); }
 .p-1 { padding: var(--tw-1); }
@@ -104,22 +102,23 @@
 .-pl-20 { padding-left: var(--tw-n20); }
 
     /* Padding - Manual: X - Horizontal */
-.px-0 { padding-left: var(--tw-0); padding-right: var(--tw-0); }
-.px-1 { padding-left: var(--tw-1); padding-right: var(--tw-1); }
-.px-2 { padding-left: var(--tw-2); padding-right: var(--tw-2); }
-.px-4 { padding-left: var(--tw-4); padding-right: var(--tw-4); }
-.px-6 { padding-left: var(--tw-6); padding-right: var(--tw-6); }
-.px-10 { padding-left: var(--tw-10); padding-right: var(--tw-10); }
-.px-20 { padding-left: var(--tw-20); padding-right: var(--tw-20); }
+.px-0 { --tw-value: var(--tw-0); }
+.px-1 { --tw-value: var(--tw-1); }
+.px-2 { --tw-value: var(--tw-2); }
+.px-4 { --tw-value: var(--tw-4); }
+.px-6 { --tw-value: var(--tw-6); }
+.px-10 { --tw-value: var(--tw-10); }
+.px-20 { --tw-value: var(--tw-20); }
 
     /* Padding - Manual: Y - Vertical */
-.py-0 { padding-top: var(--tw-0); padding-bottom: var(--tw-0); }
-.py-1 { padding-top: var(--tw-1); padding-bottom: var(--tw-1); }
-.py-2 { padding-top: var(--tw-2); padding-bottom: var(--tw-2); }
-.py-4 { padding-top: var(--tw-4); padding-bottom: var(--tw-4); }
-.py-6 { padding-top: var(--tw-6); padding-bottom: var(--tw-6); }
-.py-10 { padding-top: var(--tw-10); padding-bottom: var(--tw-10); }
-.py-20 { padding-top: var(--tw-20); padding-bottom: var(--tw-20); }
+.py-0 { --tw-value: var(--tw-0); }
+.py-1 { --tw-value: var(--tw-1); }
+.py-2 { --tw-value: var(--tw-2); }
+.py-4 { --tw-value: var(--tw-4); }
+.py-6 { --tw-value: var(--tw-6); }
+.py-10 { --tw-value: var(--tw-10); }
+.py-20 { --tw-value: var(--tw-20); }
+
 
     /* Classing: Auto-Padding */
 .p-auto {
@@ -128,6 +127,7 @@
 }
 .px-auto { padding-left: auto; padding-right: auto; }
 .py-auto { padding-top: auto; padding-bottom: auto; }
+
 
 /*
 */

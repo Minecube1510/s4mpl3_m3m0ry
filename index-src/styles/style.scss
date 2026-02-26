@@ -1,0 +1,10 @@
+//  //
+
+
+$spacings: 0, 1, 2, 4, 6, 10, 20;
+
+@each $space in $spacings {
+  .ml-#{$space} {
+    margin-left: var(--tw-#{$space});
+  }
+}

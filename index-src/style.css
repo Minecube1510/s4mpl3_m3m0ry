@@ -9,11 +9,38 @@
 }
 
 
-/* Classing MDC */
+/* Classing MDC - Basic */
 #check-md h1:first-of-type {
     margin-top: 1rem;  /* mt-4 */
 }
 /**/
+.mdc-inputter {
+        /* Container */
+    padding-left: var(--tw-container);
+    padding-right: var(--tw-container);
+    /*
+    */
+        /* Margins */
+    margin-left: 2.5rem;  /* mx-10 */
+    margin-right: 2.5rem;  /* mx-10 */
+    margin-top: 1.5rem;  /* my-6 */
+    margin-bottom: 1.5rem;  /* my-6 */
+        /* Paddings */
+    padding-left: 2.5rem;  /* px-10 */
+    padding-right: 2.5rem;  /* px-10 */
+    padding-top: 1.5rem;  /* py-6 */
+    padding-bottom: 1.5rem;  /* py-6 */
+    /*
+    */
+        /* Borders */
+    border-width: 2px;  /* border-2 */
+    border-style: solid;  /* border-solid */
+    border-radius: 0.75rem;  /* rounded-xl */
+    /*
+    */
+        /* ? */
+        /* ? */
+}
 .mdc-content {
         /* Container */
     padding-left: var(--tw-container);
@@ -39,9 +66,23 @@
     border-style: solid;  /* border-solid */
     border-radius: 0.75rem;  /* rounded-xl */
         /* ? */
-        /* ? */
 }
+
+
+/* Classing MDC - Media */
 @media (min-width: 64rem) {
+    .mdc-inputter {
+            /* Borders */
+        border-radius: 1.5rem;  /* rounded-3xl */
+        /*
+        */
+            /* Margins */
+        margin-left: 5rem;  /* mx-20 */
+        margin-right: 5rem;  /* mx-20 */
+        /*
+        */
+        /* ? */
+    }
     .mdc-content {
             /* Max-Width: 6xl */
         max-width: 72rem;

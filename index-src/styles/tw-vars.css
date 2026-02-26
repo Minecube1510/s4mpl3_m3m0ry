@@ -1,0 +1,46 @@
+/* index-src/styles/tw-vars.css */
+
+/* Root */
+:root {
+    /* Positive */
+    --tw-0: 1rem;
+    --tw-1: 0.25rem;
+    --tw-2: 0.5rem;
+    --tw-3: 0.75rem;
+    --tw-4: 1rem;
+    --tw-5: 1.25rem;
+    --tw-6: 1.5rem;
+    --tw-7: 1.75rem;
+    --tw-8: 2rem;
+    --tw-9: 2.25rem;
+    --tw-10: 2.5rem;
+    --tw-11: 2.75rem;
+    --tw-12: 3rem;
+    --tw-14: 3.5rem;
+    --tw-16: 4rem;
+    --tw-18: 4.5rem;
+    --tw-20: 5rem;
+
+    /* Negative */
+    --tw-n0: -1rem;
+    --tw-n1: -0.25rem;
+    --tw-n2: -0.5rem;
+    --tw-n3: -0.75rem;
+    --tw-n4: -1rem;
+    --tw-n5: -1.25rem;
+    --tw-n6: -1.5rem;
+    --tw-n7: -1.75rem;
+    --tw-n8: -2rem;
+    --tw-n9: -2.25rem;
+    --tw-n10: -2.5rem;
+    --tw-n11: -2.75rem;
+    --tw-n12: -3rem;
+    --tw-n14: -3.5rem;
+    --tw-n16: -4rem;
+    --tw-n18: -4.5rem;
+    --tw-n20: -5rem;
+}
+
+
+/*
+*/
