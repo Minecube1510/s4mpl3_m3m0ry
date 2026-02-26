@@ -2,12 +2,14 @@
 
 <div align="center"><table>
 <tr><td align="center">
+title="AT-SECTION-BUNCH"
 
   $${\textcolor{#FF1B39}{Accesive}}$$
 </td></tr><tr><th>
-  <img draggable="false"
+  <img draggable="false" width="100"
   src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
-  alt="BTC.AVD - Natsu Megumi" width="100">
+  title="SECTION_LOGO_BUNCH-NO_LINK"
+  alt="BTC.AVD - Natsu Megumi">
 </th></tr></table></div>
 
 ---

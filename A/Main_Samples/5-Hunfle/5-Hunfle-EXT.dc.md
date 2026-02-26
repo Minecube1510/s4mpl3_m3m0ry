@@ -1,13 +1,15 @@
 # Indikator Simbolik
 
 <div align="center"><table>
-<tr><td align="center">
+<tr><td align="center"
+title="AT-SECTION-BUNCH">
 
   $${\textcolor{#B651FF}{Hunfle}}$$
 </td></tr><tr><th>
-  <img draggable="false"
+  <img draggable="false" width="100"
   src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
-  alt="BTC.HuPaWi - Jinja Natsume" width="100">
+  title="SECTION_LOGO_BUNCH-NO_LINK"
+  alt="BTC.HuPaWi - Jinja Natsume" >
 </th></tr></table></div>
 
 ---

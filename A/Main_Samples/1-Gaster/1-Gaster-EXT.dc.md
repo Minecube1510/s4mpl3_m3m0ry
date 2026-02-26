@@ -1,13 +1,15 @@
 # Indikator Simbolik
 
 <div align="center"><table>
-<tr><td align="center">
+<tr><td align="center"
+title="AT-SECTION-BUNCH">
 
   $${\textcolor{#00BEFF}{Gaster}}$$
 </td></tr><tr><th>
-  <img draggable="false"
+  <img draggable="false" width="100"
   src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
-  alt="BTC.GFB - Kafuu Chino" width="100">
+  title="SECTION_LOGO_BUNCH-NO_LINK"
+  alt="BTC.GFB - Kafuu Chino">
 </th></tr></table></div>
 
 ---

@@ -1,13 +1,15 @@
 # Indikator Simbolik
 
 <div align="center"><table>
-<tr><td align="center">
+<tr><td align="center"
+title="AT-SECTION-BUNCH">
 
   $${\textcolor{#FF78D3}{Mistress}}$$
 </td></tr><tr><th>
-  <img draggable="false"
+  <img draggable="false" width="100"
   src="/B/Main-Assets/BTC-Sign/d04_MiRaKa.png"
-  alt="BTC.MiRaKa - Jinja Eru" width="100">
+  title="SECTION_LOGO_BUNCH-NO_LINK"
+  alt="BTC.MiRaKa - Jinja Eru" >
 </th></tr></table></div>
 
 ---
