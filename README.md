@@ -1,8 +1,7 @@
 # Sampel Memori
 
 <h3 align="center"><span>
-  Pesan ini "<i>HANYA DIKHUSUSKAN</i>" kepada
-  <br>para beberapa "<i>USERMASTER</i>" yang terpilih saja
+  Pesan ini "<i>HANYA DIKHUSUSKAN</i>" kepada para beberapa "<i>USERMASTER</i>" yang terpilih saja
 </span></h3>
 
 ---
