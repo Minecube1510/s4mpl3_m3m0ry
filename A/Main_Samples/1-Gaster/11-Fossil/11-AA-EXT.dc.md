@@ -1,11 +1,11 @@
 # Indikator Simbolik
 
 <div align="center"><table>
-<tr><td align="center"><a
-src="/A/Main_Samples/1-Gaster/1-Gaster-EXT.dc.md">
+<tr><td align="center">
 
-  $${\textcolor{#00BEFF}{Gaster}}$$
-</a></td><td align="center">
+  [$${\textcolor{#00BEFF}{Gaster}}$$](11_GF)
+
+</td><td align="center">
 
   $${\textcolor{#00BEFF}{Fossil}}$$
 </td></tr><tr><th>
@@ -125,3 +125,9 @@ src="/A/Main_Samples/1-Gaster/1-Gaster-EXT.dc.md">
 - [***Collection***: **Gaster**-**Fossil** - *ELDRITCH*](CS)
 
 ---
+
+<!--
+  Reff Link
+-->
+
+[11_GF]: /A/Main_Samples/1-Gaster/1-Gaster-EXT.dc.md
