@@ -1,4 +1,6 @@
-# Indikator Simbolik
+# Bunch of "Spamor"
+
+## Indikator Simbolik
 
 <div align="center"><table>
 <tr><td align="center"
