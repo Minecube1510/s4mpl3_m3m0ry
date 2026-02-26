@@ -70,12 +70,12 @@ title="AT-SECTION-TYPE">
 
 > [***Collection***: **Gaster** - **Paperbag** - *Lance*](/A/Main_Samples/1-Gaster/15-Paperbag/152-Lance)
 
-651. [Menunggu](CS)
-652. [Menunggu](CS)
-653. [Menunggu](CS)
-654. [Menunggu](CS)
-655. [Menunggu](CS)
-656. [Menunggu](CS)
+651. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/152-Lance/)
+652. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/152-Lance/)
+653. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/152-Lance/)
+654. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/152-Lance/)
+655. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/152-Lance/)
+656. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/152-Lance/)
 
 > [***Collection***: **Gaster** - **Paperbag** - *Lance*](/A/Main_Samples/1-Gaster/15-Paperbag/152-Lance)
 
@@ -85,12 +85,12 @@ title="AT-SECTION-TYPE">
 
 > [***Collection***: **Gaster** - **Paperbag** - *Dril*](/A/Main_Samples/1-Gaster/15-Paperbag/153-Drill)
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/153-Drill/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/153-Drill/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/153-Drill/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/153-Drill/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/153-Drill/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/153-Drill/)
 
 > [***Collection***: **Gaster** - **Paperbag** - *Dril*](/A/Main_Samples/1-Gaster/15-Paperbag/153-Drill)
 
@@ -100,12 +100,12 @@ title="AT-SECTION-TYPE">
 
 > [***Collection***: **Gaster** - **Paperbag** - *Kama*](/A/Main_Samples/1-Gaster/15-Paperbag/154-Kama)
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/154-Kama/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/154-Kama/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/154-Kama/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/154-Kama/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/154-Kama/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/154-Kama/)
 
 > [***Collection***: **Gaster** - **Paperbag** - *Kama*](/A/Main_Samples/1-Gaster/15-Paperbag/154-Kama)
 
@@ -115,12 +115,12 @@ title="AT-SECTION-TYPE">
 
 > [***Collection***: **Gaster** - **Paperbag** - *Winchester*](/A/Main_Samples/1-Gaster/15-Paperbag/155-Winchester)
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/155-Winchester/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/155-Winchester/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/155-Winchester/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/155-Winchester/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/155-Winchester/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/155-Winchester/)
 
 > [***Collection***: **Gaster** - **Paperbag** - *Winchester*](/A/Main_Samples/1-Gaster/15-Paperbag/155-Winchester)
 
@@ -130,12 +130,12 @@ title="AT-SECTION-TYPE">
 
 > [***Collection***: **Gaster** - **Paperbag** - *ELDRITCH*](/A/Main_Samples/1-Gaster/15-Paperbag/f156-Eldritch)
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
 
 > [***Collection***: **Gaster** - **Paperbag** - *ELDRITCH*](/A/Main_Samples/1-Gaster/15-Paperbag/f156-Eldritch)
 

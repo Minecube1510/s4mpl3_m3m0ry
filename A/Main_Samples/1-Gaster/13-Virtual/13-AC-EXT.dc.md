@@ -33,97 +33,109 @@ title="AT-SECTION-TYPE">
 
 ## $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-1. [???](CS)
-2. [???](CS)
-3. [???](CS)
-4. [???](CS)
-5. [???](CS)
-6. [???](CS)
-7. [???](CS)
-8. [???](CS)
-9. [???](CS)
-10. [???](CS)
-11. [???](CS)
-12. [???](CS)
-13. [???](CS)
-14. [???](CS)
-15. [???](CS)
-16. [???](CS)
-17. [???](CS)
-18. [???](CS)
-19. [???](CS)
-20. [???](CS)
-21. [???](CS)
-22. [???](CS)
-23. [???](CS)
-24. [???](CS)
-25. [???](CS)
-26. [???](CS)
+- [***Collection***: **Gaster** - **Virtual** - *Blaster*](/A/Main_Samples/1-Gaster/13-Virtual/131-Blaster)
 
-- [***Collection***: **Gaster**-**Virtual** - *Blaster*](CS)
+1. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+2. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+3. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+4. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+5. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+6. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+7. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+8. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+9. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+10. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+11. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+12. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+13. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+14. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+15. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+16. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+17. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+18. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+19. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+20. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+21. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+22. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+23. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+24. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+25. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+26. [???](/A/Main_Samples/1-Gaster/13-Virtual/)
+
+- [***Collection***: **Gaster** - **Virtual** - *Blaster*](/A/Main_Samples/1-Gaster/13-Virtual/131-Blaster)
 
 ---
 
 ## $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
-651. [Menunggu](CS)
-652. [Menunggu](CS)
-653. [Menunggu](CS)
-654. [Menunggu](CS)
-655. [Menunggu](CS)
-656. [Menunggu](CS)
+- [***Collection***: **Gaster** - **Virtual** - *Lance*](/A/Main_Samples/1-Gaster/13-Virtual/132-Lance)
 
-- [***Collection***: **Gaster**-**Virtual** - *Lance*](CS)
+651. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+652. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+653. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+654. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+655. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+656. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+
+- [***Collection***: **Gaster** - **Virtual** - *Lance*](/A/Main_Samples/1-Gaster/13-Virtual/132-Lance)
 
 ---
 
 ## $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+- [***Collection***: **Gaster** - **Virtual** - *Dril*](/A/Main_Samples/1-Gaster/13-Virtual/133-Drill)
 
-- [***Collection***: **Gaster**-**Virtual** - *Dril*](CS)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+
+- [***Collection***: **Gaster** - **Virtual** - *Dril*](/A/Main_Samples/1-Gaster/13-Virtual/133-Drill)
 
 ---
 
 ## $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+- [***Collection***: **Gaster** - **Virtual** - *Kama*](/A/Main_Samples/1-Gaster/13-Virtual/134-Kama)
 
-- [***Collection***: **Gaster**-**Virtual** - *Kama*](CS)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+
+- [***Collection***: **Gaster** - **Virtual** - *Kama*](/A/Main_Samples/1-Gaster/13-Virtual/134-Kama)
 
 ---
 
 ## $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+- [***Collection***: **Gaster** - **Virtual** - *Winchester*](/A/Main_Samples/1-Gaster/13-Virtual/135-Winchester)
 
-- [***Collection***: **Gaster**-**Virtual** - *Winchester*](CS)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+
+- [***Collection***: **Gaster** - **Virtual** - *Winchester*](/A/Main_Samples/1-Gaster/13-Virtual/135-Winchester)
 
 ---
 
 ## $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+- [***Collection***: **Gaster** - **Virtual** - *ELDRITCH*](/A/Main_Samples/1-Gaster/13-Virtual/f136-Eldritch)
 
-- [***Collection***: **Gaster**-**Virtual** - *ELDRITCH*](CS)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/13-Virtual/)
+
+- [***Collection***: **Gaster** - **Virtual** - *ELDRITCH*](/A/Main_Samples/1-Gaster/13-Virtual/f136-Eldritch)
 
 ---

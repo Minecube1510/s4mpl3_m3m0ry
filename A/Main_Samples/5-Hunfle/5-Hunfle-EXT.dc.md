@@ -72,60 +72,60 @@ Menunggu: xxx
 
 ### $${\textbf{\textcolor{#B651FF}{CS}}}$$
 
-> [**Hunfle** - *Fossil*](CS)
+> [**Hunfle** - *Fossil*](/A/Main_Samples/5-Hunfle/)
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+000. [Menunggu](/A/Main_Samples/5-Hunfle/)
 
 ### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
 
 ### $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
 
 ### $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
 
 ### $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
 
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
 
 ### $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
-4000. [Menunggu](CS)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
+4000. [Menunggu](/A/Main_Samples/5-Hunfle/)
 
 ---

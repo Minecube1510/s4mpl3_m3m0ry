@@ -72,60 +72,60 @@ Menunggu: xxx
 
 ### $${\textbf{\textcolor{#FF78D3}{CS}}}$$
 
-> [**Mistress** - *Fossil*](CS)
+> [**Mistress** - *Fossil*](/A/Main_Samples/4-Mistress/)
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/4-Mistress/)
+000. [Menunggu](/A/Main_Samples/4-Mistress/)
+000. [Menunggu](/A/Main_Samples/4-Mistress/)
+000. [Menunggu](/A/Main_Samples/4-Mistress/)
+000. [Menunggu](/A/Main_Samples/4-Mistress/)
+000. [Menunggu](/A/Main_Samples/4-Mistress/)
 
 ### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
 
 ### $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
 
 ### $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
 
 ### $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
 
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
 
 ### $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
-3000. [Menunggu](CS)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
+3000. [Menunggu](/A/Main_Samples/4-Mistress/)
 
 ---

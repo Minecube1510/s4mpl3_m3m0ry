@@ -33,99 +33,101 @@ title="AT-SECTION-TYPE">
 
 ## $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-1. [???](CS)
-2. [???](CS)
-3. [???](CS)
-4. [???](CS)
-5. [???](CS)
-6. [???](CS)
-7. [???](CS)
-8. [???](CS)
-9. [???](CS)
-10. [???](CS)
-11. [???](CS)
-12. [???](CS)
-13. [???](CS)
-14. [???](CS)
-15. [???](CS)
-16. [???](CS)
-17. [???](CS)
-18. [???](CS)
-19. [???](CS)
-20. [???](CS)
-21. [???](CS)
-22. [???](CS)
-23. [???](CS)
-24. [???](CS)
-25. [???](CS)
-26. [???](CS)
+- [***Collection***: **Gaster** - **Fossil** - *Blaster*](/A/Main_Samples/1-Gaster/11-Fossil/111-Blaster)
 
-- [***Collection***: **Gaster**-**Fossil** - *Blaster*](CS)
+1. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+2. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+3. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+4. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+5. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+6. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+7. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+8. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+9. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+10. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+11. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+12. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+13. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+14. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+15. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+16. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+17. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+18. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+19. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+20. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+21. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+22. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+23. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+24. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+25. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+26. [???](/A/Main_Samples/1-Gaster/11-Fossil/)
+
+- [***Collection***: **Gaster** - **Fossil** - *Blaster*](/A/Main_Samples/1-Gaster/11-Fossil/111-Blaster)
 
 ---
 
 ## $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
-651. [Menunggu](CS)
-652. [Menunggu](CS)
-653. [Menunggu](CS)
-654. [Menunggu](CS)
-655. [Menunggu](CS)
-656. [Menunggu](CS)
+651. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+652. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+653. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+654. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+655. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+656. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
 
-- [***Collection***: **Gaster**-**Fossil** - *Lance*](CS)
+- [***Collection***: **Gaster** - **Fossil** - *Lance*](/A/Main_Samples/1-Gaster/11-Fossil/)
 
 ---
 
 ## $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
 
-- [***Collection***: **Gaster**-**Fossil** - *Dril*](CS)
+- [***Collection***: **Gaster** - **Fossil** - *Dril*](/A/Main_Samples/1-Gaster/11-Fossil/)
 
 ---
 
 ## $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
 
-- [***Collection***: **Gaster**-**Fossil** - *Kama*](CS)
+- [***Collection***: **Gaster** - **Fossil** - *Kama*](/A/Main_Samples/1-Gaster/11-Fossil/)
 
 ---
 
 ## $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
 
-- [***Collection***: **Gaster**-**Fossil** - *Winchester*](CS)
+- [***Collection***: **Gaster** - **Fossil** - *Winchester*](/A/Main_Samples/1-Gaster/11-Fossil/)
 
 ---
 
 ## $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/A/Main_Samples/1-Gaster/11-Fossil/)
 
-- [***Collection***: **Gaster**-**Fossil** - *ELDRITCH*](CS)
+- [***Collection***: **Gaster** - **Fossil** - *ELDRITCH*](/A/Main_Samples/1-Gaster/11-Fossil/)
 
 ---
 

@@ -72,60 +72,60 @@ Menunggu: xxx
 
 ### $${\textbf{\textcolor{#FF1B39}{CS}}}$$
 
-> [**Accesive** - *Fossil*](CS)
+> [**Accesive** - *Fossil*](/A/Main_Samples/3-Accesive/)
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/3-Accesive/)
+000. [Menunggu](/A/Main_Samples/3-Accesive/)
+000. [Menunggu](/A/Main_Samples/3-Accesive/)
+000. [Menunggu](/A/Main_Samples/3-Accesive/)
+000. [Menunggu](/A/Main_Samples/3-Accesive/)
+000. [Menunggu](/A/Main_Samples/3-Accesive/)
 
 ### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
 
 ### $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
 
 ### $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
 
 ### $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
 
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
 
 ### $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
-2000. [Menunggu](CS)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
+2000. [Menunggu](/A/Main_Samples/3-Accesive/)
 
 ---

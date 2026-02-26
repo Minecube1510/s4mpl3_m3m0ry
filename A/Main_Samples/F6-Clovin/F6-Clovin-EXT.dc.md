@@ -72,60 +72,60 @@ Menunggu: xxx
 
 ## $${\textbf{\textcolor{#6A96FF}{CS}}}$$
 
-> [**Clovin** - *Fossil*](CS)
+> [**Clovin** - *Fossil*](/A/Main_Samples/F6-Clovin/)
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+000. [Menunggu](/A/Main_Samples/F6-Clovin/)
 
 ### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
 
 ### $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
 
 ### $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
 
 ### $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
 
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
 
 ### $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
-5000. [Menunggu](CS)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
+5000. [Menunggu](/A/Main_Samples/F6-Clovin/)
 
 ---

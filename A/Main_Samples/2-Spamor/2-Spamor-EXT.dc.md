@@ -73,60 +73,60 @@ Menunggu: xxx
 
 ## $${\textbf{\textcolor{#FFC32B}{ComingSoon}}}$$
 
-> [**Spamor** - *Fossil*](CS)
+> [**Spamor** - *Fossil*](/A/Main_Samples/2-Spamor/)
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
-000. [Menunggu](CS)
+000. [Menunggu](/A/Main_Samples/2-Spamor/)
+000. [Menunggu](/A/Main_Samples/2-Spamor/)
+000. [Menunggu](/A/Main_Samples/2-Spamor/)
+000. [Menunggu](/A/Main_Samples/2-Spamor/)
+000. [Menunggu](/A/Main_Samples/2-Spamor/)
+000. [Menunggu](/A/Main_Samples/2-Spamor/)
 
 ### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
 
 ### $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
 
 ### $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
 
 ### $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
 
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
 
 ### $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
-1000. [Menunggu](CS)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
+1000. [Menunggu](/A/Main_Samples/2-Spamor/)
 
 ---
