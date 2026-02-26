@@ -22,7 +22,7 @@ title="AT-SECTION-CATEGORY">
   title="Click for more information."
   alt="BTC.GFB - Kafuu Chino"></a>
 </th><th>
-  <a href="/A/Main_Samples/1-Gaster/11-Fossil/b011-BTC_GF.md"
+  <a href="/A/Main_Samples/1-Gaster/11-Fossil/11-AA-EXT.dc.md"
   style=""><img draggable="false" width="100"
   src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   title="Click for more information."

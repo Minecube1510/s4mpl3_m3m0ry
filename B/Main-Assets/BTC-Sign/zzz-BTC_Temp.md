@@ -8,13 +8,15 @@ Just use it!
   <!--
 ![BTC.GFB - Kafuu Chino][Chino_GFB_1]
 
-<img draggable="false" style="pointer-events: none;"
+<img draggable="false"
 src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+title=""
 alt="BTC.GFB - Kafuu Chino">
 |
-<img draggable="false" style="pointer-events: none;"
+<img draggable="false"  width="100"
 src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
-alt="BTC.GFB - Kafuu Chino" width="100">
+title=""
+alt="BTC.GFB - Kafuu Chino">
   -->
 
 <div align="center">
@@ -43,11 +45,13 @@ alt="BTC.GFB - Kafuu Chino" width="100">
 
 <img draggable="false"
 src="/B/Main-Assets/BTC-Sign/b2b_SJL.png"
+title=""
 alt="BTC.SJL - Jouga Maya">
 |
-<img draggable="false"
+<img draggable="false" width="100"
 src="/B/Main-Assets/BTC-Sign/b2b_SJL.png"
-alt="BTC.SJL - Jouga Maya" width="100">
+title=""
+alt="BTC.SJL - Jouga Maya">
   -->
 
 <div align="center">
@@ -76,11 +80,13 @@ alt="BTC.SJL - Jouga Maya" width="100">
 
 <img draggable="false"
 src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
+title=""
 alt="BTC.AVD - Natsu Megumi">
 |
-<img draggable="false"
+<img draggable="false" width="100"
 src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
-alt="BTC.AVD - Natsu Megumi" width="100">
+title=""
+alt="BTC.AVD - Natsu Megumi">
   -->
 
 <div align="center">
@@ -109,11 +115,13 @@ alt="BTC.AVD - Natsu Megumi" width="100">
 
 <img draggable="false"
 src="/B/Main-Assets/BTC-Sign/d04_MiRaKa.png"
+title=""
 alt="BTC.MiRaKa - Jinja Eru">
 |
-<img draggable="false"
+<img draggable="false" width="100"
 src="/B/Main-Assets/BTC-Sign/d04_MiRaKa.png"
-alt="BTC.MiRaKa - Jinja Eru" width="100">
+title=""
+alt="BTC.MiRaKa - Jinja Eru">
   -->
 
 <div align="center">
@@ -142,11 +150,13 @@ alt="BTC.MiRaKa - Jinja Eru" width="100">
 
 <img draggable="false"
 src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
+title=""
 alt="BTC.HuPaWi - Jinja Natsume">
 |
-<img draggable="false"
+<img draggable="false" width="100"
 src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
-alt="BTC.HuPaWi - Jinja Natsume" width="100">
+title=""
+alt="BTC.HuPaWi - Jinja Natsume">
   -->
 
 <div align="center">
@@ -175,11 +185,13 @@ alt="BTC.HuPaWi - Jinja Natsume" width="100">
 
 <img draggable="false"
 src="/B/Main-Assets/BTC-Sign/ff6_CloTriEld.png"
+title=""
 alt="BTC.CloTriEld - Fuiba Fuyu">
 |
-<img draggable="false"
+<img draggable="false" width="100"
 src="/B/Main-Assets/BTC-Sign/ff6_CloTriEld.png"
-alt="BTC.CloTriEld - Fuiba Fuyu" width="100">
+title=""
+alt="BTC.CloTriEld - Fuiba Fuyu">
   -->
 
 <div align="center">
