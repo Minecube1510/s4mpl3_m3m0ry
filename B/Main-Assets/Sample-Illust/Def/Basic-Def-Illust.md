@@ -2,7 +2,7 @@
 
 ---
 
-Ini berisi ilustrasi gambar-gambar secara basic bagi **5.616** Sampel. <br>
+Ini berisi ilustrasi gambar-gambar secara basic bagi **5.616** Sampel.  
 Jadi ini seharusnya cukup ngepas **5.616**.
 
 Ya, jadi ini akan berisi sekitar **5.616** Sampel, tapi hanya *Basic*-nya aja.

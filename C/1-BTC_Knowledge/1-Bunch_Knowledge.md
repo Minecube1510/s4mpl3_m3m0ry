@@ -1,6 +1,6 @@
 # _**[Bunch] membentuk kepada '6' Type**_
 
-**Bunch** sendiri adalah nama-nama bagi sang **Kamen Rider**. <br>
+**Bunch** sendiri adalah nama-nama bagi sang **Kamen Rider**.  
 Yakni terdapat 6 Kamen Rider terdaftarkan di sini.
 
 ---
@@ -212,11 +212,11 @@ Referensi:
 
 ## Bunches
 
-- ***Gaster*** = **G** <br>
-- ***Spamor*** = **S** <br>
-- ***Accesive*** = **A** <br>
-- ***Mistress*** = **Mi** <br>
-- ***Hunfle*** = **Hu** <br>
-- ***Clovin*** = **Clo** <br>
+- ***Gaster*** = **G**
+- ***Spamor*** = **S**
+- ***Accesive*** = **A**
+- ***Mistress*** = **Mi**
+- ***Hunfle*** = **Hu**
+- ***Clovin*** = **Clo**
 
 ---

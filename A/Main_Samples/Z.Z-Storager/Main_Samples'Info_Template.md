@@ -91,9 +91,9 @@ title="JUDULAN HOLD - CATEGORY">
   <img draggable="false" width="200"
   alt="Ini hanya tempatan gambar"
   src="/B/Main-Assets/Sample-Illust/.png">
-<br><b>
+<p><b>
 GAMBAR BASIC
-</b><br>
+</b></p>
 <!--
   ATURAN WAJIB!
   |

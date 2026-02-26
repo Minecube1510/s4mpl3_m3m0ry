@@ -1,6 +1,6 @@
-# _**[Category] terdiri dari [26] 'Sampel'**_ <br>
+# _**[Category] terdiri dari [26] 'Sampel'**_
 
-**Category** adalah persenjataan, atau senjata-senjata. <br>
+**Category** adalah persenjataan, atau senjata-senjata.  
 Senjata-senjatanya bisa dicocokkan dengan sang Kamen Rider.
 
 ---

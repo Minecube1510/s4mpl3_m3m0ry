@@ -1,9 +1,9 @@
 ---
-Seperti yang dikatakan, ini akan berisi sekitar 5616 Sampel. <br>
+Seperti yang dikatakan, ini akan berisi sekitar 5616 Sampel.  
 Besertakan juga dengan BTC-nya juga.
 
 ---
-Tapi khusus ini, ini hanya akan berisi catatan-catatannya aja. <br>
+Tapi khusus ini, ini hanya akan berisi catatan-catatannya aja.  
 Beserta penjelasan mendetilnya.
 
 ---
