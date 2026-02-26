@@ -2,11 +2,11 @@
 
 <div align="center"><table>
 <tr><td align="center"
-title="Gaster, sang Ketua Admin">
+title="Gaster, sang ketua Admin">
 
   $${\textcolor{#00BEFF}{Gaster}}$$
 </td><td align="center"
-title="?">
+title="Fossil, elemen utama Admin">
 
   $${\textcolor{#00BEFF}{Fossil}}$$
 </td><td align="center"
