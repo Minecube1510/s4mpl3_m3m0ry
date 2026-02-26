@@ -1,10 +1,11 @@
 # Indikator Simbolik
 
 <div align="center"><table>
-<tr><td align="center">
+<tr><td align="center"><a
+src="/A/Main_Samples/1-Gaster/1-Gaster-EXT.dc.md">
 
   $${\textcolor{#00BEFF}{Gaster}}$$
-</td><td align="center">
+</a></td><td align="center">
 
   $${\textcolor{#00BEFF}{Fossil}}$$
 </td></tr><tr><th>
