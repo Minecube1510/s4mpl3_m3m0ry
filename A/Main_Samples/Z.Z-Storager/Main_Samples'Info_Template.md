@@ -88,8 +88,9 @@ title="JUDULAN HOLD - CATEGORY">
   |
   Cari File yang ngepas di turnamen-nya, lalu ambil gambarnya.
 -->
-<br><b> GAMBAR BASIC </b><br>
-<br>
+<br><b>
+GAMBAR BASIC
+</b><br>
 <!--
   ATURAN WAJIB!
   |
