@@ -1,21 +1,25 @@
 # Indikator Simbolik
 
 <div align="center"><table>
-<tr><td align="center">
+<tr><td align="center"
+title="Gaster, sang Ketua Admin">
 
   $${\textcolor{#00BEFF}{Gaster}}$$
-</td><td align="center">
+</td><td align="center"
+title="AT-SECTION-TYPE">
 
   $${\textcolor{#B651FF}{Paperbag}}$$
 </td></tr><tr><th>
   <a href="/A/Main_Samples/1-Gaster/1-Gaster-EXT.dc.md"
-  style=""><img draggable="false"
+  style=""><img draggable="false" width="100"
+  title="Click for more information."
   src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
-  alt="BTC.GFB - Kafuu Chino" width="100"></a>
+  alt="BTC.GFB - Kafuu Chino"></a>
 </th><th>
-  <img draggable="false"
+  <img draggable="false" width="100"
   src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
-  alt="BTC.HuPaWi - Jinja Natsume" width="100">
+  title="SECTION_LOGO_TYPE-NO_LINK"
+  alt="BTC.HuPaWi - Jinja Natsume">
 </th></tr></table></div>
 
 ---

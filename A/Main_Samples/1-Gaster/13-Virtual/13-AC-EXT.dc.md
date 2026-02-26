@@ -1,21 +1,25 @@
 # Indikator Simbolik
 
 <div align="center"><table>
-<tr><td align="center">
+<tr><td align="center"
+title="Gaster, sang Ketua Admin">
 
   $${\textcolor{#00BEFF}{Gaster}}$$
-</td><td align="center">
+</td><td align="center"
+title="AT-SECTION-TYPE">
 
   $${\textcolor{#FF1B39}{Virtual}}$$
 </td></tr><tr><th>
   <a href="/A/Main_Samples/1-Gaster/1-Gaster-EXT.dc.md"
-  style=""><img draggable="false"
+  style=""><img draggable="false" width="100"
+  title="Click for more information."
   src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
-  alt="BTC.GFB - Kafuu Chino" width="100"></a>
+  alt="BTC.GFB - Kafuu Chino"></a>
 </th><th>
-  <img draggable="false"
+  <img draggable="false" width="100"
+  title="SECTION_LOGO_TYPE-NO_LINK"
   src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
-  alt="BTC.AVD - Natsu Megumi" width="100">
+  alt="BTC.AVD - Natsu Megumi">
 </th></tr></table></div>
 
 ---
