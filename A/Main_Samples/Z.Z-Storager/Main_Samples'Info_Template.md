@@ -81,7 +81,7 @@ title="JUDULAN HOLD - CATEGORY">
 <!-- Intinya, penjelasan naro gambar lah -->
 # Ilustrasi Default
 
-<p align="center">
+<div align="center">
 <!--
   Gambar ada pada:
   B/Main-Assets/B1.002-Sampel_Illust/B1.002'A-Basic_5616
@@ -90,10 +90,11 @@ title="JUDULAN HOLD - CATEGORY">
 -->
   <img draggable="false" width="200"
   alt="Ini hanya tempatan gambar"
-  src="/B/Main-Assets/Sample-Illust/.png">
-<p><b>
-GAMBAR BASIC
-</b></p>
+src="/B/Main-Assets/Sample-Illust/.png">
+<br><br><b>
+GAMBAR ILUSTRASI SAMPEL
+</b><br>
+
 <!--
   ATURAN WAJIB!
   |
@@ -105,8 +106,7 @@ GAMBAR BASIC
 -->
 [<a href=""><b>Webnya darimana dapetnya?</b></a>]:
 "<a href=""><i>Sang Publisher atau Creator</i></a>"
-
-</p>
+</div>
 
 ---
 <!-- Ini adalah section informasi data sampel -->
