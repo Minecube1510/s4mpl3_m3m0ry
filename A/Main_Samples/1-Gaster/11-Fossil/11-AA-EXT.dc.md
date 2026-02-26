@@ -8,7 +8,7 @@
 
   $${\textcolor{#00BEFF}{Fossil}}$$
 </td></tr><tr><th>
-  <a href="/A/Main_Samples/1-Gaster/1-Gaster.dc.md"
+  <a href="/A/Main_Samples/1-Gaster/1-Gaster-EXT.dc.md"
   style=""><img draggable="false"
   src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100"></a>
