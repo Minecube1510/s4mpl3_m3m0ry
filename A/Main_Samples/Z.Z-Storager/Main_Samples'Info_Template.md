@@ -88,6 +88,9 @@ title="JUDULAN HOLD - CATEGORY">
   |
   Cari File yang ngepas di turnamen-nya, lalu ambil gambarnya.
 -->
+  <img draggable="false" width="200"
+  alt="Ini hanya tempatan gambar"
+  src="/B/Main-Assets/Sample-Illust/.png">
 <br><b>
 GAMBAR BASIC
 </b><br>
