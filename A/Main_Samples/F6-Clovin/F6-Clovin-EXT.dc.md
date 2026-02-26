@@ -16,7 +16,7 @@ title="AT-SECTION-BUNCH">
 
 ---
 
-## $${\textbf{\textcolor{#6A96FF}{Kamen \ Rider \ Clovin}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a96_BZ_006Fx-KR_Clovin))
+## $${\textbf{\textcolor{#6A96FF}{Kamen \ Rider \ Clovin}}}$$ ([Main](/A/Main_Samples/F6-Clovin))
 
 <ol><li>
 

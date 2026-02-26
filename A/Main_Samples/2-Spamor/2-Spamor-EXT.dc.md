@@ -16,7 +16,7 @@ title="AT-SECTION-BUNCH">
 
 ---
 
-## $${\textbf{\textcolor{#FFC32B}{Kamen \ Rider \ Spamor}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a2_B002-KR_Spamor))
+## $${\textbf{\textcolor{#FFC32B}{Kamen \ Rider \ Spamor}}}$$ ([Main](/A/Main_Samples/2-Spamor))
 
 <ol><li>
 

@@ -139,7 +139,7 @@ X. [AddPlease](/A/Main_Samples/1-Gaster/11-Fossil/)
 649. [Decepticon Megaempress](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
 650. [Decepticon Lyzack](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/c151_GPa'B-0650'33Lz.md)
 
-### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
+### $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
 > [**Gaster** - **Paperbag** - *Lance*](/A/Main_Samples/1-Gaster/15-Paperbag/152-Lance/)
 >
@@ -152,7 +152,7 @@ X. [AddPlease](/A/Main_Samples/1-Gaster/11-Fossil/)
 655. [AddPlease](/A/Main_Samples/1-Gaster/15-Paperbag/)
 656. [AddPlease](/A/Main_Samples/1-Gaster/15-Paperbag/)
 
-### $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
+### $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 
 > [**Gaster** - **Paperbag** - *Drill*](/A/Main_Samples/1-Gaster/15-Paperbag/153-Drill/)
 >
@@ -165,7 +165,7 @@ XXX. [AddPlease](/A/Main_Samples/1-Gaster/15-Paperbag/)
 XXX. [AddPlease](/A/Main_Samples/1-Gaster/15-Paperbag/)  
 XXX. [AddPlease](/A/Main_Samples/1-Gaster/15-Paperbag/)  
 
-### $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
+### $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 
 > [**Gaster** - **Paperbag** - *Kama*](/A/Main_Samples/1-Gaster/15-Paperbag/154-Kama/)
 >
@@ -178,7 +178,7 @@ XXX. [AddPlease](/A/Main_Samples/1-Gaster/15-Paperbag/)
 XXX. [AddPlease](/A/Main_Samples/1-Gaster/15-Paperbag/)  
 XXX. [AddPlease](/A/Main_Samples/1-Gaster/15-Paperbag/)  
 
-### $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
+### $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
 
 > [**Gaster** - **Paperbag** - *Winchester*](/A/Main_Samples/1-Gaster/15-Paperbag/155-Winchester/)
 >
@@ -191,7 +191,7 @@ XXX. [AddPlease](/A/Main_Samples/1-Gaster/15-Paperbag/)
 XXX. [AddPlease](/A/Main_Samples/1-Gaster/15-Paperbag/)  
 XXX. [AddPlease](/A/Main_Samples/1-Gaster/15-Paperbag/)  
 
-### $${\textbf{\textcolor{#FFFFFF}{One-1}}}$$ $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
+### $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#FFFFFF}{with}}}$$ $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 
 > [**Gaster** - **Paperbag** - *Eldritch*](/A/Main_Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
 >

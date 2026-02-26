@@ -33,38 +33,42 @@ title="AT-SECTION-TYPE">
 
 ## $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-625. [Autobot Optimus Prime](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0625'54Oa.md)
-626. [Autobot Hot Spot](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0626'30Hb.md)
-627. [Autobot Scattershot](CS)
-628. [Autobot Silverbolt](CS)
-629. [Dinobot Skar](CS)
-630. [Autobot Sky Lynx](CS)
-631. [Autobot Jazz](CS)
-632. [Autobot Blaster](CS)
-633. [Autobot Brainstorm](CS)
-634. [Autobot Cliffjumper](CS)
-635. [Autobot Cosmos](CS)
-636. [Autodecept Doubledealer](CS)
-637. [Decepticon Hook](CS)
-638. [Decepticon Onslaught](CS)
-639. [Decepticon Motormaster](CS)
-640. [Decepticon Leozack](CS)
-641. [Decepticon Hun-gurrr](CS)
-642. [Decepticon Razorclaw](CS)
-643. [Decepticon Halfshell](CS)
-644. [Decepticon Mega-Octane](CS)
-645. [Decepticon Bludgeon](CS)
-646. [Autobot Pyra Magna](CS)
-647. [Autobot Elita-1](CS)
-648. [Autobot Chromia](CS)
-649. [Decepticon Megaempress](CS)
-650. [Decepticon Lyzack](https://github.com/Minecube1510/s4mpl3_m3m0ry/blob/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster/c151_GPa'B-0650'33Lz.md)
+> [***Collection***: **Gaster** - **Paperbag** - *Blaster*](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster)
 
-- [***Collection***: **Gaster**-**Paperbag** - *Blaster*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c151_C151-Gaster_Paperbag'Blaster)
+625. [Autobot Optimus Prime](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/c151_GPa'B-0625'54Oa.md)
+626. [Autobot Hot Spot](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/c151_GPa'B-0626'30Hb.md)
+627. [Autobot Scattershot](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+628. [Autobot Silverbolt](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+629. [Dinobot Skar](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+630. [Autobot Sky Lynx](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+631. [Autobot Jazz](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+632. [Autobot Blaster](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+633. [Autobot Brainstorm](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+634. [Autobot Cliffjumper](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+635. [Autobot Cosmos](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+636. [Autodecept Doubledealer](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+637. [Decepticon Hook](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+638. [Decepticon Onslaught](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+639. [Decepticon Motormaster](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+640. [Decepticon Leozack](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+641. [Decepticon Hun-gurrr](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+642. [Decepticon Razorclaw](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+643. [Decepticon Halfshell](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+644. [Decepticon Mega-Octane](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+645. [Decepticon Bludgeon](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+646. [Autobot Pyra Magna](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+647. [Autobot Elita-1](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+648. [Autobot Chromia](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+649. [Decepticon Megaempress](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/)
+650. [Decepticon Lyzack](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster/c151_GPa'B-0650'33Lz.md)
+
+> [***Collection***: **Gaster** - **Paperbag** - *Blaster*](/A/Main_Samples/1-Gaster/15-Paperbag/151-Blaster)
 
 ---
 
 ## $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
+
+> [***Collection***: **Gaster** - **Paperbag** - *Lance*](/A/Main_Samples/1-Gaster/15-Paperbag/152-Lance)
 
 651. [Menunggu](CS)
 652. [Menunggu](CS)
@@ -73,12 +77,14 @@ title="AT-SECTION-TYPE">
 655. [Menunggu](CS)
 656. [Menunggu](CS)
 
-- [***Collection***: **Gaster**-**Paperbag** - *Lance*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c152_C152-Gaster_Paperbag'Lance)
+> [***Collection***: **Gaster** - **Paperbag** - *Lance*](/A/Main_Samples/1-Gaster/15-Paperbag/152-Lance)
 
 ---
 
 ## $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 
+> [***Collection***: **Gaster** - **Paperbag** - *Dril*](/A/Main_Samples/1-Gaster/15-Paperbag/153-Drill)
+
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
@@ -86,12 +92,14 @@ title="AT-SECTION-TYPE">
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 
-- [***Collection***: **Gaster**-**Paperbag** - *Dril*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c153_C153-Gaster_Paperbag'Drill)
+> [***Collection***: **Gaster** - **Paperbag** - *Dril*](/A/Main_Samples/1-Gaster/15-Paperbag/153-Drill)
 
 ---
 
 ## $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 
+> [***Collection***: **Gaster** - **Paperbag** - *Kama*](/A/Main_Samples/1-Gaster/15-Paperbag/154-Kama)
+
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
@@ -99,12 +107,14 @@ title="AT-SECTION-TYPE">
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 
-- [***Collection***: **Gaster**-**Paperbag** - *Kama*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c154'4_C154-Gaster_Paperbag'Kama)
+> [***Collection***: **Gaster** - **Paperbag** - *Kama*](/A/Main_Samples/1-Gaster/15-Paperbag/154-Kama)
 
 ---
 
 ## $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
 
+> [***Collection***: **Gaster** - **Paperbag** - *Winchester*](/A/Main_Samples/1-Gaster/15-Paperbag/155-Winchester)
+
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
@@ -112,12 +122,14 @@ title="AT-SECTION-TYPE">
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 
-- [***Collection***: **Gaster**-**Paperbag** - *Winchester*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c155'5_C155-Gaster_Paperbag'Winchester)
+> [***Collection***: **Gaster** - **Paperbag** - *Winchester*](/A/Main_Samples/1-Gaster/15-Paperbag/155-Winchester)
 
 ---
 
 ## $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 
+> [***Collection***: **Gaster** - **Paperbag** - *ELDRITCH*](/A/Main_Samples/1-Gaster/15-Paperbag/f156-Eldritch)
+
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 000. [Menunggu](CS)
@@ -125,6 +137,6 @@ title="AT-SECTION-TYPE">
 000. [Menunggu](CS)
 000. [Menunggu](CS)
 
-- [***Collection***: **Gaster**-**Paperbag** - *ELDRITCH*](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a1_B001-KR_Gaster/b15_T015-Gaster_Paperbag/c156'96__C1506-Gaster_Paperbag'Eldritch)
+> [***Collection***: **Gaster** - **Paperbag** - *ELDRITCH*](/A/Main_Samples/1-Gaster/15-Paperbag/f156-Eldritch)
 
 ---

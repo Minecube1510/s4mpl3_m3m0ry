@@ -16,7 +16,7 @@ title="AT-SECTION-BUNCH"
 
 ---
 
-## $${\textbf{\textcolor{#FF1B39}{Kamen \ Rider \ Accesive}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a3_B003-KR_Accesive))
+## $${\textbf{\textcolor{#FF1B39}{Kamen \ Rider \ Accesive}}}$$ ([Main](/A/Main_Samples/3-Accesive))
 
 <ol><li>
 

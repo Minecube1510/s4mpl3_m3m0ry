@@ -16,7 +16,7 @@ title="AT-SECTION-BUNCH">
 
 ---
 
-## $${\textbf{\textcolor{#B651FF}{Kamen \ Rider \ Hunfle}}}$$ ([Main](https://github.com/Minecube1510/s4mpl3_m3m0ry/tree/main/A1-Main_Samples_Abouts/a5'5_B005'h_KR_Hunfle))
+## $${\textbf{\textcolor{#B651FF}{Kamen \ Rider \ Hunfle}}}$$ ([Main](/A/Main_Samples/5-Hunfle))
 
 <ol><li>
 
