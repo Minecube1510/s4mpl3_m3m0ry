@@ -20,10 +20,9 @@ alt="BTC.GFB - Kafuu Chino" width="100">
 <div align="center">
 
   <!-- ![BTC.GFB - Kafuu Chino][Chino_GFB_1] -->
-
   <img draggable="false"
   src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
-  alt="BTC.GFB - Kafuu Chino" width="100">
+  alt="BTC.GFB - Kafuu Chino">
 </div><p align="center">
 
   $${\textcolor{#00BEFF}{Original - 350}}$$
