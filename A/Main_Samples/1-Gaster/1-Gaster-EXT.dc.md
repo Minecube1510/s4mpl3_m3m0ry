@@ -1,6 +1,6 @@
-# Bunch of "Gaster"
+# "Kamen Rider Gaster" Collection
 
-## Indikator Simbolik
+## Simbolic Indicator
 
 <div align="center"><table>
 <tr><td align="center"

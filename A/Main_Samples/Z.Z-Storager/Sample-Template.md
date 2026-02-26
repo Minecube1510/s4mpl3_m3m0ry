@@ -1,4 +1,6 @@
-# Indikator Simbolik
+# BTC Title
+
+## Simbolic Indicator
 
 <div align="center"><table>
 <tr><td align="center"

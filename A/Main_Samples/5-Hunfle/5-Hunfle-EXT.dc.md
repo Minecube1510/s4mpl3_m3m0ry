@@ -1,6 +1,6 @@
-# Bunch of "Hunfle"
+# "Kamen Rider Hunfle" Collection
 
-## Indikator Simbolik
+## Simbolic Indicator
 
 <div align="center"><table>
 <tr><td align="center"

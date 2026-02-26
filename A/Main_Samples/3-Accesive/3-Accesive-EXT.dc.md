@@ -1,6 +1,6 @@
-# Bunch of "Accesive"
+# "Kamen Rider Accesive" Collection
 
-## Indikator Simbolik
+## Simbolic Indicator
 
 <div align="center"><table>
 <tr><td align="center">

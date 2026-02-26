@@ -1,4 +1,6 @@
-# Indikator Simbolik
+# Gaster: Virtual Specs
+
+## Simbolic Indicator
 
 <div align="center"><table>
 <tr><td align="center"

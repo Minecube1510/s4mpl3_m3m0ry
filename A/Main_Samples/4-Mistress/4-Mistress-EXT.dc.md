@@ -1,6 +1,6 @@
-# Bunch of "Mistress"
+# "Kamen Rider Mistress" Collection
 
-## Indikator Simbolik
+## Simbolic Indicator
 
 <div align="center"><table>
 <tr><td align="center"

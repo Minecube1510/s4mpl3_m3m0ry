@@ -1,6 +1,6 @@
-# Bunch of "Clovin"
+# "Kamen Rider Clovin" Collection
 
-## Indikator Simbolik
+## Simbolic Indicator
 
 <div align="center"><table>
 <tr><td align="center"

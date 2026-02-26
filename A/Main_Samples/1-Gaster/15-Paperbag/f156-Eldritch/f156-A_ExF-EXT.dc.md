@@ -1,4 +1,6 @@
-# Indikator Simbolik
+# Gaster: Paperbag Spec-Grade, Ultra Eldritch Fantastic
+
+## Simbolic Indicator
 
 <div align="center"><table>
 <tr><td align="center"

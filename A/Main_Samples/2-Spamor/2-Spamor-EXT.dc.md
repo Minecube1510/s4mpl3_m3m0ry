@@ -1,6 +1,6 @@
-# Bunch of "Spamor"
+# "Kamen Rider Spamor" Collection
 
-## Indikator Simbolik
+## Simbolic Indicator
 
 <div align="center"><table>
 <tr><td align="center"

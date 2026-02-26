@@ -1,4 +1,6 @@
-# Indikator Simbolik
+# Gaster: Paperbag Spec-Grade, Lance
+
+## Simbolic Indicator
 
 <div align="center"><table>
 <tr><td align="center"
