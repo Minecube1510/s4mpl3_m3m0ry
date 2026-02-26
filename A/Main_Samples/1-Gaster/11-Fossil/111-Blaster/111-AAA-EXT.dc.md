@@ -18,7 +18,7 @@
   src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100"></a>
 </th><th>
-  <a href="A/Main_Samples/1-Gaster/11-Fossil/b011-BTC_GF.md"
+  <a href="/A/Main_Samples/1-Gaster/11-Fossil/b011-BTC_GF.md"
   style=""><img draggable="false"
   src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100"></a>

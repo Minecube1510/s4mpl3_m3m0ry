@@ -17,7 +17,7 @@
   style=""><img src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100"></a>
 </th><th>
-  <a href="A/Main_Samples/1-Gaster/13-Virtual/13-AC-EXT.dc.md"
+  <a href="/A/Main_Samples/1-Gaster/13-Virtual/13-AC-EXT.dc.md"
   style=""><img draggable="false"
   src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
   alt="BTC.AVD - Natsu Megumi" width="100"></a>
