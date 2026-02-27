@@ -64,9 +64,10 @@ Isi Aturan
 
 # A-1
 - Penamaannya coba gini aja dulu.
-  "[NAMA_SAMPLE_UPPER_OPSIONAL]-211.dc.md"
+- Jangan lupa awal-awal kasih penanda juga
+  "[XXX]-[NAMA_SAMPLE]-211.dc.md"
 - Contoh:
-  "[KAMEN_RIDER]-135.dc.md"
+  "[XXX]-[Kamen_Rider]-135.dc.md"
 ```
 
 ```php
