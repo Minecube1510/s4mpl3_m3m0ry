@@ -1,14 +1,4 @@
-
----
-
-# Cross (XTale!Sans)
-
-> **Topic**: Sample
->
-> **Syndicate**:  
-> (Perdataan apapun lah dalam Sampel)
-
-**Gaster: Fossil Spec, ?**
+# BTC Title
 
 ## Simbolic Indicator
 
@@ -29,52 +19,52 @@ title="JUDULAN HOLD - CATEGORY">
 
 </tr><tr><th>
 
-[<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-title="Click for more information."
-alt="BTC.GFB - Kafuu Chino">][On-Bunch]
+  <a href="/A/Main-Samples/ADD"
+  style=""><img img draggable="false" width="100"
+  src="/B/Main-Assets/BTC-Sign/?.png"
+  title="Click for more information."
+  alt="BTC-ALT"></a>
+
 </th><th>
 
-[<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-title="Click for more information."
-alt="BTC.GFB - Kafuu Chino">][On-Type]
+  <a href="/A/Main-Samples/ADD"
+  style=""><img img draggable="false" width="100"
+  src="/B/Main-Assets/BTC-Sign/?.png"
+  title="Click for more information."
+  alt="BTC-ALT"></a>
+
 </th><th>
 
-[<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
-title="Click for more information."
-alt="BTC-ALT">][On-Category]
+  <a href="/A/Main-Samples/ADD"
+  style=""><img img draggable="false" width="100"
+  src="/B/Main-Assets/BTC-Sign/?.png"
+  title="Click for more information."
+  alt="BTC-ALT"></a>
+
 </th></tr></table></div>
 
 ---
 
-# Default Illustration
+# Ilustrasi Default
 
 <div align="center">
-<!--
-  Blok baris di bawah, Kopas, dan Hapus aja section komenan ini!
-  #
-  /BASE/ASSETS/Assets-Main/Sample-Illust/__QWERTY__.png
--->
-  <img draggable="false" width="_"
+  <img draggable="false" width="200"
   alt="Ini hanya tempatan gambar"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png">
+src="/B/Main-Assets/Sample-Illust/.png">
 <br><br><b>
-
 GAMBAR ILUSTRASI SAMPEL
 </b><br>
 
-[[**Webnya darimana dapetnya?**][From-Web]]:
-"[*Sang Publisher atau Creator*][Publisher-Creator]"
+[<a href=""><b>Webnya darimana dapetnya?</b></a>]:
+"<a href=""><i>Sang Publisher atau Creator</i></a>"
 </div>
 
 ---
 
-# Personal Data Information
+# Informasi Data
 
 - **ID:** ***XXXX***  
-- **Sample Default Name:** *Nama Sampel*  
+- **Name:** *Nama Sampel*  
 - **Bunch:** $${\textbf{\textcolor{#FFFFFF}{Bunch}}}$$  
 - **Type:** $${\textbf{\textcolor{#FFFFFF}{Type}}}$$  
 - **Category:** $${\textbf{\textcolor{#FFFFFF}{Category}}}$$  
@@ -83,7 +73,7 @@ GAMBAR ILUSTRASI SAMPEL
 
 ---
 
-# General Explanations
+# Penjelasan Umum
 
 **MENULISLAH!**
 
@@ -91,35 +81,8 @@ GAMBAR ILUSTRASI SAMPEL
 
 ## Reff-Notes
 
-- [Referensi 1][Reff-1]
-- [Referensi 2][Reff-2]
-- [Referensi 3][Reff-3]
+- [Referensi 1](github.com)
+- [Referensi 2](github.com)
+- [Referensi 3](github.com)
 
 ---
-
-<div align="center">
-
-| ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
-| :-: | :-: | :-: |
-| [**XXXX**][Link-Prev] | ***<span title="XXXX">XXXX</span>*** | [**XXXX**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
-
-</div>
-
----
-
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/11-AA-EXT.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil///.info.md
-<!-- Reffs : Linking Online -->
-[From-Web]: image.png "Descript Web-Image"
-[Publisher-Creator]: link.com "Publisher/Creator name"
-<!-- Reffs : Linking Online -->
-[Reff-1]: github.com "Descript-Note 1"
-[Reff-2]: github.com "Descript-Note 2"
-[Reff-3]: github.com "Descript-Note 3"
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"
-<!-- Reffs-End -->
