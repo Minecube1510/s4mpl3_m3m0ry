@@ -36,7 +36,8 @@
 # 07/03/2025 ("7 Maret 2025")
 # XX:XX ("Waktu Jam tidak diketahui")
 
-{"Baru bikin"}
+{"Baru bikin"} - ["0709ec7"]
+["0709ec7e84da5115a8571bbe1a691a912e079fd3"]
 ```
 
 - **Now /OR/ Last**
@@ -46,13 +47,15 @@
 # XX/XX/2025 ("XX ? 2026")
 # XX:XX ("Waktu masih menanti...")
 |
-{"[Dev] Fixing MD Structures - 5.5.1"}
+{"[Dev] Add data sheets - 0.8"} - [""]
+[""]
 
 ("Dikerjakan" : "0.0")
 # XX/XX/2025 ("XX ? 2026")
 # XX:XX ("Waktu masih menanti...")
 |
-{"[Dev] Build MD Checker Web"}
+{"[Dev] Fixing MD Structures - 5.5.1"} - [""]
+[""]
 ```
 
 - **Later**
@@ -62,7 +65,8 @@
 # XX/XX/2025 ("XX ? 2026")
 # XX:XX ("Waktu masih menanti...")
 |
-{""}
+{""} - [""]
+[""]
 ```
 
 ---
@@ -77,6 +81,24 @@ D - Storage Sementara
 ---
 
 ## Catatan
+<!--
+  Cek Size:
+  api.github.com/repos/Minecube1510/s4mpl3_m3m0ry
+
+-->
+
+<!--
+"Upload by Terminal"
+
+  [Online]
+  curl -L "https://example.com/gambar.png" -o assets/img/gambar.png
+
+  [Local]
+  ?
+
+  [Other Clouds]
+  ?
+-->
 
 - Pada "*sample-route*"-nya
 
