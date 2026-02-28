@@ -112,8 +112,8 @@ X. [AddPlease](/A/Main-Samples/1-Gaster/11-Fossil/)
 >
 > [Result of **G.Pa.B**](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/151-A_EA-EXT.md)
 
-625. [Autobot Optimus Prime](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/c151_GPa'B-0625'54Oa.md)
-626. [Autobot Hot Spot](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/c151_GPa'B-0626'30Hb.md)
+625. [Autobot Optimus Prime](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/0625-a-151.dc.md)
+626. [Autobot Hot Spot](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/0626-b-151.dc.md)
 627. [Autobot Scattershot](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
 628. [Autobot Silverbolt](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
 629. [Dinobot Skar](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
@@ -137,7 +137,7 @@ X. [AddPlease](/A/Main-Samples/1-Gaster/11-Fossil/)
 647. [Autobot Elita-1](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
 648. [Autobot Chromia](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
 649. [Decepticon Megaempress](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-650. [Decepticon Lyzack](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/c151_GPa'B-0650'33Lz.md)
+650. [Decepticon Lyzack](/A/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/0650-z-151.dc.md)
 
 ### $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 

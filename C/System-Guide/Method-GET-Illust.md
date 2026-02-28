@@ -41,6 +41,27 @@ Untungnya, repo selalu dibekali sebuah manajamen yang selalu diandalkan karena *
 curl -L "https://web.kom/gambar.png" -o path/nge/gambar.png
 ```
 
+> Peringatan
+
+```txt
+- Tolong untuk diperhatikan juga linking-nya. Karena beberapa web, linking-nya mengalami banyak kendala.
+```
+
+Kendala-kendala yang dimaksud
+
+```txt
+- Linking Wiki (SANGAT TIDAK DISARANKAN, BUTUH PENGAKALAN)
+Dengan menggunakan curl saja, menghasilkan file gambar yang rusak.
+Karena mengambil dengan curl, dianggap Cloudflare bisa mengancam server. Maka dikasihkan bentukan rusak-nya, yakni teks yang di-save secara "PNG" (dengan modal rename)
+
+- Wordpress (TIDAK DISARANKAN, BUTUH PENGAKALAN)
+Sebetulnya dia bisa-bisa normal aja, kecuali satu hal.
+Masalah utamanya adalah, dia gak cepat. Itu adalah hal yang gak normal (karna meski gambar kecil pun, lama delay. Internet udah cepet, tapi kok puluhan detik lebih masih belum kelar).
+
+- "Coming Soon"
+Menunggu hasil kendala...
+```
+
 - **Local**
 
 ```txt
@@ -76,7 +97,7 @@ Untuk nge-link nya sendiri, adalah dengan cara cari aja opsi yang bisa nge-share
 https://
 drive.google.com/file/d/[SALIN_TIKET_PANJANG_INI]/view
 
-- Lalu gunakan ini ()
+- Lalu gunakan linking ini
 https://drive.google.com/uc?export=download&id=[TARO_TIKET_PANJANG_TERSALIN_TADI_DISINI]
 
 - Command curl-nya sedikit berbeda
