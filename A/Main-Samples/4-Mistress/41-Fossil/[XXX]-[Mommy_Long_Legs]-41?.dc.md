@@ -64,7 +64,7 @@ GAMBAR ILUSTRASI SAMPEL
 # Informasi Data
 
 - **ID:** ***XXXX***  
-- **Name:** *Nama Sampel*  
+- **Sample Default Name:** *Nama Sampel*  
 - **Bunch:** $${\textbf{\textcolor{#FFFFFF}{Bunch}}}$$  
 - **Type:** $${\textbf{\textcolor{#FFFFFF}{Type}}}$$  
 - **Category:** $${\textbf{\textcolor{#FFFFFF}{Category}}}$$  
