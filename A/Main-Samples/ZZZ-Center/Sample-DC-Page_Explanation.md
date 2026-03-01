@@ -81,7 +81,7 @@ title="JUDULAN HOLD - CATEGORY">
 
 ---
 <!-- Intinya, penjelasan naro gambar lah -->
-# Ilustrasi Default
+# Default Illustration
 
 <div align="center">
 <!--
