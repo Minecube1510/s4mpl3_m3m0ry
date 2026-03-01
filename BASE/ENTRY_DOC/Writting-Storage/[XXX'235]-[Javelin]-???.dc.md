@@ -45,7 +45,7 @@ title="JUDULAN HOLD - CATEGORY">
 
 ---
 
-# Ilustrasi Default
+# Default Illustration
 
 <div align="center">
   <img draggable="false" width="200"
