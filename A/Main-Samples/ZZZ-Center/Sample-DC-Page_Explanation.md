@@ -20,7 +20,7 @@ title="JUDULAN HOLD - CATEGORY">
 </tr><tr><th>
 <!--
   Gambar ada pada:
-  B/Main-Assets/BTC-Sign
+  BASE/ASSETS/Assets-Main/BTC-Sign
   |
   Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
   |
@@ -28,7 +28,7 @@ title="JUDULAN HOLD - CATEGORY">
   TEMP:
   <a href="/A/Main-Samples/ADD"
   style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/?.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
   title="Click for more information."
   alt="BTC-ALT"></a>
 -->
@@ -40,7 +40,7 @@ title="JUDULAN HOLD - CATEGORY">
 </th><th>
 <!--
   Gambar ada pada:
-  B/Main-Assets/BTC-Sign
+  BASE/ASSETS/Assets-Main/BTC-Sign
   |
   Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
   |
@@ -48,7 +48,7 @@ title="JUDULAN HOLD - CATEGORY">
   TEMP:
   <a href="/A/Main-Samples/ADD"
   style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/?.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
   title="Click for more information."
   alt="BTC-ALT"></a>
 -->
@@ -60,7 +60,7 @@ title="JUDULAN HOLD - CATEGORY">
 </th><th>
 <!--
   Gambar ada pada:
-  B/Main-Assets/BTC-Sign
+  BASE/ASSETS/Assets-Main/BTC-Sign
   |
   Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
   |
@@ -68,7 +68,7 @@ title="JUDULAN HOLD - CATEGORY">
   TEMP:
   <a href="/A/Main-Samples/ADD"
   style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/?.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
   title="Click for more information."
   alt="BTC-ALT"></a>
 -->
@@ -86,13 +86,13 @@ title="JUDULAN HOLD - CATEGORY">
 <div align="center">
 <!--
   Gambar ada pada:
-  B/Main-Assets/B1.002-Sampel_Illust/B1.002'A-Basic_5616
+  BASE/ASSETS/Assets-Main/Sample-Illust/Default
   |
   Cari File yang ngepas di turnamen-nya, lalu ambil gambarnya.
 -->
   <img draggable="false" width="200"
   alt="Ini hanya tempatan gambar"
-src="/B/Main-Assets/Sample-Illust/.png">
+src="/BASE/ASSETS/Main-Assets/Sample-Illust/.png">
 <br><br><b>
 GAMBAR ILUSTRASI SAMPEL
 </b><br>

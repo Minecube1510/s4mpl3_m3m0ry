@@ -73,10 +73,14 @@
 
 ## Indikasi
 
-A - Data Center
-B - Assets
-C - Panduan
-D - Storage Sementara
+Terbagi menjadi 4 bagian, meliputi berikut.
+
+```py
+A. "[ENTRY_DOC]" - Data Center (Tingkat paling penting, Perdataan utama)
+B. "[ASSETS]" - Assets (Tempat aset-aset media-media berada)
+C. "[RECORD]" - Entri Informasi (Catatan, Panduan, dan lain semacamnya)
+D. "[SCRATCH]" - Gudangan Sementara (Umum untuk corat-coretan bebas)
+```
 
 ---
 
