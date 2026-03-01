@@ -9,7 +9,7 @@ title="AT-SECTION-BUNCH">
   $${\textcolor{#6A96FF}{Clovin}}$$
 </td></tr><tr><th>
   <img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/ff6_CloTriEld.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
   title="SECTION_LOGO_BUNCH-NO_LINK"
   alt="BTC.CloTriEld - Fuiba Fuyu">
 </th></tr></table></div>

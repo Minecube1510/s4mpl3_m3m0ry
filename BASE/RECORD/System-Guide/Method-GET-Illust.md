@@ -97,11 +97,7 @@ Untuk nge-link nya sendiri, adalah dengan cara cari aja opsi yang bisa nge-share
 https://
 drive.google.com/file/d/[SALIN_TIKET_PANJANG_INI]/view
 
-<<<<<<< HEAD:BASE/RECORD/System-Guide/Method-GET-Illust.md
 - Lalu gunakan linking ini
-=======
-- Lalu gunakan ini ()
->>>>>>> 55b06f6 ([Dev] Add images to resources - 0.5):C/System-Guide/Method-GET-Illust.md
 https://drive.google.com/uc?export=download&id=[TARO_TIKET_PANJANG_TERSALIN_TADI_DISINI]
 
 - Command curl-nya sedikit berbeda
@@ -114,7 +110,8 @@ curl -L -o path/nge/gambar.png "LINK_TADI_TARO.DISINI"
 ## Shortcut Temping
 
 ```py
-curl -L "https://link.com/gambar.png" -o B/Assets-Storages/[PNG].png
+curl -L "https://link.com/gambar.png" -o BASE/ASSETS/Assets-Storages/[PNG].png
+
 ```
 
 ---

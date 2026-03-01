@@ -15,12 +15,12 @@ title="AT-SECTION-TYPE">
   <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.dc.md"
   style=""><img draggable="false" width="100"
   title="Click for more information."
-  src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino"></a>
 </th><th>
   <img draggable="false" width="100"
   title="SECTION_LOGO_TYPE-NO_LINK"
-  src="/B/Main-Assets/BTC-Sign/c3c_AVD.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
   alt="BTC.AVD - Natsu Megumi">
 </th></tr></table></div>
 

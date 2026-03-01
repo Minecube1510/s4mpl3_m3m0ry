@@ -21,7 +21,7 @@ title="JUDULAN HOLD - CATEGORY">
 
   <a href="/BASE/ENTRY_DOC/Main-Samples/ADD"
   style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/?.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
   title="Click for more information."
   alt="BTC-ALT"></a>
 
@@ -29,7 +29,7 @@ title="JUDULAN HOLD - CATEGORY">
 
   <a href="/BASE/ENTRY_DOC/Main-Samples/ADD"
   style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/?.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
   title="Click for more information."
   alt="BTC-ALT"></a>
 
@@ -37,7 +37,7 @@ title="JUDULAN HOLD - CATEGORY">
 
   <a href="/BASE/ENTRY_DOC/Main-Samples/ADD"
   style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/?.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
   title="Click for more information."
   alt="BTC-ALT"></a>
 
@@ -50,7 +50,7 @@ title="JUDULAN HOLD - CATEGORY">
 <div align="center">
   <img draggable="false" width="200"
   alt="Ini hanya tempatan gambar"
-src="/B/Main-Assets/Sample-Illust/.png">
+src="/BASE/ASSETS/Assets-Main/Sample-Illust/.png">
 <br><br><b>
 GAMBAR ILUSTRASI SAMPEL
 </b><br>

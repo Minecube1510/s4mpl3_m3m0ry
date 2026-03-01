@@ -18,7 +18,7 @@ title="JUDULAN HOLD - CATEGORY">
 </tr><tr><th>
 <!--
   Gambar ada pada:
-  B/Main-Assets/BTC-Sign
+  BASE/ASSETS/Assets-Main/BTC-Sign
   |
   Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
   |
@@ -26,7 +26,7 @@ title="JUDULAN HOLD - CATEGORY">
   TEMP:
   <a href="/BASE/ENTRY_DOC/Main_Samples/ADD"
   style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/?.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
   title="Click for more information."
   alt="BTC-ALT"></a>
 -->
@@ -38,7 +38,7 @@ title="JUDULAN HOLD - CATEGORY">
 </th><th>
 <!--
   Gambar ada pada:
-  B/Main-Assets/BTC-Sign
+  BASE/ASSETS/Assets-Main/BTC-Sign
   |
   Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
   |
@@ -46,7 +46,7 @@ title="JUDULAN HOLD - CATEGORY">
   TEMP:
   <a href="/BASE/ENTRY_DOC/Main_Samples/ADD"
   style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/?.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
   title="Click for more information."
   alt="BTC-ALT"></a>
 -->
@@ -58,7 +58,7 @@ title="JUDULAN HOLD - CATEGORY">
 </th><th>
 <!--
   Gambar ada pada:
-  B/Main-Assets/BTC-Sign
+  BASE/ASSETS/Assets-Main/BTC-Sign
   |
   Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
   |
@@ -66,7 +66,7 @@ title="JUDULAN HOLD - CATEGORY">
   TEMP:
   <a href="/BASE/ENTRY_DOC/Main_Samples/ADD"
   style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/?.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
   title="Click for more information."
   alt="BTC-ALT"></a>
 -->
@@ -84,7 +84,7 @@ title="JUDULAN HOLD - CATEGORY">
 <p align="center">
 <!--
   Gambar ada pada:
-  B/Main-Assets/B1.002-Sampel_Illust/B1.002'A-Basic_5616
+  BASE/ASSETS/Assets-Main/Sample-Illust/Default
   |
   Cari File yang ngepas di turnamen-nya, lalu ambil gambarnya.
 -->

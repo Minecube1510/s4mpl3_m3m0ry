@@ -9,7 +9,7 @@ title="AT-SECTION-BUNCH">
   $${\textcolor{#FFC32B}{Spamor}}$$
 </td></tr><tr><th>
   <img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/b2b_SJL.png"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
   title="SECTION_LOGO_BUNCH-NO_LINK"
   alt="BTC.SJL - Jouga Maya">
 </th></tr></table></div>
