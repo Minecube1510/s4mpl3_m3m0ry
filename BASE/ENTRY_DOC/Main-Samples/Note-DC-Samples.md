@@ -14,6 +14,7 @@ Berikut linking untuk templet-an menyediakan per-informasi-an tentang **5.616** 
 - [***Informasi tentang Sampel***](/BASE/ENTRY_DOC/Main-Samples/ZZZ-Center/Sample-DC-Temp.md)
 
 > [***Informasi pertandingan Sampel*** [CS]]
+=======
 
 - [***Informasi tentang Sampel***](/BASE/ENTRY_DOC/Main_Samples/Z.Z-Storager/Main_Samples'Info_Template.md)
 

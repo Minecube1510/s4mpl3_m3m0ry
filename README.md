@@ -76,33 +76,15 @@
 Terbagi menjadi 4 bagian, meliputi berikut.
 
 ```py
-A. `[ENTRY_DOC]` - "Data Center (Tingkat paling penting, Perdataan utama)"
-B. `[ASSETS]` - "Assets (Tempat aset-aset media-media berada)"
-C. `[RECORD]` - "Entri Informasi (Catatan, Panduan, dan lain semacamnya)"
-D. `[SCRATCH]` - "Gudangan Sementara (Umum untuk corat-coretan bebas)"
+A. "[ENTRY_DOC]" - Data Center (Tingkat paling penting, Perdataan utama)
+B. "[ASSETS]" - Assets (Tempat aset-aset media-media berada)
+C. "[RECORD]" - Entri Informasi (Catatan, Panduan, dan lain semacamnya)
+D. "[SCRATCH]" - Gudangan Sementara (Umum untuk corat-coretan bebas)
 ```
 
 ---
 
 ## Catatan
-<!--
-  Cek Size:
-  api.github.com/repos/Minecube1510/s4mpl3_m3m0ry
-
--->
-
-<!--
-"Upload by Terminal"
-
-  [Online]
-  curl -L "https://example.com/gambar.png" -o assets/img/gambar.png
-
-  [Local]
-  ?
-
-  [Other Clouds]
-  ?
--->
 
 - Pada "*sample-route*"-nya
 
