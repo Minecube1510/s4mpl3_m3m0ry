@@ -73,32 +73,42 @@
 
 ## Indikasi
 
-A - Data Center
-B - Assets
-C - Panduan
-D - Storage Sementara
+Terbagi menjadi 4 bagian, meliputi berikut.
+
+```py
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e09e16e ([Dev] Advances the Entry Doc structs - 0.1)
+A. `[ENTRY_DOC]` - "Data Center (Tingkat paling penting, Perdataan utama)"
+B. `[ASSETS]` - "Assets (Tempat aset-aset media-media berada)"
+C. `[RECORD]` - "Entri Informasi (Catatan, Panduan, dan lain semacamnya)"
+D. `[SCRATCH]` - "Gudangan Sementara (Umum untuk corat-coretan bebas)"
+<<<<<<< HEAD
+=======
+A. "[ENTRY_DOC]" - Data Center (Tingkat paling penting, Perdataan utama)
+B. "[ASSETS]" - Assets (Tempat aset-aset media-media berada)
+C. "[RECORD]" - Entri Informasi (Catatan, Panduan, dan lain semacamnya)
+D. "[SCRATCH]" - Gudangan Sementara (Umum untuk corat-coretan bebas)
+>>>>>>> 879514e ([Dev] Add images to resources - 0.9.5)
+=======
+A. "[ENTRY_DOC]" - Data Center (Tingkat paling penting, Perdataan utama)
+B. "[ASSETS]" - Assets (Tempat aset-aset media-media berada)
+=======
+A. "[A?]" - Data Center (Tingkat paling penting, Perdataan utama)
+B. "[B?]" - Assets (Tempat aset-aset media-media berada)
+>>>>>>> 70380a4 ([Dev] Add images to resources - 0.9.1)
+C. "[RECORD]" - Entri Informasi (Catatan, Panduan, dan lain semacamnya)
+D. "[DRAFT]" - Gudangan Sementara (Umum untuk corat-coretan bebas)
+>>>>>>> 8ca64ce ([Dev] Add images to resources - 0.9.4)
+=======
+>>>>>>> e09e16e ([Dev] Advances the Entry Doc structs - 0.1)
+```
 
 ---
 
 ## Catatan
-<!--
-  Cek Size:
-  api.github.com/repos/Minecube1510/s4mpl3_m3m0ry
-
--->
-
-<!--
-"Upload by Terminal"
-
-  [Online]
-  curl -L "https://example.com/gambar.png" -o assets/img/gambar.png
-
-  [Local]
-  ?
-
-  [Other Clouds]
-  ?
--->
 
 - Pada "*sample-route*"-nya
 
