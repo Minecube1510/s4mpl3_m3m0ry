@@ -1,0 +1,140 @@
+# Gaster: Fossil Specs
+
+## Simbolic Indicator
+
+<div align="center"><table>
+<tr><td align="center"
+title="Gaster, sang Ketua Admin">
+
+  $${\textcolor{#00BEFF}{Gaster}}$$
+</td><td align="center"
+title="AT-SECTION-TYPE">
+
+  $${\textcolor{#00BEFF}{Fossil}}$$
+</td></tr><tr><th>
+  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md"
+  style=""><img draggable="false" width="100"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+  title="Click for more information."
+  alt="BTC.GFB - Kafuu Chino"></a>
+</th><th>
+  <img draggable="false" width="100"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+  title="SECTION_LOGO_TYPE-NO_LINK"
+  alt="BTC.GFB - Kafuu Chino">
+</th></tr></table></div>
+
+---
+
+# $${\textbf{\textcolor{#00BEFF}{Coming}}}$$ $${\textbf{\textcolor{#00BEFF}{Soon}}}$$
+
+- **Bunch**: $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$
+- **Type**: $${\textbf{\textcolor{#00BEFF}{Fossil}}}$$
+
+---
+
+## $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
+
+- [***Collection***: **Gaster** - **Fossil** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/111-Blaster)
+
+1. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+2. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+3. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+4. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+5. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+6. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+7. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+8. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+9. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+10. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+11. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+12. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+13. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+14. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+15. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+16. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+17. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+18. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+19. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+20. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+21. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+22. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+23. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+24. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+25. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+26. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+
+- [***Collection***: **Gaster** - **Fossil** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/111-Blaster)
+
+---
+
+## $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
+
+651. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+652. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+653. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+654. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+655. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+656. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+
+- [***Collection***: **Gaster** - **Fossil** - *Lance*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+
+---
+
+## $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
+
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+
+- [***Collection***: **Gaster** - **Fossil** - *Dril*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+
+---
+
+## $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
+
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+
+- [***Collection***: **Gaster** - **Fossil** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+
+---
+
+## $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
+
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+
+- [***Collection***: **Gaster** - **Fossil** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+
+---
+
+## $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
+
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+
+- [***Collection***: **Gaster** - **Fossil** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+
+---
+
+<!--
+  Reff Link
+-->
+
+[11_GF]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
