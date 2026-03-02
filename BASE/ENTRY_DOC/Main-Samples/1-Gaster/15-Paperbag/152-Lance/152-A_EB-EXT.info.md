@@ -1,4 +1,14 @@
+
+---
+
 # Gaster: Paperbag Spec-Grade, Lance
+
+> **Topic**: Report
+>
+> **Syndicate**:  
+> Laporan dari "Turnamen Jawara - 2"
+
+**This for little Descripting...**
 
 ## Simbolic Indicator
 
@@ -18,26 +28,52 @@ title="AT-SECTION-CATEGORY">
 </td>
 
 </tr><tr><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md"
-  style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
-  title="Click for more information."
-  alt="BTC.GFB - Kafuu Chino"></a>
+
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+title="Click for more information."
+alt="BTC.GFB - Kafuu Chino">][On-Bunch]
 </th><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md"
-  style=""><img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
-  title="Click for more information."
-  alt="BTC.HuPaWi - Jinja Natsume"></a>
+
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
+title="Click for more information."
+alt="BTC.HuPaWi - Jinja Natsume">][On-Type]
 </th><th>
-  <img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/b2b_SJL.png"
-  title="SECTION_LOGO_CATEGORY-NO_LINK"
-  alt="BTC.SJL - Jouga Maya">
+
+<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
+title="SECTION_LOGO_CATEGORY-NO_LINK"
+alt="BTC.SJL - Jouga Maya">
 </th></tr></table></div>
 
 ---
 
-A
+# $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$ $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
+
+## Pendahuluan
+
+Menanti...
 
 ---
+
+<div align="center">
+
+| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
+| :-: | :-: | :-: |
+| [**[151]**][Link-Prev] | ***<span title="[152]">[152]</span>*** | [**[153]**][Link-Next] |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
+
+</div>
+
+---
+
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/151-A_EA-EXT.info.md "Prev: [151] - (Gaster Paperbag_ed Blaster)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/153-A_EC-EXT.info.md "Next: [153] - (Gaster Paperbag_ed Dril)"
+
+<!-- Reffs-End -->

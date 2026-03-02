@@ -1,4 +1,14 @@
-# "Kamen Rider Mistress" Collection
+
+---
+
+# Kamen Rider Mistress's Collection
+
+> **Topic**: Generic
+>
+> **Syndicate**:  
+> Informasi koleksi bunch-nya Mistress
+
+**This for little Descripting...**
 
 ## Simbolic Indicator
 
@@ -16,7 +26,7 @@ title="AT-SECTION-BUNCH">
 
 ---
 
-## $${\textbf{\textcolor{#FF78D3}{Kamen \ Rider \ Mistress}}}$$ ([Main](/BASE/ENTRY_DOC/Main-Samples/4-Mistress))
+## $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main][Main-lnk])
 
 <ol><li>
 
@@ -129,3 +139,26 @@ Menunggu: xxx
 3000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
 
 ---
+
+<div align="center">
+
+| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
+| :-: | :-: | :-: |
+| [**[3]**][Link-Prev] | ***<span title="[4]">[4]</span>*** | [**[5]**][Link-Next] |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
+
+</div>
+
+---
+
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-BUNCH-SECTION
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-TYPE-SECTION
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
+<!-- Reffs : BTC Linking -->
+[Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md "Prev: [3] - (Accesive)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Next: [5] - (Elite*Hunfle)"
+
+<!-- Reffs-End -->
