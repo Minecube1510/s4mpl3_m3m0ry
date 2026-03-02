@@ -73,7 +73,7 @@ Menanti...
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/153-A_EC-EXT.info.md "Prev: [1_5_3] - (Gaster Paperbag'ed Dril)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/153-A_EC-EXT.info.md "Prev: [1_5_3] - (Gaster Paperbag'ed Drill)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/155-A_E_E-EXT.info.md "Next: [1_5__5] - (Gaster Paperbag'ed Equip.Winchester)"
 
 <!-- Reffs-End -->
