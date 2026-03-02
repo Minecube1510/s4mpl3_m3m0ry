@@ -63,11 +63,10 @@ title="JUDULAN HOLD - CATEGORY">
   |
   |
   TEMP:
-  <a href="/BASE/ENTRY_DOC/Main-Samples/ADD"
-  style=""><img img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
-  title="Click for more information."
-  alt="BTC-ALT"></a>
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+title="Click for more information."
+alt="BTC-ALT">][On-BTC]
 -->
 
   <b> GAMBAR <br>
@@ -83,11 +82,10 @@ title="JUDULAN HOLD - CATEGORY">
   |
   |
   TEMP:
-  <a href="/BASE/ENTRY_DOC/Main-Samples/ADD"
-  style=""><img img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
-  title="Click for more information."
-  alt="BTC-ALT"></a>
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+title="Click for more information."
+alt="BTC-ALT">][On-BTC]
 -->
 
   <b> GAMBAR <br>
@@ -103,11 +101,10 @@ title="JUDULAN HOLD - CATEGORY">
   |
   |
   TEMP:
-  <a href="/BASE/ENTRY_DOC/Main-Samples/ADD"
-  style=""><img img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
-  title="Click for more information."
-  alt="BTC-ALT"></a>
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+title="Click for more information."
+alt="BTC-ALT">][On-BTC]
 -->
   
   <b> GAMBAR <br>

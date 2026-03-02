@@ -1,4 +1,12 @@
+
+---
+
 # Gaster: Fossil Specs
+
+> **Topic**: Generic
+>
+> **Description**:  
+> Kumpulan Gaster jenis Fossil.
 
 ## Simbolic Indicator
 
@@ -12,16 +20,17 @@ title="AT-SECTION-TYPE">
 
   $${\textcolor{#00BEFF}{Fossil}}$$
 </td></tr><tr><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md"
-  style=""><img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-  title="Click for more information."
-  alt="BTC.GFB - Kafuu Chino"></a>
+
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+title="Click for more information."
+alt="BTC.GFB - Kafuu Chino">][On-Bunch]
 </th><th>
-  <img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-  title="SECTION_LOGO_TYPE-NO_LINK"
-  alt="BTC.GFB - Kafuu Chino">
+
+<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+title="SECTION_LOGO_TYPE-NO_LINK"
+alt="BTC.GFB - Kafuu Chino">
 </th></tr></table></div>
 
 ---
@@ -133,8 +142,23 @@ title="AT-SECTION-TYPE">
 
 ---
 
-<!--
-  Reff Link
--->
+<div align="center">
 
-[11_GF]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
+| :-: | :-: | :-: |
+| [**[F-@6!6]**][Link-Prev] | ***<span title="[11]">[11]</span>*** | [**[12]**][Link-Next] |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
+
+</div>
+
+---
+
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/11-AA-EXT.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin///?.info.md "Prev: [F-@6/6] - (HERE'Clovin'HERE Trickster-Side)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl///?.info.md "Next: [12] - (Gaster Jarl)"
+
+<!-- Reffs-End -->

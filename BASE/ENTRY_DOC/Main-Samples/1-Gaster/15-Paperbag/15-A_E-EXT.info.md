@@ -156,18 +156,7 @@ alt="BTC.HuPaWi - Jinja Natsume">
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**[1_4]**][Link-Prev] | ***<span title="[1_5]">[1_5]</span>*** | [**[F-16]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
-
-</div>
-
----
-
-<div align="center">
-
-| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
-| :-: | :-: | :-: |
-| [**[1_4]**][Link-Prev] | ***<span title="[1_5]">[1_5]</span>*** | [**[F-1!6]**][Link-Next] |
+| [**[1_4]**][Link-Prev] | ***<span title="[1_5]">[1_5]</span>*** | [**[f-1!6]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -180,6 +169,6 @@ alt="BTC.HuPaWi - Jinja Natsume">
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///?.info.md "Prev: [1_4] - (Gaster Raincoat'ed)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///?.info.md "Next: [F-1!6] - (Gaster Trickster-Side)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///?.info.md "Next: [f-1!6] - (Gaster Trickster-Side)"
 
 <!-- Reffs-End -->

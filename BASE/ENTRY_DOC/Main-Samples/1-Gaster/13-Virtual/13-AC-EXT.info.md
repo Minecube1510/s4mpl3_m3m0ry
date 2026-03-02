@@ -20,16 +20,17 @@ title="AT-SECTION-TYPE">
 
   $${\textcolor{#FF1B39}{Virtual}}$$
 </td></tr><tr><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md"
-  style=""><img draggable="false" width="100"
-  title="Click for more information."
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-  alt="BTC.GFB - Kafuu Chino"></a>
+
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+title="Click for more information."
+alt="BTC.GFB - Kafuu Chino">][On-Bunch]
 </th><th>
-  <img draggable="false" width="100"
-  title="SECTION_LOGO_TYPE-NO_LINK"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
-  alt="BTC.AVD - Natsu Megumi">
+
+<img draggable="false" width="100"
+title="SECTION_LOGO_TYPE-NO_LINK"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
+alt="BTC.AVD - Natsu Megumi">
 </th></tr></table></div>
 
 ---
