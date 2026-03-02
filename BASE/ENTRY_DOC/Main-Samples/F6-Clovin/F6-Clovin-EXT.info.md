@@ -144,7 +144,7 @@ Menunggu: xxx
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**[E_5_E]**][Link-Prev] | ***<span title="{{{FUUF-6-FUUF}}}">{{{FUUF-6-FUUF}}}</span>*** | [**{{{~1~}}}**][Link-Next] |
+| [**{{{--E_5_E--}}}**][Link-Prev] | ***<span title="{{{---FUUF-6-FUUF---}}}">{{{---FUUF-6-FUUF---}}}</span>*** | [**{{{-a'1'A-}}}**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -158,7 +158,7 @@ Menunggu: xxx
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: [E_5_E] - (Elite*Hunfle)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Next: {{{~1~}}} - (Gaster)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: {{{--E_5_E--}}} - (Elite*Hunfle)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Next: {{{-a'1'A-}}} - (Gaster)"
 
 <!-- Reffs-End -->

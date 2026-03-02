@@ -145,7 +145,7 @@ Menunggu: xxx
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**{{{~1~}}}**][Link-Prev] | ***<span title="{{{~2~}}}">{{{~2~}}}</span>*** | [**{{{~3~}}}**][Link-Next] |
+| [**{{{-a'1'A-}}}**][Link-Prev] | ***<span title="{{{-b'2'B-}}}">{{{-b'2'B-}}}</span>*** | [**{{{-c'3'C-}}}**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -159,7 +159,7 @@ Menunggu: xxx
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Prev: {{{~1~}}} - (Gaster)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md "Next: {{{~3~}}} - (Accesive)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Prev: {{{-a'1'A-}}} - (Gaster)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md "Next: {{{-c'3'C-}}} - (Accesive)"
 
 <!-- Reffs-End -->
