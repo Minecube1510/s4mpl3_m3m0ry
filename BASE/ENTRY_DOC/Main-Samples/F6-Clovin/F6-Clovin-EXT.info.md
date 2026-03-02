@@ -1,7 +1,7 @@
 
 ---
 
-# "Kamen Rider Clovin" Collection
+# Kamen Rider Clovin's Collection
 
 > **Topic**: Generic
 >
@@ -144,7 +144,7 @@ Menunggu: xxx
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**[F-6]**][Link-Prev] | ***<span title="[1]">[1]</span>*** | [**[2]**][Link-Next] |
+| [**[_5_]**][Link-Prev] | ***<span title="[F-6]">[F-6]</span>*** | [**[1]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -158,7 +158,7 @@ Menunggu: xxx
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: [5] - (Elite*Hunfle)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: [_5_] - (Elite*Hunfle)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Next: [1] - (Gaster)"
 
 <!-- Reffs-End -->

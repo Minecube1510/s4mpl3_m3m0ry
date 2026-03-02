@@ -13,8 +13,8 @@
 ## Simbolic Indicator
 
 <div align="center"><table>
-<tr><td align="center">
-title="AT-SECTION-BUNCH"
+<tr><td align="center"
+title="AT-SECTION-BUNCH">
 
   $${\textcolor{#FF1B39}{Accesive}}$$
 </td></tr><tr><th>
@@ -144,7 +144,7 @@ Menunggu: xxx
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**[2]**][Link-Prev] | ***<span title="[3]">[3]</span>*** | [**[4]**][Link-Next] |
+| [**[2]**][Link-Prev] | ***<span title="[3]">[3]</span>*** | [**[_4_]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -159,6 +159,6 @@ Menunggu: xxx
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Prev: [2] - (Spamor)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Next: [4] - (Elite*Mistress)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Next: [_4_] - (Elite*Mistress)"
 
 <!-- Reffs-End -->

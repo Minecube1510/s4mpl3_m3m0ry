@@ -1,4 +1,14 @@
+
+---
+
 # Gaster: Paperbag Spec-Grade, Kama-Weaponized
+
+> **Topic**: Report
+>
+> **Syndicate**:  
+> Laporan dari "Turnamen Jawara - 4"
+
+**This for little Descripting...**
 
 ## Simbolic Indicator
 
@@ -18,26 +28,52 @@ title="AT-SECTION-CATEGORY">
 </td>
 
 </tr><tr><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md"
-  style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
-  title="Click for more information."
-  alt="BTC.GFB - Kafuu Chino"></a>
+
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+title="Click for more information."
+alt="BTC.GFB - Kafuu Chino">][On-Bunch]
 </th><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md"
-  style=""><img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
-  title="Click for more information."
-  alt="BTC.HuPaWi - Jinja Natsume"></a>
+
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
+title="Click for more information."
+alt="BTC.HuPaWi - Jinja Natsume">][On-Type]
 </th><th>
-  <img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/d04_MiRaKa.png"
-  title="SECTION_LOGO_CATEGORY-NO_LINK"
-  alt="BTC.MiRaKa - Jinja Eru">
+
+<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
+title="SECTION_LOGO_CATEGORY-NO_LINK"
+alt="BTC.MiRaKa - Jinja Eru">
 </th></tr></table></div>
 
 ---
 
-A
+# $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$ $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
+
+## Pendahuluan
+
+Menanti...
 
 ---
+
+<div align="center">
+
+| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
+| :-: | :-: | :-: |
+| [**[1_5_3]**][Link-Prev] | ***<span title="[1_5__4]">[1_5__4]</span>*** | [**[1_5__5]**][Link-Next] |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
+
+</div>
+
+---
+
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/153-A_EC-EXT.info.md "Prev: [1_5_3] - (Gaster Paperbag'ed Dril)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/155-A_E_E-EXT.info.md "Next: [1_5__5] - (Gaster Paperbag'ed Equip.Winchester)"
+
+<!-- Reffs-End -->

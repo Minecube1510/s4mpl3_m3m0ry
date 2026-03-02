@@ -400,7 +400,7 @@ Tulis!
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**[F-146]**][Link-Prev] | ***<span title="[151]">[151]</span>*** | [**[152]**][Link-Next] |
+| [**[f-1_4!6-f]**][Link-Prev] | ***<span title="[1_5_1]">[1_5_1]</span>*** | [**[1_5_2]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -412,7 +412,7 @@ Tulis!
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.info.md "Prev: [F-146] - (Gaster Raincoat'ed ELDRITCH)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [152] - (Gaster Paperbag_ed Lance)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///?.info.md "Prev: [f-1_4!6-f] - (Gaster Raincoat'ed !ELDRITCH!)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [1_5_2] - (Gaster Paperbag'ed Lance)"
 
 <!-- Reffs-End -->
