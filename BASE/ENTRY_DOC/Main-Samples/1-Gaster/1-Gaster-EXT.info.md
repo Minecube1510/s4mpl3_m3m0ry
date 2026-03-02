@@ -1,7 +1,7 @@
 
 ---
 
-# "Kamen Rider Gaster" Collection
+# Kamen Rider Gaster's Collection
 
 > **Topic**: Generic
 >
@@ -18,16 +18,15 @@ title="AT-SECTION-BUNCH">
 
   $${\textcolor{#00BEFF}{Gaster}}$$
 </td></tr><tr><th>
-
-<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-title="SECTION_LOGO_BUNCH-NO_LINK"
-alt="BTC.GFB - Kafuu Chino">
+  <img draggable="false" width="100"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+  title="SECTION_LOGO_BUNCH-NO_LINK"
+  alt="BTC.GFB - Kafuu Chino">
 </th></tr></table></div>
 
 ---
 
-## $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main](/BASE/ENTRY_DOC/Main-Samples/1-Gaster))
+## $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main][Main-lnk])
 
 1. **001** - **006**
 
@@ -262,8 +261,10 @@ XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/)
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-BUNCH-SECTION
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-TYPE-SECTION
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
+<!-- Reffs : BTC Linking -->
+[Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Prev: [F-6] - (Clovin*Clown)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Next: [2] - Spamor"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Prev: [F-6] - (Clovin*the*Clown)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Next: [2] - (Spamor)"
 
 <!-- Reffs-End -->

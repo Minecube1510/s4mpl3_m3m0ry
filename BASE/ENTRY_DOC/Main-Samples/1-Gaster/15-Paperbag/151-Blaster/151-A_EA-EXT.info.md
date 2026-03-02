@@ -412,7 +412,7 @@ Tulis!
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: [F-146] - (Gaster Raincoat'ed ELDRITCH)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.info.md "Prev: [F-146] - (Gaster Raincoat'ed ELDRITCH)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [152] - (Gaster Paperbag_ed Lance)"
 
 <!-- Reffs-End -->
