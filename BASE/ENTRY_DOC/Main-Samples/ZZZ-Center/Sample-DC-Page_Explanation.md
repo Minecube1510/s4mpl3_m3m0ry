@@ -63,11 +63,10 @@ title="JUDULAN HOLD - CATEGORY">
   |
   |
   TEMP:
-  <a href="/A/Main-Samples/ADD"
-  style=""><img img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
-  title="Click for more information."
-  alt="BTC-ALT"></a>
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+title="Click for more information."
+alt="BTC-ALT">][On-BTC]
 -->
 
   <b> GAMBAR <br>
@@ -83,11 +82,10 @@ title="JUDULAN HOLD - CATEGORY">
   |
   |
   TEMP:
-  <a href="/A/Main-Samples/ADD"
-  style=""><img img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
-  title="Click for more information."
-  alt="BTC-ALT"></a>
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+title="Click for more information."
+alt="BTC-ALT">][On-BTC]
 -->
 
   <b> GAMBAR <br>
@@ -103,11 +101,10 @@ title="JUDULAN HOLD - CATEGORY">
   |
   |
   TEMP:
-  <a href="/A/Main-Samples/ADD"
-  style=""><img img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
-  title="Click for more information."
-  alt="BTC-ALT"></a>
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+title="Click for more information."
+alt="BTC-ALT">][On-BTC]
 -->
   
   <b> GAMBAR <br>
@@ -129,7 +126,8 @@ title="JUDULAN HOLD - CATEGORY">
 -->
   <img draggable="false" width="200"
   alt="Ini hanya tempatan gambar"
-src="/BASE/ASSETS/Main-Assets/Sample-Illust/.png">
+src="/BASE/ASSETS/Assets-Main/Sample-Illust/.png">
+src="/BASE/ASSETS/Assets-Main/Sample-Illust/.png">
 <br><br><b>
 
 GAMBAR ILUSTRASI SAMPEL
