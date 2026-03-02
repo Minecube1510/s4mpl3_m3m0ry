@@ -39,17 +39,6 @@ alt="BTC.GFB - Kafuu Chino">][On-Bunch]
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
 title="Click for more information."
 alt="BTC.HuPaWi - Jinja Natsume">][On-Type]
-  <a href="/A/Main-Samples/1-Gaster/1-Gaster-EXT.dc.md"
-  style=""><img img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-  title="Click for more information."
-  alt="BTC.GFB - Kafuu Chino"></a>
-</th><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md"
-  style=""><img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
-  title="Click for more information."
-  alt="BTC.HuPaWi - Jinja Natsume"></a>
 </th><th>
 
 <img draggable="false" width="100"
