@@ -56,11 +56,7 @@ alt="BTC-ALT">][On-Category]
 -->
   <img draggable="false" width="_"
   alt="Ini hanya tempatan gambar"
-<<<<<<< HEAD
-src="/B/Main-Assets/Sample-Illust/.png">
-=======
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png">
->>>>>>> cdbff0b ([Dev] Advances the Entry Doc structs - 0.2)
 <br><br><b>
 
 GAMBAR ILUSTRASI SAMPEL
