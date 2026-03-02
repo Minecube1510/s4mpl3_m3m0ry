@@ -5,7 +5,7 @@
 
 > **Topic**: Generic
 >
-> **Syndicate**:  
+> **Description**:  
 > Informasi koleksi bunch-nya Gaster
 
 **This for little Descripting...**
@@ -250,7 +250,7 @@ XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/)
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**[F-6]**][Link-Prev] | ***<span title="[1]">[1]</span>*** | [**[2]**][Link-Next] |
+| [**{{{FUUF-6-FUUF}}}**][Link-Prev] | ***<span title="{{{~1~}}}">{{{~1~}}}</span>*** | [**{{{~2~}}}**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -264,7 +264,7 @@ XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/)
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Prev: [F-6] - (Clovin*the*Clown)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Next: [2] - (Spamor)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Prev: {{{FUUF-6-FUUF}}} - (Clovin*the*Clown)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Next: {{{~2~}}} - (Spamor)"
 
 <!-- Reffs-End -->

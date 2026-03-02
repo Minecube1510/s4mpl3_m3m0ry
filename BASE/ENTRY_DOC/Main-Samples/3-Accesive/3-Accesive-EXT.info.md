@@ -5,7 +5,7 @@
 
 > **Topic**: Generic
 >
-> **Syndicate**:  
+> **Description**:  
 > Informasi koleksi bunch-nya Accesive
 
 **This for little Descripting...**
@@ -144,7 +144,7 @@ Menunggu: xxx
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**[2]**][Link-Prev] | ***<span title="[3]">[3]</span>*** | [**[_4_]**][Link-Next] |
+| [**{{{~2~}}}**][Link-Prev] | ***<span title="{{{~3~}}}">{{{~3~}}}</span>*** | [**{{{D_4_D}}}**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -158,7 +158,7 @@ Menunggu: xxx
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Prev: [2] - (Spamor)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Next: [_4_] - (Elite*Mistress)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Prev: {{{~2~}}} - (Spamor)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Next: {{{D_4_D}}} - (Elite*Mistress)"
 
 <!-- Reffs-End -->

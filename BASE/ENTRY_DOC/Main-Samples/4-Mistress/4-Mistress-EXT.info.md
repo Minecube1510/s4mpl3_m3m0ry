@@ -5,7 +5,7 @@
 
 > **Topic**: Generic
 >
-> **Syndicate**:  
+> **Description**:  
 > Informasi koleksi bunch-nya Mistress
 
 **This for little Descripting...**
@@ -144,7 +144,7 @@ Menunggu: xxx
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**[3]**][Link-Prev] | ***<span title="[_4_]">[_4_]</span>*** | [**[_5_]**][Link-Next] |
+| [**{{{~3~}}}**][Link-Prev] | ***<span title="{{{D_4_D}}}">{{{D_4_D}}}</span>*** | [**[E_5_E]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -158,7 +158,7 @@ Menunggu: xxx
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md "Prev: [3] - (Accesive)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Next: [_5_] - (Elite*Hunfle)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md "Prev: {{{~3~}}} - (Accesive)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Next: [E_5_E] - (Elite*Hunfle)"
 
 <!-- Reffs-End -->
