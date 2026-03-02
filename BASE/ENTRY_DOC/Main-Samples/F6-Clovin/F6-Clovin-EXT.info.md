@@ -1,53 +1,14 @@
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 755bc9d ([Dev] Advances the Entry Doc structs - 0.3.4)
-=======
->>>>>>> 16544e3 ([Dev] Advances the Entry Doc structs - 0.3.3)
 # Kamen Rider Clovin's Collection
 
 > **Topic**: Generic
 >
 > **Description**:  
-<<<<<<< HEAD
 > Informasi koleksi bunch-nya Clovin
 
 **This for little Descripting...**
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
-# "Kamen Rider Clovin" Collection
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
-=======
-# Kamen Rider Clovin's Collection
->>>>>>> 953940c ([Dev] Advances the Entry Doc structs - 0.3.4)
-=======
-=======
-# "Kamen Rider Clovin" Collection
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
->>>>>>> 16544e3 ([Dev] Advances the Entry Doc structs - 0.3.3)
-
-> **Topic**: Generic
->
-> **Syndicate**:  
-<<<<<<< HEAD
-=======
->>>>>>> d836d93 ([Dev] Advances the Entry Doc structs - 0.3.5)
-> Informasi koleksi bunch-nya Clovin
-
-**This for little Descripting...**
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-=======
-> Informasi koleksi bunch-nya Clovin
-
-**This for little Descripting...**
->>>>>>> 16544e3 ([Dev] Advances the Entry Doc structs - 0.3.3)
 
 ## Simbolic Indicator
 
@@ -181,59 +142,9 @@ Menunggu: xxx
 
 <div align="center">
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 908c96d ([Dev] Advances the Entry Doc structs - 0.3.9)
->>>>>>> a3c92f7 ([Dev] Advances the Entry Doc structs - 0.3.9)
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**{{{--E_5_E--}}}**][Link-Prev] | ***<span title="{{{---FUUF-6-FUUF---}}}">{{{---FUUF-6-FUUF---}}}</span>*** | [**{{{-a'1'A-}}}**][Link-Next] |
-<<<<<<< HEAD
-=======
-=======
-| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
-| :-: | :-: | :-: |
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-=======
->>>>>>> 755bc9d ([Dev] Advances the Entry Doc structs - 0.3.4)
-| [**[F-6]**][Link-Prev] | ***<span title="[1]">[1]</span>*** | [**[2]**][Link-Next] |
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
-=======
-| [**[_5_]**][Link-Prev] | ***<span title="[F-6]">[F-6]</span>*** | [**[1]**][Link-Next] |
->>>>>>> 953940c ([Dev] Advances the Entry Doc structs - 0.3.4)
-<<<<<<< HEAD
-=======
-| [**[E_5_E]**][Link-Prev] | ***<span title="{{{FUUF-6-FUUF}}}">{{{FUUF-6-FUUF}}}</span>*** | [**{{{~1~}}}**][Link-Next] |
->>>>>>> d836d93 ([Dev] Advances the Entry Doc structs - 0.3.5)
-<<<<<<< HEAD
-=======
-| [**{{{--E_5_E--}}}**][Link-Prev] | ***<span title="{{{---FUUF-6-FUUF---}}}">{{{---FUUF-6-FUUF---}}}</span>*** | [**{{{-a'1'A-}}}**][Link-Next] |
->>>>>>> 0ba2740 ([Dev] Advances the Entry Doc structs - 0.3.6)
->>>>>>> f2510fd ([Dev] Advances the Entry Doc structs - 0.3.6)
-=======
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-=======
->>>>>>> 755bc9d ([Dev] Advances the Entry Doc structs - 0.3.4)
-=======
-| ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
-| :-: | :-: | :-: |
-| [**{{{--E_5_E--}}}**][Link-Prev] | ***<span title="{{{---FUUF-6-FUUF---}}}">{{{---FUUF-6-FUUF---}}}</span>*** | [**{{{-a'1'A-}}}**][Link-Next] |
-=======
-| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
-| :-: | :-: | :-: |
-| [**[F-6]**][Link-Prev] | ***<span title="[1]">[1]</span>*** | [**[2]**][Link-Next] |
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
->>>>>>> 16544e3 ([Dev] Advances the Entry Doc structs - 0.3.3)
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -247,45 +158,7 @@ Menunggu: xxx
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin
 <!-- Reffs : Navigate -->
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: {{{--E_5_E--}}} - (Elite*Hunfle)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Next: {{{-a'1'A-}}} - (Gaster)"
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: {{{--E_5_E--}}} - (Elite*Hunfle)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Next: {{{-a'1'A-}}} - (Gaster)"
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: [5] - (Elite*Hunfle)"
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: [_5_] - (Elite*Hunfle)"
->>>>>>> 953940c ([Dev] Advances the Entry Doc structs - 0.3.4)
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Next: [1] - (Gaster)"
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: [E_5_E] - (Elite*Hunfle)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Next: {{{~1~}}} - (Gaster)"
->>>>>>> d836d93 ([Dev] Advances the Entry Doc structs - 0.3.5)
-<<<<<<< HEAD
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: {{{--E_5_E--}}} - (Elite*Hunfle)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Next: {{{-a'1'A-}}} - (Gaster)"
->>>>>>> 0ba2740 ([Dev] Advances the Entry Doc structs - 0.3.6)
->>>>>>> f2510fd ([Dev] Advances the Entry Doc structs - 0.3.6)
-=======
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: {{{--E_5_E--}}} - (Elite*Hunfle)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Next: {{{-a'1'A-}}} - (Gaster)"
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: [5] - (Elite*Hunfle)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Next: [1] - (Gaster)"
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
->>>>>>> 16544e3 ([Dev] Advances the Entry Doc structs - 0.3.3)
 
 <!-- Reffs-End -->

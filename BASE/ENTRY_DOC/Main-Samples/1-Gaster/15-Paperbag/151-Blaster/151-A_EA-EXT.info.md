@@ -5,24 +5,7 @@
 
 > **Topic**: Report
 >
-<<<<<<< HEAD
 > **Description**:  
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-> **Description**:  
-=======
-> **Syndicate**:  
->>>>>>> 9aa4738 ([Dev] Advances the Entry Doc structs - 0.2)
-=======
-> **Description**:  
->>>>>>> d836d93 ([Dev] Advances the Entry Doc structs - 0.3.5)
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-=======
-> **Syndicate**:  
->>>>>>> 9aa4738 ([Dev] Advances the Entry Doc structs - 0.2)
->>>>>>> 459bb6d ([Dev] Advances the Entry Doc structs - 0.2)
 > Laporan dari "Turnamen Jawara - 1"
 
 **This for little Descripting...**
@@ -45,30 +28,11 @@ title="AT-SECTION-CATEGORY">
 </td>
 
 </tr><tr><th>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 11f3209 ([Dev] Advances the Entry Doc structs - 0.1)
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/151-A_EA-EXT.dc.md
->>>>>>> e09e16e ([Dev] Advances the Entry Doc structs - 0.1)
-<<<<<<< HEAD
->>>>>>> 57703af ([Dev] Advances the Entry Doc structs - 0.3.1)
-=======
->>>>>>> 11f3209 ([Dev] Advances the Entry Doc structs - 0.1)
-<<<<<<<< HEAD:BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/151-A_EA-EXT.info.md
-<<<<<<< HEAD:BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/151-A_EA-EXT.info.md
-=======
->>>>>>> e2ac739 ([Dev] Advances the Entry Doc structs - 0.3.1)
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 title="Click for more information."
 alt="BTC.GFB - Kafuu Chino">][On-Bunch]
-<<<<<<< HEAD
 </th><th>
 
 [<img draggable="false" width="100"
@@ -81,50 +45,6 @@ alt="BTC.HuPaWi - Jinja Natsume">][On-Type]
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 title="SECTION_LOGO_CATEGORY-NO_LINK"
 alt="BTC.GFB - Kafuu Chino">
-=======
-========
->>>>>>>> 8ca64ce ([Dev] Add images to resources - 0.9.4):BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/151-A_EA-EXT.dc.md
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.dc.md"
-<<<<<<< HEAD
-=======
-========
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md"
->>>>>>>> e09e16e ([Dev] Advances the Entry Doc structs - 0.1):BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/151-A_EA-EXT.info.md
->>>>>>> e09e16e ([Dev] Advances the Entry Doc structs - 0.1)
-  style=""><img img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-  title="Click for more information."
-  alt="BTC.GFB - Kafuu Chino"></a>
-</th><th>
-<<<<<<< HEAD
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.dc.md"
-=======
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md"
->>>>>>> e09e16e ([Dev] Advances the Entry Doc structs - 0.1)
-  style=""><img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
-  title="Click for more information."
-  alt="BTC.HuPaWi - Jinja Natsume"></a>
-</th><th>
-  <img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-  title="SECTION_LOGO_CATEGORY-NO_LINK"
-  alt="BTC.GFB - Kafuu Chino">
->>>>>>> 879514e ([Dev] Add images to resources - 0.9.5):BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/151-A_EA-EXT.dc.md
-=======
-</th><th>
-
-[<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
-title="Click for more information."
-alt="BTC.HuPaWi - Jinja Natsume">][On-Type]
-</th><th>
-
-<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-title="SECTION_LOGO_CATEGORY-NO_LINK"
-alt="BTC.GFB - Kafuu Chino">
->>>>>>> e2ac739 ([Dev] Advances the Entry Doc structs - 0.3.1)
 </th></tr></table></div>
 
 ---
@@ -478,39 +398,9 @@ Tulis!
 
 <div align="center">
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 908c96d ([Dev] Advances the Entry Doc structs - 0.3.9)
->>>>>>> a3c92f7 ([Dev] Advances the Entry Doc structs - 0.3.9)
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[f-1_4!6-f]**][Link-Prev] | ***<span title="[1_5_1]">[1_5_1]</span>*** | [**[1_5_2]**][Link-Next] |
-<<<<<<< HEAD
-=======
-=======
-| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
-| :-: | :-: | :-: |
-<<<<<<< HEAD
-| [**[F-146]**][Link-Prev] | ***<span title="[151]">[151]</span>*** | [**[152]**][Link-Next] |
->>>>>>> e2ac739 ([Dev] Advances the Entry Doc structs - 0.3.1)
-=======
-| [**[f-1_4!6-f]**][Link-Prev] | ***<span title="[1_5_1]">[1_5_1]</span>*** | [**[1_5_2]**][Link-Next] |
->>>>>>> 953940c ([Dev] Advances the Entry Doc structs - 0.3.4)
->>>>>>> 755bc9d ([Dev] Advances the Entry Doc structs - 0.3.4)
-=======
-| ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
-| :-: | :-: | :-: |
-| [**[f-1_4!6-f]**][Link-Prev] | ***<span title="[1_5_1]">[1_5_1]</span>*** | [**[1_5_2]**][Link-Next] |
-=======
-| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
-| :-: | :-: | :-: |
-| [**[F-146]**][Link-Prev] | ***<span title="[151]">[151]</span>*** | [**[152]**][Link-Next] |
->>>>>>> e2ac739 ([Dev] Advances the Entry Doc structs - 0.3.1)
->>>>>>> 57703af ([Dev] Advances the Entry Doc structs - 0.3.1)
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -522,36 +412,7 @@ Tulis!
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 <!-- Reffs : Navigate -->
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///?.info.md "Prev: [f-1_4!6-f] - (Gaster Raincoat'ed !ELDRITCH!)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [1_5_2] - (Gaster Paperbag'ed Lance)"
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///?.info.md "Prev: [f-1_4!6-f] - (Gaster Raincoat'ed !ELDRITCH!)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [1_5_2] - (Gaster Paperbag'ed Lance)"
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: [F-146] - (Gaster Raincoat'ed ELDRITCH)"
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.info.md "Prev: [F-146] - (Gaster Raincoat'ed ELDRITCH)"
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [152] - (Gaster Paperbag_ed Lance)"
->>>>>>> e2ac739 ([Dev] Advances the Entry Doc structs - 0.3.1)
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///?.info.md "Prev: [f-1_4!6-f] - (Gaster Raincoat'ed !ELDRITCH!)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [1_5_2] - (Gaster Paperbag'ed Lance)"
->>>>>>> 953940c ([Dev] Advances the Entry Doc structs - 0.3.4)
->>>>>>> 755bc9d ([Dev] Advances the Entry Doc structs - 0.3.4)
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///?.info.md "Prev: [f-1_4!6-f] - (Gaster Raincoat'ed !ELDRITCH!)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [1_5_2] - (Gaster Paperbag'ed Lance)"
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: [F-146] - (Gaster Raincoat'ed ELDRITCH)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [152] - (Gaster Paperbag_ed Lance)"
->>>>>>> e2ac739 ([Dev] Advances the Entry Doc structs - 0.3.1)
->>>>>>> 57703af ([Dev] Advances the Entry Doc structs - 0.3.1)
 
 <!-- Reffs-End -->

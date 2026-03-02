@@ -5,24 +5,7 @@
 
 > **Topic**: Generic
 >
-<<<<<<< HEAD
 > **Description**:  
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-> **Description**:  
-=======
-> **Syndicate**:  
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
-=======
-> **Description**:  
->>>>>>> d836d93 ([Dev] Advances the Entry Doc structs - 0.3.5)
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-=======
-> **Syndicate**:  
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
->>>>>>> 16544e3 ([Dev] Advances the Entry Doc structs - 0.3.3)
 > Informasi koleksi bunch-nya Hunfle
 
 **This for little Descripting...**
@@ -159,59 +142,9 @@ Menunggu: xxx
 
 <div align="center">
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 908c96d ([Dev] Advances the Entry Doc structs - 0.3.9)
->>>>>>> a3c92f7 ([Dev] Advances the Entry Doc structs - 0.3.9)
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**{{{--D_4_D--}}}**][Link-Prev] | ***<span title="{{{--E_5_E--}}}">{{{--E_5_E--}}}</span>*** | [**{{{---FUUF-6-FUUF---}}}**][Link-Next] |
-<<<<<<< HEAD
-=======
-=======
-| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
-| :-: | :-: | :-: |
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-=======
->>>>>>> 755bc9d ([Dev] Advances the Entry Doc structs - 0.3.4)
-| [**[F-6]**][Link-Prev] | ***<span title="[1]">[1]</span>*** | [**[2]**][Link-Next] |
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
-=======
-| [**[_4_]**][Link-Prev] | ***<span title="[_5_]">[_5_]</span>*** | [**[F-6]**][Link-Next] |
->>>>>>> 953940c ([Dev] Advances the Entry Doc structs - 0.3.4)
-<<<<<<< HEAD
-=======
-| [**{{{D_4_D}}}**][Link-Prev] | ***<span title="[E_5_E]">[E_5_E]</span>*** | [**{{{FUUF-6-FUUF}}}**][Link-Next] |
->>>>>>> d836d93 ([Dev] Advances the Entry Doc structs - 0.3.5)
-<<<<<<< HEAD
-=======
-| [**{{{--D_4_D--}}}**][Link-Prev] | ***<span title="{{{--E_5_E--}}}">{{{--E_5_E--}}}</span>*** | [**{{{---FUUF-6-FUUF---}}}**][Link-Next] |
->>>>>>> 0ba2740 ([Dev] Advances the Entry Doc structs - 0.3.6)
->>>>>>> f2510fd ([Dev] Advances the Entry Doc structs - 0.3.6)
-=======
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-=======
->>>>>>> 755bc9d ([Dev] Advances the Entry Doc structs - 0.3.4)
-=======
-| ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
-| :-: | :-: | :-: |
-| [**{{{--D_4_D--}}}**][Link-Prev] | ***<span title="{{{--E_5_E--}}}">{{{--E_5_E--}}}</span>*** | [**{{{---FUUF-6-FUUF---}}}**][Link-Next] |
-=======
-| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
-| :-: | :-: | :-: |
-| [**[F-6]**][Link-Prev] | ***<span title="[1]">[1]</span>*** | [**[2]**][Link-Next] |
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
->>>>>>> 16544e3 ([Dev] Advances the Entry Doc structs - 0.3.3)
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -225,45 +158,7 @@ Menunggu: xxx
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle
 <!-- Reffs : Navigate -->
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: {{{--D_4_D--}}} - (Elite*Mistress)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Next: {{{---FUUF-6-FUUF---}}} - (Clovin*the*Clown)"
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: {{{--D_4_D--}}} - (Elite*Mistress)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Next: {{{---FUUF-6-FUUF---}}} - (Clovin*the*Clown)"
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: [4] - (Elite*Mistress)"
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: [_4_] - (Elite*Mistress)"
->>>>>>> 953940c ([Dev] Advances the Entry Doc structs - 0.3.4)
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Next: [F-6] - (Clovin*the*Clown)"
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: {{{D_4_D}}} - (Elite*Mistress)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Next: {{{FUUF-6-FUUF}}} - (Clovin*the*Clown)"
->>>>>>> d836d93 ([Dev] Advances the Entry Doc structs - 0.3.5)
-<<<<<<< HEAD
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: {{{--D_4_D--}}} - (Elite*Mistress)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Next: {{{---FUUF-6-FUUF---}}} - (Clovin*the*Clown)"
->>>>>>> 0ba2740 ([Dev] Advances the Entry Doc structs - 0.3.6)
->>>>>>> f2510fd ([Dev] Advances the Entry Doc structs - 0.3.6)
-=======
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: {{{--D_4_D--}}} - (Elite*Mistress)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Next: {{{---FUUF-6-FUUF---}}} - (Clovin*the*Clown)"
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: [4] - (Elite*Mistress)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Next: [F-6] - (Clovin*the*Clown)"
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
->>>>>>> 16544e3 ([Dev] Advances the Entry Doc structs - 0.3.3)
 
 <!-- Reffs-End -->

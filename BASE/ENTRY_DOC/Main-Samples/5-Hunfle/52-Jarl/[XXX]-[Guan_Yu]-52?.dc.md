@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 141e8c6 ([Dev] Advances the Entry Doc structs - 0.4.1)
 
 ---
 
@@ -14,13 +10,6 @@
 
 **This for little Descripting...**
 
-<<<<<<< HEAD
-=======
-# BTC Title
-
->>>>>>> 8ca64ce ([Dev] Add images to resources - 0.9.4)
-=======
->>>>>>> 141e8c6 ([Dev] Advances the Entry Doc structs - 0.4.1)
 ## Simbolic Indicator
 
 <div align="center"><table>
@@ -40,9 +29,6 @@ title="JUDULAN HOLD - CATEGORY">
 
 </tr><tr><th>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
 title="Click for more information."
@@ -59,69 +45,10 @@ alt="BTC.SJL - Jouga Maya">][On-Type]
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
 title="Click for more information."
 alt="BTC-ALT">][On-Category]
-=======
-  <a href="/BASE/ENTRY_DOC/Main-Samples/ADD"
-  style=""><img img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
-=======
-  <a href="/BASE/ENTRY_DOC/Main-Samples/ADD"
-  style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/?.png"
->>>>>>> 8ca64ce ([Dev] Add images to resources - 0.9.4)
-  title="Click for more information."
-  alt="BTC-ALT"></a>
-
-</th><th>
-
-  <a href="/BASE/ENTRY_DOC/Main-Samples/ADD"
-  style=""><img img draggable="false" width="100"
-<<<<<<< HEAD
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
-=======
-  src="/B/Main-Assets/BTC-Sign/?.png"
->>>>>>> 8ca64ce ([Dev] Add images to resources - 0.9.4)
-  title="Click for more information."
-  alt="BTC-ALT"></a>
-
-</th><th>
-
-  <a href="/BASE/ENTRY_DOC/Main-Samples/ADD"
-  style=""><img img draggable="false" width="100"
-<<<<<<< HEAD
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
-  title="Click for more information."
-  alt="BTC-ALT"></a>
-
->>>>>>> 879514e ([Dev] Add images to resources - 0.9.5)
-=======
-  src="/B/Main-Assets/BTC-Sign/?.png"
-  title="Click for more information."
-  alt="BTC-ALT"></a>
-
->>>>>>> 8ca64ce ([Dev] Add images to resources - 0.9.4)
-=======
-[<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
-title="Click for more information."
-alt="BTC-ALT">][On-Bunch]
-</th><th>
-
-[<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
-title="Click for more information."
-alt="BTC-ALT">][On-Type]
-</th><th>
-
-[<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
-title="Click for more information."
-alt="BTC-ALT">][On-Category]
->>>>>>> 141e8c6 ([Dev] Advances the Entry Doc structs - 0.4.1)
 </th></tr></table></div>
 
 ---
 
-<<<<<<< HEAD
 # Default Illustration
 
 <div align="center">
@@ -131,13 +58,8 @@ alt="BTC-ALT">][On-Category]
   /BASE/ASSETS/Assets-Main/Sample-Illust/__QWERTY__.png
 -->
   <img draggable="false" width="_"
-<<<<<<< HEAD
   alt="Ini hanya tempatan gambar"
-<<<<<<< HEAD
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png">
-=======
-src="/BASE/ASSETS/Assets-Main/Sample-Illust/.png">
->>>>>>> 879514e ([Dev] Add images to resources - 0.9.5)
 <br><br><b>
 
 GAMBAR ILUSTRASI SAMPEL
@@ -145,43 +67,11 @@ GAMBAR ILUSTRASI SAMPEL
 
 [[**Webnya darimana dapetnya?**][From-Web]]:
 "[*Sang Publisher atau Creator*][Publisher-Creator]"
-=======
-# Ilustrasi Default
-
-<div align="center">
-  <img draggable="false" width="200"
-  alt="Ini hanya tempatan gambar"
-src="/B/Main-Assets/Sample-Illust/.png">
-=======
-  alt="Ini hanya tempatan gambar"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png">
->>>>>>> 141e8c6 ([Dev] Advances the Entry Doc structs - 0.4.1)
-<br><br><b>
-
-GAMBAR ILUSTRASI SAMPEL
-</b><br>
-
-<<<<<<< HEAD
-[<a href=""><b>Webnya darimana dapetnya?</b></a>]:
-"<a href=""><i>Sang Publisher atau Creator</i></a>"
->>>>>>> 8ca64ce ([Dev] Add images to resources - 0.9.4)
-=======
-[[**Webnya darimana dapetnya?**][From-Web]]:
-"[*Sang Publisher atau Creator*][Publisher-Creator]"
->>>>>>> 141e8c6 ([Dev] Advances the Entry Doc structs - 0.4.1)
 </div>
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Personal Data Information
-=======
-# Informasi Data
->>>>>>> 8ca64ce ([Dev] Add images to resources - 0.9.4)
-=======
-# Personal Data Information
->>>>>>> e09e16e ([Dev] Advances the Entry Doc structs - 0.1)
 
 - **ID:** ***XXXX***  
 - **Sample Default Name:** *Nama Sampel*  
@@ -193,15 +83,7 @@ GAMBAR ILUSTRASI SAMPEL
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # General Explanations
-=======
-# Penjelasan Umum
->>>>>>> 8ca64ce ([Dev] Add images to resources - 0.9.4)
-=======
-# General Explanations
->>>>>>> e09e16e ([Dev] Advances the Entry Doc structs - 0.1)
 
 **MENULISLAH!**
 
@@ -209,8 +91,6 @@ GAMBAR ILUSTRASI SAMPEL
 
 ## Reff-Notes
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 - [Referensi 1][Reff-1]
 - [Referensi 2][Reff-2]
 - [Referensi 3][Reff-3]
@@ -243,44 +123,3 @@ GAMBAR ILUSTRASI SAMPEL
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"
 <!-- Reffs-End -->
-=======
-- [Referensi 1](github.com)
-- [Referensi 2](github.com)
-- [Referensi 3](github.com)
-
----
->>>>>>> 8ca64ce ([Dev] Add images to resources - 0.9.4)
-=======
-- [Referensi 1][Reff-1]
-- [Referensi 2][Reff-2]
-- [Referensi 3][Reff-3]
-
----
-
-<div align="center">
-
-| ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
-| :-: | :-: | :-: |
-| [**XXXX**][Link-Prev] | ***<span title="XXXX">XXXX</span>*** | [**XXXX**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
-
-</div>
-
----
-
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/ADD
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/ADD
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/ADD
-<!-- Reffs : Linking Online -->
-[From-Web]: image.png "Descript Web-Image"
-[Publisher-Creator]: link.com "Publisher/Creator name"
-<!-- Reffs : Linking Online -->
-[Reff-1]: github.com "Descript-Note 1"
-[Reff-2]: github.com "Descript-Note 2"
-[Reff-3]: github.com "Descript-Note 3"
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"
-<!-- Reffs-End -->
->>>>>>> 141e8c6 ([Dev] Advances the Entry Doc structs - 0.4.1)

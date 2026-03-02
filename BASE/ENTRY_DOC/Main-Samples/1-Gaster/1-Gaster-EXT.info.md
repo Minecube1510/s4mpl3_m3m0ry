@@ -1,53 +1,14 @@
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 16544e3 ([Dev] Advances the Entry Doc structs - 0.3.3)
-=======
->>>>>>> 459bb6d ([Dev] Advances the Entry Doc structs - 0.2)
 # Kamen Rider Gaster's Collection
 
 > **Topic**: Generic
 >
 > **Description**:  
-<<<<<<< HEAD
 > Informasi koleksi bunch-nya Gaster
 
 **This for little Descripting...**
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
-# "Kamen Rider Gaster" Collection
->>>>>>> 9aa4738 ([Dev] Advances the Entry Doc structs - 0.2)
-=======
-# Kamen Rider Gaster's Collection
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
-=======
-=======
-# "Kamen Rider Gaster" Collection
->>>>>>> 9aa4738 ([Dev] Advances the Entry Doc structs - 0.2)
->>>>>>> 459bb6d ([Dev] Advances the Entry Doc structs - 0.2)
-
-> **Topic**: Generic
->
-> **Syndicate**:  
-<<<<<<< HEAD
-=======
->>>>>>> d836d93 ([Dev] Advances the Entry Doc structs - 0.3.5)
-> Informasi koleksi bunch-nya Gaster
-
-**This for little Descripting...**
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-=======
-> Informasi koleksi bunch-nya Gaster
-
-**This for little Descripting...**
->>>>>>> 459bb6d ([Dev] Advances the Entry Doc structs - 0.2)
 
 ## Simbolic Indicator
 
@@ -57,11 +18,10 @@ title="AT-SECTION-BUNCH">
 
   $${\textcolor{#00BEFF}{Gaster}}$$
 </td></tr><tr><th>
-
-<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-title="SECTION_LOGO_BUNCH-NO_LINK"
-alt="BTC.GFB - Kafuu Chino">
+  <img draggable="false" width="100"
+  src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+  title="SECTION_LOGO_BUNCH-NO_LINK"
+  alt="BTC.GFB - Kafuu Chino">
 </th></tr></table></div>
 
 ---
@@ -288,49 +248,9 @@ XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/)
 
 <div align="center">
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 908c96d ([Dev] Advances the Entry Doc structs - 0.3.9)
->>>>>>> a3c92f7 ([Dev] Advances the Entry Doc structs - 0.3.9)
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**{{{---FUUF-6-FUUF---}}}**][Link-Prev] | ***<span title="{{{-a'1'A-}}}">{{{-a'1'A-}}}</span>*** | [**{{{-b'2'B-}}}**][Link-Next] |
-<<<<<<< HEAD
-=======
-=======
-| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
-| :-: | :-: | :-: |
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-| [**[F-6]**][Link-Prev] | ***<span title="[1]">[1]</span>*** | [**[2]**][Link-Next] |
->>>>>>> e2ac739 ([Dev] Advances the Entry Doc structs - 0.3.1)
-=======
-| [**{{{FUUF-6-FUUF}}}**][Link-Prev] | ***<span title="{{{~1~}}}">{{{~1~}}}</span>*** | [**{{{~2~}}}**][Link-Next] |
->>>>>>> d836d93 ([Dev] Advances the Entry Doc structs - 0.3.5)
-<<<<<<< HEAD
-=======
-| [**{{{---FUUF-6-FUUF---}}}**][Link-Prev] | ***<span title="{{{-a'1'A-}}}">{{{-a'1'A-}}}</span>*** | [**{{{-b'2'B-}}}**][Link-Next] |
->>>>>>> 0ba2740 ([Dev] Advances the Entry Doc structs - 0.3.6)
->>>>>>> f2510fd ([Dev] Advances the Entry Doc structs - 0.3.6)
-=======
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-=======
-| ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
-| :-: | :-: | :-: |
-| [**{{{---FUUF-6-FUUF---}}}**][Link-Prev] | ***<span title="{{{-a'1'A-}}}">{{{-a'1'A-}}}</span>*** | [**{{{-b'2'B-}}}**][Link-Next] |
-=======
-| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
-| :-: | :-: | :-: |
-| [**[F-6]**][Link-Prev] | ***<span title="[1]">[1]</span>*** | [**[2]**][Link-Next] |
->>>>>>> e2ac739 ([Dev] Advances the Entry Doc structs - 0.3.1)
->>>>>>> 57703af ([Dev] Advances the Entry Doc structs - 0.3.1)
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -341,66 +261,10 @@ XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/)
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-BUNCH-SECTION
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-TYPE-SECTION
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 16544e3 ([Dev] Advances the Entry Doc structs - 0.3.3)
-=======
->>>>>>> 57703af ([Dev] Advances the Entry Doc structs - 0.3.1)
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Prev: {{{---FUUF-6-FUUF---}}} - (Clovin*the*Clown)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Next: {{{-b'2'B-}}} - (Spamor)"
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<!-- Reffs : Navigate -->
-<<<<<<< HEAD
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: [F-6] - (Clovin*Clown)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [2] - Spamor"
->>>>>>> e2ac739 ([Dev] Advances the Entry Doc structs - 0.3.1)
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Prev: [F-6] - (Clovin*Clown)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Next: [2] - Spamor"
->>>>>>> ccaca96 ([Dev] Advances the Entry Doc structs - 0.3.2)
-<<<<<<< HEAD
-=======
-<!-- Reffs : BTC Linking -->
-[Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster
-<!-- Reffs : Navigate -->
-<<<<<<< HEAD
-<<<<<<< HEAD
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Prev: [F-6] - (Clovin*the*Clown)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Next: [2] - (Spamor)"
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Prev: {{{FUUF-6-FUUF}}} - (Clovin*the*Clown)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Next: {{{~2~}}} - (Spamor)"
->>>>>>> d836d93 ([Dev] Advances the Entry Doc structs - 0.3.5)
-<<<<<<< HEAD
-=======
->>>>>>> 0ba2740 ([Dev] Advances the Entry Doc structs - 0.3.6)
->>>>>>> f2510fd ([Dev] Advances the Entry Doc structs - 0.3.6)
-=======
->>>>>>> 331e2f4 ([Dev] Advances the Entry Doc structs - 0.3.5)
-=======
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Prev: [F-6] - (Clovin*the*Clown)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Next: [2] - (Spamor)"
->>>>>>> 3bbc14a ([Dev] Advances the Entry Doc structs - 0.3.3)
->>>>>>> 16544e3 ([Dev] Advances the Entry Doc structs - 0.3.3)
-=======
->>>>>>> d3541e0 ([Dev] Advances the Entry Doc structs - 0.3.2)
-=======
-=======
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: [F-6] - (Clovin*Clown)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [2] - Spamor"
->>>>>>> e2ac739 ([Dev] Advances the Entry Doc structs - 0.3.1)
->>>>>>> 57703af ([Dev] Advances the Entry Doc structs - 0.3.1)
 
 <!-- Reffs-End -->

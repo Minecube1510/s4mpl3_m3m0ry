@@ -46,11 +46,7 @@ alt="BTC-ALT">][On-Category]
 
 ---
 
-<<<<<<< HEAD
 # Default Illustration
-=======
-# Ilustrasi Default
->>>>>>> 141e8c6 ([Dev] Advances the Entry Doc structs - 0.4.1)
 
 <div align="center">
 <!--
@@ -110,15 +106,9 @@ GAMBAR ILUSTRASI SAMPEL
 ---
 
 <!-- Reffs : BTC Linking -->
-<<<<<<< HEAD
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples///.note.md
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples///.note.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples///.note.md
-=======
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/ADD
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/ADD
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/ADD
->>>>>>> 141e8c6 ([Dev] Advances the Entry Doc structs - 0.4.1)
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"
