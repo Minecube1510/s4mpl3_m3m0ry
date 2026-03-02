@@ -43,6 +43,10 @@
 [-] - Hybrijournals
 [-] - Troopsurvivers
 [-] - Creepypasta
+=======
+A - Data Center
+B - Assets
+C - Panduan
 
 ---
 

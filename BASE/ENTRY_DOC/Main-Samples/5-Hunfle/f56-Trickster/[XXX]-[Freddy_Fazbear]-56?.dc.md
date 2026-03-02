@@ -30,15 +30,15 @@ title="JUDULAN HOLD - CATEGORY">
 </tr><tr><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
 title="Click for more information."
-alt="BTC-ALT">][On-Bunch]
+alt="BTC.HuPaWi - Jinja Natsume">][On-Bunch]
 </th><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
 title="Click for more information."
-alt="BTC-ALT">][On-Type]
+alt="BTC.CloTriEld - Fuiba Fuyu">][On-Type]
 </th><th>
 
 [<img draggable="false" width="100"
@@ -109,9 +109,9 @@ GAMBAR ILUSTRASI SAMPEL
 ---
 
 <!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/ADD
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/ADD
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/ADD
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"

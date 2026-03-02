@@ -127,7 +127,6 @@ alt="BTC-ALT">][On-BTC]
   <img draggable="false" width="200"
   alt="Ini hanya tempatan gambar"
 src="/BASE/ASSETS/Assets-Main/Sample-Illust/.png">
-src="/BASE/ASSETS/Assets-Main/Sample-Illust/.png">
 <br><br><b>
 
 GAMBAR ILUSTRASI SAMPEL

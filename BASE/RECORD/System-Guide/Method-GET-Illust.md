@@ -110,7 +110,8 @@ curl -L -o path/nge/gambar.png "LINK_TADI_TARO.DISINI"
 ## Shortcut Temping
 
 ```py
-curl -L "https://link.com/gambar.png" -o B/Assets-Storages/[PNG].png
+curl -L "https://link.com/gambar.png" -o BASE/ASSETS/Assets-Storages/[PNG].png
+
 ```
 
 ---
