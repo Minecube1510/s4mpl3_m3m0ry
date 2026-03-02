@@ -12,16 +12,17 @@ title="AT-SECTION-TYPE">
 
   $${\textcolor{#B651FF}{Paperbag}}$$
 </td></tr><tr><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md"
-  style=""><img draggable="false" width="100"
-  title="Click for more information."
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-  alt="BTC.GFB - Kafuu Chino"></a>
+
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+title="Click for more information."
+alt="BTC.GFB - Kafuu Chino">][On-Bunch]
 </th><th>
-  <img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
-  title="SECTION_LOGO_TYPE-NO_LINK"
-  alt="BTC.HuPaWi - Jinja Natsume">
+
+<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
+title="Click for more information."
+alt="BTC.HuPaWi - Jinja Natsume">
 </th></tr></table></div>
 
 ---
@@ -142,3 +143,24 @@ title="AT-SECTION-TYPE">
 > [***Collection***: **Gaster** - **Paperbag** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch)
 
 ---
+
+<div align="center">
+
+| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
+| :-: | :-: | :-: |
+| [**[F-14]**][Link-Prev] | ***<span title="[15]">[15]</span>*** | [**[16]**][Link-Next] |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
+
+</div>
+
+---
+
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-TYPE-SECTION
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: [F-14] - (Gaster Raincoat_ed)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [16] - (Gaster Trickster-Side)"
+
+<!-- Reffs-End -->
