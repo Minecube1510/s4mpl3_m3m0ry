@@ -74,6 +74,6 @@ Menanti...
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/151-A_EA-EXT.info.md "Prev: [1_5_1] - (Gaster Paperbag'ed Blaster)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/153-A_EC-EXT.info.md "Next: [1_5_3] - (Gaster Paperbag'ed Dril)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/153-A_EC-EXT.info.md "Next: [1_5_3] - (Gaster Paperbag'ed Drill)"
 
 <!-- Reffs-End -->
