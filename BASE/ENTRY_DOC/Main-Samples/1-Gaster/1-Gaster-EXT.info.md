@@ -1,4 +1,14 @@
+
+---
+
 # "Kamen Rider Gaster" Collection
+
+> **Topic**: Generic
+>
+> **Syndicate**:  
+> Informasi koleksi bunch-nya Gaster
+
+**This for little Descripting...**
 
 ## Simbolic Indicator
 
