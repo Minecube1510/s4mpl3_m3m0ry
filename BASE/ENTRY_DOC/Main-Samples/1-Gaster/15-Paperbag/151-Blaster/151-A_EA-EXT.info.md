@@ -28,22 +28,23 @@ title="AT-SECTION-CATEGORY">
 </td>
 
 </tr><tr><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md"
-  style=""><img img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
-  title="Click for more information."
-  alt="BTC.GFB - Kafuu Chino"></a>
+
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+title="Click for more information."
+alt="BTC.GFB - Kafuu Chino">][On-Bunch]
 </th><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md"
-  style=""><img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/e05_HuPaWi.png"
-  title="Click for more information."
-  alt="BTC.HuPaWi - Jinja Natsume"></a>
+
+[<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
+title="Click for more information."
+alt="BTC.HuPaWi - Jinja Natsume">][On-Type]
 </th><th>
-  <img draggable="false" width="100"
-  src="/B/Main-Assets/BTC-Sign/a1a_GFB.png"
-  title="SECTION_LOGO_CATEGORY-NO_LINK"
-  alt="BTC.GFB - Kafuu Chino">
+
+<img draggable="false" width="100"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+title="SECTION_LOGO_CATEGORY-NO_LINK"
+alt="BTC.GFB - Kafuu Chino">
 </th></tr></table></div>
 
 ---
@@ -394,3 +395,24 @@ Tulis!
 > ?.
 
 ---
+
+<div align="center">
+
+| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
+| :-: | :-: | :-: |
+| [**[F-146]**][Link-Prev] | ***<span title="[151]">[151]</span>*** | [**[152]**][Link-Next] |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
+
+</div>
+
+---
+
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: [F-146] - (Gaster Raincoat'ed ELDRITCH)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [152] - (Gaster Paperbag_ed Lance)"
+
+<!-- Reffs-End -->
