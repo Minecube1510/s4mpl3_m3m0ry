@@ -160,7 +160,7 @@ alt="BTC.HuPaWi - Jinja Natsume">
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-TYPE-SECTION
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: [F-14] - (Gaster Raincoat_ed)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/152-A_EB-EXT.info.md "Next: [16] - (Gaster Trickster-Side)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster///?.dc.md "Prev: [F-14] - (Gaster Raincoat_ed)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster///?.dc.md "Next: [16] - (Gaster Trickster-Side)"
 
 <!-- Reffs-End -->
