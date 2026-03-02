@@ -109,9 +109,9 @@ GAMBAR ILUSTRASI SAMPEL
 ---
 
 <!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/ADD
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/ADD
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/ADD
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples///.note.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples///.note.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples///.note.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"

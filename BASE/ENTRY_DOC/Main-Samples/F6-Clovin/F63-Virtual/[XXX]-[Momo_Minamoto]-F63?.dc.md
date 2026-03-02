@@ -8,7 +8,7 @@
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**CLOVIN: Virtual Spec, ?**
 
 ## Simbolic Indicator
 
@@ -30,15 +30,15 @@ title="JUDULAN HOLD - CATEGORY">
 </tr><tr><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
 title="Click for more information."
-alt="BTC-ALT">][On-Bunch]
+alt="BTC.CloTriEld - Fuiba Fuyu">][On-Bunch]
 </th><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
 title="Click for more information."
-alt="BTC-ALT">][On-Type]
+alt="BTC.AVD - Natsu Megumi">][On-Type]
 </th><th>
 
 [<img draggable="false" width="100"
@@ -109,9 +109,9 @@ GAMBAR ILUSTRASI SAMPEL
 ---
 
 <!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/ADD
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/ADD
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/ADD
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"
