@@ -72,13 +72,13 @@ Menunggu: xxx
 
 > [**Gaster** - *Fossil*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil)
 >
-> [***GF*** Explanation](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/11-AA-EXT.dc.md)
+> [***GF*** Explanation](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/11-AA-EXT.info.md)
 
 ### $${\textbf{\textcolor{#00BEFF}{Fossil}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
 > [**Gaster** - **Fossil** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/111-Blaster)
 >
-> [Result of ***GFB***](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/111-Blaster/111-AAA-EXT.dc.md)
+> [Result of ***GFB***](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/111-Blaster/111-AAA-EXT.info.md)
 
 1. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/111-Blaster/)
 2. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/111-Blaster/)
@@ -104,7 +104,7 @@ X. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
 > [**Gaster** - *Paperbag*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag)
 >
-> [***Gaster Paperbag*** Explanation](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.dc.md)
+> [***Gaster Paperbag*** Explanation](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md)
 
 ### $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
@@ -156,7 +156,7 @@ X. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
 > [**Gaster** - **Paperbag** - *Drill*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
 >
-> [Result of **G.Pa.D**](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/153-A_EC-EXT.dc.md)
+> [Result of **G.Pa.D**](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/153-A_EC-EXT.info.md)
 
 XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/)  
 XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/)  
@@ -169,7 +169,7 @@ XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/)
 
 > [**Gaster** - **Paperbag** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
 >
-> [Result of **G.Pa.Ka**](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/154-A_E_D-EXT.dc.md)
+> [Result of **G.Pa.Ka**](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/154-A_E_D-EXT.info.md)
 
 XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/)  
 XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/)  
@@ -182,7 +182,7 @@ XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/)
 
 > [**Gaster** - **Paperbag** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
 >
-> [Result of **G.Pa.Wi**](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/155-A_E_E-EXT.dc.md)
+> [Result of **G.Pa.Wi**](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/155-A_E_E-EXT.info.md)
 
 XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/)  
 XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/)  
@@ -195,7 +195,7 @@ XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/)
 
 > [**Gaster** - **Paperbag** - *Eldritch*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
 >
-> [Result of **G.Pa.Eld**](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/f156-A_ExF-EXT.dc.md)
+> [Result of **G.Pa.Eld**](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/f156-A_ExF-EXT.info.md)
 
 XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/)  
 XXX. [AddPlease](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/)  

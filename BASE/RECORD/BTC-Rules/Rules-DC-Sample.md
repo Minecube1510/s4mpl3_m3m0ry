@@ -21,11 +21,11 @@ Isi Aturan
 
 ```py
 # Contoh formatan:
-> "1-Bunch-EXT.dc.md"
+> "1-Bunch-EXT.info.md"
 > "0001-a-111.dc"
 
 # Contoh hasil akhir:
-> "21-BT-EXT.dc.md"
+> "21-BT-EXT.info.md"
 > "1000-a-211.dc.md"
 ```
 

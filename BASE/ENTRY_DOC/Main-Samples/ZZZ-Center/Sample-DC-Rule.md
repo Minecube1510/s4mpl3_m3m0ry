@@ -107,7 +107,7 @@ GAMBAR BASIC
 
 ---
 <!-- Ini adalah section informasi data sampel -->
-# Informasi Data
+# Personal Data Information
 
 - **ID:** ***XXXX***  
 - **Sample Default Name:** *Nama Sampel*  
@@ -119,7 +119,7 @@ GAMBAR BASIC
 
 ---
 <!-- Ini adalah penjelasan explanatif tentang Sampel -->
-# Penjelasan Umum
+# General Explanations
 
 **MENULISLAH!**
 

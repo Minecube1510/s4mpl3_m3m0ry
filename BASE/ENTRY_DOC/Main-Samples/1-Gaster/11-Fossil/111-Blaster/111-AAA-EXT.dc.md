@@ -18,13 +18,13 @@ title="AT-SECTION-CATEGORY">
 </td>
 
 </tr><tr><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.dc.md"
+  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md"
   style=""><img draggable="false" width="100"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
   title="Click for more information."
   alt="BTC.GFB - Kafuu Chino"></a>
 </th><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/11-AA-EXT.dc.md"
+  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/11-AA-EXT.info.md"
   style=""><img draggable="false" width="100"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
   title="Click for more information."

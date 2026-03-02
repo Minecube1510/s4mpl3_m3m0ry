@@ -12,7 +12,7 @@ title="AT-SECTION-TYPE">
 
   $${\textcolor{#00BEFF}{Fossil}}$$
 </td></tr><tr><th>
-  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.dc.md"
+  <a href="/BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md"
   style=""><img draggable="false" width="100"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
   title="Click for more information."
@@ -137,4 +137,4 @@ title="AT-SECTION-TYPE">
   Reff Link
 -->
 
-[11_GF]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.dc.md
+[11_GF]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md

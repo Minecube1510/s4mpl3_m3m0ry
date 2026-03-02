@@ -1,4 +1,36 @@
+
+---
+
 # BTC Title
+
+<!--
+  Topic, adalah jenis file Entry Doc-nya.
+  Entry Doc adalah file MD dengan khusus DC. (".dc.md")
+
+  Dibagi pada sebagai berikut:
+  - [Generic], Entry Doc berupa menjelaskan Bunch, Type, dan Category.
+  - [Report], Seperti Generic, tapi ini berupa laporan. Ya, laporan untuk turnamen jawara-nya.
+  - [Sample], Entry Doc berisikan lembaran informasi utama Sampel.
+
+  Formatan Entry Doc di bawah berikut, adalah khusus topik "Sample".
+-->
+<!--
+  Syndicate, adalah tagaran perdataan.
+  Cara penggunaannya, kayak naro tag biasa aja gitu.
+
+  Contoh:
+  Deskripsi-nya: "Sample adalah ber-elemen. Elemennya api, lemah sama air. Bersenjata, kebiasaan pake pedang"
+
+  Maka sindikat-nya gini:
+  (elemental), (fire), (weaponry), (sword), (water_weak)
+-->
+
+> **Topic**: (Generic/Report/Sample)
+>
+> **Syndicate**:  
+> (Perdataan apapun lah dalam Sampel)
+
+**This for little Descripting...**
 
 ## Simbolic Indicator
 
@@ -94,6 +126,7 @@ title="JUDULAN HOLD - CATEGORY">
   alt="Ini hanya tempatan gambar"
 src="/BASE/ASSETS/Assets-Main/Sample-Illust/.png">
 <br><br><b>
+
 GAMBAR ILUSTRASI SAMPEL
 </b><br>
 
@@ -106,13 +139,13 @@ GAMBAR ILUSTRASI SAMPEL
   |
   [Web]: "Publisher/Creator"
 -->
-[<a href=""><b>Webnya darimana dapetnya?</b></a>]:
-"<a href=""><i>Sang Publisher atau Creator</i></a>"
+[[**Webnya darimana dapetnya?**][From-Web]]:
+"[*Sang Publisher atau Creator*][Publisher-Creator]"
 </div>
 
 ---
 <!-- Ini adalah section informasi data sampel -->
-# Informasi Data
+# Personal Data Information
 
 - **ID:** ***XXXX***  
 - **Sample Default Name:** *Nama Sampel*  
@@ -124,7 +157,7 @@ GAMBAR ILUSTRASI SAMPEL
 
 ---
 <!-- Ini adalah penjelasan explanatif tentang Sampel -->
-# Penjelasan Umum
+# General Explanations
 
 **MENULISLAH!**
 
@@ -132,8 +165,46 @@ GAMBAR ILUSTRASI SAMPEL
 <!-- Taro semua referensi-nya darimana aja, di sini -->
 ## Reff-Notes
 
-- [Referensi 1](github.com)
-- [Referensi 2](github.com)
-- [Referensi 3](github.com)
+- [Referensi 1][Reff-1]
+- [Referensi 2][Reff-2]
+- [Referensi 3][Reff-3]
 
 ---
+
+<div align="center">
+<!--
+  Dibawah merupakan tabel formatan MD-Github itu sendiri.
+  Section-nya adalah pada "baris ke-3" tabel-nya.
+  |
+  Edit saja "XXXX" tersebut, menjadi angka 4-digit ID Sampel-nya.
+-->
+
+| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
+| :-: | :-: | :-: |
+| [**XXXX**][Link-Prev] | <span title="XXXX">XXXX</span> | [**XXXX**][Link-Next] |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** Here **#** | **>->->->->** Next **>->->->->** |
+
+</div>
+
+---
+<!--
+  Ini adalah section reff-linking.
+
+  Section ini gak akan pernah di-display-kan.
+-->
+
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: link.dc.md
+[On-Type]: link.dc.md
+[On-Category]: link.dc.md
+<!-- Reffs : Linking Online -->
+[From-Web]: image.png "Descript Web-Image"
+[Publisher-Creator]: link.com "Publisher/Creator name"
+<!-- Reffs : Linking Online -->
+[Reff-1]: github.com "Descript-Note 1"
+[Reff-2]: github.com "Descript-Note 2"
+[Reff-3]: github.com "Descript-Note 3"
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"
+<!-- Reffs-End -->

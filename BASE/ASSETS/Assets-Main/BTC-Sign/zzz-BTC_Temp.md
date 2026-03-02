@@ -21,7 +21,7 @@ alt="BTC.GFB - Kafuu Chino">
 
 <div align="center">
 
-  <!-- ![BTC.GFB - Kafuu Chino][Chino_GFB_1] -->
+  ![BTC.GFB - Kafuu Chino][Chino_GFB_1]
 
   <img draggable="false"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
@@ -30,6 +30,7 @@ alt="BTC.GFB - Kafuu Chino">
 
   $${\textcolor{#00BEFF}{Original - 350}}$$
 </p><p align="center">
+
   <img draggable="false"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
   alt="BTC.GFB - Kafuu Chino" width="100">
@@ -57,7 +58,8 @@ alt="BTC.SJL - Jouga Maya">
 
 <div align="center">
 
-  <!-- ![BTC.SJL - Jouga Maya][Maya_SJL_2] -->
+  ![BTC.SJL - Jouga Maya][Maya_SJL_2]
+
   <img draggable="false"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
   alt="BTC.SJL - Jouga Maya">
@@ -92,7 +94,8 @@ alt="BTC.AVD - Natsu Megumi">
 
 <div align="center">
 
-  <!-- ![BTC.AVD - Natsu Megumi][Megu_AVD_3] -->
+  ![BTC.AVD - Natsu Megumi][Megu_AVD_3]
+
   <img draggable="false"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
   alt="BTC.AVD - Natsu Megumi">
@@ -127,7 +130,8 @@ alt="BTC.MiRaKa - Jinja Eru">
 
 <div align="center">
 
-  <!-- ![BTC.MiRaKa - Jinja Eru][Eru_MiRaKa_4] -->
+  ![BTC.MiRaKa - Jinja Eru][Eru_MiRaKa_4]
+
   <img draggable="false"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
   alt="BTC.MiRaKa - Jinja Eru">
@@ -162,7 +166,8 @@ alt="BTC.HuPaWi - Jinja Natsume">
 
 <div align="center">
 
-  <!-- ![BTC.HuPaWi - Jinja Natsume][Natsume_HuPaWi_5] -->
+  ![BTC.HuPaWi - Jinja Natsume][Natsume_HuPaWi_5]
+
   <img draggable="false"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
   alt="BTC.HuPaWi - Jinja Natsume">
@@ -197,7 +202,8 @@ alt="BTC.CloTriEld - Fuiba Fuyu">
 
 <div align="center">
 
-  <!-- ![BTC.CloTriEld - Fuiba Fuyu][Fuyu_CloTriEld_6] -->
+  ![BTC.CloTriEld - Fuiba Fuyu][Fuyu_CloTriEld_6]
+
   <img draggable="false"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
   alt="BTC.CloTriEld - Fuiba Fuyu">
@@ -238,12 +244,12 @@ e05_HuPaWi
 ff6_CloTriEld
   -->
 
-[Chino_GFB_1]: /BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png
-[Maya_SJL_2]: /BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png
-[Megu_AVD_3]: /BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png
-[Eru_MiRaKa_4]: /BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png
-[Natsume_HuPaWi_5]: /BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png
-[Fuyu_CloTriEld_6]: /BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png
+[Chino_GFB_1]: /BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png "BTC-SIGN for Gaster, Fossil, and Blaster"
+[Maya_SJL_2]: /BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png "BTC-SIGN for Spamor, Jarl, and Lance"
+[Megu_AVD_3]: /BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png "BTC-SIGN for Accesive, Virtual, and Drill"
+[Eru_MiRaKa_4]: /BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png "BTC-SIGN for Mistress, Raincoat, and Kama"
+[Natsume_HuPaWi_5]: /BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png "BTC-SIGN for Hunfle, Paperbag, and Winchester"
+[Fuyu_CloTriEld_6]: /BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png "BTC-SIGN for Clovin, Trickster, and Eldritch"
 
 <!-- Sources -->
 

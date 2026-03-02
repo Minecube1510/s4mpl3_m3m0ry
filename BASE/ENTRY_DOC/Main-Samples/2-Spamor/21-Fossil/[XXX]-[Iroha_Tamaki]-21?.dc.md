@@ -61,7 +61,7 @@ GAMBAR ILUSTRASI SAMPEL
 
 ---
 
-# Informasi Data
+# Personal Data Information
 
 - **ID:** ***XXXX***  
 - **Sample Default Name:** *Nama Sampel*  
@@ -73,7 +73,7 @@ GAMBAR ILUSTRASI SAMPEL
 
 ---
 
-# Penjelasan Umum
+# General Explanations
 
 **MENULISLAH!**
 

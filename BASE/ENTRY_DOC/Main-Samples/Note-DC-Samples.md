@@ -23,8 +23,12 @@ Berikut linking untuk templet-an menyediakan per-informasi-an tentang **5.616** 
 - Konklusi problematik
 
 ```txt
-Untuk file page-nya, itu memang wajib ".dc." gitu.
+Untuk file page-nya (Entry Doc), itu memang wajib ada ".dc.".
 DC artinya "Data Center".
+
+[02/03/2026]
+File ada juga ditambah lagi dengan ".info.".
+Entry Doc topic "Generic" adalah khusus untuk Info.
 
 Penamaannya gini:
 - [ID, paksakan 4 digit]
