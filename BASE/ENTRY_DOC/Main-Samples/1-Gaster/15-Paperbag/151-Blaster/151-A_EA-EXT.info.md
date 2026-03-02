@@ -1,4 +1,14 @@
+
+---
+
 # Gaster: Paperbag Spec-Grade, Blaster
+
+> **Topic**: Report
+>
+> **Syndicate**:  
+> Laporan dari "Turnamen Jawara - 1"
+
+**This for little Descripting...**
 
 ## Simbolic Indicator
 
