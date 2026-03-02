@@ -5,7 +5,7 @@
 
 > **Topic**: Generic
 >
-> **Syndicate**:  
+> **Description**:  
 > Informasi koleksi bunch-nya Hunfle
 
 **This for little Descripting...**
@@ -144,7 +144,7 @@ Menunggu: xxx
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**[_4_]**][Link-Prev] | ***<span title="[_5_]">[_5_]</span>*** | [**[F-6]**][Link-Next] |
+| [**{{{D_4_D}}}**][Link-Prev] | ***<span title="[E_5_E]">[E_5_E]</span>*** | [**{{{FUUF-6-FUUF}}}**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -158,7 +158,7 @@ Menunggu: xxx
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: [_4_] - (Elite*Mistress)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Next: [F-6] - (Clovin*the*Clown)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: {{{D_4_D}}} - (Elite*Mistress)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Next: {{{FUUF-6-FUUF}}} - (Clovin*the*Clown)"
 
 <!-- Reffs-End -->

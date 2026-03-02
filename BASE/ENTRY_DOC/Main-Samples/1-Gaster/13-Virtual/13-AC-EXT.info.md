@@ -1,4 +1,12 @@
+
+---
+
 # Gaster: Virtual Specs
+
+> **Topic**: Generic
+>
+> **Description**:  
+> Kumpulan Gaster jenis Virtual.
 
 ## Simbolic Indicator
 
@@ -141,3 +149,24 @@ title="AT-SECTION-TYPE">
 - [***Collection***: **Gaster** - **Virtual** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/f136-Eldritch)
 
 ---
+
+<div align="center">
+
+| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
+| :-: | :-: | :-: |
+| [**[12]**][Link-Prev] | ***<span title="[13]">[13]</span>*** | [**[1_4]**][Link-Next] |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
+
+</div>
+
+---
+
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl///?.info.md "Prev: [12] - (Gaster Jarl)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///?.info.md "Next: [1_4] - (Gaster Raincoat'ed)"
+
+<!-- Reffs-End -->

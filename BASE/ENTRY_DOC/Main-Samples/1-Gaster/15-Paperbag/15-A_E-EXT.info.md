@@ -1,4 +1,12 @@
+
+---
+
 # Gaster: Paperbag Graded-Specs
+
+> **Topic**: Generic
+>
+> **Description**:  
+> Kumpulan Gaster jenis Virtual.
 
 ## Simbolic Indicator
 
@@ -155,12 +163,23 @@ alt="BTC.HuPaWi - Jinja Natsume">
 
 ---
 
+<div align="center">
+
+| ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
+| :-: | :-: | :-: |
+| [**[1_4]**][Link-Prev] | ***<span title="[1_5]">[1_5]</span>*** | [**[F-1!6]**][Link-Next] |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
+
+</div>
+
+---
+
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-TYPE-SECTION
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster///?.info.md "Prev: [1_4] - (Gaster Raincoat_ed)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster///?.info.md "Next: [F-1!6] - (Gaster Trickster-Side)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///?.info.md "Prev: [1_4] - (Gaster Raincoat'ed)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///?.info.md "Next: [F-1!6] - (Gaster Trickster-Side)"
 
 <!-- Reffs-End -->

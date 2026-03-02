@@ -15,19 +15,24 @@
   Formatan Entry Doc di bawah berikut, adalah khusus topik "Sample".
 -->
 <!--
+  [~1~]
   Syndicate, adalah tagaran perdataan.
   Cara penggunaannya, kayak naro tag biasa aja gitu.
-
+  |
   Contoh:
   Deskripsi-nya: "Sample adalah ber-elemen. Elemennya api, lemah sama air. Bersenjata, kebiasaan pake pedang"
-
+  |
   Maka sindikat-nya gini:
   (elemental), (fire), (weaponry), (sword), (water_weak)
+
+  [~2~]
+  Kalo topik-nya selain "Sample", ya "Description" aja.
+  Jadi ya, deskripsi-kan lah Entry Doc dari topik Non-Sample tersebut.
 -->
 
 > **Topic**: (Generic/Report/Sample)
 >
-> **Syndicate**:  
+> **Syndicate/Description**:  
 > (Perdataan apapun lah dalam Sampel)
 
 **This for little Descripting...**

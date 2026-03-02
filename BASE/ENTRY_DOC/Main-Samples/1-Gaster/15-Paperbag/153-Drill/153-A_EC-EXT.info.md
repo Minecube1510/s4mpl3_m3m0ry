@@ -5,7 +5,7 @@
 
 > **Topic**: Report
 >
-> **Syndicate**:  
+> **Description**:  
 > Laporan dari "Turnamen Jawara - 3"
 
 **This for little Descripting...**
