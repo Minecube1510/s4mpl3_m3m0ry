@@ -21,7 +21,7 @@ title="AT-SECTION-BUNCH">
   <img draggable="false" width="100"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
   title="SECTION_LOGO_BUNCH-NO_LINK"
-  alt="BTC.MiRaKa - Jinja Eru" >
+  alt="BTC.MiRaKa - Jinja Eru">
 </th></tr></table></div>
 
 ---
@@ -144,7 +144,7 @@ Menunggu: xxx
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**[3]**][Link-Prev] | ***<span title="[4]">[4]</span>*** | [**[5]**][Link-Next] |
+| [**[3]**][Link-Prev] | ***<span title="[_4_]">[_4_]</span>*** | [**[_5_]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -159,6 +159,6 @@ Menunggu: xxx
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md "Prev: [3] - (Accesive)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Next: [5] - (Elite*Hunfle)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Next: [_5_] - (Elite*Hunfle)"
 
 <!-- Reffs-End -->

@@ -144,7 +144,7 @@ Menunggu: xxx
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**[F-6]**][Link-Prev] | ***<span title="[1]">[1]</span>*** | [**[2]**][Link-Next] |
+| [**[_4_]**][Link-Prev] | ***<span title="[_5_]">[_5_]</span>*** | [**[F-6]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -158,7 +158,7 @@ Menunggu: xxx
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: [4] - (Elite*Mistress)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: [_4_] - (Elite*Mistress)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Next: [F-6] - (Clovin*the*Clown)"
 
 <!-- Reffs-End -->

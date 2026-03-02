@@ -148,7 +148,7 @@ alt="BTC.HuPaWi - Jinja Natsume">
 
 | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== | ==~== ==~== ==~== ==~== |
 | :-: | :-: | :-: |
-| [**[F-14]**][Link-Prev] | ***<span title="[15]">[15]</span>*** | [**[16]**][Link-Next] |
+| [**[1_4]**][Link-Prev] | ***<span title="[1_5]">[1_5]</span>*** | [**[F-16]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
 
 </div>
@@ -160,7 +160,7 @@ alt="BTC.HuPaWi - Jinja Natsume">
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-TYPE-SECTION
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster///?.info.md "Prev: [F-14] - (Gaster Raincoat_ed)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster///?.info.md "Next: [16] - (Gaster Trickster-Side)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster///?.info.md "Prev: [1_4] - (Gaster Raincoat_ed)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster///?.info.md "Next: [F-1!6] - (Gaster Trickster-Side)"
 
 <!-- Reffs-End -->
