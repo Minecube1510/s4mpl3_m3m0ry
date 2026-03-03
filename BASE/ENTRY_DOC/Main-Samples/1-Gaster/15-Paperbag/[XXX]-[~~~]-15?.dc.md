@@ -110,7 +110,7 @@ GAMBAR ILUSTRASI SAMPEL
 
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag///.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"

@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Chica
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Elite-Hunfle: Trickster Empl_oti_onal, ?**
 
 ## Simbolic Indicator
 

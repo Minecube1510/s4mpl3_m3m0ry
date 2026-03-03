@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Ikaruga
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Accesive: Jarl Spec, ?**
 
 ## Simbolic Indicator
 

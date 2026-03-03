@@ -5,10 +5,8 @@
 
 > **Topic**: Report
 >
-> **Description**:  
-> Laporan dari "Turnamen Jawara - 6"
-
-**This for little Descripting...**
+**Description**:  
+Laporan dari "Turnamen Jawara - 6"
 
 ## Simbolic Indicator
 

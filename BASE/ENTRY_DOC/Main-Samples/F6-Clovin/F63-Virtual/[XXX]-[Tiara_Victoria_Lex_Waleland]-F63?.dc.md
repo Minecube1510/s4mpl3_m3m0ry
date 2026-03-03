@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Tiara Victoria Lex Waleland
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**CLOVIN: Virtual Spec, ?**
+**CLOVIN-IS-HERE: Virtual Spec, ?**
 
 ## Simbolic Indicator
 

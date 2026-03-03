@@ -4,11 +4,9 @@
 # Kamen Rider Mistress's Collection
 
 > **Topic**: Generic
->
-> **Description**:  
-> Informasi koleksi bunch-nya Mistress
 
-**This for little Descripting...**
+**Description**:  
+Informasi koleksi bunch-nya Mistress
 
 ## Simbolic Indicator
 

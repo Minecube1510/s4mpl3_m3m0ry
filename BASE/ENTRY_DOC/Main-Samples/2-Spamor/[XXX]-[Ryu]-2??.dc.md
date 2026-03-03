@@ -1,7 +1,7 @@
 
 ---
 
-# BTC Title
+# Ryu (Street Fighter)
 
 > **Topic**: Sample
 >

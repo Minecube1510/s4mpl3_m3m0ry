@@ -4,11 +4,9 @@
 # Kamen Rider Accesive's Collection
 
 > **Topic**: Generic
->
-> **Description**:  
-> Informasi koleksi bunch-nya Accesive
 
-**This for little Descripting...**
+**Description**:  
+Informasi koleksi bunch-nya Accesive
 
 ## Simbolic Indicator
 

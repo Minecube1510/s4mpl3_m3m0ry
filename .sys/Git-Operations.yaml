@@ -93,5 +93,25 @@ langkah-5:
   - git push --force-with-lease
 
 
-# Dalam
-# ?
+### Panduan dasar operasional Git Bash ###
+hitung-commit:
+  - git rev-list --count NAMA_BRANCH
+#
+kopas-all_file-no_commit:
+  - git rm -r .
+  - git checkout NAMA_BRANCH -- .
+#
+lanjut-dan-bersihkan:
+  - git rebase --continue
+  - clear
+#
+reset-otak-atik-commit:
+  - git reset --hard origin/dev
+  - clear
+#
+akan-mendatang-1:
+  - git ?
+akan-mendatang-2:
+  - git ?
+akan-mendatang-3:
+  - git ?

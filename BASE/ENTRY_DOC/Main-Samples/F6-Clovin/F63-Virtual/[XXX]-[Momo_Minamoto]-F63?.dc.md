@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Momo Minamoto (Momo) (Release the Spyce)
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**CLOVIN: Virtual Spec, ?**
+**CLOVIN-IS-HERE: Virtual Spec, ?**
 
 ## Simbolic Indicator
 

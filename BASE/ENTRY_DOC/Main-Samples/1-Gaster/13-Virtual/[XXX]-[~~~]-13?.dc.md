@@ -110,7 +110,7 @@ GAMBAR ILUSTRASI SAMPEL
 
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual///.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/13-AC-EXT.info.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"

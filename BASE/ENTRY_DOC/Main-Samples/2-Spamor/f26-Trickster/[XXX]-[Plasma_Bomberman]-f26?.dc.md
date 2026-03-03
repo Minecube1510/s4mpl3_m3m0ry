@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Plasma Bomberman
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Spamor: Trickster Empl_oti_onal, ?**
 
 ## Simbolic Indicator
 

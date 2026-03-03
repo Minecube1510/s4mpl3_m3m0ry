@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Jurard T Rexford
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Accesive: Fossil Spec, ?**
 
 ## Simbolic Indicator
 

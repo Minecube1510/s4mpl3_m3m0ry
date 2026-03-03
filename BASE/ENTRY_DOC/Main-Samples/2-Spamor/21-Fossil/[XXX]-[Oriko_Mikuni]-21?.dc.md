@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Oriko Mikuni
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Spamor: Fossil Spec, ?**
 
 ## Simbolic Indicator
 

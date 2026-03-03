@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Mommy Long Legs
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Elite-Mistress: Fossil Spec, ?**
 
 ## Simbolic Indicator
 

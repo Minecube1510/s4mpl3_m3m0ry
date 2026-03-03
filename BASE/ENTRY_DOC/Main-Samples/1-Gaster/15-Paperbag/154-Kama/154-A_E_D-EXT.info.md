@@ -4,11 +4,9 @@
 # Gaster: Paperbag Spec-Grade, Kama-Weaponized
 
 > **Topic**: Report
->
-> **Description**:  
-> Laporan dari "Turnamen Jawara - 4"
 
-**This for little Descripting...**
+**Description**:  
+Laporan dari "Turnamen Jawara - 4"
 
 ## Simbolic Indicator
 

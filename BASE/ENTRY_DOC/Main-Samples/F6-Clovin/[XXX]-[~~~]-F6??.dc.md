@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# BTC Sample Name
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**CLOVIN: ? ?, ?**
+**CLOVIN-IS-HERE: ? ?, ?**
 
 ## Simbolic Indicator
 

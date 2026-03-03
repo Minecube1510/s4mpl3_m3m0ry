@@ -4,11 +4,9 @@
 # Kamen Rider Gaster's Collection
 
 > **Topic**: Generic
->
-> **Description**:  
-> Informasi koleksi bunch-nya Gaster
 
-**This for little Descripting...**
+**Description**:  
+Informasi koleksi bunch-nya Gaster
 
 ## Simbolic Indicator
 

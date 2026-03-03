@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Hollow Knight
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**?: ? ?, ?**
 
 ## Simbolic Indicator
 

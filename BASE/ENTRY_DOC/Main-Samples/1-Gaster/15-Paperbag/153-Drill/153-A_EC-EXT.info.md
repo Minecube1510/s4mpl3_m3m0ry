@@ -4,11 +4,9 @@
 # Gaster: Paperbag Spec-Grade, Drill
 
 > **Topic**: Report
->
-> **Description**:  
-> Laporan dari "Turnamen Jawara - 3"
 
-**This for little Descripting...**
+**Description**:  
+Laporan dari "Turnamen Jawara - 3"
 
 ## Simbolic Indicator
 

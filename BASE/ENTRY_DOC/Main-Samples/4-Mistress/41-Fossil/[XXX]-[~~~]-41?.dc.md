@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# BTC Sample Name
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Elite-Mistress: Fossil Spec, ?**
 
 ## Simbolic Indicator
 
@@ -30,15 +30,15 @@ title="JUDULAN HOLD - CATEGORY">
 </tr><tr><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
 title="Click for more information."
-alt="BTC.SJL - Jouga Maya">][On-Bunch]
+alt="BTC.MiRaKa - Jinja Eru">][On-Bunch]
 </th><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
 title="Click for more information."
-alt="BTC.CloTriEld - Fuiba Fuyu">][On-Type]
+alt="BTC-ALT">][On-Type]
 </th><th>
 
 [<img draggable="false" width="100"
@@ -109,9 +109,9 @@ GAMBAR ILUSTRASI SAMPEL
 ---
 
 <!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor///.info.md
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"

@@ -4,11 +4,9 @@
 # Gaster: Paperbag Spec-Grade, Winchester-Weaponized
 
 > **Topic**: Report
->
-> **Description**:  
-> Laporan dari "Turnamen Jawara - 5"
 
-**This for little Descripting...**
+**Description**:  
+Laporan dari "Turnamen Jawara - 5"
 
 ## Simbolic Indicator
 

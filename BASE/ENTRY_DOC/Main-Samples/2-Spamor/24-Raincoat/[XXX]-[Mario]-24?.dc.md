@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Mario
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Spamor: Raincoat Spec-Grade, ?**
 
 ## Simbolic Indicator
 
