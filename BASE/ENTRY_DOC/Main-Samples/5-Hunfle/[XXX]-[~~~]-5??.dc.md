@@ -16,7 +16,7 @@
 <tr><td align="center"
 title="JUDULAN HOLD - BUNCH">
 
-  $${\textcolor{#FFFFFF}{Bunch}}$$
+  $${\textcolor{#B651FF}{Hunfle}}$$
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 

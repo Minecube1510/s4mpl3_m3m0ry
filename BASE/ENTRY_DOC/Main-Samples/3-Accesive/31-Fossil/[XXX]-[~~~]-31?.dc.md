@@ -16,11 +16,11 @@
 <tr><td align="center"
 title="JUDULAN HOLD - BUNCH">
 
-  $${\textcolor{#FFFFFF}{Bunch}}$$
+  $${\textcolor{#FF1B39}{Accesive}}$$
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 
-  $${\textcolor{#FFFFFF}{Type}}$$
+  $${\textcolor{#00BEFF}{Fossil}}$$
 </td><td align="center"
 title="JUDULAN HOLD - CATEGORY">
 
@@ -111,7 +111,7 @@ GAMBAR ILUSTRASI SAMPEL
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/31-Fossil///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/31-Fossil///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"

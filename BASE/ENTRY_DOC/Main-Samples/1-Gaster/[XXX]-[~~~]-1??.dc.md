@@ -27,7 +27,7 @@
 <tr><td align="center"
 title="JUDULAN HOLD - BUNCH">
 
-  $${\textcolor{#FFFFFF}{Bunch}}$$
+  $${\textcolor{#00BEFF}{Gaster}}$$
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 

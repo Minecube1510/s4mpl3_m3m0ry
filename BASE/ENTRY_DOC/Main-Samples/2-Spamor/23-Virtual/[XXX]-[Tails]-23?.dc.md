@@ -16,11 +16,11 @@
 <tr><td align="center"
 title="JUDULAN HOLD - BUNCH">
 
-  $${\textcolor{#FFFFFF}{Bunch}}$$
+  $${\textcolor{#FFC32B}{Spamor}}$$
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 
-  $${\textcolor{#FFFFFF}{Type}}$$
+  $${\textcolor{#FF1B39}{Virtual}}$$
 </td><td align="center"
 title="JUDULAN HOLD - CATEGORY">
 

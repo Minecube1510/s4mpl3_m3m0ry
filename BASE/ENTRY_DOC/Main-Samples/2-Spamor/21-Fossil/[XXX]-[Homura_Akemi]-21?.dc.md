@@ -16,11 +16,11 @@
 <tr><td align="center"
 title="JUDULAN HOLD - BUNCH">
 
-  $${\textcolor{#FFFFFF}{Bunch}}$$
+  $${\textcolor{#FFC32B}{Spamor}}$$
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 
-  $${\textcolor{#FFFFFF}{Type}}$$
+  $${\textcolor{#00BEFF}{Fossil}}$$
 </td><td align="center"
 title="JUDULAN HOLD - CATEGORY">
 
@@ -110,8 +110,8 @@ GAMBAR ILUSTRASI SAMPEL
 
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor///.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/21-Fossil///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/21-Fossil///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"
