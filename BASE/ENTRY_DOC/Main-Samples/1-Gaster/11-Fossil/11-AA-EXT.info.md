@@ -158,7 +158,7 @@ alt="BTC.GFB - Kafuu Chino">
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/11-AA-EXT.info.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin///?.info.md "Prev: [F-@6/6] - (HERE'Clovin'HERE Trickster-Side)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/Ff66-Trickster///?.info.md "Prev: [F-@6/6] - (HERE'Clovin'HERE Trickster-Side)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl///?.info.md "Next: [12] - (Gaster Jarl)"
 
 <!-- Reffs-End -->

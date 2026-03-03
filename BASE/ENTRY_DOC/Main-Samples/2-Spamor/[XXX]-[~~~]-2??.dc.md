@@ -16,7 +16,7 @@
 <tr><td align="center"
 title="JUDULAN HOLD - BUNCH">
 
-  $${\textcolor{#FFFFFF}{Bunch}}$$
+  $${\textcolor{#FFC32B}{Spamor}}$$
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 

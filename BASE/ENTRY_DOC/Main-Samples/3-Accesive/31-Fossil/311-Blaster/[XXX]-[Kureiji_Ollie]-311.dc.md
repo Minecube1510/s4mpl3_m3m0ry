@@ -16,11 +16,11 @@
 <tr><td align="center"
 title="JUDULAN HOLD - BUNCH">
 
-  $${\textcolor{#FFFFFF}{Bunch}}$$
+  $${\textcolor{#FF1B39}{Accesive}}$$
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 
-  $${\textcolor{#FFFFFF}{Type}}$$
+  $${\textcolor{#00BEFF}{Fossil}}$$
 </td><td align="center"
 title="JUDULAN HOLD - CATEGORY">
 

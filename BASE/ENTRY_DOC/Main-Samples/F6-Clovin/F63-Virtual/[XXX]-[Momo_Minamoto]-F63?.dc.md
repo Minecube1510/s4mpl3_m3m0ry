@@ -16,11 +16,11 @@
 <tr><td align="center"
 title="JUDULAN HOLD - BUNCH">
 
-  $${\textcolor{#FFFFFF}{Bunch}}$$
+  $${\textcolor{#6A96FF}{Clovin}}$$
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 
-  $${\textcolor{#FFFFFF}{Type}}$$
+  $${\textcolor{#FF1B39}{Vritual}}$$
 </td><td align="center"
 title="JUDULAN HOLD - CATEGORY">
 
@@ -110,8 +110,8 @@ GAMBAR ILUSTRASI SAMPEL
 
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin///.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F63-Virtual///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F63-Virtual///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"
