@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Eustiana von Astraea (Pecorine)
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Accesive: Raincoat Spec-Grade, ?**
 
 ## Simbolic Indicator
 

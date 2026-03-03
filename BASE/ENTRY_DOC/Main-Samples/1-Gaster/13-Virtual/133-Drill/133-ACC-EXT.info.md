@@ -4,11 +4,9 @@
 # Gaster: Virtual Spec, Drill
 
 > **Topic**: Report
->
-> **Description**:  
-> Laporan dari "Turnamen Jawara - X"
 
-**This for little Descripting...**
+**Description**:  
+Laporan dari "Turnamen Jawara - X"
 
 ## Simbolic Indicator
 

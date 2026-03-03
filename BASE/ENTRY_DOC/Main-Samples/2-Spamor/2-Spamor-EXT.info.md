@@ -4,11 +4,9 @@
 # Kamen Rider Spamor's Collection
 
 > **Topic**: Generic
->
-> **Description**:  
-> Informasi koleksi bunch-nya Spamor
 
-**This for little Descripting...**
+**Description**:  
+Informasi koleksi bunch-nya Spamor
 
 ## Simbolic Indicator
 

@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Happy the Humble Heifer
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Elite-Mistress: Jarl Spec, ?**
 
 ## Simbolic Indicator
 

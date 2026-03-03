@@ -1,7 +1,7 @@
 
 ---
 
-# BTC Title
+# Pac-Man
 
 > **Topic**: Sample
 >

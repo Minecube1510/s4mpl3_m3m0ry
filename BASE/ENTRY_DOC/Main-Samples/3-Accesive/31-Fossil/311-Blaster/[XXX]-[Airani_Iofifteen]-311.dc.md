@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Airani Iofifteen
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Accesive: Fossil Spec, Blaster**
 
 ## Simbolic Indicator
 
@@ -30,21 +30,21 @@ title="JUDULAN HOLD - CATEGORY">
 </tr><tr><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
 title="Click for more information."
-alt="BTC.SJL - Jouga Maya">][On-Bunch]
+alt="BTC.AVD - Natsu Megumi">][On-Bunch]
 </th><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 title="Click for more information."
-alt="BTC.CloTriEld - Fuiba Fuyu">][On-Type]
+alt="BTC.GFB - Kafuu Chino">][On-Type]
 </th><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 title="Click for more information."
-alt="BTC-ALT">][On-Category]
+alt="BTC.GFB - Kafuu Chino">][On-Category]
 </th></tr></table></div>
 
 ---
@@ -109,9 +109,9 @@ GAMBAR ILUSTRASI SAMPEL
 ---
 
 <!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor///.info.md
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/31-Fossil///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/31-Fossil/311-Blaster///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"

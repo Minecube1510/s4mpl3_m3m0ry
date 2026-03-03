@@ -1,7 +1,7 @@
 
 ---
 
-# BTC Title
+# BTC Sample Name
 
 <!--
   Topic, adalah jenis file Entry Doc-nya.

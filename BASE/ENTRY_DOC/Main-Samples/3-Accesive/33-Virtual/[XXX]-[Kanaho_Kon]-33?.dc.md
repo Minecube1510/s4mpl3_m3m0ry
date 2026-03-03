@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Kanaho Kon
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Accesive: Virtual Spec, ?**
 
 ## Simbolic Indicator
 
@@ -110,8 +110,8 @@ GAMBAR ILUSTRASI SAMPEL
 
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive///.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/33-Virtual///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/33-Virtual///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"

@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Yuuki Yuuna
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Accesive: Trickster Empl_oti_onal, ?**
 
 ## Simbolic Indicator
 

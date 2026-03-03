@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Ghidorah
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Elite-Hunfle: Fosill Spec, ?**
 
 ## Simbolic Indicator
 

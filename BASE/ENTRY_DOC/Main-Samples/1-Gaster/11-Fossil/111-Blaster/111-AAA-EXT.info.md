@@ -4,11 +4,9 @@
 # Gaster: Fossil Spec, Blaster
 
 > **Topic**: Report
->
-> **Description**:  
-> Laporan dari "Turnamen Jawara - ?"
 
-**This for little Descripting...**
+**Description**:  
+Laporan dari "Turnamen Jawara - ?"
 
 ## Simbolic Indicator
 

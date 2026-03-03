@@ -4,11 +4,9 @@
 # Kamen Rider Clovin's Collection
 
 > **Topic**: Generic
->
-> **Description**:  
-> Informasi koleksi bunch-nya Clovin
 
-**This for little Descripting...**
+**Description**:  
+Informasi koleksi bunch-nya Clovin
 
 ## Simbolic Indicator
 

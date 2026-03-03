@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Shadow the Hedgehog
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Spamor: Virtual Spec, ?**
 
 ## Simbolic Indicator
 
@@ -110,8 +110,8 @@ GAMBAR ILUSTRASI SAMPEL
 
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor///.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/23-Virtual///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/23-Virtual///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"

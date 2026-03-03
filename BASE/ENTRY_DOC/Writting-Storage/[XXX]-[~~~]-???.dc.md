@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# BTC Sample Name
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**?: ? ?, ?**
 
 ## Simbolic Indicator
 

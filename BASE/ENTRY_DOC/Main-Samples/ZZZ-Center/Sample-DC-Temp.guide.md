@@ -1,4 +1,4 @@
-# BTC Title
+# BTC Sample Name
 
 > **Topic**: Sample
 >

@@ -4,11 +4,9 @@
 # Kamen Rider Hunfle's Collection
 
 > **Topic**: Generic
->
-> **Description**:  
-> Informasi koleksi bunch-nya Hunfle
 
-**This for little Descripting...**
+**Description**:  
+Informasi koleksi bunch-nya Hunfle
 
 ## Simbolic Indicator
 

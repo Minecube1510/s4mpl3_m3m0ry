@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Error Sans
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**CLOVIN: Fossil Spec, ?**
+**CLOVIN-IS-HERE: Fossil Spec, ?**
 
 ## Simbolic Indicator
 

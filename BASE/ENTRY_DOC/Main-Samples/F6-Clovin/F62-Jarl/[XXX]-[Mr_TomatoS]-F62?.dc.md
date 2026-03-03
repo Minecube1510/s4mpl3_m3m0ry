@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Mr TomatoS
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**CLOVIN: Jarl Spec, ?**
+**CLOVIN-IS-HERE: Jarl Spec, ?**
 
 ## Simbolic Indicator
 

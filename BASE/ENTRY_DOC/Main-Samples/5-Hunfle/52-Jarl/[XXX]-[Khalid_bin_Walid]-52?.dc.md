@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Khalid bin Walid
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Elite-Hunfle: Jarl Spec, ?**
 
 ## Simbolic Indicator
 

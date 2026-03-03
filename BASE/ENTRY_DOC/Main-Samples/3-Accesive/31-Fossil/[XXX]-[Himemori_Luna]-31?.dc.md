@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# Himemori Luna
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Accesive: Fossil Spec, ?**
 
 ## Simbolic Indicator
 

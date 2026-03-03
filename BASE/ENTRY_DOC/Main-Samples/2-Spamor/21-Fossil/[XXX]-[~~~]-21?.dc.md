@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Title
+# BTC Sample Name
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**This for little Descripting...**
+**Spamor: Fossil Spec, ?**
 
 ## Simbolic Indicator
 
@@ -30,9 +30,9 @@ title="JUDULAN HOLD - CATEGORY">
 </tr><tr><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
 title="Click for more information."
-alt="BTC.AVD - Natsu Megumi">][On-Bunch]
+alt="BTC.SJL - Jouga Maya">][On-Bunch]
 </th><th>
 
 [<img draggable="false" width="100"
@@ -109,9 +109,9 @@ GAMBAR ILUSTRASI SAMPEL
 ---
 
 <!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive///.info.md
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/21-Fossil///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"
