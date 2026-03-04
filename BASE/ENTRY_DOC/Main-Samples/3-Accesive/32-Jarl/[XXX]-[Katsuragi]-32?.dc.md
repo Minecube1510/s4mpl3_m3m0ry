@@ -1,14 +1,14 @@
 
 ---
 
-# BTC Sample Name
+# Katsuragi, from 'Hanzō National Academy'
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**Elite-Mistress: Jarl Spec, ?**
+**Accesive: Jarl Spec, ?**
 
 ## Simbolic Indicator
 
@@ -16,7 +16,7 @@
 <tr><td align="center"
 title="JUDULAN HOLD - BUNCH">
 
-  $${\textcolor{#FF78D3}{Mistress}}$$
+  $${\textcolor{#FF1B39}{Accesive}}$$
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 
@@ -30,9 +30,9 @@ title="JUDULAN HOLD - CATEGORY">
 </tr><tr><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
 title="Click for more information."
-alt="BTC.MiRaKa - Jinja Eru">][On-Bunch]
+alt="BTC.AVD - Natsu Megumi">][On-Bunch]
 </th><th>
 
 [<img draggable="false" width="100"
@@ -109,9 +109,9 @@ GAMBAR ILUSTRASI SAMPEL
 ---
 
 <!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/42-Jarl///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/42-Jarl///.info.md
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/32-Jarl///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/32-Jarl///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"

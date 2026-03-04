@@ -36,9 +36,9 @@ alt="BTC.HuPaWi - Jinja Natsume">][On-Bunch]
 </th><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
 title="Click for more information."
-alt="BTC-ALT">][On-Type]
+alt="BTC.SJL - Jouga Maya">][On-Type]
 </th><th>
 
 [<img draggable="false" width="100"

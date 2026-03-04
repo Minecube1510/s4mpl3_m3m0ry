@@ -1,7 +1,7 @@
 
 ---
 
-# Asuka
+# Asuka, from 'Hanzō National Academy'
 
 > **Topic**: Sample
 >

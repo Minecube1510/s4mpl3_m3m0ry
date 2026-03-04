@@ -36,9 +36,9 @@ alt="BTC.MiRaKa - Jinja Eru">][On-Bunch]
 </th><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
 title="Click for more information."
-alt="BTC-ALT">][On-Type]
+alt="BTC.AVD - Natsu Megumi">][On-Type]
 </th><th>
 
 [<img draggable="false" width="100"
