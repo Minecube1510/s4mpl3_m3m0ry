@@ -20,7 +20,7 @@ title="JUDULAN HOLD - BUNCH">
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 
-    $${\textcolor{#FF1B39}{Vritual}}$$
+  $${\textcolor{#FF1B39}{Virtual}}$$
 </td><td align="center"
 title="JUDULAN HOLD - CATEGORY">
 

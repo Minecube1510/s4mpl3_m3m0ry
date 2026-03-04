@@ -102,7 +102,26 @@ https://drive.google.com/uc?export=download&id=[TARO_TIKET_PANJANG_TERSALIN_TADI
 
 - Command curl-nya sedikit berbeda
 curl -L -o path/nge/gambar.png "LINK_TADI_TARO.DISINI"
+```
 
+- **Cara paling mudah**
+
+```txt
+- Ke web-nya, laly cari gambar-nya
+- Klik kanan, dan pilih "Copy image"
+|
+- Kembali ke VSCode/Codespace, cari tab pada direktori (cari folder-nya lah)
+- Paste disitu (CTRL+V)
+
+Maka dia akan kasih gambar, dengan nama auto-nya "image.png".
+```
+
+Kenapa bisa gitu?
+
+```txt
+- Karena sudah ada extenstion "Paste Image", yang dibuat oleh "mushan".
+
+Jadi tinggal "CTRL+V", dia pun kasih "image.png" pada direktori yang tengah di tab-nya.
 ```
 
 ---
@@ -111,7 +130,6 @@ curl -L -o path/nge/gambar.png "LINK_TADI_TARO.DISINI"
 
 ```py
 curl -L "https://link.com/gambar.png" -o BASE/ASSETS/Assets-Storages/[PNG].png
-
 ```
 
 ---
