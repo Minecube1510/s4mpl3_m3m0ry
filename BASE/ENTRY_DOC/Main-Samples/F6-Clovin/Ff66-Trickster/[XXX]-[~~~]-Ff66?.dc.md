@@ -8,7 +8,7 @@
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**CLOVIN-IS-HERE: Virtual Spec, ?**
+**CLOVIN-IS-HERE: Trickster Empl_oti_onal, ?**
 
 ## Simbolic Indicator
 

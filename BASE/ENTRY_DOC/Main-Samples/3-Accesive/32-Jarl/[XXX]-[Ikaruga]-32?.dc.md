@@ -1,7 +1,7 @@
 
 ---
 
-# Ikaruga
+# Ikaruga, from 'Hanzō National Academy'
 
 > **Topic**: Sample
 >

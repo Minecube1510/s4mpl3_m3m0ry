@@ -8,7 +8,7 @@
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**Elite-Mistress: Jarl Spec, ?**
+**Elite-Mistress: Paperbag Graded-Spec, ?**
 
 ## Simbolic Indicator
 
@@ -20,7 +20,7 @@ title="JUDULAN HOLD - BUNCH">
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 
-  $${\textcolor{#FFC32B}{Jarl}}$$
+  $${\textcolor{#B651FF}{Paperbag}}$$
 </td><td align="center"
 title="JUDULAN HOLD - CATEGORY">
 
@@ -36,9 +36,9 @@ alt="BTC.MiRaKa - Jinja Eru">][On-Bunch]
 </th><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
 title="Click for more information."
-alt="BTC.SJL - Jouga Maya">][On-Type]
+alt="BTC.HuPaWi - Jinja Natsume">][On-Type]
 </th><th>
 
 [<img draggable="false" width="100"
@@ -110,8 +110,8 @@ GAMBAR ILUSTRASI SAMPEL
 
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/42-Jarl///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/42-Jarl///.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/45-Paperbag///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/45-Paperbag///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"

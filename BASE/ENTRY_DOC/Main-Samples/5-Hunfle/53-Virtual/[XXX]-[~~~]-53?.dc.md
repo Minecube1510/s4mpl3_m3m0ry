@@ -8,7 +8,7 @@
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**Elite-Mistress: Jarl Spec, ?**
+**Elite-Hunfle: Virtual Spec, ?**
 
 ## Simbolic Indicator
 
@@ -16,11 +16,11 @@
 <tr><td align="center"
 title="JUDULAN HOLD - BUNCH">
 
-  $${\textcolor{#FF78D3}{Mistress}}$$
+  $${\textcolor{#B651FF}{Hunfle}}$$
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 
-  $${\textcolor{#FFC32B}{Jarl}}$$
+    $${\textcolor{#FF1B39}{Vritual}}$$
 </td><td align="center"
 title="JUDULAN HOLD - CATEGORY">
 
@@ -30,15 +30,15 @@ title="JUDULAN HOLD - CATEGORY">
 </tr><tr><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
 title="Click for more information."
-alt="BTC.MiRaKa - Jinja Eru">][On-Bunch]
+alt="BTC.HuPaWi - Jinja Natsume">][On-Bunch]
 </th><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
 title="Click for more information."
-alt="BTC.SJL - Jouga Maya">][On-Type]
+alt="BTC.AVD - Natsu Megumi">][On-Type]
 </th><th>
 
 [<img draggable="false" width="100"
@@ -109,9 +109,9 @@ GAMBAR ILUSTRASI SAMPEL
 ---
 
 <!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/42-Jarl///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/42-Jarl///.info.md
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"

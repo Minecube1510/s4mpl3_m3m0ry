@@ -36,9 +36,9 @@ alt="BTC.CloTriEld - Fuiba Fuyu">][On-Bunch]
 </th><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 title="Click for more information."
-alt="BTC-ALT">][On-Type]
+alt="BTC.GFB - Kafuu Chino">][On-Type]
 </th><th>
 
 [<img draggable="false" width="100"
