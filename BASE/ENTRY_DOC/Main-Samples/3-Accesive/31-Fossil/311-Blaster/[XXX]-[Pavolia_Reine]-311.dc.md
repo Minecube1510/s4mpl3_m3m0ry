@@ -24,7 +24,7 @@ title="JUDULAN HOLD - TYPE">
 </td><td align="center"
 title="JUDULAN HOLD - CATEGORY">
 
-  $${\textcolor{#FFFFFF}{Category}}$$
+  $${\textcolor{#00BEFF}{Blaster}}$$
 </td>
 
 </tr><tr><th>

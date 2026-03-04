@@ -1,14 +1,14 @@
 
 ---
 
-# Moona Hoshinova
+# Huggy Wuggy
 
 > **Topic**: Sample
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
 
-**Accesive: Fossil Spec, Blaster**
+**Elite-Mistress: Fossil Spec, ?**
 
 ## Simbolic Indicator
 
@@ -16,7 +16,7 @@
 <tr><td align="center"
 title="JUDULAN HOLD - BUNCH">
 
-  $${\textcolor{#FF1B39}{Accesive}}$$
+  $${\textcolor{#FF78D3}{Mistress}}$$
 </td><td align="center"
 title="JUDULAN HOLD - TYPE">
 
@@ -24,15 +24,15 @@ title="JUDULAN HOLD - TYPE">
 </td><td align="center"
 title="JUDULAN HOLD - CATEGORY">
 
-  $${\textcolor{#00BEFF}{Blaster}}$$
+  $${\textcolor{#FFFFFF}{Category}}$$
 </td>
 
 </tr><tr><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
 title="Click for more information."
-alt="BTC.AVD - Natsu Megumi">][On-Bunch]
+alt="BTC.MiRaKa - Jinja Eru">][On-Bunch]
 </th><th>
 
 [<img draggable="false" width="100"
@@ -42,9 +42,9 @@ alt="BTC.GFB - Kafuu Chino">][On-Type]
 </th><th>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
 title="Click for more information."
-alt="BTC.GFB - Kafuu Chino">][On-Category]
+alt="BTC-ALT">][On-Category]
 </th></tr></table></div>
 
 ---
@@ -109,9 +109,9 @@ GAMBAR ILUSTRASI SAMPEL
 ---
 
 <!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/31-Fossil///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/31-Fossil/311-Blaster///.info.md
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/41-Fossil///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/41-Fossil///.info.md
 <!-- Reffs : Linking Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"
