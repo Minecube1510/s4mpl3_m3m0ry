@@ -27,25 +27,25 @@ title="JUDULAN HOLD - CATEGORY">
   $${\textcolor{#FFFFFF}{Category}}$$
 </td>
 
-</tr><tr><th>
+</tr><tr><td>
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
 title="Click for more information."
 alt="BTC.MiRaKa - Jinja Eru">][On-Bunch]
-</th><th>
+</td><td>
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
 title="Click for more information."
 alt="BTC.SJL - Jouga Maya">][On-Type]
-</th><th>
+</td><td>
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
 title="Click for more information."
 alt="BTC-ALT">][On-Category]
-</th></tr></table></div>
+</td></tr></table></div>
 
 ---
 

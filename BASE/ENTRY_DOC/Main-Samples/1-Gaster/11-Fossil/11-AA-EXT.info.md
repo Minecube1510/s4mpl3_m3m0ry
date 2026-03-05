@@ -19,19 +19,19 @@ title="Gaster, sang Ketua Admin">
 title="AT-SECTION-TYPE">
 
   $${\textcolor{#00BEFF}{Fossil}}$$
-</td></tr><tr><th>
+</td></tr><tr><td>
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 title="Click for more information."
 alt="BTC.GFB - Kafuu Chino">][On-Bunch]
-</th><th>
+</td><td>
 
 <img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 title="SECTION_LOGO_TYPE-NO_LINK"
 alt="BTC.GFB - Kafuu Chino">
-</th></tr></table></div>
+</td></tr></table></div>
 
 ---
 

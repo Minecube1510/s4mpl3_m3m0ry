@@ -15,12 +15,12 @@ Informasi koleksi bunch-nya Gaster
 title="AT-SECTION-BUNCH">
 
   $${\textcolor{#00BEFF}{Gaster}}$$
-</td></tr><tr><th>
+</td></tr><tr><td>
   <img draggable="false" width="100"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
   title="SECTION_LOGO_BUNCH-NO_LINK"
   alt="BTC.GFB - Kafuu Chino">
-</th></tr></table></div>
+</td></tr></table></div>
 
 ---
 

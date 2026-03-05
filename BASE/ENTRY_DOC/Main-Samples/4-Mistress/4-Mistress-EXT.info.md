@@ -15,12 +15,12 @@ Informasi koleksi bunch-nya Mistress
 title="AT-SECTION-BUNCH">
 
   $${\textcolor{#FF78D3}{Mistress}}$$
-</td></tr><tr><th>
+</td></tr><tr><td>
   <img draggable="false" width="100"
   src="/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
   title="SECTION_LOGO_BUNCH-NO_LINK"
   alt="BTC.MiRaKa - Jinja Eru">
-</th></tr></table></div>
+</td></tr></table></div>
 
 ---
 
