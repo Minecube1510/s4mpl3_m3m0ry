@@ -54,7 +54,7 @@ title="JUDULAN HOLD - CATEGORY">
   $${\textcolor{#FFFFFF}{Category}}$$
 </td>
 
-</tr><tr><th>
+</tr><tr><td>
 <!--
   Gambar ada pada:
   BASE/ASSETS/Assets-Main/BTC-Sign
@@ -73,7 +73,7 @@ alt="BTC-ALT">][On-BTC]
   UNTUK <br>
   BUNCH </b>
 
-</th><th>
+</td><td>
 <!--
   Gambar ada pada:
   BASE/ASSETS/Assets-Main/BTC-Sign
@@ -92,7 +92,7 @@ alt="BTC-ALT">][On-BTC]
   UNTUK <br>
   TYPE </b>
 
-</th><th>
+</td><td>
 <!--
   Gambar ada pada:
   BASE/ASSETS/Assets-Main/BTC-Sign
@@ -111,7 +111,7 @@ alt="BTC-ALT">][On-BTC]
   UNTUK <br>
   CATEGORY </b>
 
-</th></tr></table></div>
+</td></tr></table></div>
 
 ---
 <!-- Intinya, penjelasan naro gambar lah -->

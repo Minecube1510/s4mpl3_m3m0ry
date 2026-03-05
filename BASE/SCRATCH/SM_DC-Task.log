@@ -5,7 +5,13 @@
 
 `NOW`
 - Terus meng-update sempurna setiap file Entry Doc.
-- ?.
+- Edit tiap per-aset-an buat Entry Doc.
++ Karena itu semua wajib memiliki:
+    > "AuthorName"
+    > "AuthorLink"
+    |
+    > "ImageFrom"
+    > "ImageLink"
 
 `LATER`
 - .

@@ -19,19 +19,19 @@ title="Gaster, sang Ketua Admin">
 title="AT-SECTION-TYPE">
 
   $${\textcolor{#B651FF}{Paperbag}}$$
-</td></tr><tr><th>
+</td></tr><tr><td>
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 title="Click for more information."
 alt="BTC.GFB - Kafuu Chino">][On-Bunch]
-</th><th>
+</td><td>
 
 <img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
 title="Click for more information."
 alt="BTC.HuPaWi - Jinja Natsume">
-</th></tr></table></div>
+</td></tr></table></div>
 
 ---
 

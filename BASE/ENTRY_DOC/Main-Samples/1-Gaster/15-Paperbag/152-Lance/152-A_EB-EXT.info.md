@@ -25,25 +25,25 @@ title="AT-SECTION-CATEGORY">
   $${\textcolor{#FFC32B}{Lance}}$$
 </td>
 
-</tr><tr><th>
+</tr><tr><td>
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 title="Click for more information."
 alt="BTC.GFB - Kafuu Chino">][On-Bunch]
-</th><th>
+</td><td>
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
 title="Click for more information."
 alt="BTC.HuPaWi - Jinja Natsume">][On-Type]
-</th><th>
+</td><td>
 
 <img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
 title="SECTION_LOGO_CATEGORY-NO_LINK"
 alt="BTC.SJL - Jouga Maya">
-</th></tr></table></div>
+</td></tr></table></div>
 
 ---
 

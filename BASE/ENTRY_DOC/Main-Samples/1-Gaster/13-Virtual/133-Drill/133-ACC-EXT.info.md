@@ -25,25 +25,25 @@ title="AT-SECTION-CATEGORY">
   $${\textcolor{#FF1B39}{Drill}}$$
 </td>
 
-</tr><tr><th>
+</tr><tr><td>
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 title="Click for more information."
 alt="BTC.GFB - Kafuu Chino">][On-Bunch]
-</th><th>
+</td><td>
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
 title="Click for more information."
 alt="BTC.AVD - Natsu Megumi">][On-Type]
-</th><th>
+</td><td>
 
 <img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
 title="SECTION_LOGO_CATEGORY-NO_LINK"
 alt="BTC.AVD - Natsu Megumi">
-</th></tr></table></div>
+</td></tr></table></div>
 
 ---
 

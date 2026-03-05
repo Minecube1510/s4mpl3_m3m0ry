@@ -27,25 +27,25 @@ title="JUDULAN HOLD - CATEGORY">
   $${\textcolor{#FFFFFF}{Category}}$$
 </td>
 
-</tr><tr><th>
+</tr><tr><td>
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
 title="Click for more information."
 alt="BTC.HuPaWi - Jinja Natsume">][On-Bunch]atsume">][On-Bunch]
-</th><th>
+</td><td>
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
 title="Click for more information."
 alt="BTC.CloTriEld - Fuiba Fuyu">][On-Type]
-</th><th>
+</td><td>
 
 [<img draggable="false" width="100"
 src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
 title="Click for more information."
 alt="BTC-ALT">][On-Category]
-</th></tr></table></div>
+</td></tr></table></div>
 
 ---
 
