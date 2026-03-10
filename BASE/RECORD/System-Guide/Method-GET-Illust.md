@@ -1,3 +1,13 @@
+<!--
+---
+
+Doc_Article: Record
+
+---
+-->
+
+---
+
 # "GET" Illustration Method
 
 <!--

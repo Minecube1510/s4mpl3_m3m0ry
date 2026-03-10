@@ -1,3 +1,10 @@
+<!--
+---
+
+Doc_Article: Record
+
+---
+-->
 
 ---
 
@@ -17,6 +24,9 @@ Minimal, pas ngecek metadata-nya, isi detil-nya kalo harus scroll puluhan kali u
 
 ```txt
 exiftool -a -u -g1 FILE_NAME.png
+|
+exiftool -r -FileType -ext png .
+exiftool -r -FileType -ext webp .
 ```
 
 - Gunakan ini juga, untuk ngeliat, bahwa file PNG beneran PNG atau malah lain.
@@ -36,6 +46,15 @@ exiftool -r -ext png -if '$FileType ne "PNG"' \
 ```
 
 ```txt
+  [#] Cek semua file gambar berdasarkan format belakangnya
+find . -type f -name "*.png"
+find . -type f -name "*.gif"
+|
+find . -type f -name "*.webp"
+
+  [#] Teknik ngatasin sekaligus WEBP untuk per-PNG-an
+find . -type f -name "*.webp" -exec mv {} .storage/ \;
+
   [#] Convert semua nyamar palsu itu semua
 exiftool -r -ext png -if '$FileType eq "WEBP"' -p '$FilePath' . | while read f; do
   convert "$f" "${f}.png" && mv -f "${f}.png" "$f"
@@ -44,7 +63,25 @@ done
 exiftool -r -ext png -if '$FileType ne "PNG"' -p '$FilePath' . | while read f; do
   convert "$f" "${f}.png" && mv -f "${f}.png" "$f"
 done
+
+  [#] Convert-kan file PNG menjadi WEBP
+$ find . -type f -name "*.png" -exec sh -c '
+for f; do
+  convert "$f" "${f%.png}.webp"
+done
+' sh {} +
+|
+convert FILE_NAME.png FILE_NAME.webp
+
+  [#] Convert-kan file GIF menjadi WEBP
+convert FILE_NAME.gif FILE_NAME.webp
+|
+convert FILE_NAME.gif -coalesce FILE_NAME.webp
 ```
+
+> *Jangan lupa, setiap pertama kali file gambar (terutama PNG), harus ada di taruh dulu di tempat yang telah disediakan.*
+>
+> - "*/.storage*"
 
 ## Tujuan standar metode EXIF-ing
 
@@ -81,7 +118,11 @@ Cobalah melihat pada 2 file ("example-original.png" dan "example-standard.png") 
 
 - Standarisasi aset-aset Sample (PNG)
 
-Sebuah file yg PNG itu, pertama harus sesuai dengan tipe-nya (PNG ya tipe-nya adalah PNG, lah). Maka berikutnya, file PNG itu wajib Metadata-nya memiliki seperti "ExifTool", "System", "File", "PNG", dan "Composite".
+File PNG sepertinya terlalu berat, maka WEBP bisa menjadi solusi.  
+Begitu juga dengan GIF ataupun video (gak mungkin lah bisa sampe butuh video disini).
+
+Untuk file GIF sendiri, itu akan sama menjadi WEBP.  
+GIF sangat disarankan kepada WEBP, lebih efisien bahkan masih bisa seperti GIF di VSCode.
 
 Ini adalah metadata yang sebaiknya dihapus aja.
 
@@ -106,12 +147,16 @@ exiftool -a -u -g1 FILE_NAME.png
 .
 ```
 
-- [**Original Example**](/example-original.png)
-- [**Standard Example**](/example-standard.png)
+- [**Original Example**][Original-Example]
+- [**Standard Example**][Standard-Example]
 
 ## List nge-EXIF untuk mempermudah
 
-Menanti...
+Ini adalah list auto-command langsung nge-EXIF nya.  
+Tinggal kopas aja section-nya, lalu edit-edit dikit...  
+Beres deh!
+
+Silahkan untuk dipake pada sekian berikut...
 
 - Edit pokok Metadata aset-aset per-Sampel-an
 
@@ -238,12 +283,18 @@ alt="BTC.CloTriEld - Fuiba Fuyu" width="100">
 
 ---
 
+[Original-Example]: /.example/example-original.png "Contoh Original-nya, awal-awal"
+[Standard-Example]: /.example/example-standard.png "Contoh Standar-nya, standarisasi"
+
 <!--
 {#}
   exiftool -all= -overwrite_original FILE_NAME.png
   |
   exiftool -all= -overwrite_original -r BASE/ASSETS
   exiftool -all= -overwrite_original -r -ext png BASE/ASSETS
+  |
+  exiftool -overwrite_original -all= -r -if '$FileType eq "WEBP"' BASE/ASSETS
+  exiftool -all= -overwrite_original -r -ext webp BASE/ASSETS
 
   pngcrush -ow -rem allb file.png
 {#}

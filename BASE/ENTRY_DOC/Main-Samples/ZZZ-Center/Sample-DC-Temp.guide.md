@@ -1,3 +1,14 @@
+<!--
+---
+
+Doc_Article: Explanation
+Article_Path: Entry_Doc
+
+---
+-->
+
+---
+
 # BTC Sample Name
 
 > **Topic**: Sample

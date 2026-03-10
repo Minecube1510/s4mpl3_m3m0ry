@@ -1,3 +1,13 @@
+<!--
+---
+
+Doc_Article: Record
+
+---
+-->
+
+---
+
 # _**[Bunch] membentuk kepada '6' Type**_
 
 **Bunch** sendiri adalah nama-nama bagi sang **Kamen Rider**.  
