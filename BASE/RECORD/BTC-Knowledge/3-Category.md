@@ -1,3 +1,13 @@
+<!--
+---
+
+Doc_Article: Record
+
+---
+-->
+
+---
+
 # _**[Category] terdiri dari [26] 'Sampel'**_
 
 **Category** adalah persenjataan, atau senjata-senjata.  

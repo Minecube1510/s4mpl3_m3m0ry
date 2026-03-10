@@ -1,3 +1,13 @@
+<!--
+---
+
+Doc_Article: Assets
+
+---
+-->
+
+---
+
 # BTC Sign Templator
 
 Just use it!

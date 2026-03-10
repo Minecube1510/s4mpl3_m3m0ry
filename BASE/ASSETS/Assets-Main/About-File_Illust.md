@@ -1,3 +1,10 @@
+<!--
+---
+
+Doc_Article: Assets
+
+---
+-->
 
 ---
 
@@ -31,7 +38,11 @@ Cocok untuk keperluan cetak dengan kualitas tinggi.
 Format berbasis vektor, sering dipakai untuk desain dan website.
 
 - **WEBP** atau (*Web Picture*)  
-Format yang dikembangkan oleh Google, menawarkan ukuran lebih kecil dengan kualitas tetap bagus.
+Format yang dikembangkan oleh Google, menawarkan ukuran gambar yang lebih kecil dengan kualitas tetap bagus.
+
+- **WEBM** atau (*Web Media*)  
+Format yang dikembangkan oleh Google, menawarkan ukuran GIF ataupun video lebih kecil dengan kualitas tetap bagus.
+{!} Software seperti **VSCode** tidak dapat menampilkan file jenis ini.
 
 - **HEIF**/**HEIC** atau (*High Efficiency Image Format/Coding*)  
 Format gambar modern yang digunakan di perangkat Apple dengan efisiensi tinggi.

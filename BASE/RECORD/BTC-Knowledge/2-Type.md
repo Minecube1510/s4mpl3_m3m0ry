@@ -1,3 +1,13 @@
+<!--
+---
+
+Doc_Article: Record
+
+---
+-->
+
+---
+
 # _**[Type] terdiri dari [6] 'Category'**_
 
 **Type** adalah simbol elemennya. Unsur di dalamnya menjadikannya sebagai elemen bagi sang Kamen Rider.

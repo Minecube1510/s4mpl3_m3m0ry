@@ -1,3 +1,12 @@
+<!--
+---
+
+Doc_Article: Explanation
+Article_Path: Entry_Doc
+
+---
+-->
+
 Disinilah tempat menyimpan sementara para sampel-sampel itu...
 
 ---
