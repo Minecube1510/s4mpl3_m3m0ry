@@ -28,19 +28,19 @@ title="AT-SECTION-CATEGORY">
 </tr><tr><td>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 title="Click for more information."
 alt="BTC.GFB - Kafuu Chino">][On-Bunch]
 </td><td>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
 title="Click for more information."
 alt="BTC.AVD - Natsu Megumi">][On-Type]
 </td><td>
 
 <img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
 title="SECTION_LOGO_CATEGORY-NO_LINK"
 alt="BTC.HuPaWi - Jinja Natsume">
 </td></tr></table></div>
@@ -54,13 +54,13 @@ alt="BTC.HuPaWi - Jinja Natsume">
 Menanti...
 
 ---
-
-<div align="center">
+<div align="center"
+id="endfoot-linker">
 
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[13_4]**][Link-Prev] | ***<span title="[13_5]">[13_5]</span>*** | [**[f-13!6-f]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][EDP] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 

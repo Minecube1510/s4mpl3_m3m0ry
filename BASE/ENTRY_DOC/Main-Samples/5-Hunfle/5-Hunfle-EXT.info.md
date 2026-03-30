@@ -1,4 +1,10 @@
+<!--
+---
 
+Doc_Article: Explanation
+
+---
+-->
 ---
 
 # Kamen Rider Hunfle's Collection
@@ -17,7 +23,7 @@ title="AT-SECTION-BUNCH">
   $${\textcolor{#B651FF}{Hunfle}}$$
 </td></tr><tr><td>
   <img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
+  src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
   title="SECTION_LOGO_BUNCH-NO_LINK"
   alt="BTC.HuPaWi - Jinja Natsume" >
 </td></tr></table></div>
@@ -137,8 +143,8 @@ Menunggu: xxx
 4000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
 
 ---
-
-<div align="center">
+<div align="center"
+id="endfoot-linker">
 
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |

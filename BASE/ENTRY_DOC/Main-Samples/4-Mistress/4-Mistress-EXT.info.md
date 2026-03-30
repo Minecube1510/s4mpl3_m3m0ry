@@ -1,4 +1,10 @@
+<!--
+---
 
+Doc_Article: Explanation
+
+---
+-->
 ---
 
 # Kamen Rider Mistress's Collection
@@ -17,7 +23,7 @@ title="AT-SECTION-BUNCH">
   $${\textcolor{#FF78D3}{Mistress}}$$
 </td></tr><tr><td>
   <img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
+  src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
   title="SECTION_LOGO_BUNCH-NO_LINK"
   alt="BTC.MiRaKa - Jinja Eru">
 </td></tr></table></div>
@@ -137,13 +143,13 @@ Menunggu: xxx
 3000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
 
 ---
-
-<div align="center">
+<div align="center"
+id="endfoot-linker">
 
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**{{{-c'3'C-}}}**][Link-Prev] | ***<span title="{{{--D_4_D--}}}">{{{--D_4_D--}}}</span>*** | [**{{{--E_5_E--}}}**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][EDP] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 

@@ -1,4 +1,10 @@
+<!--
+---
 
+Doc_Article: Explanation
+
+---
+-->
 ---
 
 # Kamen Rider Clovin's Collection
@@ -17,7 +23,7 @@ title="AT-SECTION-BUNCH">
   $${\textcolor{#6A96FF}{Clovin}}$$
 </td></tr><tr><td>
   <img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
+  src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
   title="SECTION_LOGO_BUNCH-NO_LINK"
   alt="BTC.CloTriEld - Fuiba Fuyu">
 </td></tr></table></div>
@@ -137,13 +143,13 @@ Menunggu: xxx
 5000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
 
 ---
-
-<div align="center">
+<div align="center"
+id="endfoot-linker">
 
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**{{{--E_5_E--}}}**][Link-Prev] | ***<span title="{{{---FUUF-6-FUUF---}}}">{{{---FUUF-6-FUUF---}}}</span>*** | [**{{{-a'1'A-}}}**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][EDP] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 

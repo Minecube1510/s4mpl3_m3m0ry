@@ -97,22 +97,22 @@ Sepertinya dalam penanganan ini, emang perlu sedikit mikir secara kerja keras ya
   Disemangatin tuh, SEMANGAT
 -->
 <img draggable="false" title=""
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 alt="BTC.GFB - Kafuu Chino" width="100">
 <img draggable="false" title=""
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
 alt="BTC.SJL - Jouga Maya" width="100">
 <img draggable="false" title=""
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
 alt="BTC.AVD - Natsu Megumi" width="100">
 <img draggable="false" title=""
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
 alt="BTC.MiRaKa - Jinja Eru" width="100">
 <img draggable="false" title=""
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
 alt="BTC.HuPaWi - Jinja Natsume" width="100">
 <img draggable="false" title=""
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
 alt="BTC.CloTriEld - Fuiba Fuyu" width="100">
 <!--
   [END]

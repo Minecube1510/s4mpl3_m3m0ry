@@ -6,8 +6,12 @@ Article_Path: Entry_Doc
 
 ---
 -->
-
 ---
+<div align="center">
+
+### Entry Doc Page
+
+</div>
 
 # BTC Sample Name
 
@@ -38,10 +42,15 @@ Article_Path: Entry_Doc
   Jadi ya, deskripsi-kan lah Entry Doc dari topik Non-Sample tersebut.
 -->
 
-> **Topic**: (Generic/Report/Sample)
+> **Topic**: (Generic/Report/Sample)  
+> **Title**: This for little Descripting...  
+> **Segment**: Segmen
 >
 > **Syndicate/Description**:  
 > (Perdataan apapun lah dalam Sampel)
+>
+> - [Sample Information][Sample-Info]
+> - [Page Navigation][Endfoot]
 
 **This for little Descripting...**
 
@@ -66,13 +75,16 @@ title="JUDULAN HOLD - CATEGORY">
 <!--
   Gambar ada pada:
   BASE/ASSETS/Assets-Main/BTC-Sign
+    [16/03/2026 - 11:49]
+  Mulai sekarang, WAJIB linking secara dari HTTPS. Ini demi keamanan:
+  https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main
   |
   Lalu ambillah salah satu dari 6 PNG, berdasarkan urutannya.
   |
   |
   TEMP:
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
 title="Click for more information."
 alt="BTC-ALT">][On-BTC]
 -->
@@ -91,7 +103,7 @@ alt="BTC-ALT">][On-BTC]
   |
   TEMP:
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
 title="Click for more information."
 alt="BTC-ALT">][On-BTC]
 -->
@@ -110,7 +122,7 @@ alt="BTC-ALT">][On-BTC]
   |
   TEMP:
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
 title="Click for more information."
 alt="BTC-ALT">][On-BTC]
 -->
@@ -134,7 +146,7 @@ alt="BTC-ALT">][On-BTC]
 -->
   <img draggable="false" width="200"
   alt="Ini hanya tempatan gambar"
-src="/BASE/ASSETS/Assets-Main/Sample-Illust/.png">
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/Sample-Illust/.png">
 <br><br><b>
 
 GAMBAR ILUSTRASI SAMPEL
@@ -151,6 +163,10 @@ GAMBAR ILUSTRASI SAMPEL
 -->
 [[**Webnya darimana dapetnya?**][From-Web]]:
 "[*Sang Publisher atau Creator*][Publisher-Creator]"
+
+<!-- Reffs : Linking Assets Online -->
+[From-Web]: image.png "Descript Web-Image"
+[Publisher-Creator]: link.com "Publisher/Creator name"
 </div>
 
 ---
@@ -179,9 +195,14 @@ GAMBAR ILUSTRASI SAMPEL
 - [Referensi 2][Reff-2]
 - [Referensi 3][Reff-3]
 
----
+<!-- Reffs : Linking Record Online -->
+[Reff-1]: github.com "Descript-Note 1"
+[Reff-2]: github.com "Descript-Note 2"
+[Reff-3]: github.com "Descript-Note 3"
 
-<div align="center">
+---
+<div align="center"
+id="endfoot-linker">
 <!--
   Dibawah merupakan tabel formatan MD-Github itu sendiri.
   Section-nya adalah pada "baris ke-3" tabel-nya.
@@ -192,7 +213,7 @@ GAMBAR ILUSTRASI SAMPEL
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**XXXX**][Link-Prev] | ***<span title="XXXX">XXXX</span>*** | [**XXXX**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | **#** *Here* **#** | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][EDP] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -207,13 +228,12 @@ GAMBAR ILUSTRASI SAMPEL
 [On-Bunch]: link.dc.md
 [On-Type]: link.dc.md
 [On-Category]: link.dc.md
-<!-- Reffs : Linking Online -->
-[From-Web]: image.png "Descript Web-Image"
-[Publisher-Creator]: link.com "Publisher/Creator name"
-<!-- Reffs : Linking Online -->
-[Reff-1]: github.com "Descript-Note 1"
-[Reff-2]: github.com "Descript-Note 2"
-[Reff-3]: github.com "Descript-Note 3"
+
+<!-- Reffs : Anchor Hint -->
+[EDP]: #entry-doc-page
+[Sample-Info]: #general-explanations
+[Endfoot]: #endfoot-linker
+
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"

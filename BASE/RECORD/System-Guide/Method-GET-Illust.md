@@ -143,3 +143,17 @@ curl -L "https://link.com/gambar.png" -o BASE/ASSETS/Assets-Storages/[PNG].png
 ```
 
 ---
+
+## Penutupan
+
+Oh ya!
+
+Jangan lupa juga! Silahkan menuju file berikut, untuk cekpoin naro gambar tetap-nya.
+
+- [**Link-Storage**: *Gambar Tetap*](/BASE/ASSETS/Assets-Main/Sample-Illust)
+
+Dan untuk gambar sementara, untuk menjadikan hasil tetap-nya pula.
+
+- [**Link-Storage**: *Gambar Sementara*](/.storage)
+
+---
