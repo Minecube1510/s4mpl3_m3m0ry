@@ -130,6 +130,10 @@ id="endfoot-linker">
 [Reff-1]: github.com "Descript-Note 1"
 [Reff-2]: github.com "Descript-Note 2"
 [Reff-3]: github.com "Descript-Note 3"
+<!-- Reffs : Anchor Hint -->
+[EDP]: #entry-doc-page
+[Sample-Info]: #general-explanations
+[Endfoot]: #endfoot-linker
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"
