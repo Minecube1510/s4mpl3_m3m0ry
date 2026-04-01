@@ -60,7 +60,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[1_5__5]**][Link-Prev] | ***<span title="[f-1_5!6-f]">[f-1_5!6-f]</span>*** | [**[f-1_5!6-f]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][EDP] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -70,6 +70,11 @@ id="endfoot-linker">
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+
+<!-- Reffs : Anchor Hint -->
+[?]: .
+[Endfoot]: #endfoot-linker
+
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/155-A_E_E-EXT.info.md "Prev: [1_5__5] - (Gaster Paperbag'ed Equip.Winchester)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///.info.md "Next: [F-1!6!1] - (Gaster Trickster-Side Blaster)"

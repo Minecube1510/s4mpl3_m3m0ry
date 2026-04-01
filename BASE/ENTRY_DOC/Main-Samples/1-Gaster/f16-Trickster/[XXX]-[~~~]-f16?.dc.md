@@ -81,6 +81,9 @@ GAMBAR ILUSTRASI SAMPEL
 
 [[**Webnya darimana dapetnya?**][From-Web]]:
 "[*Sang Publisher atau Creator*][Publisher-Creator]"
+<!-- Reffs : Linking Assets Online -->
+[From-Web]: image.png "Descript Web-Image"
+[Publisher-Creator]: link.com "Publisher/Creator name"
 </div>
 
 ---
@@ -108,6 +111,10 @@ GAMBAR ILUSTRASI SAMPEL
 - [Referensi 1][Reff-1]
 - [Referensi 2][Reff-2]
 - [Referensi 3][Reff-3]
+<!-- Reffs : Linking Record Online -->
+[Reff-1]: github.com "Descript-Note 1"
+[Reff-2]: github.com "Descript-Note 2"
+[Reff-3]: github.com "Descript-Note 3"
 
 ---
 <div align="center"
@@ -126,17 +133,12 @@ id="endfoot-linker">
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///.info.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///.info.md
-<!-- Reffs : Linking Assets Online -->
-[From-Web]: image.png "Descript Web-Image"
-[Publisher-Creator]: link.com "Publisher/Creator name"
-<!-- Reffs : Linking Record Online -->
-[Reff-1]: github.com "Descript-Note 1"
-[Reff-2]: github.com "Descript-Note 2"
-[Reff-3]: github.com "Descript-Note 3"
+
 <!-- Reffs : Anchor Hint -->
 [EDP]: #entry-doc-page
 [Sample-Info]: #general-explanations
 [Endfoot]: #endfoot-linker
+
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"

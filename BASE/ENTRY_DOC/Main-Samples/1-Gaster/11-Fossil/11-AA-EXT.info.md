@@ -153,7 +153,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[F-@6!6]**][Link-Prev] | ***<span title="[11]">[11]</span>*** | [**[12]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][EDP] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -163,6 +163,11 @@ id="endfoot-linker">
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/11-AA-EXT.info.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+
+<!-- Reffs : Anchor Hint -->
+[?]: .
+[Endfoot]: #endfoot-linker
+
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/Ff66-Trickster///?.info.md "Prev: [F-@6/6] - (HERE'Clovin'HERE Trickster-Side)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl///?.info.md "Next: [12] - (Gaster Jarl)"

@@ -60,7 +60,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[13_5]**][Link-Prev] | ***<span title="[f-13!6-f]">[f-13!6-f]</span>*** | [**[1_4_1]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][EDP] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -70,6 +70,11 @@ id="endfoot-linker">
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/13-AC-EXT.info.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+
+<!-- Reffs : Anchor Hint -->
+[?]: .
+[Endfoot]: #endfoot-linker
+
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/135-Winchester/135-AC_E-EXT.info.md "Prev: [13_5] - (Gaster Virtual Equip.Winchester)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///.info.md "Next: [1_4_1] - (Gaster Raincoat'ed Blaster)"

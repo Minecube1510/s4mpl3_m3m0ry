@@ -60,7 +60,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[1_5__4]**][Link-Prev] | ***<span title="[1_5__5]">[1_5__5]</span>*** | [**[f-1_5!6-f]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][EDP] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -70,6 +70,11 @@ id="endfoot-linker">
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
 [On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+
+<!-- Reffs : Anchor Hint -->
+[?]: .
+[Endfoot]: #endfoot-linker
+
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/154-A_E_D-EXT.info.md "Prev: [1_5__4] - (Gaster Paperbag'ed Equip.Kama)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/f156-A_ExF-EXT.info.md "Next: [f-1_5!6-f] - (Gaster Paperbag'ed !ELDRITCH!)"

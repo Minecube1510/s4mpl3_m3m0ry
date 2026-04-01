@@ -1,5 +1,16 @@
+<!--
+---
+
+Doc_Article: Entry_Doc
 
 ---
+-->
+---
+<div align="center">
+
+### Entry Doc Page
+
+</div>
 
 # Rose Cinderella
 

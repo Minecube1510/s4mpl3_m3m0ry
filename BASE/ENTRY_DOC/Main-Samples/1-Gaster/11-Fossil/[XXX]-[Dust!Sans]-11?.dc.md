@@ -193,6 +193,12 @@ Dust!Sans sendiri, sudah memiliki interpretasi dan varian, di antaranya seperti:
 - [Sans | DustTale Wiki | Fandom][Reff-3]
 - [Sans (DustTale) | Villains Fanon Wiki | Fandom][Reff-4]
 - [DustTale | Undertale AU Wiki | Fandom][Reff-5]
+<!-- Reffs : Linking Record Online -->
+[Reff-1]: https://ask-DustTale.tumblr.com/ "Ask DustTale"
+[Reff-2]: https://undertale-au-fanon.fandom.com/wiki/Sans/DustTale "Sans/DustTale | New Undertale Fanon AU Wiki | Fandom"
+[Reff-3]: https://DustTale-au.fandom.com/wiki/Sans "Sans | DustTale Wiki | Fandom"
+[Reff-4]: https://villainsfanon.fandom.com/wiki/Sans_(DustTale) "Sans (DustTale) | Villains Fanon Wiki | Fandom"
+[Reff-5]: https://undertale-au.fandom.com/wiki/DustTale "DustTale | Undertale AU Wiki | Fandom"
 
 ---
 <div align="center"
@@ -214,16 +220,12 @@ id="endfoot-linker">
 <!-- Reffs : Linking Assets Online -->
 [From-Web]: image.png "Descript Web-Image"
 [Publisher-Creator]: link.com "Publisher/Creator name"
-<!-- Reffs : Linking Record Online -->
-[Reff-1]: https://ask-DustTale.tumblr.com/ "Ask DustTale"
-[Reff-2]: https://undertale-au-fanon.fandom.com/wiki/Sans/DustTale "Sans/DustTale | New Undertale Fanon AU Wiki | Fandom"
-[Reff-3]: https://DustTale-au.fandom.com/wiki/Sans "Sans | DustTale Wiki | Fandom"
-[Reff-4]: https://villainsfanon.fandom.com/wiki/Sans_(DustTale) "Sans (DustTale) | Villains Fanon Wiki | Fandom"
-[Reff-5]: https://undertale-au.fandom.com/wiki/DustTale "DustTale | Undertale AU Wiki | Fandom"
+
 <!-- Reffs : Anchor Hint -->
 [EDP]: #entry-doc-page
 [Sample-Info]: #general-explanations
 [Endfoot]: #endfoot-linker
+
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"
