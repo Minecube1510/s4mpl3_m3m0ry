@@ -85,9 +85,9 @@ GAMBAR ILUSTRASI SAMPEL
 # Personal Data Information
 
 - **ID:** ***XXXX***  
-- **Name:** *Nama Sampel*  
-- **Bunch:** $${\textbf{\textcolor{#FFFFFF}{Bunch}}}$$  
-- **Type:** $${\textbf{\textcolor{#FFFFFF}{Type}}}$$  
+- **Sample Default Name:** *Nama Sampel*  
+- **Bunch:** $${\textbf{\textcolor{#00BEFF}{Gaster}}}$$  
+- **Type:** $${\textbf{\textcolor{#FF78D3}{Raincoat}}$$  
 - **Category:** $${\textbf{\textcolor{#FFFFFF}{Category}}}$$  
 - **Segment:** *?*  
 - **List:** [ ***?*** ]

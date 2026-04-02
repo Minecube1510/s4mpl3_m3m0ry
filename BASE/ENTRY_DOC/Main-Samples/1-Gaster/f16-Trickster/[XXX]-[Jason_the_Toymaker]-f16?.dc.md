@@ -89,8 +89,8 @@ GAMBAR ILUSTRASI SAMPEL
 
 - **ID:** ***XXXX***  
 - **Sample Default Name:** *Nama Sampel*  
-- **Bunch:** $${\textbf{\textcolor{#FFFFFF}{Bunch}}}$$  
-- **Type:** $${\textbf{\textcolor{#FFFFFF}{Type}}}$$  
+- **Bunch:** $${\textbf{\textcolor{#00BEFF}{Gaster}}}$$  
+- **Type:** $${\textbf{\textcolor{#6A96FF}{Trickster}}$$  
 - **Category:** $${\textbf{\textcolor{#FFFFFF}{Category}}}$$  
 - **Segment:** *?*  
 - **List:** [ ***?*** ]
