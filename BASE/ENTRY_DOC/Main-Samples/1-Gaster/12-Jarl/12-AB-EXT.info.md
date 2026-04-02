@@ -84,7 +84,7 @@ alt="BTC.SJL - Jouga Maya">
 0025. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 0026. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
+- [***Collection***: **Gaster** - **Jarl** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 
 ---
 
@@ -111,7 +111,7 @@ alt="BTC.SJL - Jouga Maya">
 0069. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 0070. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Lance*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
+- [***Collection***: **Gaster** - **Jarl** - *Lance*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 
 ---
 
@@ -125,7 +125,7 @@ alt="BTC.SJL - Jouga Maya">
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Dril*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
+- [***Collection***: **Gaster** - **Jarl** - *Dril*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 
 ---
 
@@ -139,7 +139,7 @@ alt="BTC.SJL - Jouga Maya">
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
+- [***Collection***: **Gaster** - **Jarl** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 
 ---
 
@@ -153,7 +153,7 @@ alt="BTC.SJL - Jouga Maya">
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
+- [***Collection***: **Gaster** - **Jarl** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 
 ---
 
@@ -167,7 +167,7 @@ alt="BTC.SJL - Jouga Maya">
 0935. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 0936. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 
-- [***Collection***: **Gaster** - **Fossil** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
+- [***Collection***: **Gaster** - **Jarl** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/)
 
 ---
 <div align="center"
@@ -192,7 +192,7 @@ id="endfoot-linker">
 [Endfoot]: #endfoot-linker
 
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/11-AA-EXT.info.md "Prev: [11] - (Gaster Fossil)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Jarl/11-AA-EXT.info.md "Prev: [11] - (Gaster Jarl)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/13-AC-EXT.info.md "Next: [13] - (Gaster Virtual)"
 
 <!-- Reffs-End -->

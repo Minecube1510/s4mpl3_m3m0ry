@@ -84,7 +84,7 @@ alt="BTC.CloTriEld - Fuiba Fuyu">
 0025. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 0026. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
+- [***Collection***: **Gaster** - **Trickster** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 
 ---
 
@@ -111,7 +111,7 @@ alt="BTC.CloTriEld - Fuiba Fuyu">
 0069. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 0070. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Lance*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
+- [***Collection***: **Gaster** - **Trickster** - *Lance*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 
 ---
 
@@ -125,7 +125,7 @@ alt="BTC.CloTriEld - Fuiba Fuyu">
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Dril*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
+- [***Collection***: **Gaster** - **Trickster** - *Dril*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 
 ---
 
@@ -139,7 +139,7 @@ alt="BTC.CloTriEld - Fuiba Fuyu">
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
+- [***Collection***: **Gaster** - **Trickster** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 
 ---
 
@@ -153,7 +153,7 @@ alt="BTC.CloTriEld - Fuiba Fuyu">
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
+- [***Collection***: **Gaster** - **Trickster** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 
 ---
 
@@ -167,7 +167,7 @@ alt="BTC.CloTriEld - Fuiba Fuyu">
 0935. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 0936. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 
-- [***Collection***: **Gaster** - **Fossil** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
+- [***Collection***: **Gaster** - **Trickster** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/)
 
 ---
 <div align="center"
@@ -193,6 +193,6 @@ id="endfoot-linker">
 
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md "Prev: [1_5] - (Gaster Paperbag'ed)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/21-Fossil "Next: [21] - (Spamor Blaster)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/21-Trickster "Next: [21] - (Spamor Blaster)"
 
 <!-- Reffs-End -->

@@ -84,7 +84,7 @@ alt="BTC.MiRaKa - Jinja Eru">
 0025. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 0026. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
+- [***Collection***: **Gaster** - **Raincoat** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 
 ---
 
@@ -111,7 +111,7 @@ alt="BTC.MiRaKa - Jinja Eru">
 0069. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 0070. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Lance*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
+- [***Collection***: **Gaster** - **Raincoat** - *Lance*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 
 ---
 
@@ -125,7 +125,7 @@ alt="BTC.MiRaKa - Jinja Eru">
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Dril*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
+- [***Collection***: **Gaster** - **Raincoat** - *Dril*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 
 ---
 
@@ -139,7 +139,7 @@ alt="BTC.MiRaKa - Jinja Eru">
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
+- [***Collection***: **Gaster** - **Raincoat** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 
 ---
 
@@ -153,7 +153,7 @@ alt="BTC.MiRaKa - Jinja Eru">
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 
-- [***Collection***: **Gaster** - **Fossil** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
+- [***Collection***: **Gaster** - **Raincoat** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 
 ---
 
@@ -167,7 +167,7 @@ alt="BTC.MiRaKa - Jinja Eru">
 0935. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 0936. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 
-- [***Collection***: **Gaster** - **Fossil** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
+- [***Collection***: **Gaster** - **Raincoat** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/)
 
 ---
 <div align="center"
