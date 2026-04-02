@@ -1,5 +1,16 @@
+<!--
+---
+
+Doc_Article: Generic
 
 ---
+-->
+---
+<div align="center">
+
+### Sample Generic
+
+</div>
 
 # Gaster: Fossil Spec, Blaster
 
@@ -60,7 +71,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[f-1_4!6-f]**][Link-Prev] | ***<span title="[111]">[111]</span>*** | [**[112]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -72,7 +83,7 @@ id="endfoot-linker">
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 
 <!-- Reffs : Anchor Hint -->
-[?]: .
+[ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
 
 <!-- Reffs : Navigate -->

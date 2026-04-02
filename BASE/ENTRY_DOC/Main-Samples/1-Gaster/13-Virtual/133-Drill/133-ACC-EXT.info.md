@@ -1,5 +1,16 @@
+<!--
+---
+
+Doc_Article: Generic
 
 ---
+-->
+---
+<div align="center">
+
+### Sample Generic
+
+</div>
 
 # Gaster: Virtual Spec, Drill
 
@@ -60,7 +71,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[132]**][Link-Prev] | ***<span title="[133]">[133]</span>*** | [**[13_4]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -72,7 +83,7 @@ id="endfoot-linker">
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 
 <!-- Reffs : Anchor Hint -->
-[?]: .
+[ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
 
 <!-- Reffs : Navigate -->

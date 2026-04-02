@@ -1,5 +1,16 @@
+<!--
+---
+
+Doc_Article: Generic
 
 ---
+-->
+---
+<div align="center">
+
+### Sample Generic
+
+</div>
 
 # Gaster: Virtual Spec, Ultra Eldritch Fantastic
 
@@ -60,7 +71,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[13_5]**][Link-Prev] | ***<span title="[f-13!6-f]">[f-13!6-f]</span>*** | [**[1_4_1]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -72,7 +83,7 @@ id="endfoot-linker">
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 
 <!-- Reffs : Anchor Hint -->
-[?]: .
+[ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
 
 <!-- Reffs : Navigate -->

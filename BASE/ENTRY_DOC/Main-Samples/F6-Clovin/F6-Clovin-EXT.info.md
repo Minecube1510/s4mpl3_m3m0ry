@@ -1,11 +1,16 @@
 <!--
 ---
 
-Doc_Article: Explanation
+Doc_Article: Generic
 
 ---
 -->
 ---
+<div align="center">
+
+### Sample Generic
+
+</div>
 
 # Kamen Rider Clovin's Collection
 
@@ -90,12 +95,12 @@ Menunggu: xxx
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
 
 ### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
@@ -135,12 +140,13 @@ Menunggu: xxx
 
 ### $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 
-5000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
-5000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
-5000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
-5000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
-5000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
-5000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+5610. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+5611. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+5612. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+5613. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+5614. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+5615. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
+5616. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/F6-Clovin/)
 
 ---
 <div align="center"
@@ -149,7 +155,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**{{{--E_5_E--}}}**][Link-Prev] | ***<span title="{{{---FUUF-6-FUUF---}}}">{{{---FUUF-6-FUUF---}}}</span>*** | [**{{{-a'1'A-}}}**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -162,7 +168,7 @@ id="endfoot-linker">
 
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin
-[?]: .
+[ESG]: #sample-generic
 
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle/5-Hunfle-EXT.info.md "Prev: {{{--E_5_E--}}} - (Elite*Hunfle)"

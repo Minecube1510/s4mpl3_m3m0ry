@@ -1,5 +1,16 @@
+<!--
+---
+
+Doc_Article: Generic
 
 ---
+-->
+---
+<div align="center">
+
+### Sample Generic
+
+</div>
 
 # Gaster: Virtual Spec, Winchester-Weaponized
 
@@ -60,7 +71,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[13_4]**][Link-Prev] | ***<span title="[13_5]">[13_5]</span>*** | [**[f-13!6-f]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -72,7 +83,7 @@ id="endfoot-linker">
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 
 <!-- Reffs : Anchor Hint -->
-[?]: .
+[ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
 
 <!-- Reffs : Navigate -->

@@ -1,11 +1,16 @@
 <!--
 ---
 
-Doc_Article: Explanation
+Doc_Article: Generic
 
 ---
 -->
 ---
+<div align="center">
+
+### Sample Generic
+
+</div>
 
 # Gaster: Paperbag Spec-Grade, Blaster
 
@@ -406,7 +411,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[f-1_4!6-f]**][Link-Prev] | ***<span title="[1_5_1]">[1_5_1]</span>*** | [**[1_5_2]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -418,7 +423,7 @@ id="endfoot-linker">
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 
 <!-- Reffs : Anchor Hint -->
-[?]: .
+[ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
 
 <!-- Reffs : Navigate -->

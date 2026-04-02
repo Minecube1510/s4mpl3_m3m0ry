@@ -1,11 +1,16 @@
 <!--
 ---
 
-Doc_Article: Explanation
+Doc_Article: Generic
 
 ---
 -->
 ---
+<div align="center">
+
+### Sample Generic
+
+</div>
 
 # Kamen Rider Hunfle's Collection
 
@@ -90,12 +95,12 @@ Menunggu: xxx
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/5-Hunfle/)
 
 ### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
@@ -149,7 +154,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**{{{--D_4_D--}}}**][Link-Prev] | ***<span title="{{{--E_5_E--}}}">{{{--E_5_E--}}}</span>*** | [**{{{---FUUF-6-FUUF---}}}**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -162,7 +167,7 @@ id="endfoot-linker">
 
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle
-[?]: .
+[ESG]: #sample-generic
 
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: {{{--D_4_D--}}} - (Elite*Mistress)"

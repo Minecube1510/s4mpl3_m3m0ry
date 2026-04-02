@@ -1,11 +1,16 @@
 <!--
 ---
 
-Doc_Article: Explanation
+Doc_Article: Generic
 
 ---
 -->
 ---
+<div align="center">
+
+### Sample Generic
+
+</div>
 
 # Gaster: Paperbag Graded-Specs
 
@@ -52,32 +57,32 @@ alt="BTC.HuPaWi - Jinja Natsume">
 
 > [***Collection***: **Gaster** - **Paperbag** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster)
 
-625. [Autobot Optimus Prime](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/0625-a-151.dc.md)
-626. [Autobot Hot Spot](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/0626-b-151.dc.md)
-627. [Autobot Scattershot](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-628. [Autobot Silverbolt](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-629. [Dinobot Skar](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-630. [Autobot Sky Lynx](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-631. [Autobot Jazz](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-632. [Autobot Blaster](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-633. [Autobot Brainstorm](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-634. [Autobot Cliffjumper](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-635. [Autobot Cosmos](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-636. [Autodecept Doubledealer](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-637. [Decepticon Hook](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-638. [Decepticon Onslaught](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-639. [Decepticon Motormaster](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-640. [Decepticon Leozack](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-641. [Decepticon Hun-gurrr](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-642. [Decepticon Razorclaw](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-643. [Decepticon Halfshell](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-644. [Decepticon Mega-Octane](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-645. [Decepticon Bludgeon](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-646. [Autobot Pyra Magna](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-647. [Autobot Elita-1](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-648. [Autobot Chromia](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-649. [Decepticon Megaempress](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
-650. [Decepticon Lyzack](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/0650-z-151.dc.md)
+0625. [Autobot Optimus Prime](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/0625-a-151.dc.md)
+0626. [Autobot Hot Spot](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/0626-b-151.dc.md)
+0627. [Autobot Scattershot](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0628. [Autobot Silverbolt](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0629. [Dinobot Skar](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0630. [Autobot Sky Lynx](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0631. [Autobot Jazz](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0632. [Autobot Blaster](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0633. [Autobot Brainstorm](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0634. [Autobot Cliffjumper](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0635. [Autobot Cosmos](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0636. [Autodecept Doubledealer](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0637. [Decepticon Hook](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0638. [Decepticon Onslaught](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0639. [Decepticon Motormaster](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0640. [Decepticon Leozack](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0641. [Decepticon Hun-gurrr](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0642. [Decepticon Razorclaw](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0643. [Decepticon Halfshell](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0644. [Decepticon Mega-Octane](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0645. [Decepticon Bludgeon](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0646. [Autobot Pyra Magna](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0647. [Autobot Elita-1](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0648. [Autobot Chromia](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0649. [Decepticon Megaempress](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/)
+0650. [Decepticon Lyzack](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster/0650-z-151.dc.md)
 
 > [***Collection***: **Gaster** - **Paperbag** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/151-Blaster)
 
@@ -87,12 +92,13 @@ alt="BTC.HuPaWi - Jinja Natsume">
 
 > [***Collection***: **Gaster** - **Paperbag** - *Lance*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance)
 
-651. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
-652. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
-653. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
-654. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
-655. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
-656. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
+0651. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
+0652. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
+0653. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
+0654. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
+0655. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
+0656. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
+0657. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance/)
 
 > [***Collection***: **Gaster** - **Paperbag** - *Lance*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/152-Lance)
 
@@ -102,12 +108,13 @@ alt="BTC.HuPaWi - Jinja Natsume">
 
 > [***Collection***: **Gaster** - **Paperbag** - *Dril*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill)
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/)
 
 > [***Collection***: **Gaster** - **Paperbag** - *Dril*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill)
 
@@ -117,12 +124,13 @@ alt="BTC.HuPaWi - Jinja Natsume">
 
 > [***Collection***: **Gaster** - **Paperbag** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama)
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama/)
 
 > [***Collection***: **Gaster** - **Paperbag** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama)
 
@@ -132,12 +140,13 @@ alt="BTC.HuPaWi - Jinja Natsume">
 
 > [***Collection***: **Gaster** - **Paperbag** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester)
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/)
 
 > [***Collection***: **Gaster** - **Paperbag** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester)
 
@@ -147,12 +156,13 @@ alt="BTC.HuPaWi - Jinja Natsume">
 
 > [***Collection***: **Gaster** - **Paperbag** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch)
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch/)
 
 > [***Collection***: **Gaster** - **Paperbag** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/f156-Eldritch)
 
@@ -164,7 +174,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[1_4]**][Link-Prev] | ***<span title="[1_5]">[1_5]</span>*** | [**[f-1!6]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -176,7 +186,7 @@ id="endfoot-linker">
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 
 <!-- Reffs : Anchor Hint -->
-[?]: .
+[ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
 
 <!-- Reffs : Navigate -->

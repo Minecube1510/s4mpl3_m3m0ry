@@ -1,11 +1,16 @@
 <!--
 ---
 
-Doc_Article: Explanation
+Doc_Article: Generic
 
 ---
 -->
 ---
+<div align="center">
+
+### Sample Generic
+
+</div>
 
 # Gaster: Fossil Specs
 
@@ -52,32 +57,32 @@ alt="BTC.GFB - Kafuu Chino">
 
 - [***Collection***: **Gaster** - **Fossil** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/111-Blaster)
 
-1. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-2. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-3. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-4. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-5. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-6. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-7. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-8. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-9. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-10. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-11. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-12. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-13. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-14. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-15. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-16. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-17. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-18. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-19. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-20. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-21. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-22. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-23. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-24. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-25. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-26. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0001. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0002. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0003. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0004. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0005. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0006. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0007. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0008. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0009. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0010. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0011. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0012. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0013. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0014. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0015. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0016. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0017. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0018. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0019. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0020. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0021. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0022. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0023. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0024. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0025. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0026. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
 - [***Collection***: **Gaster** - **Fossil** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/111-Blaster)
 
@@ -85,12 +90,26 @@ alt="BTC.GFB - Kafuu Chino">
 
 ## $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
-651. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-652. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-653. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-654. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-655. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-656. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0051. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0052. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0053. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0054. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0055. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0056. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0057. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0058. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0059. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0060. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0061. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0062. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0063. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0064. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0065. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0066. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0067. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0068. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0069. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0070. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
 - [***Collection***: **Gaster** - **Fossil** - *Lance*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
@@ -98,12 +117,13 @@ alt="BTC.GFB - Kafuu Chino">
 
 ## $${\textbf{\textcolor{#FF1B39}{Drill}}}$$
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
 - [***Collection***: **Gaster** - **Fossil** - *Dril*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
@@ -111,12 +131,13 @@ alt="BTC.GFB - Kafuu Chino">
 
 ## $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
 - [***Collection***: **Gaster** - **Fossil** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
@@ -124,12 +145,13 @@ alt="BTC.GFB - Kafuu Chino">
 
 ## $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
 - [***Collection***: **Gaster** - **Fossil** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
@@ -137,12 +159,13 @@ alt="BTC.GFB - Kafuu Chino">
 
 ## $${\textbf{\textcolor{#6A96FF}{ELDRTICH}}}$$
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0931. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0932. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0933. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0934. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0935. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
+0936. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
 - [***Collection***: **Gaster** - **Fossil** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/)
 
@@ -153,7 +176,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[F-@6!6]**][Link-Prev] | ***<span title="[11]">[11]</span>*** | [**[12]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -165,7 +188,7 @@ id="endfoot-linker">
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 
 <!-- Reffs : Anchor Hint -->
-[?]: .
+[ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
 
 <!-- Reffs : Navigate -->

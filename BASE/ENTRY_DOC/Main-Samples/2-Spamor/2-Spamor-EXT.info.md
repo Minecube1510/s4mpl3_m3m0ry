@@ -1,11 +1,16 @@
 <!--
 ---
 
-Doc_Article: Explanation
+Doc_Article: Generic
 
 ---
 -->
 ---
+<div align="center">
+
+### Sample Generic
+
+</div>
 
 # Kamen Rider Spamor's Collection
 
@@ -91,12 +96,12 @@ Menunggu: xxx
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/2-Spamor/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/2-Spamor/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/2-Spamor/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/2-Spamor/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/2-Spamor/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/2-Spamor/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/2-Spamor/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/2-Spamor/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/2-Spamor/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/2-Spamor/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/2-Spamor/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/2-Spamor/)
 
 ### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
@@ -150,7 +155,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**{{{-a'1'A-}}}**][Link-Prev] | ***<span title="{{{-b'2'B-}}}">{{{-b'2'B-}}}</span>*** | [**{{{-c'3'C-}}}**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -163,7 +168,7 @@ id="endfoot-linker">
 
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor
-[?]: .
+[ESG]: #sample-generic
 
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Prev: {{{-a'1'A-}}} - (Gaster)"

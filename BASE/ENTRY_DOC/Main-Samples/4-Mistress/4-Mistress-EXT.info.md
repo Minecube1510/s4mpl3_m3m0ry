@@ -1,11 +1,16 @@
 <!--
 ---
 
-Doc_Article: Explanation
+Doc_Article: Generic
 
 ---
 -->
 ---
+<div align="center">
+
+### Sample Generic
+
+</div>
 
 # Kamen Rider Mistress's Collection
 
@@ -90,12 +95,12 @@ Menunggu: xxx
 
 ### $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/4-Mistress/)
 
 ### $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
 
@@ -149,7 +154,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**{{{-c'3'C-}}}**][Link-Prev] | ***<span title="{{{--D_4_D--}}}">{{{--D_4_D--}}}</span>*** | [**{{{--E_5_E--}}}**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -162,7 +167,7 @@ id="endfoot-linker">
 
 <!-- Reffs : BTC Linking -->
 [Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress
-[?]: .
+[ESG]: #sample-generic
 
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md "Prev: {{{-c'3'C-}}} - (Accesive)"

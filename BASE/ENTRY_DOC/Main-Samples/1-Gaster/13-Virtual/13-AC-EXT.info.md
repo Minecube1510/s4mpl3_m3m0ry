@@ -1,11 +1,16 @@
 <!--
 ---
 
-Doc_Article: Explanation
+Doc_Article: Generic
 
 ---
 -->
 ---
+<div align="center">
+
+### Sample Generic
+
+</div>
 
 # Gaster: Virtual Specs
 
@@ -52,32 +57,32 @@ alt="BTC.AVD - Natsu Megumi">
 
 - [***Collection***: **Gaster** - **Virtual** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/131-Blaster)
 
-1. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-2. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-3. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-4. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-5. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-6. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-7. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-8. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-9. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-10. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-11. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-12. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-13. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-14. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-15. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-16. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-17. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-18. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-19. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-20. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-21. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-22. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-23. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-24. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-25. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-26. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0001. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0002. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0003. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0004. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0005. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0006. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0007. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0008. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0009. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0010. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0011. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0012. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0013. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0014. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0015. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0016. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0017. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0018. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0019. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0020. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0021. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0022. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0023. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0024. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0025. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0026. [???](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
 
 - [***Collection***: **Gaster** - **Virtual** - *Blaster*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/131-Blaster)
 
@@ -87,12 +92,13 @@ alt="BTC.AVD - Natsu Megumi">
 
 - [***Collection***: **Gaster** - **Virtual** - *Lance*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/132-Lance)
 
-651. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-652. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-653. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-654. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-655. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-656. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
 
 - [***Collection***: **Gaster** - **Virtual** - *Lance*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/132-Lance)
 
@@ -102,11 +108,13 @@ alt="BTC.AVD - Natsu Megumi">
 
 - [***Collection***: **Gaster** - **Virtual** - *Dril*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/133-Drill)
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
 
 - [***Collection***: **Gaster** - **Virtual** - *Dril*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/133-Drill)
 
@@ -116,12 +124,13 @@ alt="BTC.AVD - Natsu Megumi">
 
 - [***Collection***: **Gaster** - **Virtual** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/134-Kama)
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
 
 - [***Collection***: **Gaster** - **Virtual** - *Kama*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/134-Kama)
 
@@ -131,12 +140,13 @@ alt="BTC.AVD - Natsu Megumi">
 
 - [***Collection***: **Gaster** - **Virtual** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/135-Winchester)
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
 
 - [***Collection***: **Gaster** - **Virtual** - *Winchester*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/135-Winchester)
 
@@ -146,12 +156,13 @@ alt="BTC.AVD - Natsu Megumi">
 
 - [***Collection***: **Gaster** - **Virtual** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/f136-Eldritch)
 
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
-000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0000. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0931. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0932. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0933. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0934. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0935. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
+0936. [Menunggu](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/)
 
 - [***Collection***: **Gaster** - **Virtual** - *ELDRITCH*](/BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/f136-Eldritch)
 
@@ -163,7 +174,7 @@ id="endfoot-linker">
 | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== | ==-== ==-== ==-== ==-== |
 | :-: | :-: | :-: |
 | [**[12]**][Link-Prev] | ***<span title="[13]">[13]</span>*** | [**[1_4]**][Link-Next] |
-| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][?] *#* | **>->->->->** Next **>->->->->** |
+| **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
 </div>
 
@@ -175,7 +186,7 @@ id="endfoot-linker">
 [On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
 
 <!-- Reffs : Anchor Hint -->
-[?]: .
+[ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
 
 <!-- Reffs : Navigate -->
