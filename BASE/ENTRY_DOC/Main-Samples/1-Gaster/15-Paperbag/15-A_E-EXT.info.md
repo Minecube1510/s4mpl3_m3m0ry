@@ -17,7 +17,7 @@ Doc_Article: Generic
 > **Topic**: Generic
 >
 > **Description**:  
-> Kumpulan Gaster jenis Virtual.
+> Kumpulan Gaster berjeniskan Paperbag.
 
 ## Simbolic Indicator
 
@@ -182,15 +182,15 @@ id="endfoot-linker">
 
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag "HERE-IS-TYPE-SECTION"
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/ "HERE-NOT-CATEGORY-SECTION"
 
 <!-- Reffs : Anchor Hint -->
 [ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
 
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///?.info.md "Prev: [1_4] - (Gaster Raincoat'ed)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///?.info.md "Next: [f-1!6] - (Gaster Trickster-Side)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/14-A_D-EXT.info.md "Prev: [1_4] - (Gaster Raincoat'ed)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster/f16-A_FF-EXT.info.md "Next: [f-1!6] - (Gaster Trickster-Side)"
 
 <!-- Reffs-End -->

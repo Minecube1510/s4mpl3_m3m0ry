@@ -79,8 +79,8 @@ id="endfoot-linker">
 
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster "HERE-IS-TYPE-SECTION"
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster "HERE-NOT-CATEGORY-SECTION"
 
 <!-- Reffs : Anchor Hint -->
 [ESG]: #sample-generic

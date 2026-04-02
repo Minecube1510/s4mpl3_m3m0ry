@@ -192,22 +192,23 @@ Ia juga memiliki hubungan khusus dengan TCO (mungkin menganggapnya sebagai penda
 - [The Second Coming (Animator vs. Animation) | Heroes Wiki | Fandom][Reff-2]
 - [The Second Coming | Alan Becker Wiki | Fandom][Reff-3]
 - [Animator vs. Animation - Wikipedia][Reff-4]
-<!---->
-- [Animator vs. Animation 4 (original) - YouTube][Reff-5]
-- [Stick Figures Fight][Reff-6]
-- [Animation vs. Math - YouTube][Reff-7]
-- [Animation vs. Physics - YouTube][Reff-8]
-- [The Showdown - Animator vs. Animation 8 - YouTube][Reff-9]
+  <!---->
+- [Stick Figures Fight][Reff-5]
+- [Animator vs. Animation 4 (original) - YouTube][Reff-6]
+- [The Showdown - Animator vs. Animation 8 - YouTube][Reff-7]
+- [Animation vs. Math - YouTube][Reff-8]
+- [Animation vs. Physics - YouTube][Reff-9]
 <!-- Reffs : Linking Record Online -->
 [Reff-1]: https://animatorvsanimation.fandom.com/wiki/The_Second_Coming "The Second Coming | Animator vs. Animation Wiki | Fandom"
 [Reff-2]: https://hero.fandom.com/wiki/The_Second_Coming_(Animator_vs._Animation) "The Second Coming (Animator vs. Animation) | Heroes Wiki | Fandom"
 [Reff-3]: https://alan-becker.fandom.com/wiki/The_Second_Coming "The Second Coming | Alan Becker Wiki | Fandom"
 [Reff-4]: https://en.wikipedia.org/wiki/Animator_vs._Animation "Animator vs. Animation - Wikipedia"
-[Reff-5]: https://www.youtube.com/watch?v=VufDd-QL1c0 "Animator vs. Animation 4 (original) - YouTube"
-[Reff-6]: https://sticksfight.com "Stick Figures Fight"
-[Reff-7]: https://www.youtube.com/watch?v=B1J6Ou4q8vE "Animation vs. Math - YouTube"
-[Reff-8]: https://www.youtube.com/watch?v=ErMSHiQRnc8 "Animation vs. Physics - YouTube"
-[Reff-9]: https://www.youtube.com/watch?v=0a1r0JaONS4 "The Showdown - Animator vs. Animation 8 - YouTube"
+  <!---->
+[Reff-5]: https://sticksfight.com "Stick Figures Fight"
+[Reff-6]: https://www.youtube.com/watch?v=VufDd-QL1c0 "Animator vs. Animation 4 (original) - YouTube"
+[Reff-7]: https://www.youtube.com/watch?v=0a1r0JaONS4 "The Showdown - Animator vs. Animation 8 - YouTube"
+[Reff-8]: https://www.youtube.com/watch?v=B1J6Ou4q8vE "Animation vs. Math - YouTube"
+[Reff-9]: https://www.youtube.com/watch?v=ErMSHiQRnc8 "Animation vs. Physics - YouTube"
 
 ---
 <div align="center"

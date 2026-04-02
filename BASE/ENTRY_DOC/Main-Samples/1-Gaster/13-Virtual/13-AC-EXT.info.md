@@ -182,15 +182,15 @@ id="endfoot-linker">
 
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/13-AC-EXT.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual "HERE-IS-TYPE-SECTION"
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual "HERE-NOT-CATEGORY-SECTION"
 
 <!-- Reffs : Anchor Hint -->
 [ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
 
 <!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl///?.info.md "Prev: [12] - (Gaster Jarl)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///?.info.md "Next: [1_4] - (Gaster Raincoat'ed)"
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/12-AB-EXT.info.md "Prev: [12] - (Gaster Jarl)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat/14-A_D-EXT.info.md "Next: [1_4] - (Gaster Raincoat'ed)"
 
 <!-- Reffs-End -->

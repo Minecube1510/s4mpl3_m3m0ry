@@ -184,8 +184,8 @@ id="endfoot-linker">
 
 <!-- Reffs : BTC Linking -->
 [On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/11-AA-EXT.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-CATEGORY-SECTION
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil "HERE-IS-TYPE-SECTION"
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil "HERE-NOT-CATEGORY-SECTION"
 
 <!-- Reffs : Anchor Hint -->
 [ESG]: #sample-generic
@@ -193,6 +193,6 @@ id="endfoot-linker">
 
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/Ff66-Trickster///?.info.md "Prev: [F-@6/6] - (HERE'Clovin'HERE Trickster-Side)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl///?.info.md "Next: [12] - (Gaster Jarl)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/12-AB-EXT.info.md "Next: [12] - (Gaster Jarl)"
 
 <!-- Reffs-End -->
