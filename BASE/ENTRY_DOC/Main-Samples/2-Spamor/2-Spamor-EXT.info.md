@@ -36,6 +36,11 @@ title="AT-SECTION-BUNCH">
   alt="BTC.SJL - Jouga Maya">
 </td></tr></table></div>
 
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-BUNCH-SECTION
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-TYPE-SECTION
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
+
 ---
 
 ## $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main][Main-lnk])
@@ -159,22 +164,17 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**{{{-a'1'A-}}}**][Link-Prev] | ***<span title="{{{-b'2'B-}}}">{{{-b'2'B-}}}</span>*** | [**{{{-c'3'C-}}}**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Prev: {{{-a'1'A-}}} - (Gaster)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md "Next: {{{-c'3'C-}}} - (Accesive)"
 
 </div>
 
 ---
 
+  <!-- BEGIN: Bunch Reff -->
 <!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-BUNCH-SECTION
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-TYPE-SECTION
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
-
-<!-- Reffs : BTC Linking -->
-[Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor
+[Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster
 [ESG]: #sample-generic
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md "Prev: {{{-a'1'A-}}} - (Gaster)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive/3-Accesive-EXT.info.md "Next: {{{-c'3'C-}}} - (Accesive)"
-
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Bunch Reff -->

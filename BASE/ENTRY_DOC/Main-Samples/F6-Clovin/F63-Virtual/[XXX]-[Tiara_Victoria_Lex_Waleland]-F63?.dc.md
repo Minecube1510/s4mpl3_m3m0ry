@@ -135,8 +135,10 @@ id="endfoot-linker">
 
 ---
 
+  <!-- BEGIN: Sample Reff -->
 <!-- Reffs : Anchor Hint -->
 [EDP]: #entry-doc-page
 [Sample-Info]: #general-explanations
 [Endfoot]: #endfoot-linker
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Sample Reff -->

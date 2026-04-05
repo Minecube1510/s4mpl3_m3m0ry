@@ -34,6 +34,11 @@ title="AT-SECTION-BUNCH">
   alt="BTC.HuPaWi - Jinja Natsume" >
 </td></tr></table></div>
 
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-BUNCH-SECTION
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-TYPE-SECTION
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
+
 ---
 
 ## $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main][Main-lnk])
@@ -156,22 +161,17 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**{{{--D_4_D--}}}**][Link-Prev] | ***<span title="{{{--E_5_E--}}}">{{{--E_5_E--}}}</span>*** | [**{{{---FUUF-6-FUUF---}}}**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: {{{--D_4_D--}}} - (Elite*Mistress)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Next: {{{---FUUF-6-FUUF---}}} - (Clovin*the*Clown)"
 
 </div>
 
 ---
 
+  <!-- BEGIN: Bunch Reff -->
 <!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-BUNCH-SECTION
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-TYPE-SECTION
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
-
-<!-- Reffs : BTC Linking -->
-[Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/5-Hunfle
+[Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster
 [ESG]: #sample-generic
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Prev: {{{--D_4_D--}}} - (Elite*Mistress)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Next: {{{---FUUF-6-FUUF---}}} - (Clovin*the*Clown)"
-
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Bunch Reff -->

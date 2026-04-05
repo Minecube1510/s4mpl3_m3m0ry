@@ -36,6 +36,11 @@ title="AT-SECTION-BUNCH">
   alt="BTC.AVD - Natsu Megumi">
 </td></tr></table></div>
 
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-BUNCH-SECTION
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-TYPE-SECTION
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
+
 ---
 
 ## $${\textbf{\textcolor{#00BEFF}{Kamen \ Rider \ Gaster}}}$$ ([Main][Main-lnk])
@@ -158,22 +163,17 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**{{{-b'2'B-}}}**][Link-Prev] | ***<span title="{{{-c'3'C-}}}">{{{-c'3'C-}}}</span>*** | [**{{{--D_4_D--}}}**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Prev: {{{-b'2'B-}}} - (Spamor)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Next: {{{--D_4_D--}}} - (Elite*Mistress)"
 
 </div>
 
 ---
 
+  <!-- BEGIN: Bunch Reff -->
 <!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/HERE-IS-BUNCH-SECTION
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-TYPE-SECTION
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/HERE-NOT-CATEGORY-SECTION
-
-<!-- Reffs : BTC Linking -->
-[Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/3-Accesive
+[Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster
 [ESG]: #sample-generic
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Prev: {{{-b'2'B-}}} - (Spamor)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/4-Mistress/4-Mistress-EXT.info.md "Next: {{{--D_4_D--}}} - (Elite*Mistress)"
-
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Bunch Reff -->
