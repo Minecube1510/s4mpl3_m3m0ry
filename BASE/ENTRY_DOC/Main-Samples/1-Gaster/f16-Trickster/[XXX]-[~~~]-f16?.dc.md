@@ -2,6 +2,7 @@
 ---
 
 Doc_Article: Entry_Doc
+Status: Wip
 
 ---
 -->
@@ -61,6 +62,11 @@ title="Click for more information."
 alt="BTC-ALT">][On-Category]
 </td></tr></table></div>
 
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///.info.md
+
 ---
 
 # Default Illustration
@@ -93,7 +99,7 @@ GAMBAR ILUSTRASI SAMPEL
 - **ID:** ***XXXX***  
 - **Sample Default Name:** *Nama Sampel*  
 - **Bunch:** $${\textbf{\textcolor{#00BEFF}{Gaster}}}$$  
-- **Type:** $${\textbf{\textcolor{#6A96FF}{Trickster}}$$  
+- **Type:** $${\textbf{\textcolor{#6A96FF}{Trickster}}}$$  
 - **Category:** $${\textbf{\textcolor{#FFFFFF}{Category}}}$$  
 - **Segment:** *?*  
 - **List:** [ ***?*** ]
@@ -124,22 +130,18 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**XXXX**][Link-Prev] | ***<span title="XXXX">XXXX</span>*** | [**XXXX**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][EDP] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"
 
 </div>
 
 ---
 
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///.info.md
-
+  <!-- BEGIN: Sample Reff -->
 <!-- Reffs : Anchor Hint -->
 [EDP]: #entry-doc-page
 [Sample-Info]: #general-explanations
 [Endfoot]: #endfoot-linker
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Sample Reff -->

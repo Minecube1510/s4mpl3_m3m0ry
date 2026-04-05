@@ -2,6 +2,9 @@
 ---
 
 Doc_Article: Generic
+Status: Wip
+
+District: Type
 
 ---
 -->
@@ -43,6 +46,11 @@ src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSE
 title="SECTION_LOGO_TYPE-NO_LINK"
 alt="BTC.CloTriEld - Fuiba Fuyu">
 </td></tr></table></div>
+
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster "HERE-IS-TYPE-SECTION"
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster "HERE-NOT-CATEGORY-SECTION"
 
 ---
 
@@ -177,22 +185,17 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**[1_5]**][Link-Prev] | ***<span title="[f-1!6]">[f-1!6]</span>*** | [**[21]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md "Prev: [1_5] - (Gaster Paperbag'ed)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/21-Trickster "Next: [21] - (Spamor Blaster)"
 
 </div>
 
 ---
 
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster "HERE-IS-TYPE-SECTION"
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster "HERE-NOT-CATEGORY-SECTION"
-
+  <!-- BEGIN: Type Reff -->
 <!-- Reffs : Anchor Hint -->
 [ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md "Prev: [1_5] - (Gaster Paperbag'ed)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/21-Trickster "Next: [21] - (Spamor Blaster)"
-
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Type Reff -->

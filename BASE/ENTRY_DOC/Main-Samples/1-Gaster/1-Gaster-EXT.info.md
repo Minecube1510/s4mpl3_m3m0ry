@@ -2,6 +2,9 @@
 ---
 
 Doc_Article: Generic
+Status: Wip
+
+District: Bunch
 
 ---
 -->
@@ -32,6 +35,11 @@ title="AT-SECTION-BUNCH">
   title="SECTION_LOGO_BUNCH-NO_LINK"
   alt="BTC.GFB - Kafuu Chino">
 </td></tr></table></div>
+
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster "HERE-IS-BUNCH-SECTION"
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster "HERE-NOT-TYPE-SECTION"
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster "HERE-NOT-CATEGORY-SECTION"
 
 ---
 
@@ -262,21 +270,17 @@ id="endfoot-linker">
 | [**{{{---FUUF-6-FUUF---}}}**][Link-Prev] | ***<span title="{{{-a'1'A-}}}">{{{-a'1'A-}}}</span>*** | [**{{{-b'2'B-}}}**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
 
-</div>
-
----
-
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster "HERE-IS-BUNCH-SECTION"
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster "HERE-NOT-TYPE-SECTION"
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster "HERE-NOT-CATEGORY-SECTION"
-
-<!-- Reffs : BTC Linking -->
-[Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster
-[ESG]: #sample-generic
-
 <!-- Reffs : Navigate -->
 [Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/F6-Clovin-EXT.info.md "Prev: {{{---FUUF-6-FUUF---}}} - (Clovin*the*Clown)"
 [Link-Next]: /BASE/ENTRY_DOC/Main-Samples/2-Spamor/2-Spamor-EXT.info.md "Next: {{{-b'2'B-}}} - (Spamor)"
 
-<!-- Reffs-End -->
+</div>
+
+---
+
+  <!-- BEGIN: Bunch Reff -->
+<!-- Reffs : BTC Linking -->
+[Main-lnk]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster
+[ESG]: #sample-generic
+<!-- ? -->
+  <!-- END: Bunch Reff -->

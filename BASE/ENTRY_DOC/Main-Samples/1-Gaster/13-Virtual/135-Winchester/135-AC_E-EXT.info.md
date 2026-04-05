@@ -2,6 +2,9 @@
 ---
 
 Doc_Article: Generic
+Status: Wip
+
+District: Category
 
 ---
 -->
@@ -56,6 +59,11 @@ title="SECTION_LOGO_CATEGORY-NO_LINK"
 alt="BTC.HuPaWi - Jinja Natsume">
 </td></tr></table></div>
 
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/13-AC-EXT.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/135-Winchester "HERE-IS-CATEGORY-SECTION"
+
 ---
 
 # $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$ $${\textbf{\textcolor{#FF1B39}{Virtual}}}$$ $${\textbf{\textcolor{#B651FF}{Winchester}}}$$
@@ -72,22 +80,17 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**[13_4]**][Link-Prev] | ***<span title="[13_5]">[13_5]</span>*** | [**[f-13!6-f]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/134-Kama/134-AC_D-EXT.info.md "Prev: [13_4] - (Gaster Virtual Equip.Kama)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/f136-Eldritch/f136-ACxF-EXT.info.md "Next: [f-13!6-f] - (Gaster Virtual !ELDRITCH!)"
 
 </div>
 
 ---
 
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/13-AC-EXT.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/135-Winchester "HERE-IS-CATEGORY-SECTION"
-
+  <!-- BEGIN: Category Reff -
 <!-- Reffs : Anchor Hint -->
 [ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/134-Kama/134-AC_D-EXT.info.md "Prev: [13_4] - (Gaster Virtual Equip.Kama)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/f136-Eldritch/f136-ACxF-EXT.info.md "Next: [f-13!6-f] - (Gaster Virtual !ELDRITCH!)"
-
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Category Reff -

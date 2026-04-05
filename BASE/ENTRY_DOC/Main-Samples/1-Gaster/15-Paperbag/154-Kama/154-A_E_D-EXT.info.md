@@ -2,6 +2,9 @@
 ---
 
 Doc_Article: Generic
+Status: Wip
+
+District: Category
 
 ---
 -->
@@ -56,6 +59,11 @@ title="SECTION_LOGO_CATEGORY-NO_LINK"
 alt="BTC.MiRaKa - Jinja Eru">
 </td></tr></table></div>
 
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama "HERE-NOT-CATEGORY-SECTION"
+
 ---
 
 # $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$ $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#FF78D3}{Kama}}}$$
@@ -72,22 +80,17 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**[1_5_3]**][Link-Prev] | ***<span title="[1_5__4]">[1_5__4]</span>*** | [**[1_5__5]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/153-A_EC-EXT.info.md "Prev: [1_5_3] - (Gaster Paperbag'ed Drill)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/155-A_E_E-EXT.info.md "Next: [1_5__5] - (Gaster Paperbag'ed Equip.Winchester)"
 
 </div>
 
 ---
 
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/15-A_E-EXT.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/154-Kama "HERE-NOT-CATEGORY-SECTION"
-
+  <!-- BEGIN: Category Reff -
 <!-- Reffs : Anchor Hint -->
 [ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/153-Drill/153-A_EC-EXT.info.md "Prev: [1_5_3] - (Gaster Paperbag'ed Drill)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/155-A_E_E-EXT.info.md "Next: [1_5__5] - (Gaster Paperbag'ed Equip.Winchester)"
-
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Category Reff -

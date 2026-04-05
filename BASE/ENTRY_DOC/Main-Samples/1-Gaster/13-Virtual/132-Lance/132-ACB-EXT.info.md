@@ -2,6 +2,9 @@
 ---
 
 Doc_Article: Generic
+Status: Wip
+
+District: Category
 
 ---
 -->
@@ -56,6 +59,11 @@ title="SECTION_LOGO_CATEGORY-NO_LINK"
 alt="BTC.SJL - Jouga Maya">
 </td></tr></table></div>
 
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/13-AC-EXT.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/132-Lance "HERE-IS-CATEGORY-SECTION"
+
 ---
 
 # $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$ $${\textbf{\textcolor{#FF1B39}{Virtual}}}$$ $${\textbf{\textcolor{#FFC32B}{Lance}}}$$
@@ -72,22 +80,17 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**[131]**][Link-Prev] | ***<span title="[132]">[132]</span>*** | [**[133]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/131-Blaster/131-ACA-EXT.info.md "Prev: [131] - (Gaster Virtual Blaster)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/133-Drill/133-ACC-EXT.info.md "Next: [133] - (Gaster Virtual Drill)"
 
 </div>
 
 ---
 
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/13-AC-EXT.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/132-Lance "HERE-IS-CATEGORY-SECTION"
-
+  <!-- BEGIN: Category Reff -
 <!-- Reffs : Anchor Hint -->
 [ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/131-Blaster/131-ACA-EXT.info.md "Prev: [131] - (Gaster Virtual Blaster)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/13-Virtual/133-Drill/133-ACC-EXT.info.md "Next: [133] - (Gaster Virtual Drill)"
-
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Category Reff -

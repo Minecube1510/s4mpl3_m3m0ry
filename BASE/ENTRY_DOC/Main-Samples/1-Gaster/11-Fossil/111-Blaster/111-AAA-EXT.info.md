@@ -2,6 +2,9 @@
 ---
 
 Doc_Article: Generic
+Status: Wip
+
+District: Category
 
 ---
 -->
@@ -56,6 +59,11 @@ title="SECTION_LOGO_CATEGORY-NO_LINK"
 alt="BTC.GFB - Kafuu Chino">
 </td></tr></table></div>
 
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/11-AA-EXT.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/111-Blaster "HERE-IS-CATEGORY-SECTION"
+
 ---
 
 # $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$ $${\textbf{\textcolor{#00BEFF}{Fossil}}}$$ $${\textbf{\textcolor{#00BEFF}{Blaster}}}$$
@@ -72,22 +80,17 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**[f-1_4!6-f]**][Link-Prev] | ***<span title="[111]">[111]</span>*** | [**[112]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/Ff66-Trickster///?.info.md "Prev: [F-@6/6!6] - (HERE'Clovin'HERE Trickster-Side !ELDRITCH!)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil///?.info.md "Next: [112] - (Gaster Paperbag'ed Lance)"
 
 </div>
 
 ---
 
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/11-AA-EXT.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil/111-Blaster "HERE-IS-CATEGORY-SECTION"
-
+  <!-- BEGIN: Category Reff -
 <!-- Reffs : Anchor Hint -->
 [ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/Ff66-Trickster///?.info.md "Prev: [F-@6/6!6] - (HERE'Clovin'HERE Trickster-Side !ELDRITCH!)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil///?.info.md "Next: [112] - (Gaster Paperbag'ed Lance)"
-
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Category Reff -

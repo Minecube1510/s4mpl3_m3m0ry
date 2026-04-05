@@ -2,6 +2,9 @@
 ---
 
 Doc_Article: Generic
+Status: Wip
+
+District: Category
 
 ---
 -->
@@ -56,6 +59,11 @@ title="SECTION_LOGO_CATEGORY-NO_LINK"
 alt="BTC.CloTriEld - Fuiba Fuyu">
 </td></tr></table></div>
 
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster "HERE-IS-TYPE-SECTION"
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster "HERE-NOT-CATEGORY-SECTION"
+
 ---
 
 # $${\textbf{\textcolor{#00BEFF}{Gaster's}}}$$ $${\textbf{\textcolor{#B651FF}{Paperbag}}}$$ $${\textbf{\textcolor{#6A96FF}{Eldritch}}}$$
@@ -72,22 +80,17 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**[1_5__5]**][Link-Prev] | ***<span title="[f-1_5!6-f]">[f-1_5!6-f]</span>*** | [**[f-1_5!6-f]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/155-A_E_E-EXT.info.md "Prev: [1_5__5] - (Gaster Paperbag'ed Equip.Winchester)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///.info.md "Next: [F-1!6!1] - (Gaster Trickster-Side Blaster)"
 
 </div>
 
 ---
 
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster "HERE-IS-TYPE-SECTION"
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster "HERE-NOT-CATEGORY-SECTION"
-
+  <!-- BEGIN: Category Reff -->
 <!-- Reffs : Anchor Hint -->
 [ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/15-Paperbag/155-Winchester/155-A_E_E-EXT.info.md "Prev: [1_5__5] - (Gaster Paperbag'ed Equip.Winchester)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/f16-Trickster///.info.md "Next: [F-1!6!1] - (Gaster Trickster-Side Blaster)"
-
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Category Reff -->

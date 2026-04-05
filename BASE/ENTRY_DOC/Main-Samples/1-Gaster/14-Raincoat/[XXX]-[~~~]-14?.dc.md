@@ -2,6 +2,7 @@
 ---
 
 Doc_Article: Entry_Doc
+Status: Wip
 
 ---
 -->
@@ -60,6 +61,11 @@ src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSE
 title="Click for more information."
 alt="BTC-ALT">][On-Category]
 </td></tr></table></div>
+
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///.info.md
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///.info.md
 
 ---
 
@@ -124,22 +130,18 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**XXXX**][Link-Prev] | ***<span title="XXXX">XXXX</span>*** | [**XXXX**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][EDP] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"
 
 </div>
 
 ---
 
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///.info.md
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/14-Raincoat///.info.md
-
+  <!-- BEGIN: Sample Reff -->
 <!-- Reffs : Anchor Hint -->
 [EDP]: #entry-doc-page
 [Sample-Info]: #general-explanations
 [Endfoot]: #endfoot-linker
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Sample Reff -->

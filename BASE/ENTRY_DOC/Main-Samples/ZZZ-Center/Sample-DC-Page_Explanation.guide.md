@@ -133,6 +133,11 @@ alt="BTC-ALT">][On-BTC]
 
 </td></tr></table></div>
 
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: link.dc.md
+[On-Type]: link.dc.md
+[On-Category]: link.dc.md
+
 ---
 <!-- Intinya, penjelasan naro gambar lah -->
 # Default Illustration
@@ -214,6 +219,9 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**XXXX**][Link-Prev] | ***<span title="XXXX">XXXX</span>*** | [**XXXX**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][EDP] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"
 
 </div>
 
@@ -224,17 +232,10 @@ id="endfoot-linker">
   Section ini gak akan pernah di-display-kan.
 -->
 
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: link.dc.md
-[On-Type]: link.dc.md
-[On-Category]: link.dc.md
-
+  <!-- BEGIN: Sample Reff -->
 <!-- Reffs : Anchor Hint -->
 [EDP]: #entry-doc-page
 [Sample-Info]: #general-explanations
 [Endfoot]: #endfoot-linker
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Prev: XXXX"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples///?.dc.md "Next: XXXX"
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Sample Reff -->

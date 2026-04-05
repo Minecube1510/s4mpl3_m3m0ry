@@ -1,6 +1,8 @@
 {
     "liveServer.settings.port": 5502,
+
     "json.schemaDownload.enable": true,
+    //
     "markdown.preview.fileRoot": "/",
     "markdownlint.config": {
         "default": true,
@@ -12,5 +14,37 @@
         "MD041": false,
         "MD049": false,
         "MD053": false
+    },
+
+    // 🔥 Performance boost
+    "files.watcherExclude": {
+        "**/.git/**": true,
+        //
+        "**/.storage/.images/**": true,
+        "**/ASSETS/**": true,
+            // //
+        "**/*.png": true,
+        "**/*.jpg": true,
+        "**/*.jpeg": true,
+        "**/*.webp": true,
+        "**/*.gif": true
+    },
+    //
+    "search.exclude": {
+        "**/.storage/.images/**": true,
+        "**/ASSETS/**": true,
+            // //
+        "**/*.png": true,
+        "**/*.jpg": true,
+        "**/*.jpeg": true,
+        "**/*.webp": true,
+        "**/*.gif": true
+    },
+
+    "extensions.ignoreRecommendations": true,
+
+    // 🔧 MCP fix
+    "files.associations": {
+        "mcp.json": "jsonc"
     }
 }

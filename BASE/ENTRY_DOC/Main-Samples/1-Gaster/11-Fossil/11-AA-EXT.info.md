@@ -2,6 +2,9 @@
 ---
 
 Doc_Article: Generic
+Status: Wip
+
+District: Type
 
 ---
 -->
@@ -43,6 +46,11 @@ src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSE
 title="SECTION_LOGO_TYPE-NO_LINK"
 alt="BTC.GFB - Kafuu Chino">
 </td></tr></table></div>
+
+<!-- Reffs : BTC Linking -->
+[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
+[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil "HERE-IS-TYPE-SECTION"
+[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil "HERE-NOT-CATEGORY-SECTION"
 
 ---
 
@@ -177,22 +185,17 @@ id="endfoot-linker">
 | :-: | :-: | :-: |
 | [**[F-@6!6]**][Link-Prev] | ***<span title="[11]">[11]</span>*** | [**[12]**][Link-Next] |
 | **<-<-<-<-<** Prev **<-<-<-<-<** | *#* [**^^^**][ESG] *#* | **>->->->->** Next **>->->->->** |
+<!-- Reffs : Navigate -->
+[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/Ff66-Trickster///?.info.md "Prev: [F-@6/6] - (HERE'Clovin'HERE Trickster-Side)"
+[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/12-AB-EXT.info.md "Next: [12] - (Gaster Jarl)"
 
 </div>
 
 ---
 
-<!-- Reffs : BTC Linking -->
-[On-Bunch]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/1-Gaster-EXT.info.md
-[On-Type]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil "HERE-IS-TYPE-SECTION"
-[On-Category]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/11-Fossil "HERE-NOT-CATEGORY-SECTION"
-
+  <!-- BEGIN: Type Reff -
 <!-- Reffs : Anchor Hint -->
 [ESG]: #sample-generic
 [Endfoot]: #endfoot-linker
-
-<!-- Reffs : Navigate -->
-[Link-Prev]: /BASE/ENTRY_DOC/Main-Samples/F6-Clovin/Ff66-Trickster///?.info.md "Prev: [F-@6/6] - (HERE'Clovin'HERE Trickster-Side)"
-[Link-Next]: /BASE/ENTRY_DOC/Main-Samples/1-Gaster/12-Jarl/12-AB-EXT.info.md "Next: [12] - (Gaster Jarl)"
-
-<!-- Reffs-End -->
+<!-- ? -->
+  <!-- END: Type Reff -
