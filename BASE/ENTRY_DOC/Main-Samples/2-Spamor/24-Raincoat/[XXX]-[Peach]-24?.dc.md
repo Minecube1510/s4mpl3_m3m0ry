@@ -1,5 +1,19 @@
+<!--
+---
+
+Doc_Article: Entry_Doc
+Status: Wip
+#
+District: Appx-24X
 
 ---
+-->
+---
+<div align="center">
+
+### Entry Doc Page
+
+</div>
 
 # Peach
 

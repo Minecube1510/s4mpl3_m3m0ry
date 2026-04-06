@@ -3,8 +3,8 @@
 
 Doc_Article: Generic
 Status: Wip
-
-District: Type
+#
+District: Info-Type
 
 ---
 -->

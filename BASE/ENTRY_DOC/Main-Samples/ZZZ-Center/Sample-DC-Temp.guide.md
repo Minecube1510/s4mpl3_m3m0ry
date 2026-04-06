@@ -4,7 +4,7 @@
 Doc_Article: Entry_Doc
 Status: Fin/Wip
 #
-District: [Info/Appx]-[Bunch/Type/Category]
+District: [Info/Appx]-[Bunch/Type/Category]/[Sample/XXX]
 
 ---
 -->
