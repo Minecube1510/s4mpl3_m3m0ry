@@ -1,5 +1,17 @@
+<!--
+---
+
+Doc_Article: Entry_Doc
+Status: Wip
 
 ---
+-->
+---
+<div align="center">
+
+### Entry Doc Page
+
+</div>
 
 # Sticks the Badger
 
@@ -124,4 +136,10 @@ id="endfoot-linker">
 
 ---
 
-<!-- Reffs-End -->
+  <!-- BEGIN: Sample Reff -->
+<!-- Reffs : Anchor Hint -->
+[EDP]: #entry-doc-page
+[Sample-Info]: #general-explanations
+[Endfoot]: #endfoot-linker
+<!-- ? -->
+  <!-- END: Sample Reff -->

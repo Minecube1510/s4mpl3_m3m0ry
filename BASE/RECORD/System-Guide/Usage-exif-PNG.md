@@ -8,7 +8,7 @@ Doc_Article: Record
 
 ---
 
-# Nge-EXIF aset-aset untuk per-Sampel-an
+# {{ Nge-EXIF aset-aset untuk per-Sampel-an }}
 
 Setiap aset-aset untuk Sampel, itu adalah wajib diperhatikan juga Metadata-nya.
 

@@ -8,7 +8,7 @@ Doc_Article: Record
 
 ---
 
-# Nge-EXIF MD-an
+# {{ Nge-EXIF MD-an }}
 
 Menanti...
 
