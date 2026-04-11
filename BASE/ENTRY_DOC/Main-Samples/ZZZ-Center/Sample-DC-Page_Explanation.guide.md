@@ -193,7 +193,7 @@ GAMBAR ILUSTRASI SAMPEL
 <!-- Ini adalah penjelasan explanatif tentang Sampel -->
 # General Explanations
 
-**MENULISLAH!**
+Tuliskan penjelasan yang mendetil disini.
 
 ---
 <!-- Taro semua referensi-nya darimana aja, di sini -->

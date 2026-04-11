@@ -107,7 +107,11 @@ GAMBAR ILUSTRASI SAMPEL
 
 # General Explanations
 
-**MENULISLAH!**
+**Hollow Knight** (yakni disebut **The Knight**, atau **Ghost**), adalah seorang yang sangat dikenal sang prontagonis pada **Hollow Knight**. Ia tidak memiliki nama aslinya, karena ia adalah makhluk tanpa nama. Ia adalah salah satu "Vessel" yang dibuang, yakni anak dari Pale King dan White Lady, lahir di Abyss dengan Void di dalam cangkangnya.  
+The Knight dikategorikan *genderless* (tidak punya gender, *tergantung yg main aja lah*. Tapi sebaiknya, dia kelamin-nya adalah "laki-laki" aja), kecil, diam, dan hanya membawa **Nail** (yakni senjata seperti pedang) yang rusak, bahkan sejak sebelum memulai petualangannya.
+
+The Knight kembali ke kerajaan Hallownest yang sudah runtuh, untuk mengungkap rahasia *Infection* (penyakit yang mengubah makhluk menjadi monster), lalu melawan boss besar, dan pada akhirnya berperan penting dalam nasib kerajaan (yang mana tergantung dari ending yang dipilih oleh *Orang Nyata*).  
+The Knight adalah wanderer yang tangguh, penuh misteri, dan mampu menyerap Void untuk kekuatan lebih besar. Banyak Orang Nyata menyebutnya sebagai **Little Ghost** atau hanya sekadar "The Knight".
 
 ---
 
@@ -120,6 +124,11 @@ GAMBAR ILUSTRASI SAMPEL
 [Reff-1]: github.com "Descript-Note 1"
 [Reff-2]: github.com "Descript-Note 2"
 [Reff-3]: github.com "Descript-Note 3"
+
+<!--
+https://hollowknight.fandom.com/wiki/Knight
+https://hollowknight.wiki/w/The_Knight
+-->
 
 ---
 <div align="center"

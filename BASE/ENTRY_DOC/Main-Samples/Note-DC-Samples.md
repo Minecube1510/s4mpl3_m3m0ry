@@ -2,7 +2,7 @@
 ---
 
 Doc_Article: Explanation
-Article_Path: Entry_Doc
+Article_Path: _Entry_Doc_
 #
 Status: No-Status
 

@@ -107,7 +107,29 @@ GAMBAR ILUSTRASI SAMPEL
 
 # General Explanations
 
-**MENULISLAH!**
+**Javelin** adalah seorang **Shipman** (ras gender **Shipgirl**, gadis Shipman), merupakan faksi dari **Royal Navy** dalam dunia **Azur Lane**. Ia merupakan perwujudan dunia nyata, yakni pada sebuah kapal perusak **HMS Javelin (F61)** kelas J, destroyer buatan Inggris yang bertugas aktif selama Perang Dunia II. Javelin adalah salah satu ship Elite (★★★★★), sekaligus juga salah satu starter ship pemula (bersama **Laffey**, **Z23/Nimi**, dan **Ayanami**).
+
+<!-- Ia muncul sejak chapter awal dan menjadi salah satu karakter paling ikonik serta populer di kalangan pemain. -->
+
+## Penampilan & Kepribadian
+
+Javelin adalah gadis remaja energik berambut ungu lavender panjang yang diikat ponytail tinggi menggunakan pita hitam.
+
+--Tingginya sekitar 148–154 cm--
+
+Ia memakai syal hoodie ungu dengan telinga beruang, blus putih berenda, rok kotak-kotak merah-biru, serta mahkota mini di kepala yang memberi kesan “cute & royal”. Kepribadiannya sangat ceria, ramah, dan penuh semangat, bertipe "air-headed" yang ceroboh tapi selalu optimis. Ia sering meminta pujian dari Commander ("Javelin lucu kan?"), suka bercanda, tapi kadang tajam lidahnya. Meski terlihat polos, ia punya bisa memiliki sisi nakal --yang terlihat di beberapa voice line dan event--.
+
+## Latar Belakang Sejarah - Dunia Nyata
+
+HMS Javelin dibangun oleh **John Brown** & **Company** di Clydebank, Skotlandia. Diluncurkan pada 21 Desember 1938 dan resmi bertugas 10 Juni 1939. Ia ikut serta dalam Pertempuran Narvik dan Evakuasi Dunkirk (Operation Dynamo) tahun 1940, di mana ia menyelamatkan banyak nyawa.  
+Pada akhir November 1940, Javelin mengalami kerusakan berat saat bertemu destroyer Jerman — bagian haluan dan buritan kapalnya hancur, sehingga harus diperbaiki selama hampir setahun. Meski begitu, ia bertahan sampai akhir perang dan akhirnya dibongkar (scrapped) pada Juni 1949 di Troon, Skotlandia.
+
+## --Peran dalam Game & Anime--
+
+Di Azur Lane, Javelin adalah salah satu yang penting (dalam anime Azur Lane the Animation, bahkan sejak dari episode 1). Ia sering tampil bersama Laffey dan teman-temannya sebagai destroyer yang setia melindungi Commander dan armada.
+
+Voice line self-introduction-nya langsung merangkum sejarahnya:
+> "Aku adalah J-class destroyer Javelin! Bersama para ayunda (Nee-san-s) untuk ikut pertempuran Narvik dan juga mengevakuasi Dunkirk. Meski sempat ada sedikit masalah, aku tetap bertarung sampai akhir!"
 
 ---
 
@@ -120,6 +142,13 @@ GAMBAR ILUSTRASI SAMPEL
 [Reff-1]: github.com "Descript-Note 1"
 [Reff-2]: github.com "Descript-Note 2"
 [Reff-3]: github.com "Descript-Note 3"
+
+<!--
+https://azurlane.koumakan.jp/wiki/Javelin
+https://all-worlds-alliance.fandom.com/wiki/Javelin_(Azur_Lane)
+https://the-official-azur-lane.fandom.com/wiki/Javelin
+https://azur-lane.fandom.com/wiki/Javelin
+-->
 
 ---
 <div align="center"

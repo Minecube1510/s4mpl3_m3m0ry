@@ -4,7 +4,7 @@
 Doc_Article: Entry_Doc
 Status: Fin/Wip
 #
-District: [Info/Appx]-[Bunch/Type/Category]/[Sample/XXX]
+District: "[Info/Appx]-[Bunch/Type/Category]/[Sample/XXX]"
 
 ---
 -->
@@ -113,7 +113,7 @@ GAMBAR ILUSTRASI SAMPEL
 
 # General Explanations
 
-**MENULISLAH!**
+Tuliskan penjelasan yang mendetil disini.
 
 ---
 

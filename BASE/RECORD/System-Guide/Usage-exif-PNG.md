@@ -27,6 +27,24 @@ exiftool -a -u -g1 FILE_NAME.png
 |
 exiftool -r -FileType -ext png .
 exiftool -r -FileType -ext webp .
+|
+c> BASE/ASSETS
+c> .storage/.images
+```
+
+- Ini sebuah dipentingkan, untuk ngecek keseluruhan secara enak.
+
+```bash
+exiftool -r -ext png -FilePath -FileType .
+exiftool -r -ext png -FilePath -FileType BASE/ASSETS
+exiftool -r -ext png -FilePath -FileType .storage/.images
+|
+exiftool -r -ext png -if '$FileType eq "PNG"' -p '$FilePath' .
+exiftool -r -ext png -if '$FileType eq "PNG"' -p '$FilePath' BASE/ASSETS
+exiftool -r -ext png -if '$FileType eq "PNG"' -p '$FilePath' .storage/.images
+|
+c> BASE/ASSETS
+c> .storage/.images
 ```
 
 - Gunakan ini juga, untuk ngeliat, bahwa file PNG beneran PNG atau malah lain.
@@ -54,25 +72,37 @@ find . -type f -name "*.webp"
 
   [#] Teknik ngatasin sekaligus WEBP untuk per-PNG-an
 find . -type f -name "*.webp" -exec mv {} .storage/ \;
-
+=#=
   [#] Convert semua nyamar palsu itu semua
-exiftool -r -ext png -if '$FileType eq "WEBP"' -p '$FilePath' . | while read f; do
-  convert "$f" "${f}.png" && mv -f "${f}.png" "$f"
+exiftool -r -ext png -if '$FileType ne "PNG"' -p '$FilePath' .
+| while read -r f; do
+  tmp="${f}.fixed.png"
+  convert "$f" "$tmp" && mv -f "$tmp" "$f"
 done
 |
-exiftool -r -ext png -if '$FileType ne "PNG"' -p '$FilePath' . | while read f; do
-  convert "$f" "${f}.png" && mv -f "${f}.png" "$f"
+exiftool -r -ext png -if '$FileType ne "PNG"' -p '$FilePath' .
+| while read f; do
+  tmp="${f}.fixed.png"
+  convert "$f" "$tmp" && mv -f "$tmp" "$f"
 done
-
+=#=
   [#] Convert-kan file PNG menjadi WEBP
-$ find . -type f -name "*.png" -exec sh -c '
+find .
+-type f -name "*.png" -exec sh -c '
 for f; do
   convert "$f" "${f%.png}.webp"
 done
 ' sh {} +
 |
 convert FILE_NAME.png FILE_NAME.webp
-
+#
+find .
+-type f -iname "*.webp" | while read -r f; do
+  base="${f%.webp}"
+  [ -f "${base}.png" ] && rm "${base}.png"
+  mv "$f" "${base}.png"
+done
+=#=
   [#] Convert-kan file GIF menjadi WEBP
 convert FILE_NAME.gif FILE_NAME.webp
 |
