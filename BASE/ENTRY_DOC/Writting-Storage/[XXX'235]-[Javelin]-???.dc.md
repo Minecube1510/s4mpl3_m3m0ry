@@ -107,50 +107,70 @@ GAMBAR ILUSTRASI SAMPEL
 
 # General Explanations
 
+<div align="center">
+
+[**Signature Opening**][EDP]
+</div>
+
+## Overview
+
 **Javelin** adalah seorang **Shipman** (ras gender **Shipgirl**, gadis Shipman), merupakan faksi dari **Royal Navy** dalam dunia **Azur Lane**. Ia merupakan perwujudan dunia nyata, yakni pada sebuah kapal perusak **HMS Javelin (F61)** kelas J, destroyer buatan Inggris yang bertugas aktif selama Perang Dunia II. Javelin adalah salah satu ship Elite (★★★★★), sekaligus juga salah satu starter ship pemula (bersama **Laffey**, **Z23/Nimi**, dan **Ayanami**).
 
-<!-- Ia muncul sejak chapter awal dan menjadi salah satu karakter paling ikonik serta populer di kalangan pemain. -->
+Javelin dikenal dengan sikap ceria, semangat optimis, dan gaya khas Inggris. Ia sering tampil sebagai karakter yang hangat, mudah bergaul, dan sangat loyal kepada komandan.
 
-## Penampilan & Kepribadian
+## Appearance
 
-Javelin adalah gadis remaja energik berambut ungu lavender panjang yang diikat ponytail tinggi menggunakan pita hitam.
+- Rambut ungu lavender panjang, diikat ponytail tinggi
+- Pita hitam di rambut
+- Hoodie ungu dengan telinga beruang
+- Blus putih berenda dan rok kotak-kotak merah-biru
+- Aksesori mahkota mini yang memberi kesan "cute & royal"
 
---Tingginya sekitar 148–154 cm--
+## Equipment & Components
 
-Ia memakai syal hoodie ungu dengan telinga beruang, blus putih berenda, rok kotak-kotak merah-biru, serta mahkota mini di kepala yang memberi kesan “cute & royal”. Kepribadiannya sangat ceria, ramah, dan penuh semangat, bertipe "air-headed" yang ceroboh tapi selalu optimis. Ia sering meminta pujian dari Commander ("Javelin lucu kan?"), suka bercanda, tapi kadang tajam lidahnya. Meski terlihat polos, ia punya bisa memiliki sisi nakal --yang terlihat di beberapa voice line dan event--.
+- Peran: destroyer serangan cepat
+- Senjata: cannon dan torpedo standar destroyer
+- Gaya khas: hoodie beruang dan pita yang jadi identitas visual
 
-## Latar Belakang Sejarah - Dunia Nyata
+## Personality
 
-HMS Javelin dibangun oleh **John Brown** & **Company** di Clydebank, Skotlandia. Diluncurkan pada 21 Desember 1938 dan resmi bertugas 10 Juni 1939. Ia ikut serta dalam Pertempuran Narvik dan Evakuasi Dunkirk (Operation Dynamo) tahun 1940, di mana ia menyelamatkan banyak nyawa.  
-Pada akhir November 1940, Javelin mengalami kerusakan berat saat bertemu destroyer Jerman — bagian haluan dan buritan kapalnya hancur, sehingga harus diperbaiki selama hampir setahun. Meski begitu, ia bertahan sampai akhir perang dan akhirnya dibongkar (scrapped) pada Juni 1949 di Troon, Skotlandia.
+Javelin digambarkan ceria, ramah, dan penuh semangat. Dia kadang ceroboh, tetapi selalu optimis. Meskipun sering bertingkah imut, ia tetap serius dalam menjaga Komandan dan armada.
 
-## --Peran dalam Game & Anime--
+## Background
 
-Di Azur Lane, Javelin adalah salah satu yang penting (dalam anime Azur Lane the Animation, bahkan sejak dari episode 1). Ia sering tampil bersama Laffey dan teman-temannya sebagai destroyer yang setia melindungi Commander dan armada.
+- Real: HMS Javelin dibuat oleh **John Brown & Company** di Clydebank, Skotlandia.
+- Tanggal peluncuran: 21 Desember 1938.
+- Tanggal penugasan: 10 Juni 1939.
+- Perang: ikut serta dalam Pertempuran Narvik dan Evakuasi Dunkirk (Operation Dynamo) 1940.
+- Kerusakan: terkena serangan kapal Jerman akhir November 1940, kemudian diperbaiki dan kembali bertugas.
+- Nasib: dibongkar pada Juni 1949 di Troon, Skotlandia.
+
+## Game & Anime Role
+
+Dalam Azur Lane, Javelin adalah salah satu karakter awal yang sering muncul dalam cerita dan gameplay. Di anime *Azur Lane: The Animation*, ia tampil sejak episode pertama sebagai destroyer yang setia melindungi Commander bersama teman-temannya.
 
 Voice line self-introduction-nya langsung merangkum sejarahnya:
 > "Aku adalah J-class destroyer Javelin! Bersama para ayunda (Nee-san-s) untuk ikut pertempuran Narvik dan juga mengevakuasi Dunkirk. Meski sempat ada sedikit masalah, aku tetap bertarung sampai akhir!"
+
+## Other Forms / Variants
+
+- Retrofit
+- Event skins
+- Alternate costumes
 
 ---
 
 ## Reff-Notes
 
-- [Referensi 1][Reff-1]
-- [Referensi 2][Reff-2]
-- [Referensi 3][Reff-3]
+- [Javelin][Reff-1]
+- [Javelin | Azur Lane Wiki | Fandom][Reff-2]
+- [HMS Javelin - Wikipedia][Reff-3]
+- [Javelin (Azur Lane) | All Worlds Alliance Wiki | Fandom][Reff-4]
 <!-- Reffs : Linking Record Online -->
-[Reff-1]: github.com "Descript-Note 1"
-[Reff-2]: github.com "Descript-Note 2"
-[Reff-3]: github.com "Descript-Note 3"
-
-<!--
-https://azurlane.koumakan.jp/wiki/Javelin
-https://all-worlds-alliance.fandom.com/wiki/Javelin_(Azur_Lane)
-https://the-official-azur-lane.fandom.com/wiki/Javelin
-https://azur-lane.fandom.com/wiki/Javelin
--->
-
----
+[Reff-1]: https://azurlane.koumakan.jp/wiki/Javelin "Javelin - Azur Lane Koumakan Wiki"
+[Reff-2]: https://azur-lane.fandom.com/wiki/Javelin "Javelin | Azur Lane Wiki | Fandom"
+[Reff-3]: https://en.wikipedia.org/wiki/HMS_Javelin_(F61) "HMS Javelin - Wikipedia"
+[Reff-4]: https://all-worlds-alliance.fandom.com/wiki/Javelin_(Azur_Lane) "Javelin (Azur Lane) | All Worlds Alliance Wiki | Fandom"
 <div align="center"
 id="endfoot-linker">
 

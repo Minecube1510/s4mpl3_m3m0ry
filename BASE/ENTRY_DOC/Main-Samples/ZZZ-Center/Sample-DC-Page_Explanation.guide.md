@@ -193,7 +193,29 @@ GAMBAR ILUSTRASI SAMPEL
 <!-- Ini adalah penjelasan explanatif tentang Sampel -->
 # General Explanations
 
-Tuliskan penjelasan yang mendetil disini.
+<div align="center">
+
+[**Signature Opening**][EDP]
+</div>
+
+Tuliskan penjelasan yang mendetil disini.  
+Berikut, struktural penulisan yang bisa diterapkan sebagai berikut:
+
+- Overview (Gambaran Umum)
+- Appearance (Penampilan)
+- Equipment & Components (Peralatan & Komponen)
+- Personality (Kepribadian)
+- Background (Latar Belakang)
+- Other Forms / Variants (Bentuk / Varian lain)
+
+<!--
+- Overview
+- Appearance
+- Equipment & Components
+- Personality
+- Background
+- Other Forms / Variants
+-->
 
 ---
 <!-- Taro semua referensi-nya darimana aja, di sini -->

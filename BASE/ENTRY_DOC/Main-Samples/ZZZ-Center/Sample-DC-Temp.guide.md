@@ -113,6 +113,11 @@ GAMBAR ILUSTRASI SAMPEL
 
 # General Explanations
 
+<div align="center">
+
+[**Signature Opening**][EDP]
+</div>
+
 Tuliskan penjelasan yang mendetil disini.
 
 ---

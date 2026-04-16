@@ -144,6 +144,10 @@ Kebanyakan file aset yang jika dari donlot-an web, maka itu skip saja. Jangan di
 [05/03/2025]
 Semua file aset harus di-sama-rata-kan per-Metadata-nya.
 Cobalah melihat pada 2 file ("example-original.png" dan "example-standard.png") untuk melihat standar detil-nya.
+
+[16/04/2025]
+- AuthorLink : kalo emg gak ada nama author-nya, bisa cukup dengan link sumber web-nya.
+- XnX : ?.
 ```
 
 - Standarisasi aset-aset Sample (PNG)
@@ -190,13 +194,40 @@ Silahkan untuk dipake pada sekian berikut...
 
 - Edit pokok Metadata aset-aset per-Sampel-an
 
-```py
-exiftool -config .sys/exif-img_data.config -overwrite_original \
+```bash
+# -r -ext png -ext webp \
+exiftool -config .sys/exif-img_data.config \
+-overwrite_original \
 -XMP-Sec_Res:AuthorName="Who is Author Name" \
 -XMP-Sec_Res:ImageFrom="Where Image is From" \
 -XMP-Sec_Res:AuthorLink="author-link.com" \
 -XMP-Sec_Res:ImageLink="image-link.com" \
 FILE_NAME.png
+
+  [#] Nyari salah satu
+  # Yg punya
+exiftool -r -ext png -ext png/webp -i .git \
+-if '$MetaData' \
+-p '$FilePath' .
+|
+  # Yg gak punya
+exiftool -r -ext png -ext png/webp -i .git \
+-if 'not $MetaData' \
+-p '$FilePath' .
+#
+  [#-Exmp] Nyari salah satu
+  # Yg punya
+exiftool -r -ext png -ext png -i .git \
+-if '$XMP-Sec_Res:AuthorName' \
+-p '$FilePath' .
+|
+  # Yg gak punya
+exiftool -r -ext png -ext webp -i .git \
+-if 'not $XMP-Sec_Res:ImageFrom' \
+-p '$FilePath' .
+#
+  [#-Opt] Nyari salah satu
+-p '$FilePath' > file.png
 ```
 
 ---
@@ -225,7 +256,9 @@ FILE_NAME.png
 - Singkat-Sikat semuanya
 
 ```py
-exiftool -config .sys/exif-img_data.config -overwrite_original \
+#-r -ext png -ext webp \
+exiftool -config .sys/exif-img_data.config \
+-overwrite_original \
 -Title="Image Title" \
 -Author="Author of [The Image]" \
 -Copyright="[Author] - [AtPublished]" \
@@ -235,7 +268,7 @@ exiftool -config .sys/exif-img_data.config -overwrite_original \
 -XMP-Sec_Res:ImageFrom="Where Image is From" \
 -XMP-Sec_Res:AuthorLink="author-link.com" \
 -XMP-Sec_Res:ImageLink="image-link.com" \
-FILE_NAME.png
+FILE_NAME.png // folder
 ```
 
 ---
@@ -274,6 +307,26 @@ find . \( -type f -perm 0666 -ls -o -type f ! -perm 0644 -o -type d -perm 0666 -
 
   [#] Eksekusi: Mengubah semuanya
 find . -path "./.git" -prune -o -exec chmod u=rwX,go=rX {} +
+|
+find . -path "./.git" -prune -o
+#|#|#
+  [#] Eksekusi: Mengubah khususan
+find . -type d -exec chmod 755 {} \;
+find . -path "./.git" -type d -exec chmod 755 {} \;
+|
+find . -type f -name "*.md" -exec chmod 644 {} \;
+find . -type f -name "*.png" -exec chmod 644 {} \;
+|
+find . -type f -name "*.py" -exec chmod 755 {} \;
+find . -type f -name "*.js" -exec chmod 755 {} \;
+|
+find . -type f -name "*.html" -exec chmod 644 {} \;
+find . -type f -name "*.php" -exec chmod 644 {} \;
+find . -type f -name "*.css" -exec chmod 644 {} \;
+#|#|#
+  [#] Eksekusi: Mengubah manual
+chmod 644 file.png
+chmod 755 folder
 ```
 
 ```bash
