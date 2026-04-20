@@ -152,7 +152,7 @@ Dalam Azur Lane, Javelin adalah salah satu karakter awal yang sering muncul dala
 Voice line self-introduction-nya langsung merangkum sejarahnya:
 > "Aku adalah J-class destroyer Javelin! Bersama para ayunda (Nee-san-s) untuk ikut pertempuran Narvik dan juga mengevakuasi Dunkirk. Meski sempat ada sedikit masalah, aku tetap bertarung sampai akhir!"
 
-## Other Forms / Variants
+## Other Forms / Variants (FIX IT)
 
 - Retrofit
 - Event skins

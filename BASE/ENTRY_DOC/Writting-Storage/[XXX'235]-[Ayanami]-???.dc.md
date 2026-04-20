@@ -146,7 +146,7 @@ Ayanami digambarkan sebagai karakter pendiam, sopan, dan pemalu. Ia tampak setia
 - Real: Kapal IJN Ayanami bertugas di perairan Pasifik dan tenggelam pada 1942 di sekitar Guadalcanal.
 - Game: Shipgirl dari Sakura Empire dengan peran destroyer stealth torpedo specialist.
 
-## Other Forms / Variants
+## Other Forms / Variants (FIX IT)
 
 - Kai
 - Swimsuit

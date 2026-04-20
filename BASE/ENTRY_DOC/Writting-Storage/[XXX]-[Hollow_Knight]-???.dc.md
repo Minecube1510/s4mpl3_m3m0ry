@@ -107,23 +107,53 @@ GAMBAR ILUSTRASI SAMPEL
 
 # General Explanations
 
-**Hollow Knight** (yakni disebut **The Knight**, atau **Ghost**), adalah seorang yang sangat dikenal sang prontagonis pada **Hollow Knight**. Ia tidak memiliki nama aslinya, karena ia adalah makhluk tanpa nama. Ia adalah salah satu "Vessel" yang dibuang, yakni anak dari Pale King dan White Lady, lahir di Abyss dengan Void di dalam cangkangnya.  
-The Knight dikategorikan *genderless* (tidak punya gender, *tergantung yg main aja lah*. Tapi sebaiknya, dia kelamin-nya adalah "laki-laki" aja), kecil, diam, dan hanya membawa **Nail** (yakni senjata seperti pedang) yang rusak, bahkan sejak sebelum memulai petualangannya.
+**The Knight** (juga dikenal sebagai **Ghost** atau **Little Ghost**) adalah protagonis utama dan satu-satunya karakter yang dapat dimainkan dalam game **Hollow Knight**. Ia adalah makhluk kecil yang misterius tanpa nama, salah satu "Vessel" yang dibuang.
 
-The Knight kembali ke kerajaan Hallownest yang sudah runtuh, untuk mengungkap rahasia *Infection* (penyakit yang mengubah makhluk menjadi monster), lalu melawan boss besar, dan pada akhirnya berperan penting dalam nasib kerajaan (yang mana tergantung dari ending yang dipilih oleh *Orang Nyata*).  
-The Knight adalah wanderer yang tangguh, penuh misteri, dan mampu menyerap Void untuk kekuatan lebih besar. Banyak Orang Nyata menyebutnya sebagai **Little Ghost** atau hanya sekadar "The Knight".
+## Overview
+
+The Knight adalah seorang wanderer kecil yang kembali ke kerajaan Hallownest yang sudah runtuh. Ia datang hanya dengan membawa **Nail** (senjata pedang sederhana) yang rusak. Tujuannya adalah mengungkap rahasia **Infection** (penyakit yang mengubah makhluk menjadi monster), melawan berbagai boss epik, dan pada akhirnya menentukan nasib kerajaan Hallownest, tergantung pilihan ending yang diambil oleh pemain (Orang Nyata).
+
+Ia dikenal sebagai karakter yang tangguh, penuh misteri, dan mampu menyerap kekuatan **Void** untuk mendapatkan kekuatan yang jauh lebih besar. Banyak pemain memanggilnya **Little Ghost**.
+
+## Appearance
+
+The Knight berpenampilan seperti serangga kecil berwarna hitam pekat dengan jubah biru-abu tua (charcoal cloak). Cangkang kepalanya berwarna putih dengan dua lubang mata hitam kosong dan dua tanduk kecil. Tubuhnya ramping, tanpa ekspresi wajah yang jelas, dan ia selalu bergerak dengan tenang serta diam.
+
+Ketika mati, cangkangnya pecah dan melepaskan **Shade**, yakni bentuk Void hitam pekat dengan mata putih menyala yang menyeramkan.
+
+## Personality
+
+The Knight hampir tidak memiliki kepribadian yang terlihat karena ia diciptakan sebagai Vessel yang "hollow" (kosong). Ia **total diam**, tidak pernah berbicara, dan jarang menunjukkan emosi apa pun. Gerakannya efisien, dingin, dan penuh tekad.
+
+Meski begitu, perjalanan cerita dan pilihan pemain menunjukkan bahwa The Knight memiliki **kehendak (will)** yang sangat kuat, terutama setelah mendapatkan Void Heart. Ia digambarkan sebagai sosok yang gigih, tangguh, dan misterius.
+
+## Background
+
+The Knight adalah salah satu anak dari **Pale King** dan **White Lady**, lahir di **The Abyss** dengan Void di dalam cangkangnya. Bersama ribuan saudara Vessel lainnya, ia diciptakan untuk menjadi wadah sempurna yang bisa menahan **Radiance** (sumber Infection).
+
+Karena dianggap gagal (tidak cukup hollow), ia dibuang ke dalam Abyss. Bertahun-tahun kemudian, The Knight kembali ke Hallownest sebagai pengembara. Ia adalah saudara tiri **Hornet** (dari ayah yang sama, dari Pale King).
+
+## Other Forms / Variants
+
+- **Shade**: Bentuk Void hitam yang muncul saat The Knight mati. Shade ini menyimpan Geo yang hilang dan bisa dikalahkan untuk mengembalikan nyawa serta Soul.
+- **Void Given Form (Lord of Shades)**: Bentuk di ending **Dream No More**. The Knight melepaskan cangkangnya dan menjadi entitas Void dengan tendril panjang, tanduk lebih besar, serta kekuatan Void yang luar biasa.
+- **Void Given Focus (God of Gods / Shade Lord)**: Bentuk paling kuat di Pantheon of Hallownest (Godmaster DLC), berupa makhluk Void raksasa dengan banyak mata, empat lengan, dan enam tanduk. Ini adalah puncak kekuatan Void.
 
 ---
 
 ## Reff-Notes
 
-- [Referensi 1][Reff-1]
-- [Referensi 2][Reff-2]
-- [Referensi 3][Reff-3]
+- [The Knight | Hollow Knight Wiki | Fandom][Reff-1]
+- [Vessels | Hollow Knight Wiki | Fandom][Reff-2]
+  <!---->
+- [The Knight - Hollow Knight Wiki (Independent Wiki)][Reff-3]
+- [Vessels - Hollow Knight Wiki (Independent Wiki)][Reff-4]
 <!-- Reffs : Linking Record Online -->
-[Reff-1]: github.com "Descript-Note 1"
-[Reff-2]: github.com "Descript-Note 2"
-[Reff-3]: github.com "Descript-Note 3"
+[Reff-1]: https://hollowknight.fandom.com/wiki/Knight "The Knight | Hollow Knight Wiki | Fandom"
+[Reff-2]: https://hollowknight.fandom.com/wiki/Vessels "Vessels | Hollow Knight Wiki | Fandom"
+  <!---->
+[Reff-3]: https://hollowknight.wiki/w/The_Knight "The Knight - Hollow Knight Wiki"
+[Reff-4]: https://hollowknight.wiki/w/Vessels "Vessels - Hollow Knight Wiki"
 
 <!--
 https://hollowknight.fandom.com/wiki/Knight

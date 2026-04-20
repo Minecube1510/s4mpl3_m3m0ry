@@ -203,18 +203,20 @@ Berikut, struktural penulisan yang bisa diterapkan sebagai berikut:
 
 - Overview (Gambaran Umum)
 - Appearance (Penampilan)
-- Equipment & Components (Peralatan & Komponen)
 - Personality (Kepribadian)
 - Background (Latar Belakang)
+
+Tambahan lain seperti:
+
+- Equipment & Components (Peralatan & Komponen)
 - Other Forms / Variants (Bentuk / Varian lain)
 
 <!--
-- Overview
-- Appearance
-- Equipment & Components
-- Personality
-- Background
-- Other Forms / Variants
+- Overview (WAJIB)
+- Appearance (WAJIB)
+- Personality (WAJIB)
+- Background (WAJIB)
+- Other Forms / Variants (Optional)
 -->
 
 ---

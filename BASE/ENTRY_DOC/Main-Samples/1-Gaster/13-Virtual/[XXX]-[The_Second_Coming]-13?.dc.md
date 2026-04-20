@@ -193,6 +193,8 @@ Di AvM sendiri, TSC semakin mahir menggunakan Command Block, bidang per-Potion-a
 - **Awakened Form**, inilah TSC versi dengan aura hijau, mata hijau menyala, dan energi partikel, yang ada di AvM-8
 - **Clones**, TSC pernah membuat duplikat dirinya menggunakan alat Pencil Tool-nya
 
+## Trivia
+
 Ia juga memiliki hubungan khusus dengan TCO (mungkin menganggapnya sebagai pendahulunya), dan pernah membantu serta memaafkan antagonis seperti **Purple** dan **King Orange** (pada AvM).
 
 ---

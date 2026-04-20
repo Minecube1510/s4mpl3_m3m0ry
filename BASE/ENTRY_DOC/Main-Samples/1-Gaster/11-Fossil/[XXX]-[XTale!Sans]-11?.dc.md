@@ -170,6 +170,8 @@ Cross jauh lebih kuat daripada Sans biasa, yang dikarenakan latihannya dalam Roy
 - Versi di Underverse Season 2 pula, yang lebih stabil
 - Beberapa fanon menampilkan **X-Cross**, atau bahkan ada yang sampe versi "*corrupted*"
 
+## Additional
+
 **Quote ikonik**:
 > "I'm against unnecessary sacrifices to fix something that is fine as it is."
 
