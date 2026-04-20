@@ -8,7 +8,7 @@ Doc_Article: Record
 
 ---
 
-# Nge-EXIF aset-aset untuk per-Sampel-an
+# {{ Nge-EXIF aset-aset untuk per-Sampel-an }}
 
 Setiap aset-aset untuk Sampel, itu adalah wajib diperhatikan juga Metadata-nya.
 
@@ -22,21 +22,39 @@ Minimal, pas ngecek metadata-nya, isi detil-nya kalo harus scroll puluhan kali u
 
 - Gunakan ini, untuk ngeliat semuanya secara mendetil.
 
-```txt
+```bash
 exiftool -a -u -g1 FILE_NAME.png
 |
 exiftool -r -FileType -ext png .
 exiftool -r -FileType -ext webp .
+|
+c> BASE/ASSETS
+c> .storage/.images
+```
+
+- Ini sebuah dipentingkan, untuk ngecek keseluruhan secara enak.
+
+```bash
+exiftool -r -ext png -FilePath -FileType .
+exiftool -r -ext png -FilePath -FileType BASE/ASSETS
+exiftool -r -ext png -FilePath -FileType .storage/.images
+|
+exiftool -r -ext png -if '$FileType eq "PNG"' -p '$FilePath' .
+exiftool -r -ext png -if '$FileType eq "PNG"' -p '$FilePath' BASE/ASSETS
+exiftool -r -ext png -if '$FileType eq "PNG"' -p '$FilePath' .storage/.images
+|
+c> BASE/ASSETS
+c> .storage/.images
 ```
 
 - Gunakan ini juga, untuk ngeliat, bahwa file PNG beneran PNG atau malah lain.
 
-```txt
+```bash
   [#] Cek semua tanpa terkecuali
 exiftool -r -ext png -FileType -FileTypeExtension -MIMEType .
 ```
 
-```txt
+```bash
   [#] Cek semua, secara sesuai filter-an
 exiftool -r -ext png -if '$FileType ne "PNG"' -FilePath -FileType .
 exiftool -r -ext png -FileType . | sort | uniq -c
@@ -45,7 +63,7 @@ exiftool -r -ext png -if '$FileType ne "PNG"' \
 -p '${Directory#./BASE/}/$FileName => $FileType' .
 ```
 
-```txt
+```bash
   [#] Cek semua file gambar berdasarkan format belakangnya
 find . -type f -name "*.png"
 find . -type f -name "*.gif"
@@ -54,25 +72,37 @@ find . -type f -name "*.webp"
 
   [#] Teknik ngatasin sekaligus WEBP untuk per-PNG-an
 find . -type f -name "*.webp" -exec mv {} .storage/ \;
-
+=#=
   [#] Convert semua nyamar palsu itu semua
-exiftool -r -ext png -if '$FileType eq "WEBP"' -p '$FilePath' . | while read f; do
-  convert "$f" "${f}.png" && mv -f "${f}.png" "$f"
+exiftool -r -ext png -if '$FileType ne "PNG"' -p '$FilePath' .
+| while read -r f; do
+  tmp="${f}.fixed.png"
+  convert "$f" "$tmp" && mv -f "$tmp" "$f"
 done
 |
-exiftool -r -ext png -if '$FileType ne "PNG"' -p '$FilePath' . | while read f; do
-  convert "$f" "${f}.png" && mv -f "${f}.png" "$f"
+exiftool -r -ext png -if '$FileType ne "PNG"' -p '$FilePath' .
+| while read f; do
+  tmp="${f}.fixed.png"
+  convert "$f" "$tmp" && mv -f "$tmp" "$f"
 done
-
+=#=
   [#] Convert-kan file PNG menjadi WEBP
-$ find . -type f -name "*.png" -exec sh -c '
+find .
+-type f -name "*.png" -exec sh -c '
 for f; do
   convert "$f" "${f%.png}.webp"
 done
 ' sh {} +
 |
 convert FILE_NAME.png FILE_NAME.webp
-
+#
+find .
+-type f -iname "*.webp" | while read -r f; do
+  base="${f%.webp}"
+  [ -f "${base}.png" ] && rm "${base}.png"
+  mv "$f" "${base}.png"
+done
+=#=
   [#] Convert-kan file GIF menjadi WEBP
 convert FILE_NAME.gif FILE_NAME.webp
 |
@@ -114,6 +144,10 @@ Kebanyakan file aset yang jika dari donlot-an web, maka itu skip saja. Jangan di
 [05/03/2025]
 Semua file aset harus di-sama-rata-kan per-Metadata-nya.
 Cobalah melihat pada 2 file ("example-original.png" dan "example-standard.png") untuk melihat standar detil-nya.
+
+[16/04/2025]
+- AuthorLink : kalo emg gak ada nama author-nya, bisa cukup dengan link sumber web-nya.
+- XnX : ?.
 ```
 
 - Standarisasi aset-aset Sample (PNG)
@@ -134,7 +168,7 @@ Yang ini kayaknya bakalan ada terus deh.
 > - **ExifIFD**
 > - **InteropIFD**
 
-```txt
+```bash
   [#] Cobalah
 pngcrush -rem pHYs FILE_NAME.png BASE/SCRATCH/FILE_NAME.png
 exiftool -a -u -g1 BASE/SCRATCH/FILE_NAME.png
@@ -160,13 +194,40 @@ Silahkan untuk dipake pada sekian berikut...
 
 - Edit pokok Metadata aset-aset per-Sampel-an
 
-```py
-exiftool -config .sys/exif-img_data.config -overwrite_original \
+```bash
+# -r -ext png -ext webp \
+exiftool -config .sys/exif-img_data.config \
+-overwrite_original \
 -XMP-Sec_Res:AuthorName="Who is Author Name" \
 -XMP-Sec_Res:ImageFrom="Where Image is From" \
 -XMP-Sec_Res:AuthorLink="author-link.com" \
 -XMP-Sec_Res:ImageLink="image-link.com" \
 FILE_NAME.png
+
+  [#] Nyari salah satu
+  # Yg punya
+exiftool -r -ext png -ext png/webp -i .git \
+-if '$MetaData' \
+-p '$FilePath' .
+|
+  # Yg gak punya
+exiftool -r -ext png -ext png/webp -i .git \
+-if 'not $MetaData' \
+-p '$FilePath' .
+#
+  [#-Exmp] Nyari salah satu
+  # Yg punya
+exiftool -r -ext png -ext png -i .git \
+-if '$XMP-Sec_Res:AuthorName' \
+-p '$FilePath' .
+|
+  # Yg gak punya
+exiftool -r -ext png -ext webp -i .git \
+-if 'not $XMP-Sec_Res:ImageFrom' \
+-p '$FilePath' .
+#
+  [#-Opt] Nyari salah satu
+-p '$FilePath' > file.png
 ```
 
 ---
@@ -195,7 +256,9 @@ FILE_NAME.png
 - Singkat-Sikat semuanya
 
 ```py
-exiftool -config .sys/exif-img_data.config -overwrite_original \
+#-r -ext png -ext webp \
+exiftool -config .sys/exif-img_data.config \
+-overwrite_original \
 -Title="Image Title" \
 -Author="Author of [The Image]" \
 -Copyright="[Author] - [AtPublished]" \
@@ -205,7 +268,7 @@ exiftool -config .sys/exif-img_data.config -overwrite_original \
 -XMP-Sec_Res:ImageFrom="Where Image is From" \
 -XMP-Sec_Res:AuthorLink="author-link.com" \
 -XMP-Sec_Res:ImageLink="image-link.com" \
-FILE_NAME.png
+FILE_NAME.png // folder
 ```
 
 ---
@@ -228,7 +291,7 @@ Selain itu, jangan lupa pula...
 Jadi, dimohon untuk menggunakan ini!  
 Harus setiap-nya seperti itu.
 
-```txt
+```bash
   [#] Eksekusi: Cek apakah {masih ada 666} atau {ada yg tidak 644/755}
 find . -path "./.git" -prune -o
 |
@@ -244,6 +307,38 @@ find . \( -type f -perm 0666 -ls -o -type f ! -perm 0644 -o -type d -perm 0666 -
 
   [#] Eksekusi: Mengubah semuanya
 find . -path "./.git" -prune -o -exec chmod u=rwX,go=rX {} +
+|
+find . -path "./.git" -prune -o
+#|#|#
+  [#] Eksekusi: Mengubah khususan
+find . -type d -exec chmod 755 {} \;
+find . -path "./.git" -type d -exec chmod 755 {} \;
+|
+find . -type f -name "*.md" -exec chmod 644 {} \;
+find . -type f -name "*.png" -exec chmod 644 {} \;
+|
+find . -type f -name "*.py" -exec chmod 755 {} \;
+find . -type f -name "*.js" -exec chmod 755 {} \;
+|
+find . -type f -name "*.html" -exec chmod 644 {} \;
+find . -type f -name "*.php" -exec chmod 644 {} \;
+find . -type f -name "*.css" -exec chmod 644 {} \;
+#|#|#
+  [#] Eksekusi: Mengubah manual
+chmod 644 file.png
+chmod 755 folder
+```
+
+```bash
+  [#] Manual: Mengguankan Exiftools-nya langsung
+exiftool -FilePermissions=644 FILE_NAME.png
+exiftool -FilePermissions="-rw-r--r--" FILE_NAME.png
+
+  [#] Otomatis: Mengguankan Exiftools-nya langsung
+exiftool -overwrite_original -r -ext png -FilePermissions=644
+exiftool -overwrite_original -r -ext png -FilePermissions="-rw-r--r--"
+exiftool -overwrite_original -r -ext webp -FilePermissions=644
+exiftool -overwrite_original -r -ext webp -FilePermissions="-rw-r--r--"
 ```
 
 ---
@@ -252,32 +347,40 @@ Sepertinya dalam penanganan ini, emang perlu sedikit mikir secara kerja keras ya
 
 *GANBATTE~, AAYANK!*
 
+---
+
 <!--
   [BEGIN]
   Disemangatin tuh, SEMANGAT
 -->
-<img draggable="false" title=""
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
-alt="BTC.GFB - Kafuu Chino" width="100">
-<img draggable="false" title=""
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
-alt="BTC.SJL - Jouga Maya" width="100">
-<img draggable="false" title=""
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
-alt="BTC.AVD - Natsu Megumi" width="100">
-<img draggable="false" title=""
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
-alt="BTC.MiRaKa - Jinja Eru" width="100">
-<img draggable="false" title=""
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
-alt="BTC.HuPaWi - Jinja Natsume" width="100">
-<img draggable="false" title=""
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
-alt="BTC.CloTriEld - Fuiba Fuyu" width="100">
+<div align="center">
+  <img draggable="false" title=""
+  src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/d04_MiRaKa.png"
+  alt="BTC.MiRaKa - Jinja Eru" width="100">
+  <img draggable="false" title=""
+  src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/e05_HuPaWi.png"
+  alt="BTC.HuPaWi - Jinja Natsume" width="100">
+</div><div align="center">
+  <img draggable="false" title=""
+  src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
+  alt="BTC.GFB - Kafuu Chino" width="100">
+  <img draggable="false" title=""
+  src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/ff6_CloTriEld.png"
+  alt="BTC.CloTriEld - Fuiba Fuyu" width="100">
+</div><div align="center">
+  <img draggable="false" title=""
+  src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/c3c_AVD.png"
+  alt="BTC.AVD - Natsu Megumi" width="100">
+  <img draggable="false" title=""
+  src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/b2b_SJL.png"
+  alt="BTC.SJL - Jouga Maya" width="100">
+</div>
 <!--
   [END]
   Disemangatin tuh, SEMANGAT
 -->
+
+---
 
 > *Ciaoo...*
 

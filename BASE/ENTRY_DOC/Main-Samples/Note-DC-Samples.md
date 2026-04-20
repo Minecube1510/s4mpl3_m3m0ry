@@ -3,6 +3,10 @@
 
 Doc_Article: Explanation
 Article_Path: Entry_Doc
+#
+Status: No-Status
+
+Status: Fin/Wip
 
 ---
 -->
