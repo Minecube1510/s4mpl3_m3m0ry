@@ -23,19 +23,9 @@ District: Appx-1XX
 >
 > **Syndicate**:  
 > (Perdataan apapun lah dalam Sampel)
-
-**Gaster: ? ?, ?**
-
----
-
-# BTC Title
-
-> **Topic**: Sample
 >
-> **Syndicate**:  
-> (Perdataan apapun lah dalam Sampel)
-
-**This for little Descripting...**
+> - [Sample Information][Sample-Info]
+> - [Page Navigation][Endfoot]
 
 ## Simbolic Indicator
 
@@ -60,43 +50,16 @@ title="JUDULAN HOLD - CATEGORY">
 src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/a1a_GFB.png"
 title="Click for more information."
 alt="BTC.GFB - Kafuu Chino">][On-Bunch]
-</th><th>
+</td><td>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
 title="Click for more information."
 alt="BTC-ALT">][On-Type]
-</th><th>
+</td><td>
 
 [<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
-title="Click for more information."
-alt="BTC-ALT">][On-Category]
-
-</th><th>
-
-  <a href="/BASE/ENTRY_DOC/Main-Samples/ADD"
-  style=""><img img draggable="false" width="100"
-  src="/BASE/ASSETS/Assets-Main/BTC-Sign/?.png"
-  title="Click for more information."
-  alt="BTC-ALT"></a>
-
-</th><th>
-
-[<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
-title="Click for more information."
-alt="BTC-ALT">][On-Bunch]
-</th><th>
-
-[<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
-title="Click for more information."
-alt="BTC-ALT">][On-Type]
-</th><th>
-
-[<img draggable="false" width="100"
-src="/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png"
 title="Click for more information."
 alt="BTC-ALT">][On-Category]
 </td></tr></table></div>
@@ -118,7 +81,7 @@ alt="BTC-ALT">][On-Category]
 -->
   <img draggable="false" width="_"
   alt="Ini hanya tempatan gambar"
-src="/BASE/ASSETS/Assets-Main/Sample-Illust/.png">
+src="https://raw.githubusercontent.com/Minecube1510/s4mpl3_m3m0ry/main/BASE/ASSETS/Assets-Main/BTC-Sign/000_Esoterian.png">
 <br><br><b>
 
 GAMBAR ILUSTRASI SAMPEL
@@ -133,7 +96,7 @@ GAMBAR ILUSTRASI SAMPEL
 
 ---
 
-# Personal Data InformationEntry Doc structs - 0.1)
+# Personal Data Information
 
 - **ID:** ***XXXX***  
 - **Sample Default Name:** *Nama Sampel*  
