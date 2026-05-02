@@ -14,13 +14,13 @@ from datetime import datetime
 # IMPORTS #
 
 
-# SYSTEM #
-def parse_arguments(argv):
+# SYSTEM? - ? #
+def parse_arguments (argv):
     if len(argv) < 2:
         raise ValueError("Usage: python read_uri.py <data-uri>")
     return argv[1]
 #
-def parse_data_uri(data_uri):
+def parse_data_uri( data_uri):
     pattern = r'data:(image/\w+);base64,(.+)'
     match = re.match(pattern, data_uri)
     if not match:
@@ -31,17 +31,17 @@ def parse_data_uri(data_uri):
     ext = mime_type.split('/')[-1]
     return ext, base64_data
 #
-def make_output_filename(ext):
+def make_output_filename (ext):
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
     return f"output_{timestamp}.{ext}"
 #
-def save_base64_image(base64_data, filename):
+def save_base64_image (base64_data, filename):
     decoded = base64.b64decode(base64_data)
     with open(filename, "wb") as f:
         f.write(decoded)
     return filename
 #
-def read_exif_data(filename):
+def read_exif_data (filename):
     try:
         from PIL import Image
         from PIL.ExifTags import TAGS
@@ -63,11 +63,11 @@ def read_exif_data(filename):
     except Exception:
         print("⚠️ Gagal baca EXIF")
 #
-# SYSTEM #
+# SYSTEM? - ? #
 
 
-# DISPLAY #
-def main():
+# PRINTING - DISPLAY #
+def main ():
     try:
         data_uri = parse_arguments(sys.argv)
         ext, base64_data = parse_data_uri(data_uri)
@@ -82,7 +82,7 @@ def main():
 #
 if __name__ == "__main__":
     main()
-# DISPLAY #
+# PRINTING - DISPLAY #
 
 # ~ ~ ~ ~ ~ #
 
