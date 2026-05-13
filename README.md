@@ -1,4 +1,19 @@
-# Sampel Memori
+<!--
+---
+
+Branch: work-dev
+
+---
+-->
+
+# Sampel Memori - Data Center
+
+<!--
+Just use:
+  - python system/py
+  |
+  - bash system/bash/sync-repo
+=-->
 
 <h3 align="center"><span>
   Pesan ini "<i>HANYA DIKHUSUSKAN</i>" kepada para beberapa "<i>USERMASTER</i>" yang terpilih saja
@@ -40,10 +55,10 @@
 
 ### {-} **Now** / **Last**
 
-> #### {>} *Terkini: "0.0"*
+> #### {>} *Terkini: "3.2"*
 >
-> - **Tanggal**: "09/05/2025" - "9 Mei 2026"
-> - **XX:XX**: "*[Entry as Main] Revolution (Recoverings, Deletes, and Refactors) - 1*"
+> - **Tanggal**: "09/05/2025" - "12 Mei 2026"
+> - **05:19**: "*[Dev - Ateiler] Web Fixing and Developing - 3.2*"
 > - **Commit Pesanan**: "*2a21a96*"
 > - **Commit Hash**: "**2a21a96795f4a62745e97c5582396afefa894dc7**"
 
@@ -64,7 +79,24 @@
 
 ## Indikasi
 
-Menanti...
+Menggunakan 2 metode:
+
+- Gambar-Gambar
+
+  Menggunakan gambar-gambar, terbagi pada 2 sumber:
+  
+  - [Naro gambar lokalan.][SMD-Signs]
+  - [**Imgur**: Hosting Gambar untuk Sampel-Sampel.][SMDC-Imgur]
+
+[SMD-Signs]: img "Gambar-Gambar yg diperuntukkan sebagai persimbolan sistem BTC"
+[SMDC-Imgur]: https://imgur.com/user/Minecuds "Hosting gambar - Imgur"
+
+- Dokumen lembaran MD
+
+  Pengerjaan disini, akan difungsikan kepada branch [{**work-entry**}][SMDC-B-Entry], yang akan disambungkan kepada [{**main**}][SMDC-B-Main].
+
+[SMDC-B-Main]: https://github.com/Minecube1510/sm-dc ""
+[SMDC-B-Entry]: https://github.com/Minecube1510/sm-dc/tree/work-entry ""
 
 ---
 
@@ -80,9 +112,9 @@ Menanti...
 
   > [Sample Memory - Data Center (Image Ateiler only)][Link-SMDC]
 
-[Link-SMDC]: https://minecube1510.github.io/s4mpl3_m3m0ry "SM-DC - Image Ateiler"
+[Link-SMDC]: https://minecube1510.github.io/sm-dc "SM-DC - Image Ateiler"
 
 ---
 By: **Admin Gaster**
 
-<!-- END -->
+<!--= END =--!>
