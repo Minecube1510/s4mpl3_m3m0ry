@@ -22,12 +22,14 @@ sys.dont_write_bytecode = True
 ###
 # IMPORT - PATHERS #
 ROOT_DIR = Path(__file__).resolve().parents[1]
-    #
-PLUGIN_FUNC = ROOT_DIR / ".vscode" / "plugin"
 #
+PLUGIN_FUNC = ROOT_DIR / ".vscode" / "plugin"
+PY_DIR = ROOT_DIR / ".vscode" / "system" / "py"
+#
+sys.path.insert(0, str(PY_DIR.as_posix()))
 sys.path.insert(0, str(PLUGIN_FUNC.as_posix()))
+#
 from configs import *
-sys.path.insert(0, str(PY_DIR))
 #
 # IMPORT - PATHERS #
 
@@ -207,6 +209,8 @@ def execute_target(target_f, extra_args):
     #
     env = os.environ.copy()
     env["ROOT_DIR"] = str(BASE_DIR.resolve())
+    env["PYTHONPATH"] = ((str(PLUGIN_FUNC))
+        + (os.pathsep) + (str(PY_DIR)))
     #
     subprocess.run([
         sys.executable, temp_path,
