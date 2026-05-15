@@ -10,9 +10,9 @@ Branch: work-dev
 
 <!--
 Just use:
-  - python system/py
+  - python call/py
   |
-  - bash system/bash/sync-repo
+  - bash call/bash/sync-repo
 =-->
 
 <h3 align="center"><span>
