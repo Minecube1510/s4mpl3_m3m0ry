@@ -318,7 +318,7 @@ def excheck(docs, filtype=None):
     msg_search_404 = "No matching Entry-Docs is found in here..."
         #
     print((pyV["space"] * 2) + (msg_search_404))
-    print(ENDED_TASKING)
+    #print(ENDED_TASKING)
 #
 def opening_main():
     descript_funcfile = (

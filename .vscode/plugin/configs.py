@@ -42,6 +42,7 @@ gLink = load_json("glink.json")
     #
 reffAtBr = (f"?ref={gitD["branch"]}")
 #
+link_limit = (pyV["linkLmt"])
 htBsc = (gLink["ltp"]["bsc"])
 htScr = (gLink["ltp"]["scr"])
     #
@@ -50,8 +51,8 @@ ghApi = (gLink["gh"]["base"]["api"])
     #
 ghRepo = (gLink["gh"]["path"]["repo"])
 #
-B_RAW_LINK = (htScr + ghRaw)
-B_API_LINK = (htScr + ghApi + ghRepo)
+B_RAW_LINK = (htScr + link_limit + ghRaw)
+B_API_LINK = (htScr + link_limit + ghApi + ghRepo)
 #
 # IMPORTS - FETCHINGS #
 
