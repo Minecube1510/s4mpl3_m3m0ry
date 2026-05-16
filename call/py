@@ -39,35 +39,35 @@ from configs import *
 # IMPORTS - FETCHINGS #
 pyV = load_json("vars.json")
 gitD = load_json("git-data.json")
+gLink = load_json("glink.json")
 #
 # IMPORTS - FETCHINGS #
 
 
 # VARS - CONFIGS #
 BD_EXISTS = ROOT_DIR.exists()
-    #
 PD_EXISTS = LCL_PY_DIR.exists()
-#PD_EXISTS = PY_DIR.exists()
+    #
+LAST_PARAM = (f"ref={gitD["branch"]}")
 #
-LAST_PARAM = f"ref={gitD["branch"]}"
-#
-GIT_RAW_LINK = pyV["slash"].join([B_RAW_LINK,
-    gitD["name"], gitD["repo"], gitD["branch"], ])
-GIT_API_LINK = pyV["slash"].join([B_API_LINK,
-    gitD["name"], gitD["repo"], "contents" ])
-BD_RAW_LINK = pyV["slash"].join([GIT_RAW_LINK,
+GIT_RAW_LINK = ((pyV["slash"]).join([B_RAW_LINK,
+    gitD["name"], gitD["repo"], gitD["branch"], ]))
+GIT_API_LINK = ((pyV["slash"]).join([B_API_LINK, ghRepo,
+    gitD["name"], gitD["repo"], "contents" ]))
+BD_RAW_LINK = ((pyV["slash"]).join([GIT_RAW_LINK,
     #str(ROOT_DIR.as_posix()), ])
-    str(PY_DIR.as_posix()), ])
-BD_API_LINK = pyV["slash"].join([ GIT_API_LINK,
-    str(ROOT_DIR.as_posix()), ])
-BDF_API_LINK = pyV["quest"].join([ BD_API_LINK,
-    LAST_PARAM, ])
+    str(PY_DIR.as_posix()), ]))
+BD_API_LINK = ((pyV["slash"]).join([ GIT_API_LINK,
+    str(ROOT_DIR.as_posix()), ]))
+BDF_API_LINK = ((pyV["quest"]).join([ BD_API_LINK,
+    LAST_PARAM, ]))
 #
 FULL_API_LINK = ((pyV["slash"]).join([
     GIT_API_LINK, str(REPO_PY_DIR.as_posix()),
     ]) + (reffAtBr))
 REDIC_LINK = (LCL_PY_DIR
     if PD_EXISTS else FULL_API_LINK)
+#
 # VARS - CONFIGS #
 
 

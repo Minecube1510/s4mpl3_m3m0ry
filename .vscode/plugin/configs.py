@@ -52,7 +52,7 @@ ghApi = (gLink["gh"]["base"]["api"])
 ghRepo = (gLink["gh"]["path"]["repo"])
 #
 B_RAW_LINK = (htScr + link_limit + ghRaw)
-B_API_LINK = (htScr + link_limit + ghApi + ghRepo)
+B_API_LINK = (htScr + link_limit + ghApi)
 #
 # IMPORTS - FETCHINGS #
 
