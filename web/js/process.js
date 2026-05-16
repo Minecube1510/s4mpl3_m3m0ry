@@ -2,10 +2,7 @@
 /* web/js/process.js */
 
 /* Imports */
-/*
-import jsV from "./call/json/vars.json" with { type: "json" };
-import gitD from "./call/json/git-data.json" with { type: "json" };
-// */
+//?
 //
 import * as bsc from "./basis.js";
 //
@@ -19,6 +16,9 @@ const jsV = await fetch(
 ).then(r => r.json());
 const gitD = await fetch(
     "call/json/git-data.json"
+).then(r => r.json());
+const gLink = await fetch(
+    "call/json/glink.json"
 ).then(r => r.json());
 // */
 /**/
@@ -45,6 +45,10 @@ export const is_Local = (
 const is_GitPg = ((htWeb.lcl)
     .endsWith(`github.io`));
 //
+const htBsc = (gLink.ltp.bsc);
+const htScr = gLink.ltp.scr;
+const ghRaw = (gLink.gh.base.raw);
+const ghApi = (gLink.gh.base.api);
 //
 /**/
 
@@ -57,15 +61,17 @@ function ht_Linker (paths) {
 /**/
 
 /* Vars - Data */
-const ghLink_Api = ((bsc).to_Https(`api.github.com`));
-const ghApi_Repo = (ht_Linker([ (ghLink_Api),
-    (`repos`), ]));
+const gRepo = (gLink.gh.path.repo);
+//
+const ghLink_Api = bsc.to_Ltp(htScr, ghApi);
+const ghApi_Repo = (ht_Linker([
+    ghLink_Api, gRepo, ]));
 //
 /**/
 
 
 /* Init - Github */
-const nameRepo = (`Repository`);
+const nameRepo = gRepo.slice(0, -1);
 const reffAtBr = (`?ref=${gitD.branch}`);
 //
 export async function init_Github () {

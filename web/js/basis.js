@@ -2,10 +2,7 @@
 /* web/js/basis.js */
 
 /* Imports */
-/*
-import jsV from "./call/json/vars.json" with { type: "json" };
-import gitD from "./call/json/git-data.json" with { type: "json" };
-// */
+//?
 //
 /**/
 
@@ -17,6 +14,9 @@ const jsV = await fetch(
 ).then(r => r.json());
 const gitD = await fetch(
     "call/json/git-data.json"
+).then(r => r.json());
+const gLink = await fetch(
+    "call/json/glink.json"
 ).then(r => r.json());
 // */
 /**/
@@ -96,19 +96,14 @@ export function js_StRept (str, times) {
 
 
 /* Func: Linker */
-export function to_Https (link) {
-    const empty = (jsV.empty);
-    const slash = (jsV.slash);
-    const colon = (jsV.colon);
-    //
-    const limiter = js_Arr2Str([ (colon),
-        js_StRept((slash), (2)),
-    ], (empty));
-    return js_Arr2Str([
-        js_Lower(`https`),
-        (limiter), (link),
-    ], (empty));
+export function to_Ltp (tp, link) {
+    const linkLmt = (jsV.linkLmt);
+    const linking = js_Lower(js_Arr2Str([
+        (tp), (link), ], (linkLmt)));
+    return (linking);
 }
+//
+/**/
 
 
 /* END */

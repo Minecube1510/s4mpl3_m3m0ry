@@ -47,16 +47,17 @@ from configs import *
 
 # VARS - DATA #
 VALID_TYPES = [
-    "Assets",
-    "Entry_Doc",
-    "Generic",
-    "Record",
+    "Entry_Doc",  # "Lembaran utama yang berisi segala data-data dan informasi dari sebuah sampel"
+    "Generic",  # "[16/05/2026] Lembaran-lembaran yang berisikan kumpulan-kumpulan akses per-sampel-an"
     #
-    "Explanation",
+    "Record",  # "Berisi catatan informasi mengenai project, terutama untuk kepentingan perkembangan project"
+    "Explanation",  # "Berisi penjelasan untuk lembaran dalam bentuk panduan untuk sebuah lembaran yang lain"
     #
-    "UNDEFINED",
+    "Assets",  # "[REJECTED] Berisi panduan mengenai aset-aset untuk lembaran-lembaran"
+        #
+    "UNDEFINED",  # "Lembaran yang terdeteksi sebagai tidak diketahui status tipe-nya"
 ]
-
+#
 VALID_SORT = [ "type", "path", "deff", ]
 VALID_ORDER = [ "asc", "desc", ]
 # VARS - DATA #

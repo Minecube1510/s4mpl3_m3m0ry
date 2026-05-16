@@ -2,10 +2,7 @@
 /* web/js/compile.js */
 
 /* Imports */
-/*
-import jsV from "./call/json/vars.json" with { type: "json" };
-import gitD from "./call/json/git-data.json" with { type: "json" };
-// */
+//?
 //
 import * as bsc from "./basis.js";
 import * as pro from "./process.js";
@@ -20,6 +17,9 @@ const jsV = await fetch(
 ).then(r => r.json());
 const gitD = await fetch(
     "call/json/git-data.json"
+).then(r => r.json());
+const gLink = await fetch(
+    "call/json/glink.json"
 ).then(r => r.json());
 // */
 /**/
@@ -38,6 +38,8 @@ const ht_Lcl = (pro.htWeb.lcl);
 const allImgs = (await (pro.all_Images()));
 const is_Lcl = (pro.is_Local);
 const g_AL = (await (pro.ghApi_getLink(`img`)));
+//
+const gRepo = (gLink.gh.path.repo);
 //
 /**/
 
@@ -174,27 +176,21 @@ const comp_SLoading = show_Waiting();
 function first_Annouce () {
     const fA_EntList = (`\n- `);
     const fA_EntCode = (`\n> `);
-    const fix_EmpRepo = ((gitD.repo)
-        || (`Repository`));
+    const fix_EmpRepo = ((gitD.repo) || (gRepo));
     //
-    (bsc).c_Log((bsc).js_Arr2Str([
-        (`Now in Linking:`),
-        (fA_EntList), (ht_Dom),
-        (fA_EntList), (ht_Lnk),
-        (fA_EntCode), (fix_EmpRepo),
-    ], (empty)));
+    (bsc).c_Log((bsc).js_Arr2Str([(`Now in Linking:`),
+        (fA_EntList), (ht_Dom), (fA_EntList), (ht_Lnk),
+        (fA_EntCode), (fix_EmpRepo), ], (empty)));
 }
 function reBrand_UserGit (uname) {
     const git_Uname = ((bsc).js_GetId(`github-username`));
-    if (git_Uname) {
-        (git_Uname).textContent = (uname);
-    }
+    if (git_Uname) { (git_Uname).textContent = (uname); }
 }
 //
 function check_Imgs () {
     if (!(allImgs.length)) {return ((bsc).c_Warn
-        (`⚠️ There's no Images in here`));
-    }
+        (`⚠️ There's no Images in here`)); }
+    //
     (bsc).c_GrBgn((bsc).js_Arr2Str([(`Check Images`),
         ((is_Lcl) ? (`Local`) : (`Github API`))
     ], (` - `)));
@@ -229,7 +225,7 @@ async function struct_Imgs () {
     (imgs).forEach((item) => {
         const img = (bsc.js_CreateELm("img"));
         const linkImg = (item.path);
-            // (item.path) | (item.src)
+            /* (item.path) | (item.src) */
         //
         (img).src = ((linkImg) ?? (item));
         (img).draggable = (false);
@@ -245,36 +241,37 @@ async function struct_Imgs () {
 
 /* Final */
 export function test() {
-    /* Wait */ //*
+    /*
+        Wait */ //*
     (document).body.appendChild(comp_SLoading);
     requestAnimationFrame(() => {
-        (comp_SLoading).classList.remove(`opacity-0`,
-            `pointer-events-none`);
+        (comp_SLoading).classList.remove((`opacity-0`),
+            (`pointer-events-none`));
         (comp_SLoading).classList.add(`opacity-100`);
     });
-
     // */
-    //
-    /* Test */ //*
+    /*
+        Test */ //*
     reBrand_UserGit(gitD.name);
     // */
     //
 }
 export async function struct () {
-    /* Head */
+    /*
+        Head */
     draw_Title (`Images Ateilers`);
     //
-
-    /* Logs */
+    /*
+        Logs */
     first_Annouce();
     check_Imgs();
     //
-
-    /* Body */
+    /*
+        Body */
     await struct_Imgs();
     //
-
-    /* End */
+    /*
+        End */
     hide_Loading();
     //
 }
